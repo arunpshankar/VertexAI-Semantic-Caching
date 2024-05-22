@@ -1,9 +1,11 @@
-from google.cloud import documentai
-import pandas as pd
-import os
+
 from typing import List, Sequence, Dict
 from src.config.logging import logger
 from src.config.setup import config
+from google.cloud import documentai
+import pandas as pd
+import os
+
 
 # Global constants
 DOCAI_PROCESSOR_NAME = 'projects/390991481152/locations/us/processors/44d7292d4313fc58'
@@ -106,8 +108,6 @@ def parse_tables(subfolder_path: str) -> None:
                     output_filename = f"{output_path}/page_{page.page_number}_table_{index+1}.txt"
                     with open(output_filename, 'w') as out:
                         out.write(markdown)
-
-                
 
         except Exception as e:
             logger.error(f"Error processing file {file_path}: {e}")

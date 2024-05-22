@@ -19,6 +19,7 @@ grpcio-status==1.62.2
 idna==3.7
 numpy==1.26.4
 packaging==24.0
+pandas==2.2.2
 proto-plus==1.23.0
 protobuf==4.25.3
 pyasn1==0.6.0
@@ -26,9 +27,11 @@ pyasn1_modules==0.4.0
 pydantic==2.7.1
 pydantic_core==2.18.2
 python-dateutil==2.9.0.post0
+pytz==2024.1
 requests==2.32.2
 rsa==4.9
 shapely==2.0.4
 six==1.16.0
 typing_extensions==4.11.0
+tzdata==2024.1
 urllib3==2.2.1
