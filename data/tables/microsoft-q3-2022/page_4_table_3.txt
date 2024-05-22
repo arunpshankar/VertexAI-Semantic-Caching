@@ -1,0 +1,14 @@
+|    | ('',)                                          | ('Percentage Change Y/Y (GAAP)',)   | ('Constant Currency Impact',)   | ('Y/Y Constant Currency',)   |
+|---:|:-----------------------------------------------|:------------------------------------|:--------------------------------|:-----------------------------|
+|  0 | Microsoft Cloud revenue                        | 24%                                 | 7%                              | 31%                          |
+|  1 | Office Commercial products and cloud services  | 7%                                  | 6%                              | 13%                          |
+|  2 | Office 365 Commercial                          | 11%                                 | 6%                              | 17%                          |
+|  3 | Office Consumer products and cloud services    | 7%                                  | 4%                              | 11%                          |
+|  4 | LinkedIn                                       | 17%                                 | 4%                              | 21%                          |
+|  5 | Dynamics products and cloud services           | 15%                                 | 7%                              | 22%                          |
+|  6 | Dynamics 365                                   | 24%                                 | 8%                              | 32%                          |
+|  7 | Server products and cloud services             | 22%                                 | 6%                              | 28%                          |
+|  8 | Azure and other cloud services                 | 35%                                 | 7%                              | 42%                          |
+|  9 | Windows OEM                                    | (15)%                               | 0%                              | (15)%                        |
+| 10 | Windows Commercial products and cloud services | 8%                                  | 7%                              | 15%                          |
+| 11 | Xbox content and services                      | (3)%                                | 4%                              | 1%                           |

@@ -1,0 +1,6 @@
+|    | ('Revenue',)                        | ('',)   | ('',)   |
+|---:|:------------------------------------|:--------|:--------|
+|  0 | Productivity and Business Processes | $16,465 | $15,039 |
+|  1 | Intelligent Cloud                   | 20,325  | 16,912  |
+|  2 | More Personal Computing             | 13,332  | 13,366  |
+|  3 | Total                               | $50,122 | $45,317 |

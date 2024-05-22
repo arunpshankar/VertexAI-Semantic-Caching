@@ -1,8 +1,10 @@
-
-from typing import List, Sequence, Dict
+ 
 from src.config.logging import logger
 from src.config.setup import config
 from google.cloud import documentai
+from typing import Sequence
+from typing import List 
+from typing import Dict
 import pandas as pd
 import os
 
@@ -96,6 +98,8 @@ def parse_tables(subfolder_path: str) -> None:
                 page_tables = []
 
                 for index, table in enumerate(page.tables):
+                    print(table.__dict__)
+                    print('-' * 100)
                     header_row_values = get_table_data(table.header_rows, document.text)
                     body_row_values = get_table_data(table.body_rows, document.text)
 
@@ -118,4 +122,5 @@ if __name__ == '__main__':
         logger.info(f"Processing subfolder: {subfolder}")
         subfolder_path = os.path.join('./data/parts/', subfolder)
         parse_tables(subfolder_path)
+        break
         

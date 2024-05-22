@@ -1,0 +1,10 @@
+|    | ('($ in millions, except per share amounts)',)                      | ('Revenue',)   | ('Operating Income',)   | ('Net Income',)   | ('Earnings per Share',)   |
+|---:|:--------------------------------------------------------------------|:---------------|:------------------------|:------------------|:--------------------------|
+|  0 | 2021 As Reported (GAAP)                                             | $45,317        | $20,238                 | $20,505           | $2.71                     |
+|  1 | Net income tax benefit related to transfer of intangible properties |                |                         | (3,291)           | (0.44)                    |
+|  2 | 2021 As Adjusted                                                    | $45,317        | $20,238                 | $17,214           | $2.27                     |
+|  3 | 2022 As Reported (GAAP)                                             | $50,122        | $21,518                 | $17,556           | $2.35                     |
+|  4 | Percentage Change Y/Y (GAAP)                                        | 11%            | 6%                      | (14)%             | (13)%                     |
+|  5 | Percentage Change Y/Y Constant Currency                             | 16%            | 15%                     | (8)%              | (7)%                      |
+|  6 | Percentage Change Y/Y (As Adjusted)                                 | 11%            | 6%                      | 2%                | 4%                        |
+|  7 | Percentage Change Y/Y (As Adjusted) Constant Currency               | 16%            | 15%                     | 10%               | 11%                       |

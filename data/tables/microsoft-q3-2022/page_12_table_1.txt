@@ -1,0 +1,7 @@
+|    | ('Total',)                          | ('$50,122',)   | ('$45,317',)   |
+|---:|:------------------------------------|:---------------|:---------------|
+|  0 | Operating Income                    |                |                |
+|  1 | Productivity and Business Processes | $8,323         | $7,581         |
+|  2 | Intelligent Cloud                   | 8,978          | 7,681          |
+|  3 | More Personal Computing             | 4,217          | 4,976          |
+|  4 | Total                               | $21,518        | $20,238        |

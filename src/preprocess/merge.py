@@ -4,7 +4,6 @@ from typing import Tuple
 import os
 
 
-# given
 def merge_markdown_tables_into_text(page_content: str, tables: str) -> str:
     merged_content = []
     merged_content.append('=== START PAGE CONTENT ===')

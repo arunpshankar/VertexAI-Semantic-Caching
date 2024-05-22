@@ -1,0 +1,23 @@
+|    | ('',)                                | ('2022',)      | ('2021',)      |
+|---:|:-------------------------------------|:---------------|:---------------|
+|  0 | Revenue:                             |                |                |
+|  1 | Product Service and other            | $15,741 34,381 | $16,631 28,686 |
+|  2 | Total revenue                        | 50,122         | 45,317         |
+|  3 | Cost of revenue:                     |                |                |
+|  4 | Product                              | 4,302          | 3,792          |
+|  5 | Service and other                    | 11,150         | 9,854          |
+|  6 | Total cost of revenue                | 15,452         | 13,646         |
+|  7 | Gross margin                         | 34,670         | 31,671         |
+|  8 | Research and development             | 6,628          | 5,599          |
+|  9 | Sales and marketing                  | 5,126          | 4,547          |
+| 10 | General and administrative           | 1,398          | 1,287          |
+| 11 | Operating income                     | 21,518         | 20,238         |
+| 12 | Other income, net                    | 54             | 286            |
+| 13 | Income before income taxes           | 21,572         | 20,524         |
+| 14 | Provision for income taxes           | 4,016          | 19             |
+| 15 | Net income                           | $17,556        | $20,505        |
+| 16 | Earnings per share:                  |                |                |
+| 17 | Basic                                | $2.35          | $2.73          |
+| 18 | Diluted                              | $2.35          | $2.71          |
+| 19 | Weighted average shares outstanding: |                |                |
+| 20 | Basic                                | 7,457          | 7,513          |

@@ -1,0 +1,35 @@
+|    | ('Operations',)                                                                               | ('',)       | ('',)       |
+|---:|:----------------------------------------------------------------------------------------------|:------------|:------------|
+|  0 | Net income                                                                                    | $17,556     | $20,505     |
+|  1 | Adjustments to reconcile net income to net cash from operations:                              |             |             |
+|  2 | Depreciation, amortization, and other                                                         | 2,790       | 3,212       |
+|  3 | Stock-based compensation expense                                                              | 2,192       | 1,702       |
+|  4 | Net recognized gains on investments and derivatives                                           | (22)        | (364)       |
+|  5 | Deferred income taxes                                                                         | (1,191)     | (5,970)     |
+|  6 | Changes in operating assets and liabilities:                                                  |             |             |
+|  7 | Accounts receivable                                                                           | 11,729      | 10,486      |
+|  8 | Inventories                                                                                   | (543)       | (777)       |
+|  9 | Other current assets                                                                          | (332)       | 940         |
+| 10 | Other long-term assets                                                                        | (666)       | (598)       |
+| 11 | Accounts payable                                                                              | (1,567)     | (471)       |
+| 12 | Unearned revenue                                                                              | (3,322)     | (2,885)     |
+| 13 | Income taxes                                                                                  | 410         | 2,653       |
+| 14 | Other current liabilities                                                                     | (4,024)     | (4,143)     |
+| 15 | Other long-term liabilities                                                                   | 188         | 250         |
+| 16 | Net cash from operations                                                                      | 23,198      | 24,540      |
+| 17 | Financing Repayments of debt Common stock issued                                              | (1,000) 575 | (4,826) 612 |
+| 18 | Common stock repurchased                                                                      | (5,573)     | (7,684)     |
+| 19 | Common stock cash dividends paid                                                              | (4,621)     | (4,206)     |
+| 20 | Other, net                                                                                    | (264)       | (172)       |
+| 21 | Net cash used in financing                                                                    | (10,883)    | (16,276)    |
+| 22 | Investing Additions to property and equipment Acquisition of companies, net of cash acquired, | (6,283)     | (5,810)     |
+| 23 | and purchases of intangible and other assets                                                  | (349)       | (1,206)     |
+| 24 | Purchases of investments                                                                      | (5,013)     | (10,309)    |
+| 25 | Maturities of investments                                                                     | 6,662       | 8,862       |
+| 26 | Sales of investments                                                                          | 2,711       | 5,630       |
+| 27 | Other, net                                                                                    | (860)       | (417)       |
+| 28 | Net cash used in investing                                                                    | (3,132)     | (3,250)     |
+| 29 | Effect of foreign exchange rates on cash and cash equivalents                                 | (230)       | (73)        |
+| 30 | Net change in cash and cash equivalents                                                       | 8,953       | 4,941       |
+| 31 | Cash and cash equivalents, beginning of period                                                | 13,931      | 14,224      |
+| 32 | Cash and cash equivalents, end of period                                                      | $22,884     | $19,165     |
