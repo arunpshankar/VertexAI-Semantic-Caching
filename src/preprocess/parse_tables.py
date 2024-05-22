@@ -113,8 +113,6 @@ def parse_tables(subfolder_path: str) -> None:
             logger.error(f"Error processing file {file_path}: {e}")
 
     
-
-
 if __name__ == '__main__':
     for subfolder in os.listdir('./data/parts/'):
         logger.info(f"Processing subfolder: {subfolder}")

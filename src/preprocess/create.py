@@ -1,7 +1,7 @@
 from google.api_core.client_options import ClientOptions
-from google.cloud import documentai
 from src.config.logging import logger
 from src.config.setup import config
+from google.cloud import documentai
 
 
 def create_document_processor(name: str):

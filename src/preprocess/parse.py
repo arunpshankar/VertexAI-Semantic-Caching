@@ -113,14 +113,6 @@ def ocr_docai(subfolder_path: str) -> dict:
     return pages_map
 
 
-def parse_tables():
-    pass
-
-
-def extract_sections():
-    pass
-
-
 if __name__ == '__main__':
     input_file_paths = get_file_paths('./data/raw/')
     logger.info('Splitting PDFs')
