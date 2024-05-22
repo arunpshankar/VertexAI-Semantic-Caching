@@ -22,8 +22,8 @@ Let's set up your local development environment and configure dependencies.
 1. **Clone the Repository**: In your terminal, execute the following command:
 
    ```bash
-   git clone https://github.com/arunpshankar/VertexAI-Document-Discovery.git
-   cd VertexAI-Document-Discovery
+   git clone https://github.com/arunpshankar/VertexAI-Semantic-Caching.git
+   cd VertexAI-Semantic-Caching
    ```
 
 ### Set Up Your Environment 🛠️
@@ -33,15 +33,15 @@ Let's set up your local development environment and configure dependencies.
    - **For macOS/Linux**:
 
      ```bash
-     python3 -m venv .VertexAI-Document-Discovery
-     source .VertexAI-Document-Discovery/bin/activate
+     python3 -m venv .VertexAI-Semantic-Caching
+     source .VertexAI-Semantic-Caching/bin/activate
      ```
 
    - **For Windows**:
 
      ```bash
-     python3 -m venv .VertexAI-Document-Discovery
-     .VertexAI-Document-Discovery\Scripts\activate
+     python3 -m venv .VertexAI-Semantic-Caching
+     .VertexAI-Semantic-Caching\Scripts\activate
      ```
 
 3. **Upgrade pip and Install Dependencies**: Ensure pip is up-to-date and install project dependencies:
@@ -77,4 +77,4 @@ Let's set up your local development environment and configure dependencies.
 
    - Generate a Service Account Key from the Google Cloud Console, then move the downloaded JSON file to the `credentials` directory, renaming it to `key.json`.
 
-Now, your environment is set up for intelligent document discovery with Vertex AI Search. Let's proceed with configuring your Google Cloud project settings, enabling APIs, and running the provided Python scripts to automate your search applications.
+
