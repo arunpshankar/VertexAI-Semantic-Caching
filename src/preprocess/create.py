@@ -36,5 +36,6 @@ def create_document_processor(name: str):
         # Log any errors that occur during processor creation
         logger.error(f"Error creating Document AI Processor: {e}")
 
-# Usage
-create_document_processor('docai-processor')
+if __name__ == "__main__":
+    # Usage
+    create_document_processor('docai-processor')
