@@ -1,0 +1,9 @@
+|    | ('',)                                          | ('2022',)   | ('June 30, 2021',)   | ('2022',)   | ('June 30, 2021',)   |
+|---:|:-----------------------------------------------|:------------|:---------------------|:------------|:---------------------|
+|  0 | Net income                                     | $16,740     | $16,458              | $72,738     | $61,271              |
+|  1 | Other comprehensive income (loss), net of tax: |             |                      |             |                      |
+|  2 | Net change related to derivatives              | (2)         | (11)                 | 6           | 19                   |
+|  3 | Net change related to investments              | (1,313)     | 132                  | (5,360)     | (2,266)              |
+|  4 | Translation adjustments and other              | (887)       | 239                  | (1,146)     | 873                  |
+|  5 | Other comprehensive income (loss)              | (2,202)     | 360                  | (6,500)     | (1,374)              |
+|  6 | Comprehensive income                           | $14,538     | $16,818              | $66,238     | $59,897              |

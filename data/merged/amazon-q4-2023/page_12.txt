@@ -1,0 +1,202 @@
+=== START PAGE CONTENT ===
+North America
+Net sales
+Operating expenses
+Operating income (loss)
+International
+Net sales
+Operating expenses
+Operating loss
+AWS
+AMAZON.COM, INC.
+Segment Information
+(in millions)
+(unaudited)
+Three Months Ended
+December 31,
+Twelve Months Ended
+December 31,
+2022
+2023
+2022
+2023
+$ 93,363
+93,603
+(240)
+$ 105,514
+99,053
+6,461
+$ 315,880
+318,727
+$ (2,847)
+$ 352,828
+337,951
+14,877
+$ 34,463
+36,691
+$ (2,228)
+$ 40,243
+40,662
+$ (419)
+$ 118,007
+125,753
+$ 131,200
+$ (7,746)
+133,856
+(2,656)
+Net sales
+$ 21,378
+Operating expenses
+16,173
+$ 24,204
+17,037
+Operating income
+$ 5,205
+$ 7,167
+$ 22,841
+$ 80,096 $ 90,757
+57,255
+66,126
+24,631
+Consolidated
+Net sales
+Operating expenses
+Operating income
+Total non-operating income (expense)
+Benefit (provision) for income taxes
+Equity-method investment activity, net of tax
+Net income (loss)
+Segment Highlights:
+Y/Y net sales growth (decline):
+North America
+International
+AWS
+Consolidated
+Net sales mix:
+North America
+International
+AWS
+Consolidated
+$ 149,204
+146,467
+2,737
+(3,699)
+$ 169,961
+156,752
+13,209
+$ 513,983
+501,735
+12,248
+$ 574,785
+537,933
+36,852
+1,227
+477
+(3,062)
+(18,184)
+705
+3,217
+(7,120)
+13
+(3)
+(12)
+278
+$ 10,624
+$
+(2,722)
+30,425
+13 %
+13 %
+13 %
+12 %
+(8)
+17
+(8)
+11
+20
+13
+29
+13
+9
+14
+9
+12
+63 %
+62 %
+61 %
+61 %
+23
+24
+23
+23
+14
+14
+16
+16
+100 %
+100 %
+100 %
+100 %
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('Y/Y net sales growth (decline): North America 13 % 13 % International (8) 17',)   | ('13 % 12% (8) 11',)   |
+|---:|:------------------------------------------------------------------------------------|:-----------------------|
+|  0 | AWS 20 13                                                                           | 29 13 32               |
+|  1 | Consolidated 14                                                                     | 12                     |
+|  2 | Net sales mix:                                                                      |                        |
+|  3 | North America 63 % 62%                                                              | 61% 61%                |
+|  4 | International 23 24                                                                 | 23 23                  |
+|  5 | AWS 14 14                                                                           | 16 16                  |
+|  6 | Consolidated 100 % 100 %                                                            | 100 % 100 %            |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('Net sales',)     | ('$ 21,378',)   | ('$ 24,204 $ 80,096 $ 90,757',)   |
+|---:|:-------------------|:----------------|:----------------------------------|
+|  0 | Operating expenses | 16,173          | 17,037 57,255 66,126              |
+|  1 | Operating income   | $ 5,205         | $ 7,167 $ 22,841 $ 24,631         |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('Net sales',)                                | ('$ 149,204',)   | ('$ 169,961',)   | ('$ 513,983',)   | ('$ 574,785',)   |
+|---:|:----------------------------------------------|:-----------------|:-----------------|:-----------------|:-----------------|
+|  0 | Operating expenses                            | 146,467          | 156,752          | 501,735          | 537,933          |
+|  1 | Operating income                              | 2,737            | 13,209           | 12,248           | 36,852           |
+|  2 | Total non-operating income (expense)          | (3,699)          | 477              | (18,184)         | 705              |
+|  3 | Benefit (provision) for income taxes          | 1,227            | (3,062)          | 3,217            | (7,120)          |
+|  4 | Equity-method investment activity, net of tax | 13               |                  |                  | (12)             |
+|  5 | Net income (loss)                             | 278              | $ 10,624         | $ (2,722)        | $ 30,425         |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('Net sales',)     | ('$ 34,463 $ 40,243 $ 118,007 $ 131,200',)   |
+|---:|:-------------------|:---------------------------------------------|
+|  0 | Operating expenses | 36,691 40,662 125,753 133,856                |
+|  1 | Operating loss     | $ (2,228) $ (419) $ (7,746) $ (2,656)        |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('North America Net sales',)   | ('$ 93,363 $ 105,514 $ 315,880 $ 352,828',)   |
+|---:|:-------------------------------|:----------------------------------------------|
+|  0 | Operating expenses             | 93,603 99,053 318,727 337,951                 |
+|  1 | Operating income (loss)        | $ (240) $ 6,461 $ (2,847) $ 14,877            |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('North America Net sales',)                  | ('$ 93,363',)   | ('$ 105,514',)   | ('$ 315,880',)   | ('$ 352,828',)   |
+|---:|:----------------------------------------------|:----------------|:-----------------|:-----------------|:-----------------|
+|  0 | Operating expenses                            | 93,603          | 99,053           | 318,727          | 337,951          |
+|  1 | Operating income (loss)                       | $ (240)         | $ 6,461          | $ (2,847)        | $ 14,877         |
+|  2 | International                                 |                 |                  |                  |                  |
+|  3 | Net sales                                     | $ 34,463        | $ 40,243         | $ 118,007        | $ 131,200        |
+|  4 | Operating expenses                            | 36,691          | 40,662           | 125,753          | 133,856          |
+|  5 | Operating loss                                | $ (2,228)       | $ (419)          | $ (7,746)        | $ (2,656)        |
+|  6 | AWS                                           |                 |                  |                  |                  |
+|  7 | Net sales                                     | $ 21,378        | $ 24,204         | $ 80,096         | $ 90,757         |
+|  8 | Operating expenses                            | 16,173          | 17,037           | 57,255           | 66,126           |
+|  9 | Operating income                              | $ 5,205         | $ 7,167          | $ 22,841         | $ 24,631         |
+| 10 | Consolidated                                  |                 |                  |                  |                  |
+| 11 | Net sales                                     | $ 149,204       | $ 169,961        | $ 513,983        | $ 574,785        |
+| 12 | Operating expenses                            | 146,467         | 156,752          | 501,735          | 537,933          |
+| 13 | Operating income                              | 2,737           | 13,209           | 12,248           | 36,852           |
+| 14 | Total non-operating income (expense)          | (3,699)         | 477              | (18,184)         | 705              |
+| 15 | Benefit (provision) for income taxes          | 1,227           | (3,062)          | 3,217            | (7,120)          |
+| 16 | Equity-method investment activity, net of tax | 13              |                  |                  | (12)             |
+| 17 | Net income (loss)                             | 278             | $ 10,624         | $ (2,722)        | $ 30,425         |
+=== TABLE END ===

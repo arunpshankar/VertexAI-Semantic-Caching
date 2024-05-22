@@ -1,0 +1,11 @@
+|    | ('',)                                                            | ('Quarter Ended 2022',)   | ('June 30, 2023',)   |
+|---:|:-----------------------------------------------------------------|:--------------------------|:---------------------|
+|  0 | Interest income                                                  | 486                       | $ 892                |
+|  1 | Interest expense                                                 | (83)                      | (43)                 |
+|  2 | Foreign currency exchange gain (loss), net                       | (260)                     | (268)                |
+|  3 | Gain (loss) on debt securities, net                              | (790)                     | (304)                |
+|  4 | Gain (loss) on equity securities, net(¹)                         | (251)                     | (205)                |
+|  5 | Performance fees                                                 | 318                       |                      |
+|  6 | Income (loss) and impairment from equity method investments, net | (118)                     | (106)                |
+|  7 | Other                                                            | 259                       | 94                   |
+|  8 | Other income (expense), net                                      | $ (439)                   | $ 65                 |

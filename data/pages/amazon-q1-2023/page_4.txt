@@ -1,0 +1,57 @@
+•
+•
+•
+•
+large machine learning models that generative AI relies on) from AI startups like AI21 Labs, Anthropic, and
+Stability AI, as well as exclusive access to the Titan family of foundation models developed by AWS. Broad
+access to models gives customers flexibility and choice to customize and scale to their specific needs.
+Two next-generation compute offerings to deliver the lowest cost for training models and running inference in
+the cloud: the general availability of instances powered by AWS-designed Inferentia2 chips, AWS's second-
+generation accelerator, purpose-built for deep learning inference, as well as the general availability of
+network-optimized Trn1n instances for large, network-intensive models. Compared to other EC2 instances,
+Inferentia2 provides up to 40% better inference price performance, and Trainium delivers up to 50% savings
+on training costs.
+General availability of Amazon CodeWhisperer, an AI coding companion that improves developer
+productivity by generating code suggestions in real time. Amazon CodeWhisperer is free for individual
+developers. CodeWhisperer is the most accurate, fastest, and most secure way to generate code for AWS
+services, including Amazon EC2, AWS Lambda, and Amazon S3. During a productivity challenge,
+participants who used CodeWhisperer completed tasks 57% faster (on average) and were 27% more likely to
+complete them successfully than those who didn't use CodeWhisperer.
+Received Zoox's driverless testing permit from the California Department of Motor Vehicles, marking a key step to
+commercializing the self-driving robotaxi for the general public. With this permit, Zoox completed an initial run of its
+shuttle service for employees at its headquarters in Foster City, California, making it the first purpose-built robotaxi to
+operate on public roads in California.
+Expanded the Ring lineup with new devices. Ring Battery Doorbell Plus offers improved HD video and energy-saving
+features, and Ring Peephole Cam is an apartment and renter-friendly video doorbell that easily installs over an existing
+door peephole.
+Expanded the Amazon-built TV lineup with the Fire TV 2-Series, which makes getting an Alexa-enabled TV more
+affordable than ever, and new sizes of the Omni QLED Series. The Omni QLED Series includes features so customers
+can see their schedule on the screen, control smart devices, and turn the TV into an in-home art gallery. Amazon has
+surpassed 200 million Fire TV devices sold globally. Amazon also launched Amazon-built TVs in Germany, Mexico,
+and the UK, and collaborated with Cochlear to help people with hearing loss stream sound from their Amazon smart
+TVs directly to their Cochlear hearing implants.
+Unveiled three customer terminal designs for Project Kuiper, Amazon's low Earth orbit satellite broadband initiative.
+Kuiper's mission is to bridge the digital divide by providing fast, affordable broadband to communities worldwide that
+are unserved or underserved by traditional technologies. To use Kuiper's broadband, residential and commercial
+customers will install an outdoor antenna, called a customer terminal, to communicate with satellites overhead.
+Amazon is preparing to launch two prototype satellites to test the entire end-to-end communications network this year
+and plans to be in beta with commercial customers in 2024.
+Opened Amazon Sidewalk to developer testing for the first time as part of the company's vision to put a billion
+Internet of Things (IoT) devices on the network. Amazon Sidewalk is a low-bandwidth, long-range community
+network that connects devices across long distances where Wi-Fi and Bluetooth signals often cannot reach. With
+Sidewalk coverage extending to 90% of the U.S. population, developers can now build and connect a new range of
+devices for the network.
+Launched a loyalty linking capability for Amazon One, Amazon's palm recognition service that lets customers enter,
+identify, and pay. Panera is the first restaurant chain to offer the new loyalty linking capability, allowing customers to
+easily enroll in and redeem rewards, and pay for their purchases with just their palm.
+Empowering employees and delivery service partners
+In addition to its focus on customers, Amazon strives to make every day better for its employees and delivery service partners.
+For example, in the first quarter, the company:
+•
+Announced plans to spend $200 million on safety technologies across Amazon's U.S. transportation network in 2023.
+These innovations include front-collision warning, lane-departure warning, speed limiters, and 360-degree camera
+detection systems. They are part of Amazon's work to ensure that vehicles and delivery partners are safe on the road,
+and the innovations are better for the environment.
+Announced that Amazon improved recordable incident rates worldwide by 11% from 2021 to 2022 and by almost 24%
+from 2019 to 2022. The company shared the data in the second edition of its safety report, Delivered With Care, which
+details how Amazon is advancing safety across its operations through investments in capital improvements, safety

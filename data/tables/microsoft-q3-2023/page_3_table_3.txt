@@ -1,0 +1,6 @@
+|    | ('($ in millions, except per share amounts) 2022 As Reported (GAAP)',)   | ('Revenue $50,122',)   | ('Operating Income 1111 $21,518',)   | ('Net Income $17,556',)   | ('Diluted Earnings per Share $2.35',)   |
+|---:|:-------------------------------------------------------------------------|:-----------------------|:-------------------------------------|:--------------------------|:----------------------------------------|
+|  0 | 2023 As Reported (GAAP)                                                  | $56,517                | $26,895                              | $22,291                   | $2.99                                   |
+|  1 | Percentage Change Y/Y (GAAP)                                             | 13%                    | 25%                                  | 27%                       | 27%                                     |
+|  2 | Constant Currency Impact                                                 | $301                   | $204                                 | $148                      | $0.02                                   |
+|  3 | Percentage Change Y/Y Constant Currency                                  | 12%                    | 24%                                  | 26%                       | 26%                                     |

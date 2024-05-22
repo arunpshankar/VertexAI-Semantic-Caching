@@ -1,0 +1,135 @@
+AMAZON.COM, INC.
+Consolidated Statements of Operations
+(in millions, except per share data)
+(unaudited)
+Three Months Ended
+June 30,
+2020
+2021
+Six Months Ended
+June 30,
+2020
+2021
+Net product sales
+Net service sales
+Total net sales
+Operating expenses:
+Cost of sales
+$
+50,244 $
+58,004 $
+92,085 $
+115,495
+38,668
+55,076
+72,279
+106,103
+88,912
+113,080
+164,364
+221,598
+52,660
+64,176
+96,917
+126,579
+Fulfillment
+13,806
+17,638
+25,337
+34,168
+Technology and content
+10,388
+13,871
+19,713
+26,359
+Marketing
+4,345
+7,524
+9,173
+13,731
+General and administrative
+1,580
+2,158
+3,032
+4,145
+Other operating expense (income), net
+290
+11
+360
+49
+Total operating expenses
+83,069
+105,378
+154,532
+205,031
+Operating income
+5,843
+7,702
+9,832
+16,567
+Interest income
+135
+106
+337
+211
+Other income (expense), net
+Interest expense
+Total non-operating income (expense)
+(403)
+(435)
+(805)
+(834)
+646
+1,261
+240
+2,958
+378
+932
+(228)
+2,335
+Income before income taxes
+6,221
+8,634
+9,604
+18,902
+Provision for income taxes
+(984)
+(868)
+(1,729)
+(3,024)
+Equity-method investment activity, net of tax
+6
+12
+(97)
+7
+Net income
+$
+5,243 $
+7,778 $
+7,778 $
+15,885
+Basic earnings per share
+$
+10.50 $
+15.40 $
+15.59
+$
+31.49
+Diluted earnings per share
+$
+10.30 $
+15.12 $
+15.32 $
+30.92
+Weighted-average shares used in computation of earnings per
+share:
+Basic
+Diluted
+500
+505
+499
+505
+509
+514
+508
+514

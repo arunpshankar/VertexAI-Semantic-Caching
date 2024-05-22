@@ -1,0 +1,108 @@
+CASH FLOWS STATEMENTS
+(In millions) (Unaudited)
+Three Months Ended
+September 30,
+2021
+2020
+Operations
+Net income
+$20,505
+$13,893
+Adjustments to reconcile net income to net cash from operations:
+Depreciation, amortization, and other
+3,212
+2,645
+Stock-based compensation expense
+1,702
+1,456
+Net recognized gains on investments and derivatives
+(364)
+(128)
+Deferred income taxes
+Changes in operating assets and liabilities:
+Accounts receivable
+Inventories
+Other current assets
+Other long-term assets
+Accounts payable
+Unearned revenue
+Income taxes
+Other current liabilities
+Other long-term liabilities
+Net cash from operations
+Financing
+Repayments of debt
+Common stock issued
+Common stock repurchased
+Common stock cash dividends paid
+Other, net
+Net cash used in financing
+(5,970)
+(11)
+10,486
+8,843
+(777)
+(808)
+940
+(54)
+(598)
+(62)
+(471)
+315
+(2,885)
+(3,064)
+2,653
+(983)
+(4,143)
+(2,951)
+250
+24,540
+244
+19,335
+(4,826)
+0
+612
+545
+(7,684)
+(6,743)
+(4,206)
+(3,856)
+(172)
+(235)
+(16,276)
+(10,289)
+Investing
+Additions to property and equipment
+(5,810)
+(4,907)
+Acquisition of companies, net of cash acquired,
+and purchases of intangible and other assets
+(1,206)
+(481)
+Purchases of investments
+(10,309)
+(14,580)
+Maturities of investments
+8,862
+14,266
+Sales of investments
+5,630
+2,414
+Other, net
+(417)
+(2,083)
+Net cash used in investing
+(3,250)
+(5,371)
+Effect of foreign exchange rates on cash and cash equivalents
+(73)
+(46)
+Net change in cash and cash equivalents
+4,941
+3,629
+Cash and cash equivalents, beginning of period
+14,224
+13,576
+Cash and cash equivalents, end of period
+$19,165
+$17,205

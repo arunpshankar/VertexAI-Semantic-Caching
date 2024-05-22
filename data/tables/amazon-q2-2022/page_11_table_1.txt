@@ -1,0 +1,26 @@
+|    | ('June 2021 Net product sales $ 58,004',)                          | ('30, 2022 $ 56,575',)   | ('June 2021 $ 115,495 $',)   | ('30, 2022 113,030',)   |
+|---:|:-------------------------------------------------------------------|:-------------------------|:-----------------------------|:------------------------|
+|  0 | Net service sales 55,076                                           | 64,659                   | 106,103                      | 124,648                 |
+|  1 | Total net sales 113,080                                            | 121,234                  | 221,598                      | 237,678                 |
+|  2 | Operating expenses:                                                |                          |                              |                         |
+|  3 | Cost of sales 64,176                                               | 66,424                   | 126,579                      | 132,923                 |
+|  4 | Fulfillment 17,638                                                 | 20,342                   | 34,168                       | 40,613                  |
+|  5 | Technology and content 13,871                                      | 18,072                   | 26,359                       | 32,914                  |
+|  6 | Sales and marketing 7,524                                          | 10,086                   | 13,731                       | 18,406                  |
+|  7 | General and administrative 2,158                                   | 2,903                    | 4,145                        | 5,497                   |
+|  8 | Other operating expense (income), net 11                           | 90                       | 49                           | 339                     |
+|  9 | Total operating expenses 105,378                                   | 117,917                  | 205,031                      | 230,692                 |
+| 10 | Operating income 7,702                                             | 3,317                    | 16,567                       | 6,986                   |
+| 11 | Interest income 106                                                | 159                      | 211                          | 267                     |
+| 12 | Interest expense (435)                                             | (584)                    | (834)                        | (1,056)                 |
+| 13 | Other income (expense), net 1,261                                  | (5,545)                  | 2,958                        | (14,115)                |
+| 14 | 932 Total non-operating income (expense)                           | (5,970)                  | 2,335                        | (14,904)                |
+| 15 | Income (loss) before income taxes 8,634                            | (2,653)                  | 18,902                       | (7,918)                 |
+| 16 | Benefit (provision) for income taxes (868)                         | 637                      | (3,024)                      | 2,059                   |
+| 17 | Equity-method investment activity, net of tax 12                   | (12)                     | 7                            | (13)                    |
+| 18 | Net income (loss) 7,778                                            | $ (2,028)                | 15,885 $                     | (5,872)                 |
+| 19 | Basic earnings per share $ 0.77                                    | $ (0.20)                 | $ 1.57 $                     | $ (0.58)                |
+| 20 | Diluted earnings per share $ 0.76                                  | $ (0.20)                 | $ 1.55 $                     | (0.58)                  |
+| 21 | Weighted-average shares used in computation of earnings per share: |                          |                              |                         |
+| 22 | Basic 10,103                                                       | 10,175                   | 10,089                       | 10,173                  |
+| 23 | Diluted 10,286                                                     | 10,175                   | 10,276                       | 10,173                  |

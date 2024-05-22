@@ -1,0 +1,7 @@
+|    | ('($ in millions)',)                    | ('Productivity and Business Processes',)   | ('Intelligent Cloud',)   | ('More Personal Computing',)   |
+|---:|:----------------------------------------|:-------------------------------------------|:-------------------------|:-------------------------------|
+|  0 | 2022 As Reported (GAAP)                 | $15,789                                    | $18,987                  | $14,584                        |
+|  1 | 2023 As Reported (GAAP)                 | $17,516                                    | $22,081                  | $13,260                        |
+|  2 | Percentage Change Y/Y (GAAP)            | 11%                                        | 16%                      | (9)%                           |
+|  3 | Constant Currency Impact                | $(587)                                     | $(591)                   | $(304)                         |
+|  4 | Percentage Change Y/Y Constant Currency | 15%                                        | 19%                      | (7)%                           |

@@ -1,0 +1,168 @@
+=== START PAGE CONTENT ===
+Assets
+Current assets:
+Alphabet Inc.
+CONSOLIDATED BALANCE SHEETS
+(In millions, except par value per share amounts)
+As of December 31,
+2022
+2023
+(unaudited)
+Cash and cash equivalents
+21,879 $
+24,048
+Marketable securities
+91,883
+86,868
+Total cash, cash equivalents, and marketable securities
+113,762
+110,916
+Accounts receivable, net
+40,258
+47,964
+Other current assets
+10,775
+12,650
+Total current assets
+Non-marketable securities
+Deferred income taxes
+Property and equipment, net
+Operating lease assets
+Goodwill
+Other non-current assets
+Total assets
+Liabilities and Stockholders' Equity
+Current liabilities:
+Accounts payable
+Accrued compensation and benefits
+Accrued expenses and other current liabilities
+Accrued revenue share
+Deferred revenue
+Total current liabilities
+Long-term debt
+Deferred revenue, non-current
+Income taxes payable, non-current
+Deferred income taxes
+164,795
+171,530
+30,492
+31,008
+5,261
+12,169
+112,668
+134,345
+14,381
+14,091
+28,960
+29,198
+8,707
+10,051
+$
+365,264 $
+402,392
+SA
+Operating lease liabilities
+Other long-term liabilities
+Total liabilities
+Commitments and contingencies
+Stockholders' equity:
+5,128 $
+7,493
+14,028
+15,140
+37,866
+46,168
+8,370
+8,876
+3,908
+4,137
+69,300
+81,814
+14,701
+13,253
+599
+911
+9,258
+8,474
+514
+485
+12,501
+12,460
+2,247
+1,616
+109,120
+119,013
+Preferred stock, $0.001 par value per share, 100 shares authorized; no shares
+issued and outstanding
+Class A, Class B, and Class C stock and additional paid-in capital, $0.001 par
+value per share: 300,000 shares authorized (Class A 180,000, Class B 60,000,
+Class C 60,000); 12,849 (Class A 5,964, Class B 883, Class C 6,002) and 12,460
+(Class A 5,899, Class B 870, Class C 5,691) shares issued and outstanding
+Accumulated other comprehensive income (loss)
+Retained earnings
+Total stockholders' equity
+Total liabilities and stockholders' equity
+5
+0
+0
+68,184
+76,534
+(7,603)
+(4,402)
+195,563
+211,247
+256,144
+283,379
+$
+365,264 $
+402,392
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('Assets',)                                             | ('',)       | ('(unaudited)',)   |
+|---:|:--------------------------------------------------------|:------------|:-------------------|
+|  0 | Current assets:                                         |             |                    |
+|  1 | Cash and cash equivalents                               | 21,879 $    | 24,048             |
+|  2 | Marketable securities                                   | 91,883      | 86,868             |
+|  3 | Total cash, cash equivalents, and marketable securities | 113,762     | 110,916            |
+|  4 | Accounts receivable, net                                | 40,258      | 47,964             |
+|  5 | Other current assets                                    | 10,775      | 12,650             |
+|  6 | Total current assets                                    | 164,795     | 171,530            |
+|  7 | Non-marketable securities                               | 30,492      | 31,008             |
+|  8 | Deferred income taxes                                   | 5,261       | 12,169             |
+|  9 | Property and equipment, net                             | 112,668     | 134,345            |
+| 10 | Operating lease assets                                  | 14,381      | 14,091             |
+| 11 | Goodwill                                                | 28,960      | 29,198             |
+| 12 | Other non-current assets                                | 8,707       | 10,051             |
+| 13 | Total assets                                            | $ 365,264 $ | 402,392            |
+| 14 | Liabilities and Stockholders' Equity                    |             |                    |
+| 15 | Current liabilities:                                    |             |                    |
+| 16 | Accounts payable                                        | 5,128       | 7,493              |
+| 17 | Accrued compensation and benefits                       | 14,028      | 15,140             |
+| 18 | Accrued expenses and other current liabilities          | 37,866      | 46,168             |
+| 19 | Accrued revenue share                                   | 8,370       | 8,876              |
+| 20 | Deferred revenue                                        | 3,908       | 4,137              |
+| 21 | Total current liabilities                               | 69,300      | 81,814             |
+| 22 | Long-term debt                                          | 14,701      | 13,253             |
+| 23 | Deferred revenue, non-current                           | 599         | 911                |
+| 24 | Income taxes payable, non-current                       | 9,258       | 8,474              |
+| 25 | Deferred income taxes                                   | 514         | 485                |
+| 26 | Operating lease liabilities                             | 12,501      | 12,460             |
+| 27 | Other long-term liabilities                             | 2,247       | 1,616              |
+| 28 | Total liabilities                                       | 109,120     | 119,013            |
+| 29 | Commitments and contingencies                           |             |                    |
+| 30 | Stockholders' equity:                                   |             |                    |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('Class A, Class B, and Class C stock and additional paid-in capital, $0.001 par value per share: 300,000 shares authorized (Class A 180,000, Class B 60,000, Class C 60,000); 12,849 (Class A 5,964, Class B 883, Class C 6,002) and 12,460 (Class A 5,899, Class B 870, Class C 5,691) shares issued and outstanding',)   | ('68,184',)   | ('76,534',)   |
+|---:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------|:--------------|
+|  0 | Accumulated other comprehensive income (loss)                                                                                                                                                                                                                                                                               | (7,603)       | (4,402)       |
+|  1 | Retained earnings                                                                                                                                                                                                                                                                                                           | 195,563       | 211,247       |
+|  2 | Total stockholders' equity                                                                                                                                                                                                                                                                                                  | 256,144       | 283,379       |
+|  3 | Total liabilities and stockholders' equity $                                                                                                                                                                                                                                                                                | 365,264 $     | 402,392       |
+=== TABLE END ===
+=== TABLE START ===
+|    | ("Total stockholders' equity",)            | ('256,144',)   | ('',)   |
+|---:|:-------------------------------------------|:---------------|:--------|
+|  0 | Total liabilities and stockholders' equity | $ 365,264      | $       |
+=== TABLE END ===

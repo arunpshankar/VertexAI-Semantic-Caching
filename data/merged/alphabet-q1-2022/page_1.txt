@@ -1,0 +1,118 @@
+=== START PAGE CONTENT ===
+Alphabet Announces First Quarter 2022 Results
+MOUNTAIN VIEW, Calif. - April 26, 2022 - Alphabet Inc. (NASDAQ: GOOG, GOOGL) today announced financial
+results for the quarter ended March 31, 2022.
+Sundar Pichai, CEO of Alphabet and Google, said: "Q1 saw strong growth in Search and Cloud, in particular, which
+are both helping people and businesses as the digital transformation continues. We'll keep investing in great
+products and services, and creating opportunities for partners and local communities around the world."
+Ruth Porat, CFO of Alphabet and Google, said: "We are pleased with Q1 revenue growth of 23% year over year. We
+continue to make considered investments in Capex, R&D and talent to support long-term value creation for all
+stakeholders."
+Q1 2022 financial highlights
+The following table summarizes our consolidated financial results for the quarters ended March 31, 2021 and 2022
+(in millions, except for per share information and percentages; unaudited).
+Quarter Ended March 31,
+Revenues
+Change in revenues year over year
+Change in constant currency revenues year over year(1)
+Operating income
+Operating margin
+Other income (expense), net
+Net income
+Diluted EPS
+EA
+A
+2021
+2022
+55,314
+68,011
+34 %
+23 %
+32 %
+26%
+16,437
+SA
+$
+20,094
+30 %
+30%
+4,846
+(1,160)
+17,930
+16,436
+26.29 $
+24.62
+(1) Non-GAAP measure. See the table captioned "Reconciliation from GAAP revenues to non-GAAP constant currency
+revenues" for more details.
+Q1 2022 supplemental information (in millions, except for number of employees; unaudited)
+Revenues, Traffic Acquisition Costs (TAC) and number of employees
+Google Search & other
+YouTube ads
+Google Network
+Google advertising
+Google other
+Google Services total
+Google Cloud
+Other Bets
+Hedging gains (losses)
+Total revenues
+Total TAC
+Number of employees
+Quarter Ended March 31,
+2021
+2022
+31,879 $
+39,618
+6,005
+6,869
+6,800
+8,174
+44,684
+54,661
+6,494
+6,811
+51,178
+61,472
+4,047
+5,821
+198
+440
+(109)
+278
+$
+55,314 $
+68,011
+SA
+9,712 $
+11,990
+139,995
+163,906
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('',)                  | ('2021',)   | ('2022',)   |
+|---:|:-----------------------|:------------|:------------|
+|  0 | Google Search & other  | 31,879      | $ 39,618    |
+|  1 | YouTube ads            | 6,005       | 6,869       |
+|  2 | Google Network         | 6,800       | 8,174       |
+|  3 | Google advertising     | 44,684      | 54,661      |
+|  4 | Google other           | 6,494       | 6,811       |
+|  5 | Google Services total  | 51,178      | 61,472      |
+|  6 | Google Cloud           | 4,047       | 5,821       |
+|  7 | Other Bets             | 198         | 440         |
+|  8 | Hedging gains (losses) | (109)       | 278         |
+|  9 | Total revenues         | 55,314      | $ 68,011    |
+| 10 | Total TAC              | $ 9,712     | $ 11,990    |
+| 11 | Number of employees    | 139,995     | 163,906     |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('Revenues',)                                          | ('Quarter Ended March 31, 2021 2022 55,314 $ 68,011',)   |
+|---:|:-------------------------------------------------------|:---------------------------------------------------------|
+|  0 | Change in revenues year over year                      | 34 % 23 %                                                |
+|  1 | Change in constant currency revenues year over year(¹) | 32% 26%                                                  |
+|  2 | Operating income                                       | 16,437 20,094                                            |
+|  3 | Operating margin                                       | 30 % 30 %                                                |
+|  4 | Other income (expense), net                            | 4,846 $ (1,160)                                          |
+|  5 | Net income                                             | 17,930 $ 16,436                                          |
+|  6 | Diluted EPS                                            | $ 26.29 $ 24.62                                          |
+=== TABLE END ===

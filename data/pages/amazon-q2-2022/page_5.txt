@@ -1,0 +1,56 @@
+•
+•
+Health care and life sciences: Health and wellness organization Geisinger selected AWS as its strategic cloud
+provider. Geisinger will migrate its entire digital portfolio of more than 400 applications and numerous
+workflows to AWS, which will enable lifesaving technologies and save Geisinger several million dollars
+annually.
+Manufacturing: Sweden-based SKF, the leading manufacturer of bearings, collaborated with AWS to launch
+a fully automated, condition-monitoring solution for industrial machine reliability and predictive
+maintenance. This helps manufacturers monitor equipment, detect anomalies, and avoid unexpected machine
+failures in their facilities.
+Energy: Italian multinational energy company Eni worked with AWS to integrate its proprietary data
+platform XWARE with the built-for-the-cloud Open Subsurface Data Universe on AWS to increase
+interoperability between applications, enabling accelerated data exchange, enhanced security, and deeper
+insights. Using AWS's machine learning, business intelligence, and storage capabilities, Australia's Electric
+Mine Consortium built the world's first mining data platform for the creation of a cleaner, more electrified
+future in mining. The platform will drive decarbonization among mining companies, accelerate the
+electrification of mine sites at scale, and capture real-time information on mine decarbonization globally.
+AWS added to its more than 200 products and services to help customers lower costs, increase agility, and innovate
+faster.
+AWS continues to innovate in generalized central processing units (CPUs) and announced the general
+availability of Amazon Elastic Compute Cloud (Amazon EC2) C7g instances, the next generation of
+compute-optimized instances powered by AWS-designed Graviton3 processors. Graviton3 processors provide
+up to 25% better performance for compute-intensive applications than C6g instances powered by AWS
+Graviton2 processors, which deliver up to 40% better price performance over comparable current generation
+x86-based instances. Graviton3 processors also use up to 60% less energy for the same performance than
+comparable EC2 instances.
+AWS continues to transform how customers perform analytics by offering serverless options for Amazon
+Redshift, Amazon Managed Streaming for Apache Kafka (Amazon MSK), and Amazon EMR. Serverless
+options take the guesswork out of configuring infrastructure at any scale, so enterprises can expand the use of
+analytics in their organizations without needing to configure, scale, or manage the underlying infrastructure.
+AWS announced the general availability of AWS Mainframe Modernization, as it further expands support for
+every type of workload. AWS Mainframe Modernization makes it faster and easier for customers to
+modernize mainframe-based workloads by moving them to the cloud, with no upfront costs or underlying
+infrastructure to manage.
+AWS announced the general availability of AWS Cloud WAN, a managed wide area network service that
+makes it faster and easier to build, manage, and monitor a unified network that spans multiple locations and
+seamlessly connects cloud and on-premises environments. AWS Cloud WAN connects data centers, branch
+offices, and cloud resources into a single, centrally managed network that reduces operational cost and
+complexity while improving network health, performance, and security, so enterprises can remove the need to
+individually configure and manage multiple networks using different technologies.
+AWS strengthened its partner network of more than 100,000 systems integrators and independent software vendors
+from around the world that adapt their technology to run on or integrate with AWS.
+•
+•
+IBM expanded its relationship with AWS and will offer its software catalog as-a-Service (SaaS) on AWS,
+providing customers quick and easy access to IBM's automation, data and AI, security, and sustainability
+software.
+AWS was named MongoDB's 2022 Cloud (Co-Sell) Partner of the Year for jointly winning new deals and
+helping customers modernize around the world.
+AWS was named Splunk's 2022 Global Cloud Partner of the Year and announced a new Customer
+Immersion Experience Center in Splunk's London office to demonstrate the benefit that data and digital
+transformation can have on innovation and cost reduction.
+AWS announced that it remotely operated an AWS Snowcone, an ultra-portable data transfer and edge computing
+device, on the International Space Station to process data on orbit for the first time as part of a private Axiom Space
+mission. The portable data storage and transfer device processed photos from onboard research experiments and
+optimized the limited bandwidth available between the space station and Earth. The operation showed that it is

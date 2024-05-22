@@ -1,0 +1,106 @@
+=== START PAGE CONTENT ===
+Q2 2021 supplemental information (in millions, except for number of employees; unaudited)
+Revenues, Traffic Acquisition Costs (TAC) and number of employees
+Google Search & other
+YouTube ads
+Google Network
+Google advertising
+Google other
+Google Services total
+Google Cloud
+Other Bets
+Hedging gains (losses)
+Total revenues
+Total TAC
+Number of employees
+Segment Operating Results
+Operating income (loss):
+Google Services
+Google Cloud
+Other Bets
+Corporate costs, unallocated
+Total income from operations
+Quarter Ended June 30,
+2020
+2021
+21,319 $
+35,845
+3,812
+7,002
+4,736
+7,597
+29,867
+50,444
+5,124
+6,623
+34,991
+57,067
+3,007
+4,628
+148
+192
+151
+(7)
+38,297 $
+61,880
+6,694 $
+10,929
+127,498
+144,056
+Quarter Ended June 30,
+2020
+2021
+9,539 $
+22,343
+(1,426)
+(591)
+(1,116)
+(1,398)
+(614)
+(993)
+$
+6,383 $
+19,361
+Change in the useful lives of our server and network equipment (unaudited)
+In January 2021, we completed an assessment of the useful lives of our servers and network equipment and
+adjusted the estimated useful life of our servers from three years to four years and the estimated useful life of
+certain network equipment from three years to five years. This change in accounting estimate was effective
+beginning in fiscal year 2021 and the effect was a reduction in depreciation expense of $721 million and
+$1.6 billion and an increase in net income of $561 million and $1.2 billion, or $0.84 and $1.81 per basic and $0.83
+and $1.78 per diluted share, for the three and six months ended June 30, 2021, respectively.
+Stock Repurchase
+As we previously announced in April 2021, the Alphabet board authorized the company to repurchase up to an
+additional $50 billion of its Class C capital stock under our stock repurchase program. On July 22, 2021, the board
+approved an amendment to the stock repurchase program permitting us to repurchase both Class A and Class C
+shares, in a manner deemed in the best interest of the company and its stockholders, taking into account the
+economic cost and prevailing market conditions, including the relative trading prices and volumes of the Class A
+and Class C shares.
+2
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('',)                        | ('2020',)   | ('2021',)   |
+|---:|:-----------------------------|:------------|:------------|
+|  0 | Operating income (loss):     |             |             |
+|  1 | Google Services              | 9,539 $     | 22,343      |
+|  2 | Google Cloud                 | (1,426)     | (591)       |
+|  3 | Other Bets                   | (1,116)     | (1,398)     |
+|  4 | Corporate costs, unallocated | (614)       | (993)       |
+|  5 | Total income from operations | 6,383 $     | 19,361      |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('Google Search & other',)   | ('2020 21,319',)   | ('2021 $ 35,845',)   |
+|---:|:-----------------------------|:-------------------|:---------------------|
+|  0 | YouTube ads                  | 3,812              | 7,002                |
+|  1 | Google Network               | 4,736              | 7,597                |
+|  2 | Google advertising           | 29,867             | 50,444               |
+|  3 | Google other                 | 5,124              | 6,623                |
+|  4 | Google Services total        | 34,991             | 57,067               |
+|  5 | Google Cloud                 | 3,007              | 4,628                |
+|  6 | Other Bets                   | 148                | 192                  |
+|  7 | Hedging gains (losses)       | 151                | (7)                  |
+|  8 | Total revenues               | 38,297             | 61,880 $             |
+|  9 | Total TAC                    | $ 6,694            | $ 10,929             |
+| 10 | Number of employees          | 127,498            | 144,056              |
+| 11 | Segment Operating Results    |                    |                      |
+=== TABLE END ===

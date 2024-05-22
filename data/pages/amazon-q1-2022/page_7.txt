@@ -1,0 +1,50 @@
+•
+In India, Amazon and Sun Mobility, a local provider of energy infrastructure and services for electric vehicles (EVs),
+announced an expanded deployment of EVs with battery-swapping technology, which eliminates the need for lengthy
+recharging. These EVs will be part of Amazon's transportation and logistics services, and contribute to Amazon
+India's commitment of adding 10,000 electric vehicles to its delivery fleet by 2025.
+As part of AWS's ongoing commitment to help customers reduce their environmental impact and reach their
+sustainability goals, AWS launched a carbon footprint tool that helps customers quantify their carbon usage across
+AWS products. The tool gives AWS customers a view of their historic carbon emissions, evaluates emission trends as
+their use of AWS evolves, estimates the carbon emissions they have avoided by using AWS instead of an on-premises
+solution, and projects forecasted emissions based on current usage.
+Financial Guidance
+The following forward-looking statements reflect Amazon.com's expectations as of April 28, 2022, and are subject to
+substantial uncertainty. Our results are inherently unpredictable and may be materially affected by many factors, such as
+uncertainty regarding the impacts of the COVID-19 pandemic, fluctuations in foreign exchange rates, changes in global
+economic conditions and customer demand and spending, inflation, labor market and global supply chain constraints, world
+events, the rate of growth of the Internet, online commerce, and cloud services, and the various factors detailed below. This
+guidance reflects our estimates as of April 28, 2022 regarding the impacts of the COVID-19 pandemic on our operations as well
+as the effect of other factors discussed above.
+Second Quarter 2022 Guidance
+•
+•
+•
+Net sales are expected to be between $116.0 billion and $121.0 billion, or to grow between 3% and 7% compared with
+second quarter 2021. This guidance anticipates an unfavorable impact of approximately 200 basis points from foreign
+exchange rates.
+Operating income (loss) is expected to be between $(1.0) billion and $3.0 billion, compared with $7.7 billion in second
+quarter 2021.
+This guidance assumes that Prime Day occurs in third quarter 2022.
+This guidance assumes, among other things, that no additional business acquisitions, restructurings, or legal
+settlements are concluded.
+A conference call will be webcast live today at 2:30 p.m. PT/5:30 p.m. ET, and will be available for at least three months at
+amazon.com/ir. This call will contain forward-looking statements and other material information regarding the Company's
+financial and operating results.
+These forward-looking statements are inherently difficult to predict. Actual results and outcomes could differ materially for a
+variety of reasons, including, in addition to the factors discussed above, the amount that Amazon.com invests in new business
+opportunities and the timing of those investments, the mix of products and services sold to customers, the mix of net sales
+derived from products as compared with services, the extent to which we owe income or other taxes, competition, management
+of growth, potential fluctuations in operating results, international growth and expansion, the outcomes of claims, litigation,
+government investigations, and other proceedings, fulfillment, sortation, delivery, and data center optimization, risks of
+inventory management, variability in demand, the degree to which the Company enters into, maintains, and develops
+commercial agreements, proposed and completed acquisitions and strategic transactions, payments risks, and risks of
+fulfillment throughput and productivity. Other risks and uncertainties include, among others, risks related to new products,
+services, and technologies, system interruptions, government regulation and taxation, and fraud. In addition, global economic
+conditions and additional or unforeseen effects from the COVID-19 pandemic amplify many of these risks. More information
+about factors that potentially could affect Amazon.com's financial results is included in Amazon.com's filings with the
+Securities and Exchange Commission ("SEC"), including its most recent Annual Report on Form 10-K and subsequent filings.
+Our investor relations website is amazon.com/ir and we encourage investors to use it as a way of easily finding information
+about us. We promptly make available on this website, free of charge, the reports that we file or furnish with the SEC, corporate
+governance information (including our Code of Business Conduct and Ethics), and select press releases, which may contain
+material information about us, and you may subscribe to be notified of new information posted to this site.

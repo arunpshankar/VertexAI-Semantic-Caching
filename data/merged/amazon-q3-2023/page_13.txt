@@ -1,0 +1,318 @@
+=== START PAGE CONTENT ===
+Cash Flows and Shares
+AMAZON.COM, INC.
+Supplemental Financial Information and Business Metrics
+(in millions, except per share data)
+(unaudited)
+Q2 2022
+Q3 2022
+Q4 2022
+Q1 2023
+Q2 2023
+Q3 2023
+Y/Y %
+Change
+Operating cash flow -- trailing twelve months (TTM)
+$
+35,574 $
+39,665 $
+46,752
+$
+Operating cash flow -- TTM Y/Y growth (decline)
+(40)%
+(27)%
+1 %
+54,330
+38 %
+$
+61,841 $
+71,654
+81 %
+74%
+81 %
+N/A
+TTM
+Purchases of property and equipment, net of proceeds from sales and
+incentives
+$
+59,061 $
+59,351
+$
+58,321
+$
+57,649
+$
+53,963 $
+50,220
+(15)%
+Principal repayments of finance leases -- TTM
+$
+9,789 $
+8,561
+$
+7,941
+$
+6,544
+$
+5,705 $
+5,245
+(39)%
+Principal repayments of financing obligations -- TTM
+$
+205 $
+233
+$
+248
+Equipment acquired under finance leases -- TTM (1)
+$
+1,621
+$
+Principal repayments of all other finance leases -- TTM (2)
+Free cash flow -- TTM (3)
+Free cash flow less principal repayments of finance leases and
+financing obligations -- TTM (4)
+$ (23,487) $ (19,686) $ (11,569) $
+$
+751 $
+868 $
+706 $
+$
+299 $
+670 $
+226 $
+285 $
+625 $
+(3,319) $
+244 $
+260
+12 %
+269 $
+239
+(72)%
+631 $
+694
+(2)%
+7,878 $
+21,434
+N/A
+$ (33,481) $
+(28,480) $
+(19,758) $
+(10,089) $
+1,929 $
+15,929
+N/A
+Free cash flow less equipment finance leases and principal repayments
+of all other finance leases and financing obligations -- TTM (5)
+Common shares and stock-based awards outstanding
+$
+(26,064) $
+10,551
+(21,493) $ (12,786) $
+10,597
+(4,455)
+6,734 $
+20,241
+N/A
+10,627
+10,625
+10,794
+10,792
+2 %
+Common shares outstanding
+10,183
+10,198
+10,242
+10,258
+10,313
+10,330
+1 %
+Stock-based awards outstanding
+368
+Stock-based awards outstanding -- % of common shares outstanding
+3.6 %
+399
+3.9%
+384
+3.8 %
+367
+3.6 %
+481
+4.7 %
+462
+16%
+4.5 %
+N/A
+Results of Operations
+Worldwide (WW) net sales
+$ 121,234
+$ 127,101 $ 149,204 $ 127,358
+$ 134,383
+WW net sales -- Y/Y growth, excluding F/X
+10 %
+19%
+12%
+11 %
+$ 143,083
+11 %
+13 %
+11 %
+N/A
+WW net sales -- TTM
+$ 485,902
+$ 502,191 $
+513,983 $ 524,897
+$ 538,046 $ 554,028
+10 %
+WW net sales - TTM Y/Y growth, excluding F/X
+11 %
+12%
+13 %
+Operating income
+$
+3,317
+$
+F/X impact
+favorable
+$
+165 $
+2,525 $
+357 $
+2,737
+$
+213 $
+13 %
+4,774 $
+139 $
+13%
+12 %
+N/A
+7,681 $
+104 $
+11,188
+343 %
+132
+N/A
+Operating income -- Y/Y growth (decline), excluding F/X
+(59)%
+Operating margin -- % of WW net sales
+2.7%
+(55)%
+2.0%
+(27)%
+1.8%
+26%
+128 %
+338%
+N/A
+3.7 %
+5.7 %
+7.8 %
+N/A
+Operating income -- TTM
+$
+15,298 $ 12,971 $ 12,248 $
+13,353 $
+17,717
+$
+26,380
+103 %
+Operating income -- TTM Y/Y growth (decline), excluding F/X
+(49)%
+Operating margin -- TTM % of WW net sales
+Net income (loss)
+$
+Net income (loss) per diluted share
+Net income (loss) -- TTM
+$
+Net income (loss) per diluted share -- TTM
+$
+3.1 %
+(2,028) $
+$
+$ (0.20) $
+0.03 $
+11,607 $ 11,323 $
+(2,722) $
+1.13 $ 1.10 $ (0.27) $
+(57)%
+2.6%
+(54)%
+(37)%
+10 %
+99%
+N/A
+2.4 %
+2.5 %
+3.3 %
+4.8%
+N/A
+2,872 $
+0.28 $
+278
+3,172 $
+0.31 $
+4,294 $
+0.42 $
+6,750 $
+0.65 $
+13,072 $
+1.26 $
+9,879
+0.94
+244 %
+237 %
+20,079
+77 %
+1.93
+76%
+(1)
+(2)
+འ+
+(3)
+(4)
+(5)
+For the twelve months ended September 30, 2022 and 2023, this amount relates to equipment included in "Property and equipment acquired under finance leases, net of
+remeasurements and modifications" of $1,966 million and $748 million.
+For the twelve months ended September 30, 2022 and 2023, this amount relates to property included in "Principal repayments of finance leases" of $8,561 million and
+$5,245 million.
+Free cash flow is cash flow from operations reduced by "Purchases of property and equipment, net of proceeds from sales and incentives."
+Free cash flow less principal repayments of finance leases and financing obligations is free cash flow reduced by "Principal repayments of finance leases” and “Principal
+repayments of financing obligations."
+Free cash flow less equipment finance leases and principal repayments of all other finance leases and financing obligations is free cash flow reduced by equipment acquired
+under finance leases, which is included in "Property and equipment acquired under finance leases, net of remeasurements and modifications," principal repayments of all
+other finance lease liabilities, which is included in "Principal repayments of finance leases,” and “Principal repayments of financing obligations."
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('Operating cash flow -- trailing twelve months (TTM) $',)                                                                               | ('35,574',)   | ('$ 39,665',)   | ('$ 46,752',)   | ('$ 54,330',)   | ('$ 61,841',)   | ('$ 71,654',)   | ('81 %',)   |
+|---:|:-----------------------------------------------------------------------------------------------------------------------------------------|:--------------|:----------------|:----------------|:----------------|:----------------|:----------------|:------------|
+|  0 | Operating cash flow -- TTM Y/Y growth (decline)                                                                                          | (40)%         | (27)%           | 1 %             | 38 %            | 74 %            | 81%             | N/A         |
+|  1 | Purchases of property and equipment, net of proceeds from sales and incentives TTM $                                                     | 59,061        | $ 59,351        | $ 58,321        | $ 57,649        | $ 53,963        | $ 50,220        | (15)%       |
+|  2 | Principal repayments of finance leases -- TTM $                                                                                          | 9,789         | $ 8,561         | $ 7,941         | $ 6,544         | $ 5,705         | $ 5,245         | (39)%       |
+|  3 | Principal repayments of financing obligations -- TTM $                                                                                   | 205           | $ 233           | $ 248           | $ 226           | $ 244           | $ 260           | 12%         |
+|  4 | Equipment acquired under finance leases -- TTM (1) $                                                                                     | 1,621         | $ 868           | $ 299           | $ 285           | S 269           | $ 239           | (72)%       |
+|  5 | Principal repayments of all other finance leases -- TTM (2) $                                                                            | 751           | $ 706           | $ 670           | $ 625           | $ 631           | $ 694           | (2)%        |
+|  6 | Free cash flow -- TTM (3)                                                                                                                | $ (23,487)    | $ (19,686)      | $ (11,569)      | $ (3,319)       | $ 7,878         | $ 21,434        | N/A         |
+|  7 | Free cash flow less principal repayments of finance leases and financing obligations -- TTM (4) $                                        | (33,481)      | $ (28,480)      | $ (19,758)      | $ (10,089)      | $ 1,929         | $ 15,929        | N/A         |
+|  8 | Free cash flow less equipment finance leases and principal repayments of all other finance leases and financing obligations -- TTM (5) $ | (26,064)      | $ (21,493)      | $ (12,786)      | $ (4,455)       | $ 6,734         | $ 20,241        | N/A         |
+|  9 | Common shares and stock-based awards outstanding                                                                                         | 10,551        | 10,597          | 10,627          | 10,625          | 10,794          | 10,792          | 2%          |
+| 10 | Common shares outstanding                                                                                                                | 10,183        | 10,198          | 10,242          | 10,258          | 10,313          | 10,330          | 1 %         |
+| 11 | Stock-based awards outstanding                                                                                                           | 368           | 399             | 384             | 367             | 481             | 462             | 16%         |
+| 12 | Stock-based awards outstanding -- % of common shares outstanding                                                                         | 3.6 %         | 3.9 %           | 3.8 %           | 3.6 %           | 4.7 %           | 4.5 %           | N/A         |
+| 13 | Results of Operations                                                                                                                    |               |                 |                 |                 |                 |                 |             |
+| 14 | Worldwide (WW) net sales $                                                                                                               | 121,234       | $ 127,101       | $ 149,204       | $ 127,358       | $ 134,383       | $ 143,083       | 13 %        |
+| 15 | WW net sales -- Y/Y growth, excluding F/X                                                                                                | 10 %          | 19%             | 12 %            | 11 %            | 11 %            | 11 %            | N/A         |
+| 16 | WW net sales -- TTM $                                                                                                                    | 485,902       | $ 502,191       | $ 513,983       | $ 524,897       | $ 538,046       | $ 554,028       | 10 %        |
+| 17 | WW net sales -- TTM Y/Y growth, excluding F/X                                                                                            | 11 %          | 12 %            | 13 %            | 13 %            | 13 %            | 12 %            | N/A         |
+| 18 | Operating income $                                                                                                                       | 3,317         | $ 2,525         | $ 2,737         | $ 4,774         | $ 7,681         | $ 11,188        | 343 %       |
+| 19 | F/X impact favorable $                                                                                                                   | 165           | $ 357           | $ 213           | $ 139           | $ 104           | $ 132           | N/A         |
+| 20 | Operating income -- Y/Y growth (decline), excluding F/X                                                                                  | (59)%         | (55)%           | (27)%           | 26%             | 128 %           | 338 %           | N/A         |
+| 21 | Operating margin -- % of WW net sales                                                                                                    | 2.7 %         | 2.0 %           | 1.8 %           | 3.7 %           | 5.7 %           | 7.8 %           | N/A         |
+| 22 | Operating income -- TTM $                                                                                                                | 15,298        | $ 12,971        | $ 12,248        | $ 13,353        | $ 17,717        | $ 26,380        | 103 %       |
+| 23 | Operating income -- TTM Y/Y growth (decline), excluding F/X                                                                              | (49)%         | (57)%           | (54)%           | (37)%           | 10 %            | 99 %            | N/A         |
+| 24 | Operating margin -- TTM % of WW net sales                                                                                                | 3.1 %         | 2.6%            | 2.4 %           | 2.5 %           | 3.3 %           | 4.8 %           | N/A         |
+| 25 | Net income (loss) $                                                                                                                      | (2,028)       | $ 2,872         | $ 278           | $ 3,172         | $ 6,750         | $ 9,879         | 244 %       |
+| 26 | Net income (loss) per diluted share $                                                                                                    | (0.20)        | $ 0.28          | $ 0.03          | $ 0.31          | $ 0.65          | $ 0.94          | 237 %       |
+| 27 | Net income (loss) -- TTM $                                                                                                               | 11,607        | $ 11,323        | $ (2,722)       | $ 4,294         | $ 13,072        | $ 20,079        | 77%         |
+=== TABLE END ===

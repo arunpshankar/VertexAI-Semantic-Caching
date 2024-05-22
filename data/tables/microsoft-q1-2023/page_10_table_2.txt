@@ -1,0 +1,5 @@
+|    | ('Net cash used in investing Effect of foreign exchange rates on cash and cash equivalents',)   | ('(3,264) 29',)   | ('(16,171) 24',)   | ('(13,546) (113)',)   | ('(20,582) 57',)   |
+|---:|:------------------------------------------------------------------------------------------------|:------------------|:-------------------|:----------------------|:-------------------|
+|  0 | Net change in cash and cash equivalents                                                         | 10,916            | (8,106)            | 12,631                | (1,726)            |
+|  1 | Cash and cash equivalents, beginning of period                                                  | 15,646            | 20,604             | 13,931                | 14,224             |
+|  2 | Cash and cash equivalents, end of period                                                        | $26,562           | $12,498            | $26,562               | $12,498            |

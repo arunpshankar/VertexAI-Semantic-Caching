@@ -1,0 +1,78 @@
+=== START PAGE CONTENT ===
+Alphabet Announces Fourth Quarter and Fiscal Year 2021 Results
+MOUNTAIN VIEW, Calif. February 1, 2022 Alphabet Inc. (NASDAQ: GOOG, GOOGL) today announced
+financial results for the quarter and fiscal year ended December 31, 2021.
+Sundar Pichai, CEO of Alphabet and Google, said: "Our deep investment in Al technologies continues to drive
+extraordinary and helpful experiences for people and businesses, across our most important products. Q4 saw
+ongoing strong growth in our advertising business, which helped millions of businesses thrive and find new
+customers, a quarterly sales record for our Pixel phones despite supply constraints, and our Cloud business
+continuing to grow strongly."
+Ruth Porat, CFO of Alphabet and Google, said: "Our fourth quarter revenues of $75 billion, up 32% year over year,
+reflected broad-based strength in advertiser spend and strong consumer online activity, as well as substantial
+ongoing revenue growth from Google Cloud. Our investments have helped us drive this growth by delivering the
+services that people, our partners and businesses need, and we continue to invest in long-term opportunities."
+Q4 2021 financial highlights
+The following table summarizes our consolidated financial results for the quarters and years ended December 31,
+2020 and 2021 (in millions, except for per share information and percentages).
+Quarter Ended
+December 31,
+2020
+2021
+(unaudited)
+Year Ended
+December 31,
+2020
+2021
+(unaudited)
+$257,637
+Revenues
+Increase in revenues year over year
+$ 56,898 $ 75,325
+23 %
+$ 182,527
+32 %
+13 %
+41 %
+Operating income
+$ 15,651
+$ 21,885
+Operating margin
+28 %
+29%
+$ 41,224
+23 %
+$ 78,714
+31 %
+Other income (expense), net
+3,038
+$
+2,517 $ 6,858
+$ 12,020
+Net income
+Diluted EPS
+$ 15,227
+$ 20,642
+$ 40,269
+$ 76,033
+$ 22.30
+$ 30.69
+$ 58.61
+$ 112.20
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('Revenues',)                       | ('(unaudited) (unaudited) $ 56,898 $ 75,325 $ 182,527 $ 257,637',)   |
+|---:|:------------------------------------|:---------------------------------------------------------------------|
+|  0 | Increase in revenues year over year | 23 % 32 % 13 % 41 %                                                  |
+|  1 | Operating income                    | $ 15,651 $ 21,885 $ 41,224 $ 78,714                                  |
+|  2 | Operating margin                    | 28% 29% 23 % 31 %                                                    |
+|  3 | Other income (expense), net         | $ 3,038 $ 2,517 $ 6,858 $ 12,020                                     |
+|  4 | Net income                          | $ 15,227 $ 20,642 $ 40,269 $ 76,033                                  |
+|  5 | Diluted EPS                         | $ 22.30 $ 30.69 $ 58.61 $ 112.20                                     |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('Quarter Ended',)   | ('Year Ended',)   |
+|---:|:---------------------|:------------------|
+|  0 | December 31,         | December 31,      |
+|  1 | 2020 2021            | 2020 2021         |
+=== TABLE END ===

@@ -1,0 +1,94 @@
+Other income (expense), net
+The following table presents our other income (expense), net (in millions; unaudited):
+Interest income
+Interest expense
+Foreign currency exchange gain (loss), net
+Gain (loss) on debt securities, net
+Gain (loss) on equity securities, net(1)
+Performance fees
+Income (loss) and impairment from equity method investments, net
+Other
+Other income (expense), net
+$
+Quarter Ended March 31,
+2021
+2022
+345
+414
+(76)
+(83)
+113
+(73)
+(86)
+4,837
+(367)
+(1,070)
+(665)
+233
+5
+(89)
+373
+(125)
+4,846 $
+(1,160)
+(1)
+Includes all gains and losses, unrealized and realized, on equity investments. For Q1 2022, the net effect of the loss on
+equity securities of $1,070 million and the $233 million reversal of previously accrued performance fees related to certain
+investments decreased the provision for income tax, net income, and diluted EPS by $176 million, $661 million, and $0.99,
+respectively. Fluctuations in the value of our investments may be affected by market dynamics and other factors and could
+significantly contribute to the volatility of OI&E in future periods.
+Segment results
+The following table presents our revenues and operating income (loss) (in millions; unaudited):
+Revenues:
+Google Services
+Google Cloud
+Other Bets
+Hedging gains (losses)
+Total revenues
+Operating income (loss):
+Google Services
+Google Cloud
+Other Bets
+Corporate costs, unallocated
+Total income from operations
+Ꭿ
+We report our segment results as Google Services, Google Cloud, and Other Bets:
+•
+•
+•
+Quarter Ended March 31,
+2021
+2022
+51,178 $
+4,047
+61,472
+5,821
+198
+440
+(109)
+278
+55,314 $
+68,011
+19,546 $
+22,920
+(974)
+(931)
+(1,145)
+(1,155)
+(990)
+(740)
+16,437 $
+20,094
+Google Services includes products and services such as ads, Android, Chrome, hardware, Google Maps,
+Google Play, Search, and YouTube. Google Services generates revenues primarily from advertising; sales
+of apps and in-app purchases, digital content products, and hardware; and fees received for subscription-
+based products such as YouTube Premium and YouTube TV.
+Google Cloud includes Google's infrastructure and platform services, collaboration tools, and other services
+for enterprise customers. Google Cloud generates revenues from fees received for Google Cloud Platform
+services, Google Workspace collaboration tools, and other enterprise services.
+Other Bets is a combination of multiple operating segments that are not individually material. Revenues
+from Other Bets are generated primarily from the sale of health technology and internet services.
+Unallocated corporate costs primarily include corporate initiatives, corporate shared costs, such as finance and
+legal, including certain fines and settlements, as well as costs associated with certain shared R&D activities.
+Additionally, hedging gains (losses) related to revenue are included in corporate costs.
+9

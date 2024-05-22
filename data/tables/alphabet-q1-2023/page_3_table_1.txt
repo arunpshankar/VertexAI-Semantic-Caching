@@ -1,0 +1,7 @@
+|    | ('',)                      | ('Severance and Related',)   | ('Office Space',)   | ('Total',)   |
+|---:|:---------------------------|:-----------------------------|:--------------------|:-------------|
+|  0 | Cost of revenues           | 461                          | $ 220               | $ 681        |
+|  1 | Research and development   | 835                          | 247                 | 1,082        |
+|  2 | Sales and marketing        | 445                          | 35                  | 480          |
+|  3 | General and administrative | 253                          | 62                  | 315          |
+|  4 | Total charges              | $ 1,994                      | $ 564               | $ 2,558      |

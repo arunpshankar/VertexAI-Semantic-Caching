@@ -1,0 +1,75 @@
+=== START PAGE CONTENT ===
+amazon
+AMAZON.COM ANNOUNCES FIRST QUARTER RESULTS
+SEATTLE (BUSINESS WIRE) April 29, 2021—Amazon.com, Inc. (NASDAQ: AMZN) today announced financial results
+for its first quarter ended March 31, 2021.
+.
+•
+•
+Operating cash flow increased 69% to $67.2 billion for the trailing twelve months, compared with $39.7 billion for
+the trailing twelve months ended March 31, 2020.
+Free cash flow increased to $26.4 billion for the trailing twelve months, compared with $24.3 billion for the trailing
+twelve months ended March 31, 2020.
+Free cash flow less principal repayments of finance leases and financing obligations increased to $14.9 billion for
+the trailing twelve months, compared with $14.3 billion for the trailing twelve months ended March 31, 2020.
+Free cash flow less equipment finance leases and principal repayments of all other finance leases and financing
+obligations increased to $16.8 billion for the trailing twelve months, compared with $11.7 billion for the trailing
+twelve months ended March 31, 2020.
+Common shares outstanding plus shares underlying stock-based awards totaled 519 million on March 31, 2021,
+compared with 513 million one year ago.
+Net sales increased 44% to $108.5 billion in the first quarter, compared with $75.5 billion in first quarter 2020.
+Excluding the $2.1 billion favorable impact from year-over-year changes in foreign exchange rates throughout the
+quarter, net sales increased 41% compared with first quarter 2020.
+Operating income increased to $8.9 billion in the first quarter, compared with operating income of $4.0 billion in first
+quarter 2020.
+Net income increased to $8.1 billion in the first quarter, or $15.79 per diluted share, compared with net income of $2.5
+billion, or $5.01 per diluted share, in first quarter 2020.
+"Two of our kids are now 10 and 15 years old—and after years of being nurtured, they're growing up fast and coming into their
+own," said Jeff Bezos, Amazon founder and CEO. "As Prime Video turns 10, over 175 million Prime members have streamed
+shows and movies in the past year, and streaming hours are up more than 70% year over year. Amazon Studios received a
+record 12 Academy Award nominations and two wins. Upcoming originals include Tom Clancy's Without Remorse, The
+Tomorrow War, The Underground Railroad, and much more. In just 15 years, AWS has become a $54 billion annual sales run
+rate business competing against the world's largest technology companies, and its growth is accelerating-up 32% year over
+year. Companies from Airbnb to McDonald's to Volkswagen come to AWS because we offer what is by far the broadest set of
+tools and services available, and we continue to invent relentlessly on their behalf. We love Prime Video and AWS, and we're
+proud to have them in the family.”
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+| ('• Operating cash flow increased 69% to $67.2 billion for the trailing twelve months, compared with $39.7 billion for the trailing twelve months ended March 31, 2020. • Free cash flow increased to $26.4 billion for the trailing twelve months, compared with $24.3 billion for the trailing twelve months ended March 31, 2020. • Free cash flow less principal repayments of finance leases and financing obligations increased to $14.9 billion for the trailing twelve months, compared with $14.3 billion for the trailing twelve months ended March 31, 2020. Free cash flow less equipment finance leases and principal repayments of all other finance leases and financing obligations increased to $16.8 billion for the trailing twelve months, compared with $11.7 billion for the trailing twelve months ended March 31, 2020. • Common shares outstanding plus shares underlying stock-based awards totaled 519 million on March 31, 2021, compared with 513 million one year ago. • Net sales increased 44% to $108.5 billion in the first quarter, compared with $75.5 billion in first quarter 2020. Excluding the $2.1 billion favorable impact from year-over-year changes in foreign exchange rates throughout the quarter, net sales increased 41% compared with first quarter 2020. Operating income increased to $8.9 billion in the first quarter, compared with operating income of $4.0 billion in first quarter 2020. • Net income increased to $8.1 billion in the first quarter, or $15.79 per diluted share, compared with net income of $2.5 billion, or $5.01 per diluted share, in first quarter 2020.',)   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+=== TABLE END ===
+=== TABLE START ===
+|    | ('ASSETS Current assets: Cash and cash equivalents $ 42,122 Marketable securities 42,274 Inventories 23,795 Accounts receivable, net and other 24,542 Total current assets 132,733',)   | ('(unaudited) $ 33,834 39,436 23,849 24,289 121,408',)   |
+|---:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------|
+|  0 | Property and equipment, net 113,114                                                                                                                                                     | 121,461                                                  |
+|  1 | Operating leases 37,553                                                                                                                                                                 | 39,328                                                   |
+|  2 | Goodwill 15,017                                                                                                                                                                         | 15,220                                                   |
+|  3 | Other assets 22,778                                                                                                                                                                     | 25,660                                                   |
+|  4 | Total assets $ 321,195                                                                                                                                                                  | $ 323,077                                                |
+|  5 | LIABILITIES AND STOCKHOLDERS' EQUITY                                                                                                                                                    |                                                          |
+|  6 | Current liabilities:                                                                                                                                                                    |                                                          |
+|  7 | Accounts payable 72,539                                                                                                                                                                 | $ 63,926                                                 |
+|  8 | Accrued expenses and other 44,138                                                                                                                                                       | 40,939                                                   |
+|  9 | Unearned revenue 9,708                                                                                                                                                                  | 10,539                                                   |
+| 10 | Total current liabilities 126,385                                                                                                                                                       | 115,404                                                  |
+| 11 | Long-term lease liabilities 52,573                                                                                                                                                      | 53,067                                                   |
+| 12 | Long-term debt 31,816                                                                                                                                                                   | 31,868                                                   |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('Outstanding shares 503 and 504 Treasury stock, at cost',)   | ('5 (1,837)',)   | ('5 (1,837)',)   |
+|---:|:--------------------------------------------------------------|:-----------------|:-----------------|
+|  0 | Additional paid-in capital                                    | 42,865           | 45,160           |
+|  1 | Accumulated other comprehensive income (loss)                 | (180)            | (666)            |
+|  2 | Retained earnings                                             | 52,551           | 60,658           |
+|  3 | Total stockholders' equity                                    | 93,404           | 103,320          |
+|  4 | Total liabilities and stockholders' equity                    | $ 321,195 $      | 323,077          |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('Accounts payable 72,539 $ 63,926 Accrued expenses and other 44,138 40,939 Unearned revenue 9,708 10,539',)   |
+|---:|:---------------------------------------------------------------------------------------------------------------|
+|  0 | Total current liabilities 126,385 115,404                                                                      |
+|  1 | Long-term lease liabilities 52,573 53,067                                                                      |
+|  2 | Long-term debt 31,816 31,868                                                                                   |
+|  3 | Other long-term liabilities 17,017 19,418                                                                      |
+=== TABLE END ===

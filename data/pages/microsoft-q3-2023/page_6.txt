@@ -1,0 +1,68 @@
+MICROSOFT CORPORATION
+Revenue:
+Product
+Service and other
+Total revenue
+INCOME STATEMENTS
+(In millions, except per share amounts) (Unaudited)
+Three Months Ended
+September 30,
+2023
+2022
+$15,535
+$15,741
+40,982
+34,381
+56,517
+50,122
+Cost of revenue:
+Product
+3,531
+4,302
+Service and other
+12,771
+11,150
+Total cost of revenue
+16,302
+15,452
+Gross margin
+40,215
+34,670
+Research and development
+6,659
+6,628
+Sales and marketing
+5,187
+5,126
+General and administrative
+1,474
+1,398
+Operating income
+26,895
+21,518
+Other income, net
+389
+54
+Income before income taxes
+27,284
+21,572
+Provision for income taxes
+4,993
+4,016
+Net income
+$22,291
+$17,556
+Earnings per share:
+Basic
+$3.00
+$2.35
+Diluted
+$2.99
+$2.35
+Weighted average shares outstanding:
+Basic
+7,429
+7,457
+Diluted
+7,462
+7,485

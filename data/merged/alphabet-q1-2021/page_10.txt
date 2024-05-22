@@ -1,0 +1,81 @@
+=== START PAGE CONTENT ===
+Segment results
+The following table presents our revenues and operating income (loss) (in millions; unaudited):
+Quarter Ended March 31,
+Revenues:
+Google Services
+Google Cloud
+Other Bets
+Hedging gains (losses)
+Total revenues
+Operating income (loss):
+Google Services
+Google Cloud
+Other Bets
+Corporate costs, unallocated
+Total income from operations
+2020
+2021
+38,198 $
+51,178
+2,777
+4,047
+135
+198
+49
+(109)
+$
+41,159 $
+55,314
+Quarter Ended March 31,
+2020
+2021
+11,548 $
+19,546
+(1,730)
+(974)
+(1,121)
+(1,145)
+(720)
+(990)
+$
+7,977 $
+16,437
+We report our segment results as Google Services, Google Cloud, and Other Bets:
+•
+•
+Google Services includes products and services such as ads, Android, Chrome, hardware, Google Maps,
+Google Play, Search, and YouTube. Google Services generates revenues primarily from advertising; sales
+of apps, in-app purchases, digital content products, and hardware; and fees received for subscription-based
+products such as YouTube Premium and YouTube TV.
+Google Cloud includes Google's infrastructure and data analytics platforms, collaboration tools, and other
+services for enterprise customers. Google Cloud generates revenues primarily from fees received for
+Google Cloud Platform services and Google Workspace (formerly known as G Suite) collaboration tools.
+Other Bets is a combination of multiple operating segments that are not individually material. Revenues
+from the Other Bets are derived primarily through the sale of internet services as well as licensing and R&D
+services.
+Unallocated corporate costs primarily include corporate initiatives, corporate shared costs, such as finance and
+legal, including fines and settlements, as well as costs associated with certain shared research and development
+activities. Additionally, hedging gains (losses) related to revenue are included in corporate costs.
+10
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('Operating income (loss):',)   | ('2020 2021',)   |
+|---:|:--------------------------------|:-----------------|
+|  0 | Google Services                 | 11,548 $ 19,546  |
+|  1 | Google Cloud                    | (1,730) (974)    |
+|  2 | Other Bets                      | (1,121) (1,145)  |
+|  3 | Corporate costs, unallocated    | (720) (990)      |
+|  4 | Total income from operations    | $ 7,977 $ 16,437 |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('',)                  | ('2020',)   | ('2021',)   |
+|---:|:-----------------------|:------------|:------------|
+|  0 | Revenues:              |             |             |
+|  1 | Google Services        | 38,198      | $ 51,178    |
+|  2 | Google Cloud           | 2,777       | 4,047       |
+|  3 | Other Bets             | 135         | 198         |
+|  4 | Hedging gains (losses) | 49          | (109)       |
+|  5 | Total revenues         | 41,159      | $ 55,314    |
+=== TABLE END ===

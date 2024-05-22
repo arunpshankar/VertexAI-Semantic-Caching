@@ -1,0 +1,6 @@
+|    | ('Common stock and paid-in capital - shares authorized 24,000; outstanding 7,431 and 7,432',)   | ('95,508',)   | ('93,718',)   |
+|---:|:------------------------------------------------------------------------------------------------|:--------------|:--------------|
+|  0 | Retained earnings                                                                               | 132,143       | 118,848       |
+|  1 | Accumulated other comprehensive loss                                                            | (6,937)       | (6,343)       |
+|  2 | Total stockholders' equity                                                                      | 220,714       | 206,223       |
+|  3 | Total liabilities and stockholders' equity                                                      | $445,785      | $411,976      |

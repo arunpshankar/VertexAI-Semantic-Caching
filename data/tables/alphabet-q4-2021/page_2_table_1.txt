@@ -1,0 +1,8 @@
+|    | ('Quarter Ended December 31, 2020 2021',)    |
+|---:|:---------------------------------------------|
+|  0 | Operating income (loss):                     |
+|  1 | Google Services 19,066 $ 25,993              |
+|  2 | Google Cloud (1,243) (890)                   |
+|  3 | Other Bets (1,136) (1,450)                   |
+|  4 | (1,036) (1,768) Corporate costs, unallocated |
+|  5 | Total income from operations 15,651 $ 21,885 |

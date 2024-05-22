@@ -1,0 +1,55 @@
+Alphabet Inc.
+CONSOLIDATED STATEMENTS OF INCOME
+(In millions, except share amounts which are reflected in thousands and per share amounts)
+Revenues
+Costs and expenses:
+Cost of revenues
+Research and development
+Sales and marketing
+General and administrative
+Total costs and expenses
+Income from operations
+Other income (expense), net
+Income before income taxes
+Provision for income taxes
+Net income
+Basic earnings per share of Class A, Class B, and Class C stock
+Diluted earnings per share of Class A, Class B, and Class C stock
+Number of shares used in basic earnings per share calculation
+Number of shares used in diluted earnings per share calculation
+5
+Quarter Ended March 31,
+2021
+2022
+(unaudited)
+55,314 $
+68,011
+24,103
+29,599
+7,485
+9,119
+4,516
+5,825
+2,773
+3,374
+38,877
+47,917
+16,437
+20,094
+4,846
+(1,160)
+21,283
+18,934
+3,353
+2,498
+$
+17,930 $
+16,436
+26.63 $
+24.90
+26.29
+24.62
+673,220
+660,171
+682,071
+667,551

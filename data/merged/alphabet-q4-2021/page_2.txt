@@ -1,0 +1,116 @@
+=== START PAGE CONTENT ===
+Q4 2021 supplemental information (in millions, except for number of employees; unaudited)
+Revenues, Traffic Acquisition Costs (TAC) and number of employees
+Quarter Ended December 31,
+2020
+2021
+Google Search & other
+$
+31,903 $
+43,301
+YouTube ads
+Google Network
+Google advertising
+Google other
+Google Services total
+Google Cloud
+6,885
+8,633
+7,411
+9,305
+46,199
+61,239
+6,674
+8,161
+52,873
+69,400
+3,831
+5,541
+Other Bets
+196
+181
+Hedging gains (losses)
+(2)
+203
+Total revenues
+$
+56,898 $
+75,325
+Total TAC
+$
+10,466 $
+13,427
+Number of employees
+135,301
+156,500
+Segment Operating Results
+Operating income (loss):
+Google Services
+Google Cloud
+Other Bets
+Corporate costs, unallocated
+Total income from operations
+Quarter Ended December 31,
+2020
+2021
+$
+19,066 $
+25,993
+(1,243)
+(890)
+(1,136)
+(1,450)
+(1,036)
+(1,768)
+$
+15,651 $
+21,885
+Change in the useful lives of our server and network equipment (unaudited)
+In January 2021, we completed an assessment of the useful lives of our servers and network equipment and
+adjusted the estimated useful life of our servers from three years to four years and the estimated useful life of
+certain network equipment from three years to five years. This change in accounting estimate was effective
+beginning in fiscal year 2021, and the effect for the three and twelve months ended December 31, 2021,
+respectively, was a reduction in depreciation expense of $446 million and $2.6 billion and an increase in net income
+of $347 million and $2.0 billion, or $0.52 and $3.02 per basic share and $0.52 and $2.98 per diluted share.
+Stock Split Effected in Form of Stock Dividend ("Stock Split")
+Alphabet today announced that the Board of Directors had approved and declared a 20-for-one stock split (the
+"Stock Split") in the form of a one-time special stock dividend on each share of the Company's Class A, Class B,
+and Class C stock. The Stock Split is subject to stockholder approval of an amendment to the Company's Amended
+and Restated Certificate of Incorporation to increase the number of authorized shares of Class A, Class B, and
+Class C stock to accommodate the Stock Split.
+If approval is obtained, each of the Company's stockholders of record at the close of business on July 1, 2022 (the
+"Record Date"), will receive, after the close of business on July 15, 2022, a dividend of 19 additional shares of the
+same class of stock for every share held by such stockholder as of the Record Date.
+Webcast and conference call information
+A live audio webcast of our fourth quarter 2021 earnings release call will be available on YouTube at https://
+youtu.be/ltLfgdDN50E. The call begins today at 2:00 PM (PT) / 5:00 PM (ET). This press release, including the
+reconciliations of certain non-GAAP measures to their nearest comparable GAAP measures, is also available at
+http://abc.xyz/investor.
+2
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('Google Search & other',)   | ('$ 31,903',)   | ('$ 43,301',)   |
+|---:|:-----------------------------|:----------------|:----------------|
+|  0 | YouTube ads                  | 6,885           | 8,633           |
+|  1 | Google Network               | 7,411           | 9,305           |
+|  2 | Google advertising           | 46,199          | 61,239          |
+|  3 | Google other                 | 6,674           | 8,161           |
+|  4 | Google Services total        | 52,873          | 69,400          |
+|  5 | Google Cloud                 | 3,831           | 5,541           |
+|  6 | Other Bets                   | 196             | 181             |
+|  7 | Hedging gains (losses)       | (2)             | 203             |
+|  8 | Total revenues               | 56,898          | $ 75,325        |
+|  9 | Total TAC                    | 10,466          | $ 13,427        |
+| 10 | Number of employees          | 135,301         | 156,500         |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('Quarter Ended December 31, 2020 2021',)    |
+|---:|:---------------------------------------------|
+|  0 | Operating income (loss):                     |
+|  1 | Google Services 19,066 $ 25,993              |
+|  2 | Google Cloud (1,243) (890)                   |
+|  3 | Other Bets (1,136) (1,450)                   |
+|  4 | (1,036) (1,768) Corporate costs, unallocated |
+|  5 | Total income from operations 15,651 $ 21,885 |
+=== TABLE END ===

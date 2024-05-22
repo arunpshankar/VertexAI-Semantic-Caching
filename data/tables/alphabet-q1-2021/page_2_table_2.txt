@@ -1,0 +1,7 @@
+|    | ('Operating income (loss):',)   | ('2020 2021',)   |
+|---:|:--------------------------------|:-----------------|
+|  0 | Google Services                 | 11,548 $ 19,546  |
+|  1 | Google Cloud                    | (1,730) (974)    |
+|  2 | Other Bets                      | (1,121) (1,145)  |
+|  3 | Corporate costs, unallocated    | (720) (990)      |
+|  4 | Total income from operations    | 7,977 $ 16,437   |

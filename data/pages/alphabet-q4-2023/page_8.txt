@@ -1,0 +1,92 @@
+Segment Results
+The following table presents our segment revenues and operating income (loss) (in millions; unaudited):
+Revenues:
+Google Services
+Google Cloud
+Other Bets
+Hedging gains (losses)
+Total revenues
+Operating income (loss):
+Google Services
+Google Cloud
+Other Bets
+Alphabet-level activities
+Total income from operations
+We report our segment results as Google Services, Google Cloud, and Other Bets:
+•
+•
+Quarter Ended December 31,
+2022
+2023
+67,838 $
+76,311
+7,315
+9,192
+226
+657
+669
+150
+76,048 $
+86,310
+20,222 $
+26,730
+(186)
+864
+(1,237)
+(863)
+(639)
+(3,034)
+18,160 $
+23,697
+Google Services includes products and services such as ads, Android, Chrome, devices, Google Maps,
+Google Play, Search, and YouTube. Google Services generates revenues primarily from advertising; fees
+received for consumer subscription-based products such as YouTube TV, YouTube Music and Premium,
+and NFL Sunday Ticket; the sale of apps and in-app purchases and devices.
+Google Cloud includes infrastructure and platform services, collaboration tools, and other services for
+enterprise customers. Google Cloud generates revenues primarily from consumption-based fees and
+subscriptions received for Google Cloud Platform services, Google Workspace communication and
+collaboration tools, and other enterprise services.
+Other Bets is a combination of multiple operating segments that are not individually material. Revenues
+from Other Bets are generated primarily from the sale of healthcare-related services and internet services.
+Certain costs are not allocated to our segments because they represent Alphabet-level activities. These costs
+primarily include Al-focused shared R&D activities, including development costs of our general Al models; corporate
+initiatives such as our philanthropic activities; corporate shared costs such as certain finance, human resource, and
+legal costs, including certain fines and settlements. Charges associated with reductions in our workforce and office
+space during 2023 were not allocated to our segments. Additionally, hedging gains (losses) related to revenue are
+not allocated to our segments.
+Other Income (Expense), Net
+The following table presents our other income (expense), net (in millions; unaudited):
+Quarter Ended December 31,
+2022
+2023
+Interest income
+659 $
+1,110
+Interest expense
+(90)
+(69)
+Foreign currency exchange gain (loss), net
+(185)
+(449)
+Gain (loss) on debt securities, net
+(176)
+(115)
+Gain (loss) on equity securities, net(1)
+(1,487)
+586
+Performance fees
+193
+(45)
+Income (loss) and impairment from equity method investments, net
+(31)
+(256)
+Other
+104
+(47)
+Other income (expense), net
+(1,013) $
+715
+(1)
+Includes all gains and losses, unrealized and realized, on equity securities. For Q4 2023, the net effect of the gain on equity
+securities of $586 million and the $45 million of performance fees related to certain investments increased the provision for
+8

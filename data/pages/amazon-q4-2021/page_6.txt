@@ -1,0 +1,61 @@
+•
+•
+•
+•
+•
+•
+•
+•
+AWS Cloud WAN, a managed wide area network service that makes it faster and easier for enterprises to
+build, manage, and monitor a unified global network that seamlessly connects cloud and on-premises
+environments.
+AWS IoT TwinMaker, which makes it faster and easier for developers to create digital twins of real-world
+systems like buildings, factories, industrial equipment, and production lines.
+AWS IoT FleetWise, which makes it easier and more cost-effective for automakers to collect, transform, and
+transfer vehicle data to the cloud in near-real time.
+New serverless options for Amazon Redshift, Amazon Managed Streaming for Apache Kafka, and Amazon
+EMR that make it easier to analyze data at any scale without having to configure, scale, or manage the
+underlying infrastructure.
+AWS Amplify Studio, a visual development environment that allows developers to create web application
+user interfaces with minimal coding.
+Four new storage services and capabilities for Amazon S3 Glacier, Amazon FSx, Amazon EBS Snapshots,
+and AWS Backup that deliver more choice, reduce costs, and help customers better protect their data.
+New capabilities for Amazon Relational Database Services, Amazon DynamoDB, and Amazon DevOps Guru
+that make it easier and more cost efficient for customers to customize their database environment, run the
+right databases for their job, and use machine learning to better detect and diagnose database-related
+performance issues.
+AWS announced the general availability of Babelfish for Amazon Aurora PostgreSQL-Compatible Edition, a new
+capability that allows customers to run applications written for Microsoft SQL Server directly in Amazon Aurora with
+little to no code changes.
+AWS announced the general availability of Amazon EC2 Hpc6a instances, a new instance type that is purpose-built
+for high-performance computing workloads, like genomics, computational fluid dynamics, weather forecasting,
+molecular dynamics, computational chemistry, financial risk modeling, computer-aided engineering, and seismic
+imaging.
+AWS continued to expand its infrastructure footprint around the world, opening the AWS Asia Pacific (Jakarta)
+Region and announcing plans to launch the AWS Canada West (Calgary) Region in late 2023 or early 2024. Newly
+released AWS economic impact studies estimate that the AWS Asia Pacific (Jakarta) Region will create 24,700 direct
+and indirect jobs through a planned investment of $5 billion (IDR$71 trillion) in Indonesia over the next 15 years, and
+AWS will invest over $17 billion (CA$21 billion) in Canada by 2037 on the construction and operation of its two
+Canadian infrastructure Regions. Globally, AWS has 84 Availability Zones across 26 geographic Regions, with
+announced plans to launch 24 more Availability Zones and eight more AWS Regions.
+Investing in Employees and Our Workplace
+•
+Amazon now employs more than 1.6 million people worldwide and continues to invest in offering industry-leading
+pay and benefits. This includes an average starting wage for front-line employees of more than $18 per hour in the
+U.S. and comprehensive benefits for full-time employees. These benefits include health, vision, and dental insurance; a
+401(k) with 50% company match; up to 20 weeks paid parental leave; and Amazon's Career Choice program, through
+which the company fully funds the cost of an employee's college tuition, including classes, books, and fees. Amazon
+also expanded its incentives for front-line employees to get vaccinated against COVID-19 to include $40 for boosters.
+Each front-line employee is eligible to receive up to $120 ($40 per dose), and new hires who join the company fully
+vaccinated are given a $100 new-hire bonus.
+Amazon launched Make Every Day Better for Employees, a new mechanism to help keep employees up to date on
+changes the company is making based on employee feedback. The first employee-prompted updates rolled out by the
+company included enhanced mental health and well-being resources, workplace technology improvements, and
+support for immigration needs.
+Amazon is helping bring more parents back to the workforce through the company's new FamilyFlex program. The
+program provides greater flexibility and benefits to eligible hourly employees in the U.S., including scheduling
+options, child care resources, and Anytime Pay for employees looking to access their earnings without waiting for
+payday.
+Amazon launched a new tool, Project Juno, to help military spouses continue their careers at Amazon when their
+partners need to move on military orders. Created by military spouses for military spouses, Project Juno helps a
+member of Amazon's team find the same job or a similar role near their new home within 48 hours.

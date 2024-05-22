@@ -1,0 +1,5 @@
+|    | ('Windows Commercial products and cloud services',)             | ('(3)%',)   | ('6%',)   | ('3%',)   |
+|---:|:----------------------------------------------------------------|:------------|:----------|:----------|
+|  0 | Xbox content and services                                       | (12)%       | 4%        | (8)%      |
+|  1 | Search and news advertising excluding traffic acquisition costs | 10%         | 5%        | 15%       |
+|  2 | Devices                                                         | (39)%       | 5%        | (34)%     |

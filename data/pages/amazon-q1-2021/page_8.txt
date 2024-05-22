@@ -1,0 +1,49 @@
+•
+•
+way golf content is created, distributed, and experienced. The German Bundesliga, Germany's top national
+football league, uses AWS to power three new Bundesliga Match Facts to give fans deeper insights into action
+on the pitch, while Formula 1 (F1) uses a range of AWS technologies, including machine learning, for six
+new F1 Insights for the 2021 season that help motor racing fans understand the strategy of their favorite
+driver.
+Automotive companies continue to choose AWS to support the development of their next-generation vehicles.
+Continental, one of the world's largest automotive parts manufacturers, announced they are collaborating
+with AWS to develop the Continental Automotive Edge Platform (CAEdge), which will allow automakers to
+develop, deploy, and manage code to run connected and autonomous vehicles. In addition, AWS and Torc
+Robotics, a subsidiary of Daimler Truck AG, are collaborating to scale an autonomous truck development
+platform in the cloud so that Torc Robotics can accelerate testing and commercialization of autonomous
+driving technology. And ABB announced a collaboration with AWS to create a cloud-based fleet management
+system for electric vehicles, helping companies accelerate electrification of their fleets while maintaining
+business continuity.
+AWS announced the launch of a second full region in Japan—the AWS Asia Pacific (Osaka) Region—which is an
+expansion of the existing AWS Osaka Local Region. The new region consists of three Availability Zones (AZs) and
+joins the existing 25 Availability Zones in eight AWS Regions across Asia Pacific in Beijing, Hong Kong, Mumbai,
+Ningxia, Seoul, Singapore, Sydney, and Tokyo. Globally, AWS has 80 Availability Zones across 25 geographic
+regions, with plans to launch 15 more Availability Zones and five more AWS Regions in Australia, India, Indonesia,
+Spain, and Switzerland.
+AWS and Red Hat announced the general availability of Red Hat OpenShift Service on AWS (ROSA), a new managed
+service that makes it easier for Red Hat OpenShift customers to build, scale, and manage containerized applications on
+AWS. With ROSA, customers can enjoy more simplified Kubernetes cluster creation without the burden of manually
+scaling and managing the underlying infrastructure. ROSA streamlines moving on-premises Red Hat OpenShift
+workloads to AWS and offers a tighter integration with other AWS technologies.
+AWS announced the general availability of AQUA (Advanced Query Accelerator) for Amazon Redshift, an innovative
+new distributed and hardware-accelerated cache that delivers up to ten times better query performance than other cloud
+data warehouses. AQUA brings compute to the storage layer, helping customers avoid networking bandwidth
+limitations by eliminating unnecessary data movement between where data is stored and compute clusters. With
+AQUA, customers have more up-to-date dashboards, save development time, and their systems are easier to maintain.
+AWS announced the general availability of Amazon Elastic Compute Cloud (EC2) X2gd instances, the next generation
+of advanced, memory-optimized instances powered by AWS-designed, Arm-based Graviton2 processors. New X2gd
+instances deliver up to 55% better price/performance compared to current generation x86-based X1 instances, while
+also offering increased memory per vCPU compared to other Graviton2-based instances. Together, the higher
+performance and additional memory of X2gd instances make it possible for customers to more efficiently run memory
+intensive workloads like in-memory databases, relational databases, electronic design automation (EDA) workloads,
+real-time analytics, and real-time caching servers.
+AWS announced Amazon Lookout for Equipment, a new service that uses AWS-developed machine learning models
+to help customers perform predictive maintenance on the equipment in their facilities. Amazon Lookout for Equipment
+ingests sensor data from a customer's industrial equipment (e.g., pressure, flow rate, RPMs, temperature, and power),
+and then trains a unique machine learning model to accurately predict early warning signs of machine failure or
+suboptimal performance using real-time data streams from the customer's equipment. With Amazon Lookout for
+Equipment, customers can detect abnormalities with speed and precision, quickly diagnose issues, reduce false alerts,
+and avoid expensive downtime by taking action before machine failures occur.
+AWS announced the general availability of Amazon Lookout for Vision, a service that analyzes images using computer
+vision and sophisticated machine learning capabilities to spot product or process defects and anomalies. By employing
+advanced machine learning techniques, Amazon Lookout for Vision is able to train a model using as few as 30 images,

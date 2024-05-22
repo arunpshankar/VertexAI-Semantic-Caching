@@ -1,0 +1,26 @@
+|    | ('Goodwill 15,017 15,350',)                                         |
+|---:|:--------------------------------------------------------------------|
+|  0 | Other assets 22,778 27,273                                          |
+|  1 | Total assets $ 321,195 $ 360,319                                    |
+|  2 | LIABILITIES AND STOCKHOLDERS' EQ TY                                 |
+|  3 | Current liabilities:                                                |
+|  4 | Accounts payable EA 72,539 $ 66,090                                 |
+|  5 | Accrued expenses and other 44,138 41,007                            |
+|  6 | Unearned revenue 9,708 10,695                                       |
+|  7 | Total current liabilities 126,385 117,792                           |
+|  8 | Long-term lease liabilities 52,573 56,297                           |
+|  9 | Long-term debt 31,816 50,279                                        |
+| 10 | Other long-term liabilities 17,017 21,148                           |
+| 11 | Commitments and contingencies                                       |
+| 12 | Stockholders' equity: Preferred stock, $0.01 par value:             |
+| 13 | Authorized shares - 500                                             |
+| 14 | - none Issued and outstanding shares Common stock, $0.01 par value: |
+| 15 | Authorized shares - 5,000                                           |
+| 16 | Issued shares — 527 and 530                                         |
+| 17 | Outstanding shares -503 and 506 5                                   |
+| 18 | Treasury stock, at cost (1,837) (1,837)                             |
+| 19 | 42,865 48,724 Additional paid-in capital                            |
+| 20 | (180) (525) Accumulated other comprehensive income (loss)           |
+| 21 | Retained earnings 52,551 68,436                                     |
+| 22 | Total stockholders' equity 93,404 114,803                           |
+| 23 | Total liabilities and stockholders' equity $ 321,195 $ 360,319      |

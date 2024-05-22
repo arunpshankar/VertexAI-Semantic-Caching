@@ -1,0 +1,59 @@
+Alphabet Announces Second Quarter 2022 Results
+MOUNTAIN VIEW, Calif. - July 26, 2022 - Alphabet Inc. (NASDAQ: GOOG, GOOGL) today announced financial
+results for the quarter ended June 30, 2022.
+Sundar Pichai, CEO of Alphabet and Google, said: “In the second quarter our performance was driven by Search
+and Cloud. The investments we've made over the years in Al and computing are helping to make our services
+particularly valuable for consumers, and highly effective for businesses of all sizes. As we sharpen our focus, we'll
+continue to invest responsibly in deep computer science for the long-term."
+Ruth Porat, CFO of Alphabet and Google, said: “Our consistent investments to support long-term growth are
+reflected in our solid performance in the second quarter, with revenues of $69.7 billion in the quarter, up 13% versus
+last year or 16% on a constant currency basis. We are focused on responsible capital allocation in support of our
+growth opportunities."
+Stock Split Effected in the Form of a Stock Dividend ("Stock Split")
+On July 15, 2022, the company executed a 20-for-one stock split with a record date of July 1, 2022, effected in the
+form of a one-time special stock dividend on each share of the company's Class A, Class B, and Class C stock. All
+references made to share or per share amounts in this press release have been retroactively adjusted to reflect the
+effects of the Stock Split.
+Q2 2022 financial highlights
+The following table summarizes our consolidated financial results for the quarters ended June 30, 2021 and 2022
+(in millions, except for per share information and percentages; unaudited).
+Revenues
+Change in revenues year over year
+(1)
+Change in constant currency revenues year over year(1) (2)
+Operating income
+Operating margin
+Other income (expense), net
+EA
+SA
+Quarter Ended June 30,
+2021
+2022
+61,880
+$
+69,685
+62%
+13 %
+57 %
+16%
+19,361
+EA
+19,453
+31 %
+28 %
+2,624
+(439)
+18,525
+$
+16,002
+1.36
+1.21
+Net income
+Diluted EPS
+(1)
+(2)
+Foreign currency movements affected year-over-year revenue growth rates by 3.7%. This reflects, when rounding to the
+one decimal place, the percentage change in consolidated revenues and consolidated constant currency revenues year
+over year of 12.6% and 16.3%, respectively.
+Non-GAAP measure. See the table captioned “Reconciliation from GAAP revenues to non-GAAP constant currency
+revenues" for more details.

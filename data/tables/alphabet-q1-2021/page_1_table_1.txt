@@ -1,0 +1,10 @@
+|    | ('',)                                                     | ('Quarter Ended March 31, 2020 2021',)   |
+|---:|:----------------------------------------------------------|:-----------------------------------------|
+|  0 | Revenues                                                  | 41,159 $ 55,314                          |
+|  1 | Increase in revenues year over year                       | 13 % 34 %                                |
+|  2 | Increase in constant currency revenues year over year (¹) | 15 % 32 %                                |
+|  3 | Operating income                                          | SA 7,977 $ 16,437                        |
+|  4 | Operating margin                                          | 19 % 30 %                                |
+|  5 | Other income (expense), net                               | SA (220) 4,846                           |
+|  6 | Net income                                                | $ 6,836 17,930                           |
+|  7 | Diluted EPS                                               | $ 9.87 $ 26.29                           |

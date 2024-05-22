@@ -1,0 +1,17 @@
+|    | ('Revenues',)                                                     | ('69,685',)   | ('$ 74,604',)   | ('$ 137,696',)   | ('$ 144,391',)   |
+|---:|:------------------------------------------------------------------|:--------------|:----------------|:-----------------|:-----------------|
+|  0 | Costs and expenses:                                               |               |                 |                  |                  |
+|  1 | Cost of revenues                                                  | 30,104        | 31,916          | 59,703           | 62,528           |
+|  2 | Research and development                                          | 9,841         | 10,588          | 18,960           | 22,056           |
+|  3 | Sales and marketing                                               | 6,630         | 6,781           | 12,455           | 13,314           |
+|  4 | General and administrative                                        | 3,657         | 3,481           | 7,031            | 7,240            |
+|  5 | Total costs and expenses                                          | 50,232        | 52,766          | 98,149           | 105,138          |
+|  6 | Income from operations                                            | 19,453        | 21,838          | 39,547           | 39,253           |
+|  7 | Other income (expense), net                                       | (439)         | 65              | (1,599)          | 855              |
+|  8 | Income before income taxes                                        | 19,014        | 21,903          | 37,948           | 40,108           |
+|  9 | Provision for income taxes                                        | 3,012         | 3,535           | 5,510            | 6,689            |
+| 10 | Net income                                                        | $ 16,002      | $ 18,368        | $ 32,438         | $ 33,419         |
+| 11 | Ba earnings per share of Class A, Class B, and Class C            | stock $ 1.22  | $ 1.45          | 2.46             | 2.6              |
+| 12 | Diluted earnings per share of Class A, Class B, and Class C stock | 1.21          | $ 1.44          | $ 2.44           | $ 2.61           |
+| 13 | Number of shares used in basic earnings per share calculation     | 13,133        | 12,668          | 13,168           | 12,725           |
+| 14 | Number of shares used in diluted earnings per share calculation   | 13,239        | 12,764          | 13,295           | 12,794           |

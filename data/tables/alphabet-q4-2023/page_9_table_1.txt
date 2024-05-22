@@ -1,0 +1,5 @@
+|    | ('',)                                     | ('December 31, 2023',)   |
+|---:|:------------------------------------------|:-------------------------|
+|  0 | Net cash provided by operating activities | $ 18,915                 |
+|  1 | Less: purchases of property and equipment | (11,019)                 |
+|  2 | Free cash flow                            | $ 7,896                  |

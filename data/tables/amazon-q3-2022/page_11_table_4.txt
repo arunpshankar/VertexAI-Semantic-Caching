@@ -1,0 +1,6 @@
+|    | ('Accounts payable',)       | ('78,664 $ 67,760',)   |
+|---:|:----------------------------|:-----------------------|
+|  0 | Accrued expenses and other  | 51,775 59,974          |
+|  1 | Unearned revenue            | 11,827 12,629          |
+|  2 | Total current liabilities   | 142,266 140,363        |
+|  3 | Long-term lease liabilities | 67,651 69,332          |

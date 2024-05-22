@@ -1,0 +1,62 @@
+=== START PAGE CONTENT ===
+Amazon Games began a closed preview of multiplayer online PC game New World, during which it was one of the
+most watched games on Twitch, with hundreds of thousands of players and millions of total hours played. In addition,
+Amazon Games announced Lost Ark, a multiplayer action-role-playing game developed by Smilegate RPG that is
+scheduled to launch in North America and Europe later this year.
+Amazon Devices and Services
+•
+•
+Amazon announced the all-new Echo Show 8 with a 13-megapixel wide-angle camera that digitally pans and zooms
+during video calls, and Echo Show 5 with an upgraded HD camera and more color options at a new lower price. The
+first Echo Show 5 Kids offers curated kid-friendly content, parental controls, a colorful design, and a one-year
+subscription to Amazon Kids+.
+Amazon announced a six-year collaboration with Ford to bring Alexa to millions of retail and commercial vehicles in
+North America. The deal is the industry's broadest roll-out of the Built-in Alexa hands-free experience, and includes
+complimentary access to key Alexa features for all new and existing customers for up to three years. Ford and Amazon
+will also work together to deliver new voice AI-enabled features and services, including the first custom Alexa skills
+for Ford commercial vehicles.
+Alexa added new custom voice options, including celebrity personalities Shaquille O'Neal and Melissa McCarthy.
+Using machine learning advancements in acoustic event detection, Amazon added the ability for Alexa to start a
+Routine after detecting specific sounds like a baby crying, dog barking, or a person coughing or snoring. For example,
+customers can set up a Routine that enables their Echo device to automatically play white noise when snoring is
+detected.
+Samsung Appliance Division announced that Alexa will work alongside Bixby, Samsung's personal voice assistant, on
+the Samsung Family Hub refrigerator. This announcement continues Amazon's commitment to providing customers
+with the choice and flexibility to interact with multiple voice agents on a single device, simultaneously.
+There are now more than 900,000 registered developers, brands, and device makers building with Alexa. At Alexa
+Live, Amazon's annual event for Alexa developers, Amazon introduced new ways for developers to increase revenue,
+engagement, and discovery. New innovations for developers include Paid Skills, Alexa Shopping Actions, Widgets,
+and the international expansion of In-Skill Purchasing.
+Amazon announced new features that make it easier for Alexa developers to build entertaining and useful customer
+experiences, including: Interactive Media Skill Components that shorten the time it takes for radio, podcast, and music
+providers to launch experiences on Alexa; Shared Activities Application Programming Interface (API) that enables
+developers to build multi-player gaming experiences; and Food Skill API that enables developers to quickly create
+high quality, food delivery, and pickup experiences.
+Ring announced general availability of the Floodlight Cam Wired Pro, equipped with new features like 3D Motion
+Detection, and introduced the Floodlight Cam Wired Plus, Ring's most affordable outdoor floodlight camera.
+Amazon Web Services
+•
+AWS announced significant customer momentum, with new commitments and migrations from customers across
+many major industries.
+•
+Telecom: Swisscom, Switzerland's leading telecommunications company and IT services provider, selected
+AWS as its preferred public cloud provider to power a wide range of core applications including its 5G
+network, enterprise resource planning, operational support system, business support system, and
+communications provisioning. Bell Canada, one of Canada's largest telecommunications companies, will use
+the breadth and depth of AWS technologies to create and scale new consumer and business applications and
+will bring AWS Wavelength to Canada.
+Financial services: BMO Financial Group, one of North America's largest financial institutions, selected
+AWS as its preferred, strategic cloud provider to modernize its banking platforms and build digital financial
+services applications as part of the company's ongoing digital transformation. As part of its move to
+personalize services, the bank is using Amazon Connect-AWS's easy-to-use, scalable cloud contact center
+-to provide a seamless and more customer-centric experience for its call center, as well as to support remote
+working capabilities for employees. Bancolombia, Colombia's largest bank, selected AWS as its strategic
+cloud provider and plans to migrate its applications to AWS.
+Automotive: Ferrari S.p.A., a leading global manufacturer of luxury, high-performance sports cars, entered
+into an agreement with AWS to become its official cloud, machine learning, and artificial intelligence
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+| ("• Amazon announced the all-new Echo Show 8 with a 13-megapixel wide-angle camera that digitally pans and zooms during video calls, and Echo Show 5 with an upgraded HD camera and more color options at a new lower price. The first Echo Show 5 Kids offers curated kid-friendly content, parental controls, a colorful design, and a one-year subscription to Amazon Kids+. • Amazon announced a six-year collaboration with Ford to bring Alexa to millions of retail and commercial vehicles in North America. The deal is the industry's broadest roll-out of the Built-in Alexa hands-free experience, and includes complimentary access to key Alexa features for all new and existing customers for up to three years. Ford and Amazon will also work together to deliver new voice AI-enabled features and services, including the first custom Alexa skills for Ford commercial vehicles. • Alexa added new custom voice options, including celebrity personalities Shaquille O'Neal and Melissa McCarthy. • Using machine learning advancements in acoustic event detection, Amazon added the ability for Alexa to start a Routine after detecting specific sounds like a baby crying, dog barking, or a person coughing or snoring. For example, customers can set up a Routine that enables their Echo device to automatically play white noise when snoring is detected. Samsung Appliance Division announced that Alexa will work alongside Bixby, Samsung's personal voice assistant, on the Samsung Family Hub refrigerator. This announcement continues Amazon's commitment to providing customers with the choice and flexibility to interact with multiple voice agents on a single device, simultaneously. • There are now more than 900,000 registered developers, brands, and device makers building with Alexa. At Alexa Live, Amazon's annual event for Alexa developers, Amazon introduced new ways for developers to increase revenue, engagement, and discovery. New innovations for developers include Paid Skills, Alexa Shopping Actions, Widgets, and the international expansion of In-Skill Purchasing. Amazon announced new features that make it easier for Alexa developers to build entertaining and useful customer experiences, including: Interactive Media Skill Components that shorten the time it takes for radio, podcast, and music providers to launch experiences on Alexa; Shared Activities Application Programming Interface (API) that enables developers to build multi-player gaming experiences; and Food Skill API that enables developers to quickly create high quality, food delivery, and pickup experiences. Ring announced general availability of the Floodlight Cam Wired Pro, equipped with new features like 3D Motion Detection, and introduced the Floodlight Cam Wired Plus, Ring's most affordable outdoor floodlight camera.",)   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+=== TABLE END ===

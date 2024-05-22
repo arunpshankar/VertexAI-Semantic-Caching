@@ -1,0 +1,5 @@
+|    | ('Accumulated other comprehensive income (loss) 633 (408)',)   |
+|---:|:---------------------------------------------------------------|
+|  0 | Retained earnings 183,782 163,401                              |
+|  1 | Total stockholders' equity 222,544 244,567                     |
+|  2 | Total liabilities and stockholders' equity $ 319,616 $ 347,403 |

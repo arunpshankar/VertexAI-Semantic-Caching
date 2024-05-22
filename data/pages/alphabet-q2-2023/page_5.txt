@@ -1,0 +1,127 @@
+Assets
+Current assets:
+Alphabet Inc.
+CONSOLIDATED BALANCE SHEETS
+(In millions, except par value per share amounts)
+As of December 31,
+2022
+As of June 30,
+2023
+(unaudited)
+Cash and cash equivalents
+21,879 $
+25,929
+Marketable securities
+91,883
+92,403
+Total cash, cash equivalents, and marketable securities
+113,762
+118,332
+Accounts receivable, net
+40,258
+38,804
+Inventory
+2,670
+2,231
+Other current assets
+Total current assets
+Non-marketable securities
+Deferred income taxes
+Property and equipment, net
+Operating lease assets
+Intangible assets, net
+Goodwill
+Other non-current assets
+Total assets
+Liabilities and Stockholders' Equity
+Current liabilities:
+8,105
+9,421
+164,795
+168,788
+30,492
+31,224
+5,261
+9,357
+112,668
+121,208
+14,381
+14,469
+2,084
+1,966
+28,960
+29,210
+6,623
+6,822
+$
+365,264 $
+383,044
+Accounts payable
+EA
+$
+5,128
+$
+5,313
+Accrued compensation and benefits
+14,028
+11,260
+Accrued expenses and other current liabilities
+37,866
+49,300
+Accrued revenue share
+8,370
+7,990
+Deferred revenue
+3,908
+3,846
+Total current liabilities
+69,300
+77,709
+Long-term debt
+Deferred revenue, non-current
+Income taxes payable, non-current
+Deferred income taxes
+Operating lease liabilities
+14,701
+13,705
+599
+667
+9,258
+8,753
+514
+558
+12,501
+12,746
+Other long-term liabilities
+Total liabilities
+Commitments and contingencies
+Stockholders' equity:
+2,247
+109,120
+1,765
+115,903
+Preferred stock, $0.001 par value per share, 100 shares authorized; no shares
+issued and outstanding
+Class A, Class B, and Class C stock and additional paid-in capital, $0.001 par
+value per share: 300,000 shares authorized (Class A 180,000, Class B 60,000,
+Class C 60,000); 12,849 (Class A 5,964, Class B 883, Class C 6,002) and
+12,629 (Class A 5,934, Class B 876, Class C 5,819) shares issued and
+outstanding
+Accumulated other comprehensive income (loss)
+Retained earnings
+Total stockholders' equity
+Total liabilities and stockholders' equity
+5
+0
+0
+68,184
+72,248
+(7,603)
+(5,991)
+195,563
+200,884
+256,144
+267,141
+$
+365,264 $
+383,044

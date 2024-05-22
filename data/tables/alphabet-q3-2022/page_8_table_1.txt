@@ -1,0 +1,14 @@
+|    | ('',)                                     | ('September 30, 2021',)   | ('September 30, 2022',)   | ('% Change from Prior Year',)   |
+|---:|:------------------------------------------|:--------------------------|:--------------------------|:--------------------------------|
+|  0 | EMEA revenues                             | $ 19,839                  | $ 19,450                  | (2)%                            |
+|  1 | EMEA constant currency revenues           |                           | 22,093                    | 11 %                            |
+|  2 | APAC revenues                             | 11,705                    | 11,494                    | (2)%                            |
+|  3 | APAC constant currency revenues           |                           | 12,604                    | 8%                              |
+|  4 | Other Americas revenues                   | 3,688                     | 4,138                     | 12 %                            |
+|  5 | Other Americas constant currency revenues |                           | 4,303                     | 17 %                            |
+|  6 | United States revenues                    | 29,824                    | 33,372                    | 12%                             |
+|  7 | Hedging gains (losses)                    | 62                        | 638                       |                                 |
+|  8 | Total revenues                            | $ 65,118 SAS              | $ 69,092                  | 6%                              |
+|  9 | Revenues, excluding hedging effect        | $ 65,056                  | $ 68,454                  |                                 |
+| 10 | Exchange rate effect                      |                           | 3,918                     |                                 |
+| 11 | Total constant currency revenues          |                           | $ 72,372                  | 11 %                            |

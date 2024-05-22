@@ -1,0 +1,9 @@
+|    | ('',)                                          | ('2021',)   | ('2020',)   | ('2021 2020',)   |
+|---:|:-----------------------------------------------|:------------|:------------|:-----------------|
+|  0 | Net income                                     | $18,765     | $15,463     | $39,270 $29,356  |
+|  1 | Other comprehensive income (loss), net of tax: |             |             |                  |
+|  2 | Net change related to derivatives              | 0           | 8           | 2 12             |
+|  3 | Net change related to investments              | (743)       | (492)       | (1,165) (693)    |
+|  4 | Translation adjustments and other              | (103)       | 741         | (222) 852        |
+|  5 | Other comprehensive income (loss)              | (846)       | 257         | (1,385) 171      |
+|  6 | Comprehensive income                           | $17,919     | $15,720     | $37,885 $29,527  |

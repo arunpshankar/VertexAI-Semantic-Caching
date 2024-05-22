@@ -1,0 +1,9 @@
+|    | ('Revenues',)                                              | ('$',)   | ('2021 2022 61,880 69,685',)   |
+|---:|:-----------------------------------------------------------|:---------|:-------------------------------|
+|  0 | (1) Change in revenues year over year                      |          | 62% 13 %                       |
+|  1 | Change in constant currency revenues year over year(1) (2) |          | 57 % 16 %                      |
+|  2 | Operating income                                           |          | 19,361 $ 19,453                |
+|  3 | Operating margin                                           |          | 31 % 28 %                      |
+|  4 | Other income (expense), net                                | SA       | 2,624 (439)                    |
+|  5 | Net income                                                 |          | 18,525 16,002                  |
+|  6 | Diluted EPS                                                | $        | 1.36 $ 1.21                    |

@@ -1,0 +1,113 @@
+=== START PAGE CONTENT ===
+AMAZON.COM, INC.
+Consolidated Statements of Operations
+(in millions, except per share data)
+(unaudited)
+Three Months Ended
+March 31,
+2022
+2023
+Net product sales
+Net service sales
+Total net sales
+Operating expenses:
+Cost of sales
+Fulfillment
+$
+56,455 $ 56,981
+59,989
+70,377
+116,444
+127,358
+66,499
+67,791
+20,271
+20,905
+Technology and content
+Sales and marketing
+General and administrative
+14,842
+20,450
+8,320
+10,172
+2,594
+3,043
+Other operating expense (income), net
+249
+223
+Total operating expenses
+Operating income
+Interest income
+112,775
+122,584
+3,669
+4,774
+108
+611
+Interest expense
+Other income (expense), net
+Total non-operating expense
+Income (loss) before income taxes
+Benefit (provision) for income taxes
+Net income (loss)
+(472)
+(823)
+(8,570)
+(443)
+(8,934)
+(655)
+(5,265)
+4,119
+1,422
+(948)
+Equity-method investment activity, net of tax
+(1)
+1
+(3,844) $
+3,172
+Basic earnings per
+share
+$
+(0.38) $
+0.31
+Diluted earnings per share
+$
+(0.38) $
+0.31
+Weighted-average shares used in computation of earnings per share:
+Basic
+10,171
+10,250
+Diluted
+10,171
+10,347
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('2022 Net product sales $ 56,455',)                               | ('2023 $ 56,981',)   |
+|---:|:-------------------------------------------------------------------|:---------------------|
+|  0 | Net service sales 59,989                                           | 70,377               |
+|  1 | Total net sales 116,444                                            | 127,358              |
+|  2 | Operating expenses:                                                |                      |
+|  3 | Cost of sales 66,499                                               | 67,791               |
+|  4 | Fulfillment 20,271                                                 | 20,905               |
+|  5 | Technology and content 14,842                                      | 20,450               |
+|  6 | Sales and marketing 8,320                                          | 10,172               |
+|  7 | General and administrative 2,594                                   | 3,043                |
+|  8 | 249 Other operating expense (income), net                          | 223                  |
+|  9 | Total operating expenses 112,775                                   | 122,584              |
+| 10 | Operating income 3,669                                             | 4,774                |
+| 11 | Interest income 108                                                | 611                  |
+| 12 | Interest expense (472)                                             | (823)                |
+| 13 | (8,570) Other income (expense), net                                | (443)                |
+| 14 | Total non-operating expense (8,934)                                | (655)                |
+| 15 | (5,265) Income (loss) before income taxes                          | 4,119                |
+| 16 | Benefit (provision) for income taxes 1,422                         | (948)                |
+| 17 | Equity-method investment activity, net of tax (1)                  | 1                    |
+| 18 | Net income (loss) $ (3,844)                                        | $ 3,172              |
+| 19 | Basic earnings per share $ (0.38)                                  | $ 0.31               |
+| 20 | Diluted earnings per share $ (0.38)                                | $ 0.31               |
+| 21 | Weighted-average shares used in computation of earnings per share: |                      |
+| 22 | Basic 10,171                                                       | 10,250               |
+| 23 | Diluted 10,171                                                     | 10,347               |
+=== TABLE END ===

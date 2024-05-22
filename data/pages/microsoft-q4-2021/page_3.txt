@@ -1,0 +1,126 @@
+Financial Performance Constant Currency Reconciliation
+Three Months Ended December 31,
+Diluted
+($ in millions, except per share amounts)
+2020 As Reported (GAAP)
+2021 As Reported (GAAP)
+Percentage Change Y/Y (GAAP)
+Constant Currency Impact
+Percentage Change Y/Y (non-GAAP) Constant Currency
+Segment Revenue Constant Currency Reconciliation
+($ in millions)
+2020 As Reported (GAAP)
+2021 As Reported (GAAP)
+Percentage Change Y/Y (GAAP)
+Revenue
+Operating
+Income
+Net
+Income
+Earnings
+per Share
+$43,076
+$17,897
+$15,463
+$2.03
+$51,728
+$22,247
+$18,765
+$2.48
+20%
+24%
+21%
+22%
+$(4)
+$44
+$(10)
+$0.00
+20%
+24%
+21%
+22%
+Productivity and
+Business Processes
+Intelligent Cloud
+$13,353
+$14,601
+Three Months Ended December 31,
+More Personal
+Computing
+$15,122
+$15,936
+$18,327
+$17,465
+19%
+26%
+15%
+$14
+$(32)
+$14
+19%
+26%
+15%
+Constant Currency Impact
+Percentage Change Y/Y (non-GAAP) Constant Currency
+Selected Product and Service Revenue Constant Currency Reconciliation
+Three Months Ended December 31, 2021
+Percentage Change
+Y/Y (non-GAAP)
+Constant Currency
+Percentage Change
+Constant
+Y/Y (GAAP)
+Currency Impact
+Office Commercial products and cloud services
+Office 365 Commercial
+Office Consumer products and cloud services
+LinkedIn
+14%
+0%
+14%
+19%
+0%
+19%
+15%
+0%
+15%
+37%
+(1)%
+36%
+Dynamics products and cloud services
+29%
+0%
+29%
+Dynamics 365
+45%
+(1)%
+44%
+Server products and cloud services
+29%
+0%
+29%
+Azure and other cloud services
+46%
+0%
+46%
+Windows OEM
+25%
+0%
+25%
+Windows Commercial products and cloud services
+13%
+1%
+14%
+Xbox content and services
+10%
+0%
+10%
+Search and news advertising excluding traffic acquisition
+32%
+0%
+32%
+costs
+Surface
+8%
+0%
+8%

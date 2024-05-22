@@ -1,0 +1,79 @@
+Microsoft Cloud Fuels Third Quarter Results
+REDMOND, Wash. - April 27, 2021 - Microsoft Corp. today announced the following results for the
+quarter ended March 31, 2021, as compared to the corresponding period of last fiscal year:
+•
+•
+Revenue was $41.7 billion and increased 19%
+Operating income was $17.0 billion and increased 31%
+Net income was $15.5 billion GAAP and $14.8 billion non-GAAP, and increased 44% and 38%,
+respectively
+Diluted earnings per share was $2.03 GAAP and $1.95 non-GAAP, and increased 45% and 39%,
+respectively
+GAAP results include a $620 million net income tax benefit explained in the Non-GAAP Definition
+section below
+"Over a year into the pandemic, digital adoption curves aren't slowing down. They're accelerating, and it's
+just the beginning," said Satya Nadella, chief executive officer of Microsoft. "We are building the cloud for
+the next decade, expanding our addressable market and innovating across every layer of the tech stack to
+help our customers be resilient and transform."
+"The Microsoft Cloud, with its end-to-end solutions, continues to provide compelling value to our
+customers generating $17.7 billion in commercial cloud revenue, up 33% year over year," said Amy Hood,
+executive vice president and chief financial officer of Microsoft.
+The following table reconciles our financial results reported in accordance with generally accepted
+accounting principles (GAAP) to non-GAAP financial results. Additional information regarding our non-
+GAAP definition is provided below. All growth comparisons relate to the corresponding period in the last
+fiscal year.
+Three Months Ended March 31,
+Diluted
+($ in millions, except per share amounts)
+Revenue
+2020 As Reported (GAAP)
+$35,021
+Operating
+Income
+$12,975
+Net Income
+Earnings
+per Share
+$10,752
+$1.40
+2021 As Reported (GAAP)
+$41,706
+$17,048
+$15,457
+$2.03
+Net income tax benefit related to India Supreme Court decision
+(620)
+(0.08)
+on withholding taxes
+2021 As Adjusted (non-GAAP)
+$41,706
+$17,048
+$14,837
+$1.95
+Percentage Change Y/Y (GAAP)
+19%
+31%
+44%
+45%
+Percentage Change Y/Y (non-GAAP)
+19%
+31%
+38%
+39%
+Percentage Change Y/Y (non-GAAP) Constant Currency
+16%
+27%
+32%
+34%
+Business Highlights
+Revenue in Productivity and Business Processes was $13.6 billion and increased 15% (up 12% in constant
+currency), with the following business highlights:
+•
+Office Commercial products and cloud services revenue increased 14% (up 10% in constant
+currency) driven by Office 365 Commercial revenue growth of 22% (up 19% in constant currency)
+Office Consumer products and cloud services revenue increased 5% (up 2% in constant currency)
+and Microsoft 365 Consumer subscribers increased to 50.2 million
+Dynamics products and cloud services revenue increased 26% (up 22% in constant currency)
+LinkedIn revenue increased 25% (up 23% in constant currency)
+•
+driven by Dynamics 365 revenue growth of 45% (up 40% in constant currency)

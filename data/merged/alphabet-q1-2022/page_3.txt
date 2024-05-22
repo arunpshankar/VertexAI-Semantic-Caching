@@ -1,0 +1,18 @@
+=== START PAGE CONTENT ===
+these non-GAAP financial measures are useful to investors both because (1) they allow for greater transparency
+with respect to key metrics used by management in its financial and operational decision-making and (2) they are
+used by our institutional investors and the analyst community to help them analyze the health of our business.
+There are a number of limitations related to the use of non-GAAP financial measures. We compensate for these
+limitations by providing specific information regarding the GAAP amounts excluded from these non-GAAP financial
+measures and evaluating these non-GAAP financial measures together with their relevant financial measures in
+accordance with GAAP.
+For more information on these non-GAAP financial measures, please see the tables captioned "Reconciliation from
+net cash provided by operating activities to free cash flow" and "Reconciliation from GAAP revenues to non-GAAP
+constant currency revenues" included at the end of this release.
+Contact
+Investor relations
+Media
+investor-relations@abc.xyz press@abc.xyz
+3
+
+=== END PAGE CONTENT ===

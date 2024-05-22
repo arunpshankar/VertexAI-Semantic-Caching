@@ -1,0 +1,9 @@
+|    | ('Revenues',)                                          | ('Quarter Ended March 31, 2021 2022 55,314 $ 68,011',)   |
+|---:|:-------------------------------------------------------|:---------------------------------------------------------|
+|  0 | Change in revenues year over year                      | 34 % 23 %                                                |
+|  1 | Change in constant currency revenues year over year(¹) | 32% 26%                                                  |
+|  2 | Operating income                                       | 16,437 20,094                                            |
+|  3 | Operating margin                                       | 30 % 30 %                                                |
+|  4 | Other income (expense), net                            | 4,846 $ (1,160)                                          |
+|  5 | Net income                                             | 17,930 $ 16,436                                          |
+|  6 | Diluted EPS                                            | $ 26.29 $ 24.62                                          |

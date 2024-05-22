@@ -1,0 +1,36 @@
+Microsoft Cloud Strength Drives Third Quarter Results
+REDMOND, Wash. - April 25, 2023 — Microsoft Corp. today announced the following results for the
+quarter ended March 31, 2023, as compared to the corresponding period of last fiscal year:
+.
+•
+Revenue was $52.9 billion and increased 7% (up 10% in constant currency)
+Operating income was $22.4 billion and increased 10% (up 15% in constant currency)
+Net income was $18.3 billion and increased 9% (up 14% in constant currency)
+Diluted earnings per share was $2.45 and increased 10% (up 14% in constant currency)
+"The world's most advanced Al models are coming together with the world's most universal user interface
+- natural language - to create a new era of computing," said Satya Nadella, chairman and chief executive
+officer of Microsoft. "Across the Microsoft Cloud, we are the platform of choice to help customers get the
+most value out of their digital spend and innovate for this next generation of Al."
+"Focused execution by our sales teams and partners in this dynamic environment resulted in Microsoft
+Cloud revenue of $28.5 billion, up 22% (up 25% in constant currency) year-over-year," said Amy Hood,
+executive vice president and chief financial officer of Microsoft.
+Business Highlights
+Revenue in Productivity and Business Processes was $17.5 billion and increased 11% (up 15% in constant
+currency), with the following business highlights:
+•
+•
+Office Commercial products and cloud services revenue increased 13% (up 17% in constant
+currency) driven by Office 365 Commercial revenue growth of 14% (up 18% in constant currency)
+Office Consumer products and cloud services revenue increased 1% (up 4% in constant currency)
+and Microsoft 365 Consumer subscribers grew to 65.4 million
+LinkedIn revenue increased 8% (up 10% in constant currency)
+Dynamics products and cloud services revenue increased 17% (up 21% in constant currency)
+driven by Dynamics 365 revenue growth of 25% (up 29% in constant currency)
+Revenue in Intelligent Cloud was $22.1 billion and increased 16% (up 19% in constant currency), with the
+following business highlights:
+Server products and cloud services revenue increased 17% (up 21% in constant currency) driven
+by Azure and other cloud services revenue growth of 27% (up 31% in constant currency)
+Revenue in More Personal Computing was $13.3 billion and decreased 9% (down 7% in constant
+currency), with the following business highlights:
+Windows OEM revenue decreased 28%
+Devices revenue decreased 30% (down 26% in constant currency)

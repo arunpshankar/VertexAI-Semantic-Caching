@@ -1,0 +1,69 @@
+Additional information relating to the quarter ended March 31, 2023 (unaudited)
+Reductions in Our Workforce and Office Space
+In January 2023, we announced a reduction of our workforce, and as a result in the first quarter of 2023 we
+recorded employee severance and related charges of $2.0 billion, representing the majority of expected costs
+associated with this action. In addition, we are taking actions to optimize our global office space, and as a result we
+recorded charges related to office space reductions of $564 million in the first quarter of 2023. We may incur
+additional charges in the future as we further evaluate our real estate needs.
+These severance and office space charges are included within our consolidated statements of income for the three
+months ended March 31, 2023 as follows (in millions):
+Cost of revenues
+Research and development
+Sales and marketing
+General and administrative
+Total charges
+Severance and
+Related
+Office Space
+Total
+$
+461
+$
+220 $
+681
+835
+247
+1,082
+445
+35
+480
+253
+62
+315
+$
+1,994 $
+564 $
+2,558
+For segment reporting, the substantial majority of these charges are included within unallocated corporate costs in
+our segment results.
+Change in Useful Lives of Our Server and Network Equipment
+In January 2023, we completed an assessment of the useful lives of our servers and network equipment and
+adjusted the estimated useful life of our servers from four years to six years and the estimated useful life of certain
+network equipment from five years to six years. This change in accounting estimate was effective beginning in fiscal
+year 2023 and the effect for the three months ended March 31, 2023 was a reduction in depreciation expense of
+$988 million and an increase in net income of $770 million, or $0.06 per basic and $0.06 per diluted share.
+Timing of Our Annual Employee Equity Grants
+Beginning in 2023, the timing of our annual employee stock-based compensation awards shifted from January to
+March. While the shift in timing itself will not affect the amount of stock-based compensation expense over the full
+fiscal year 2023, it results in relatively less expense recognized in the first quarter compared to the remaining
+quarters of the year.
+Stock Repurchases
+On April 19, 2023, the Board of Directors of Alphabet authorized the company to repurchase up to an additional
+$70.0 billion of its Class A and Class C shares in a manner deemed in the best interest of the company and its
+stockholders, taking into account the economic cost and prevailing market conditions, including the relative trading
+prices and volumes of the Class A and Class C shares. The repurchases are expected to be executed from time to
+time, subject to general business and market conditions and other investment opportunities, through open market
+purchases or privately negotiated transactions, including through Rule 10b5-1 plans.
+Webcast and conference call information
+A live audio webcast of our first quarter 2023 earnings release call will be available on YouTube at https://
+www.youtube.com/watch?v=76CVRgZUfps. The call begins today at 2:00 PM (PT) / 5:00 PM (ET). This press
+release, including the reconciliations of certain non-GAAP measures to their nearest comparable GAAP measures,
+is also available at http://abc.xyz/investor.
+We also provide announcements regarding our financial performance, including SEC filings, investor events, press
+and earnings releases, and blogs, on our investor relations website (http://abc.xyz/investor).
+We also share Google news and product updates on Google's Keyword blog at https://www.blog.google/, which may
+be of interest or material to our investors.
+Forward-looking statements
+This press release may contain forward-looking statements that involve risks and uncertainties. Actual results may
+differ materially from the results predicted, and reported results should not be considered as an indication of future
+3

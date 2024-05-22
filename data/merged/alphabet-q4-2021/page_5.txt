@@ -1,0 +1,116 @@
+=== START PAGE CONTENT ===
+Alphabet Inc.
+CONSOLIDATED STATEMENTS OF INCOME
+(In millions, except share amounts which are reflected in thousands and per share amounts)
+Revenues
+Costs and expenses:
+Cost of revenues
+Research and development
+Sales and marketing
+General and administrative
+Total costs and expenses
+Income from operations
+Other income (expense), net
+Income before income taxes
+Provision for income taxes
+Net income
+Quarter Ended December 31,
+2020
+2021
+Year Ended December 31,
+2020
+(unaudited)
+2021
+(unaudited)
+56,898 $
+75,325 $
+182,527 $
+257,637
+26,080
+32,988
+84,732
+110,939
+7,022
+8,708
+27,573
+31,562
+5,314
+7,604
+17,946
+22,912
+2,831
+4,140
+11,052
+13,510
+41,247
+53,440
+141,303
+178,923
+15,651
+21,885
+41,224
+78,714
+3,038
+2,517
+6,858
+12,020
+18,689
+24,402
+48,082
+90,734
+3,462
+3,760
+7,813
+14,701
+$
+15,227 $
+20,642 $
+40,269 $
+76,033
+Basic earnings per share of Class A and B common
+stock and Class C capital stock
+22.54
+31.15 $
+59.15 $
+113.88
+Diluted earnings per share of Class A and B common
+stock and Class Ċ capital stock
+22.30
+$
+30.69 $
+58.61 $
+112.20
+Number of shares used in basic earnings per share
+calculation
+675,582
+662,663
+680,816
+667,650
+Number of shares used in diluted earnings per share
+calculation
+682,969
+672,493
+687,028
+677,674
+5
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('Revenues',)                                                                      | ('(unaudited) (unaudited) 56,898 $ 75,325 $ 182,527 $ 257,637',)   |
+|---:|:-----------------------------------------------------------------------------------|:-------------------------------------------------------------------|
+|  0 | Costs and expenses:                                                                |                                                                    |
+|  1 | Cost of revenues                                                                   | 26,080 32,988 84,732 110,939                                       |
+|  2 | Research and development                                                           | 7,022 8,708 27,573 31,562                                          |
+|  3 | Sales and marketing                                                                | 5,314 7,604 17,946 22,912                                          |
+|  4 | General and administrative                                                         | 2,831 4,140 11,052 13,510                                          |
+|  5 | Total costs and expenses                                                           | 41,247 53,440 141,303 178,923                                      |
+|  6 | Income from operations                                                             | 15,651 21,885 41,224 78,714                                        |
+|  7 | Other income (expense), net                                                        | 3,038 2,517 6,858 12,020                                           |
+|  8 | Income before income taxes                                                         | 18,689 24,402 48,082 90,734                                        |
+|  9 | Provision for income taxes                                                         | 3,462 3,760 7,813 14,701                                           |
+| 10 | Net income                                                                         | $ 15,227 $ 20,642 $ 40,269 $ 76,033                                |
+| 11 | Basic earnings per share of Class A and B common stock and Class C capital stock   | $ 22.54 31.15 $ 59.15 113.88                                       |
+| 12 | Diluted earnings per share of Class A and B common stock and Class Ċ capital stock | $ 22.30 $ 30.69 $ 58.61 $ 112.20                                   |
+| 13 | Number of shares used in basic earnings per share calculation                      | 675,582 662,663 680,816 667,650                                    |
+| 14 | Number of shares used in diluted earnings per share calculation                    | 682,969 672,493 687,028 677,674                                    |
+=== TABLE END ===

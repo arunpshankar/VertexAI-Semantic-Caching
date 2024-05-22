@@ -1,0 +1,48 @@
+=== START PAGE CONTENT ===
+amazon
+AMAZON.COM ANNOUNCES SECOND QUARTER RESULTS
+SEATTLE (BUSINESS WIRE) July 29, 2021—Amazon.com, Inc. (NASDAQ: AMZN) today announced financial results for
+its second quarter ended June 30, 2021.
+•
+•
+•
+•
+•
+•
+•
+Operating cash flow increased 16% to $59.3 billion for the trailing twelve months, compared with $51.2 billion for
+the trailing twelve months ended June 30, 2020.
+Free cash flow decreased to $12.1 billion for the trailing twelve months, compared with $31.9 billion for the trailing
+twelve months ended June 30, 2020.
+Free cash flow less principal repayments of finance leases and financing obligations decreased to $0.6 billion for
+the trailing twelve months, compared with $21.3 billion for the trailing twelve months ended June 30, 2020.
+Free cash flow less equipment finance leases and principal repayments of all other finance leases and financing
+obligations decreased to $4.2 billion for the trailing twelve months, compared with $19.4 billion for the trailing twelve
+months ended June 30, 2020.
+Common shares outstanding plus shares underlying stock-based awards totaled 522 million on June 30, 2021,
+compared with 517 million one year ago.
+Net sales increased 27% to $113.1 billion in the second quarter, compared with $88.9 billion in second quarter 2020.
+Excluding the $2.5 billion favorable impact from year-over-year changes in foreign exchange rates throughout the
+quarter, net sales increased 24% compared with second quarter 2020.
+Operating income increased to $7.7 billion in the second quarter, compared with $5.8 billion in second quarter 2020.
+Net income increased to $7.8 billion in the second quarter, or $15.12 per diluted share, compared with $5.2 billion, or
+$10.30 per
+diluted share, in second quarter 2020.
+"Over the past 18 months, our consumer business has been called on to deliver an unprecedented number of items, including
+PPE, food, and other products that helped communities around the world cope with the difficult circumstances of the pandemic.
+At the same time, AWS has helped so many businesses and governments maintain business continuity, and we've seen AWS
+growth reaccelerate as more companies bring forward plans to transform their businesses and move to the cloud," said Andy
+Jassy, Amazon CEO. “Thank you to all of our passionate, innovative, mission-driven employees around the world for
+continuing to stay focused on delivering for customers—I am very excited to work with you as we invent and build for the
+future."
+Highlights
+Investing in Employee Safety and Providing Good Jobs
+Amazon announced a first-of-its-kind partnership with the National Safety Council, a 100-year-old nonprofit that
+protects workers on and off the job, to invent new ways of preventing musculoskeletal disorders (MSDs), the most
+common workplace injury in the U.S. The five-year effort aims to reduce MSDs across a variety of industries by
+engaging key stakeholders, conducting new research, inventing technology and processes, and scaling the results.
+Amazon is investing over $300 million into safety projects in 2021, including redesigning and retrofitting
+workstations, re-engineering cross-dock operations and powered-industrial-truck barriers, and implementing new
+safety control systems.
+
+=== END PAGE CONTENT ===

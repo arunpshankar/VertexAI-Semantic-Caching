@@ -1,0 +1,108 @@
+=== START PAGE CONTENT ===
+Q2 2022 supplemental information (in millions, except for number of employees; unaudited)
+Revenues, Traffic Acquisition Costs (TAC) and number of employees
+Google Search & other
+YouTube ads
+Google Network
+Google advertising
+Google other
+Google Services total
+Google Cloud
+Other Bets
+Hedging gains (losses)
+Total revenues
+Total TAC
+Number of employees
+Segment Operating Results
+Operating income (loss):
+Google Services
+Google Cloud
+Other Bets
+Corporate costs, unallocated
+Total income from operations
+Quarter Ended June 30,
+2021
+2022
+35,845 $
+40,689
+7,002
+7,340
+7,597
+8,259
+50,444
+56,288
+6,623
+6,553
+57,067
+62,841
+4,628
+6,276
+192
+193
+(7)
+375
+61,880 $
+69,685
+10,929
+12,214
+144,056
+174,014
+Quarter Ended June 30,
+2021
+2022
+22,343 $
+22,770
+(591)
+(858)
+(1,398)
+(1,686)
+(993)
+(773)
+19,361 $
+19,453
+Webcast and conference call information
+A live audio webcast of our second quarter 2022 earnings release call will be available on YouTube at https://
+youtu.be/kBgHioOKpvl. The call begins today at 2:00 PM (PT) / 5:00 PM (ET). This press release, including the
+reconciliations of certain non-GAAP measures to their nearest comparable GAAP measures, is also available at
+http://abc.xyz/investor.
+We also provide announcements regarding our financial performance, including SEC filings, investor events, press
+and earnings releases, and blogs, on our investor relations website (http://abc.xyz/investor).
+We also share Google news and product updates on Google's Keyword blog at https://www.blog.google/, which may
+be of interest or material to our investors.
+Forward-looking statements
+This press release may contain forward-looking statements that involve risks and uncertainties. Actual results may
+differ materially from the results predicted, and reported results should not be considered as an indication of future
+performance. The potential risks and uncertainties that could cause actual results to differ from the results predicted
+include, among others, those risks and uncertainties included under the captions "Risk Factors" and "Management's
+Discussion and Analysis of Financial Condition and Results of Operations" in our Annual Report on Form 10-K for
+the year ended December 31, 2021 and our most recent Quarterly Report on Form 10-Q for the quarter ended
+March 31, 2022, which are on file with the SEC and are available on our investor relations website at http://abc.xyz/
+investor and on the SEC website at www.sec.gov. Additional information will also be set forth in our Quarterly Report
+on Form 10-Q for the quarter ended June 30, 2022. All information provided in this release and in the attachments is
+2
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('Google Search & other',)   | ('2021 35,845',)   | ('2022 $ 40,689',)   |
+|---:|:-----------------------------|:-------------------|:---------------------|
+|  0 | YouTube ads                  | 7,002              | 7,340                |
+|  1 | Google Network               | 7,597              | 8,259                |
+|  2 | Google advertising           | 50,444             | 56,288               |
+|  3 | Google other                 | 6,623              | 6,553                |
+|  4 | Google Services total        | 57,067             | 62,841               |
+|  5 | Google Cloud                 | 4,628              | 6,276                |
+|  6 | Other Bets                   | 192                | 193                  |
+|  7 | Hedging gains (losses)       | (7)                | 375                  |
+|  8 | Total revenues               | 61,880             | $ 69,685             |
+|  9 | Total TAC                    | GA 10,929          | $ 12,214             |
+| 10 | Number of employees          | 144,056            |                      |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('Operating income (loss):',)   | ('',)             |
+|---:|:--------------------------------|:------------------|
+|  0 | Google Services                 | $ 22,343 $ 22,770 |
+|  1 | Google Cloud                    | (591) (858)       |
+|  2 | Other Bets                      | (1,398) (1,686)   |
+|  3 | Corporate costs, unallocated    | (993) (773)       |
+|  4 | Total income from operations    | 19,361 $ 19,453   |
+=== TABLE END ===

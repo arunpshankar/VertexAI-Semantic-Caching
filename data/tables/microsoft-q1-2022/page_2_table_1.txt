@@ -1,0 +1,7 @@
+|    | ('•',)   | ('Windows OEM revenue increased 11%',)                                                        |
+|---:|:---------|:----------------------------------------------------------------------------------------------|
+|  0 |          | Windows Commercial products and cloud services revenue increased 14% (up 19% CC)              |
+|  1 | •        | Xbox content and services revenue increased 4% (up 6% CC)                                     |
+|  2 | •        | Search and news advertising revenue excluding traffic acquisition costs increased 23% (up 25% |
+|  3 |          | CC)                                                                                           |
+|  4 |          | Surface revenue increased 13% (up 18% CC)                                                     |

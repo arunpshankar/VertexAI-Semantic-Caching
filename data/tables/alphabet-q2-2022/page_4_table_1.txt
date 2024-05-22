@@ -1,0 +1,36 @@
+|    | ('Assets',)                                             | ('',)          | ('(unaudited)',)   |
+|---:|:--------------------------------------------------------|:---------------|:-------------------|
+|  0 | Current assets:                                         |                |                    |
+|  1 | Cash and cash equivalents                               | $ 20,945       | $ 17,936           |
+|  2 | Marketable securities                                   | 118,704        | 107,061            |
+|  3 | Total cash, cash equivalents, and marketable securities | 139,649        | 124,997            |
+|  4 | Accounts receivable, net                                | 39,304         | 35,707             |
+|  5 | Income taxes receivable, net                            | 966            | 1,366              |
+|  6 | Inventory                                               | 1,170          | 1,980              |
+|  7 | Other current assets                                    | 7,054          | 8,321              |
+|  8 | Total current assets                                    | 188,143        | 172,371            |
+|  9 | Non-marketable securities                               | 29,549         | 30,665             |
+| 10 | Deferred income taxes                                   | 1,284          | 1,490              |
+| 11 | Property and equipment, net                             | 97,599         | 106,223            |
+| 12 | Operating lease assets                                  | 12,959         | 13,398             |
+| 13 | Intangible assets, net                                  | 1,417          | 1,377              |
+| 14 | Goodwill                                                | 22,956         | 23,949             |
+| 15 | Other non-current assets                                | 5,361          | 5,712              |
+| 16 | Total assets                                            | $ 359,268      | $ 355,185          |
+| 17 | Liabilities and Stockholders' Equity                    |                |                    |
+| 18 | Current liabilities:                                    |                |                    |
+| 19 | Accounts payable Accrued compensation and benefits      | $ 6,037 13,889 | 4,409 $ 10,852     |
+| 20 | Accrued expenses and other current liabilities          | 31,236         | 32,976             |
+| 21 | Accrued revenue share                                   | 8,996          | 7,889              |
+| 22 | Deferred revenue                                        | 3,288          | 3,272              |
+| 23 | Income taxes payable, net                               | 808            | 1,956              |
+| 24 | Total current liabilities                               | 64,254         | 61,354             |
+| 25 | Long-term debt                                          | 14,817         | 14,734             |
+| 26 | Deferred revenue, non-current                           | 535            | 472                |
+| 27 | Income taxes payable, non-current                       | 9,176          | 8,163              |
+| 28 | Deferred income taxes                                   | 5,257          | 924                |
+| 29 | Operating lease liabilities                             | 11,389         | 11,697             |
+| 30 | Other long-term liabilities                             | 2,205          | 2,422              |
+| 31 | Total liabilities                                       | 107,633        | 99,766             |
+| 32 | Contingencies                                           |                |                    |
+| 33 | Stockholders' equity:                                   |                |                    |

@@ -1,0 +1,33 @@
+AMAZON.COM, INC.
+Consolidated Statements of Comprehensive Income
+(in millions)
+(unaudited)
+Three Months Ended
+March 31,
+2021
+2022
+Net income (loss)
+$
+8,107 $ (3,844)
+Other comprehensive income (loss):
+Foreign currency translation adjustments, net of tax of $13 and $(16)
+(374)
+(333)
+Net change in unrealized gains (losses) on available-for-sale debt securities:
+Unrealized gains (losses), net of tax of $30 and $1
+(98)
+(662)
+Reclassification adjustment for losses (gains) included in "Other income (expense),
+net," net of tax of $4 and $0
+(14)
+6
+Net unrealized gains (losses) on available-for-sale debt securities
+(112)
+(656)
+Total other comprehensive income (loss)
+(486)
+(989)
+Comprehensive income (loss)
+$
+7,621
+(4,833)

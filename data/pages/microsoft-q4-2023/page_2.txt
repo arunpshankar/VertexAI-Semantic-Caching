@@ -1,0 +1,38 @@
+Business Highlights
+Revenue in Productivity and Business Processes was $19.2 billion and increased 13% (up 12% in constant
+currency), with the following business highlights:
+.
+Office Commercial products and cloud services revenue increased 15% (up 13% in constant
+currency) driven by Office 365 Commercial revenue growth of 17% (up 16% in constant currency)
+Office Consumer products and cloud services revenue increased 5% (up 4% in constant currency)
+and Microsoft 365 Consumer subscribers grew to 78.4 million
+LinkedIn revenue increased 9% (up 8% in constant currency)
+Dynamics products and cloud services revenue increased 21% (up 19% in constant currency)
+driven by Dynamics 365 revenue growth of 27% (up 24% in constant currency)
+Revenue in Intelligent Cloud was $25.9 billion and increased 20% (up 19% in constant currency), with the
+following business highlights:
+Server products and cloud services revenue increased 22% (up 20% in constant currency) driven
+by Azure and other cloud services revenue growth of 30% (up 28% in constant currency)
+Revenue in More Personal Computing was $16.9 billion and increased 19% (up 18% in constant currency),
+with the following business highlights:
+Windows revenue increased 9% with Windows OEM revenue growth of 11% and Windows
+Commercial products and cloud services revenue growth of 9% (up 7% in constant currency)
+• Devices revenue decreased 9% (down 10% in constant currency)
+•
+Xbox content and services revenue increased 61% (up 60% in constant currency) driven by 55
+points of net impact from the Activision acquisition
+Search and news advertising revenue excluding traffic acquisition costs increased 8% (up 7% in
+constant currency)
+Microsoft returned $8.4 billion to shareholders in the form of share repurchases and dividends in the
+second quarter of fiscal year 2024.
+Business Outlook
+Microsoft will provide forward-looking guidance in connection with this quarterly earnings announcement
+on its earnings conference call and webcast.
+Quarterly Highlights, Product Releases, and Enhancements
+Every quarter Microsoft delivers hundreds of products, either as new releases, services, or enhancements
+to current products and services. These releases are a result of significant research and development
+investments, made over multiple years, designed to help customers be more productive and secure and
+to deliver differentiated value across the cloud and the edge.
+Here are the major product releases and other highlights for the quarter, organized by product categories,
+to help illustrate how we are accelerating innovation across our businesses while expanding our market
+opportunities.

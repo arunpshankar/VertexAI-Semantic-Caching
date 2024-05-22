@@ -1,0 +1,9 @@
+|    | ('($ in millions, except per share amounts)',)                                      | ('Revenue',)   | ('Operating Income',)   | ('Net Income',)   | ('Diluted Earnings per Share',)   |
+|---:|:------------------------------------------------------------------------------------|:---------------|:------------------------|:------------------|:----------------------------------|
+|  0 | 2021 As Reported (GAAP)                                                             | $41,706        | $17,048                 | $15,457           | $2.03                             |
+|  1 | Net income tax benefit related to India Supreme Court decision on withholding taxes |                |                         | (620)             | (0.08)                            |
+|  2 | 2021 As Adjusted (non-GAAP)                                                         | $41,706        | $17,048                 | $14,837           | $1.95                             |
+|  3 | 2022 As Reported (GAAP)                                                             | $49,360        | $20,364                 | $16,728           | $2.22                             |
+|  4 | Percentage Change Y/Y (GAAP)                                                        | 18%            | 19%                     | 8%                | 9%                                |
+|  5 | Percentage Change Y/Y (non-GAAP)                                                    | 18%            | 19%                     | 13%               | 14%                               |
+|  6 | Percentage Change Y/Y (non-GAAP) Constant Currency                                  | 21%            | 23%                     | 17%               | 18%                               |

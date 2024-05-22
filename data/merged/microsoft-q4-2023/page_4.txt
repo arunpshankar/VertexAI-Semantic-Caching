@@ -1,0 +1,182 @@
+=== START PAGE CONTENT ===
+Financial Performance Constant Currency Reconciliation
+Three Months Ended December 31,
+Diluted
+Earnings
+($ in millions, except per share amounts)
+2022 As Reported (GAAP)
+2022 As Adjusted (non-GAAP)
+2023 As Reported (GAAP)
+Percentage Change Y/Y (GAAP)
+Percentage Change Y/Y (non-GAAP)
+Constant Currency Impact
+Percentage Change Y/Y Constant Currency
+Percentage Change Y/Y (non-GAAP) Constant Currency
+Segment Revenue Constant Currency Reconciliation
+($ in millions)
+2022 As Reported (GAAP)
+2023 As Reported (GAAP)
+Percentage Change Y/Y (GAAP)
+Constant Currency Impact
+Percentage Change Y/Y Constant Currency
+Operating
+Net
+Revenue
+Income
+Income
+per Share
+$52,747
+$20,399
+$16,425
+$2.20
+$52,747
+$21,570
+$17,371
+$2.32
+$62,020
+$27,032
+$21,870
+$2.93
+18%
+33%
+33%
+33%
+18%
+25%
+26%
+26%
+$756
+$565
+$510
+$0.07
+16%
+30%
+30%
+30%
+16%
+23%
+23%
+23%
+Three Months Ended December 31,
+Productivity and
+Business Processes
+Intelligent Cloud
+More Personal
+Computing
+$17,002
+$21,508
+$14,237
+$19,249
+$25,880
+$16,891
+13%
+20%
+19%
+$230
+$367
+$159
+12%
+19%
+18%
+Selected Product and Service Revenue Constant Currency Reconciliation
+Three Months Ended December 31, 2023
+Percentage Change
+Y/Y (GAAP)
+Constant
+Percentage Change
+Y/Y Constant
+Currency Impact
+Currency
+Microsoft Cloud
+24%
+(2)%
+22%
+Office Commercial products and cloud services
+15%
+(2)%
+13%
+Office 365 Commercial
+17%
+(1)%
+16%
+Office Consumer products and cloud services
+5%
+(1)%
+4%
+LinkedIn
+9%
+(1)%
+8%
+Dynamics products and cloud services
+21%
+(2)%
+19%
+Dynamics 365
+27%
+(3)%
+24%
+Server products and cloud services
+22%
+(2)%
+20%
+Azure and other cloud services
+30%
+(2)%
+28%
+Windows
+9%
+0%
+9%
+Windows OEM
+11%
+0%
+11%
+Windows Commercial products and cloud services
+9%
+(2)%
+7%
+Devices
+(9)%
+(1)%
+(10)%
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('',)                                          | ('Percentage Change Y/Y (GAAP)',)   | ('Constant Currency Impact',)   | ('Y/Y Constant Currency',)   |
+|---:|:-----------------------------------------------|:------------------------------------|:--------------------------------|:-----------------------------|
+|  0 | Microsoft Cloud                                | 24%                                 | (2)%                            | 22%                          |
+|  1 | Office Commercial products and cloud services  | 15%                                 | (2)%                            | 13%                          |
+|  2 | Office 365 Commercial                          | 17%                                 | (1)%                            | 16%                          |
+|  3 | Office Consumer products and cloud services    | 5%                                  | (1)%                            | 4%                           |
+|  4 | LinkedIn                                       | 9%                                  | (1)%                            | 8%                           |
+|  5 | Dynamics products and cloud services           | 21%                                 | (2)%                            | 19%                          |
+|  6 | Dynamics 365                                   | 27%                                 | (3)%                            | 24%                          |
+|  7 | Server products and cloud services             | 22%                                 | (2)%                            | 20%                          |
+|  8 | Azure and other cloud services                 | 30%                                 | (2)%                            | 28%                          |
+|  9 | Windows                                        | 9%                                  | 0%                              | 9%                           |
+| 10 | Windows OEM                                    | 11%                                 | 0%                              | 11%                          |
+| 11 | Windows Commercial products and cloud services | 9%                                  | (2)%                            | 7%                           |
+| 12 | Devices                                        | (9)%                                | (1)%                            | (10)%                        |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('',)                                              | ('',)   | ('Operating',)   | ('Net',)   | ('Earnings',)   |
+|---:|:---------------------------------------------------|:--------|:-----------------|:-----------|:----------------|
+|  0 | ($ in millions, except per share amounts)          | Revenue | Income           | Income     | per Share       |
+|  1 | 2022 As Reported (GAAP)                            | $52,747 | $20,399          | $16,425    | $2.20           |
+|  2 | 2022 As Adjusted (non-GAAP)                        | $52,747 | $21,570          | $17,371    | $2.32           |
+|  3 | 2023 As Reported (GAAP)                            | $62,020 | $27,032          | $21,870    | $2.93           |
+|  4 | Percentage Change Y/Y (GAAP)                       | 18%     | 33%              | 33%        | 33%             |
+|  5 | Percentage Change Y/Y (non-GAAP)                   | 18%     | 25%              | 26%        | 26%             |
+|  6 | Constant Currency Impact                           | $756    | $565             | $510       | $0.07           |
+|  7 | Percentage Change Y/Y Constant Currency            | 16%     | 30%              | 30%        | 30%             |
+|  8 | Percentage Change Y/Y (non-GAAP) Constant Currency | 16%     | 23%              | 23%        | 23%             |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('($ in millions)',)                    | ('Productivity and Business Processes',)   | ('Intelligent Cloud',)   | ('More Personal Computing',)   |
+|---:|:----------------------------------------|:-------------------------------------------|:-------------------------|:-------------------------------|
+|  0 | 2022 As Reported (GAAP)                 | $17,002                                    | $21,508                  | $14,237                        |
+|  1 | 2023 As Reported (GAAP)                 | $19,249                                    | $25,880                  | $16,891                        |
+|  2 | Percentage Change Y/Y (GAAP)            | 13%                                        | 20%                      | 19%                            |
+|  3 | Constant Currency Impact                | $230                                       | $367                     | $159                           |
+|  4 | Percentage Change Y/Y Constant Currency | 12%                                        | 19%                      | 18%                            |
+=== TABLE END ===

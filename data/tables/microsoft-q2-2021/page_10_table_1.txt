@@ -1,0 +1,6 @@
+|    | ('Other comprehensive income (loss), net of tax: Net change related to derivatives (11)',)   | ('4',)   | ('19',)   | ('(38)',)   |
+|---:|:---------------------------------------------------------------------------------------------|:---------|:----------|:------------|
+|  0 | Net change related to investments 132                                                        | 325      | (2,266)   | 3,990       |
+|  1 | Translation adjustments and other 239                                                        | 181      | 873       | (426)       |
+|  2 | Other comprehensive income (loss) 360                                                        | 510      | (1,374)   | 3,526       |
+|  3 | Comprehensive income $16,818                                                                 | $11,712  | $59,897   | $47,807     |

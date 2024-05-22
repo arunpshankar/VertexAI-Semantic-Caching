@@ -1,0 +1,5 @@
+|    | ('',)                                     | ('March 31, 2021',)   |
+|---:|:------------------------------------------|:----------------------|
+|  0 | Net cash provided by operating activities | 19,289                |
+|  1 | Less: purchases of property and equipment | (5,942)               |
+|  2 | Free cash flow                            | $ 13,347              |

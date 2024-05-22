@@ -1,0 +1,7 @@
+|    | ('Operating income (loss):',)   | ('',)             |
+|---:|:--------------------------------|:------------------|
+|  0 | Google Services                 | $ 22,343 $ 22,770 |
+|  1 | Google Cloud                    | (591) (858)       |
+|  2 | Other Bets                      | (1,398) (1,686)   |
+|  3 | Corporate costs, unallocated    | (993) (773)       |
+|  4 | Total income from operations    | 19,361 $ 19,453   |

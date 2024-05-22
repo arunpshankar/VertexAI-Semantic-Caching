@@ -1,0 +1,5 @@
+|    | ('',)                                     | ('Quarter Ended December 31, 2022',)   |
+|---:|:------------------------------------------|:---------------------------------------|
+|  0 | Net cash provided by operating activities | $ 23,614                               |
+|  1 | Less: purchases of property and equipment | (7,595)                                |
+|  2 | Free cash flow                            | 16,019                                 |

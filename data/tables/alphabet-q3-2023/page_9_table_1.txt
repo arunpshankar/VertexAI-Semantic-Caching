@@ -1,0 +1,11 @@
+|    | ('Interest income',)                                             | ('2022 2023 615 $ 1,066',)   |
+|---:|:-----------------------------------------------------------------|:-----------------------------|
+|  0 | Interest expense                                                 | (101) (116)                  |
+|  1 | Foreign currency exchange gain (loss), net                       | (136) (311)                  |
+|  2 | Gain (loss) on debt securities, net                              | (731) (503)                  |
+|  3 | Gain (loss) on equity securities, net(¹)                         | (647) (366)                  |
+|  4 | Performance fees                                                 | 54 179                       |
+|  5 | Income (loss) and impairment from equity method investments, net | (99) (215)                   |
+|  6 | Other                                                            | 143 120                      |
+|  7 | Other income (expense), net                                      | $ (902) $ (146)              |
+|  8 | 1)                                                               |                              |

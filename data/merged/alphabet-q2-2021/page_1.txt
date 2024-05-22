@@ -1,0 +1,65 @@
+=== START PAGE CONTENT ===
+Alphabet Announces Second Quarter 2021 Results
+MOUNTAIN VIEW, Calif. – July 27, 2021 - Alphabet Inc. (NASDAQ: GOOG, GOOGL) today announced financial
+results for the quarter ended June 30, 2021.
+Sundar Pichai, CEO of Google and Alphabet, said: "In Q2, there was a rising tide of online activity in many parts of
+the world, and we're proud that our services helped so many consumers and businesses. Our long-term
+investments in Al and Google Cloud are helping us drive significant improvements in everyone's digital
+experience."
+"Our strong second quarter revenues of $61.9 billion reflect elevated consumer online activity and broad-based
+strength in advertiser spend. Again, we benefited from excellent execution across the board by our teams," said
+Ruth Porat, CFO of Google and Alphabet.
+Q2 2021 financial highlights
+The following table summarizes our consolidated financial results for the quarters ended June 30, 2020 and 2021
+(in millions, except for per share information and percentages; unaudited).
+Quarter Ended June 30,
+2020
+2021
+Revenues
+Change in revenues year over year
+38,297 $
+61,880
+(2)%
+62%
+Operating income
+Change in constant currency revenues year over year(1)
+$
+0%
+57 %
+EA
+6,383
+$
+19,361
+Operating margin
+17 %
+31 %
+Other income (expense), net
+1,894
+$
+2,624
+Net income
+$
+Diluted EPS
+$
+10.13
+6,959 $
+$
+18,525
+27.26
+(1)
+Non-GAAP measure. See the table captioned “Reconciliation from GAAP revenues to non-GAAP constant currency
+revenues" for more details.
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('',)                                                  | ('Quarter Ended 2020',)   | ('June 30, 2021',)   |
+|---:|:-------------------------------------------------------|:--------------------------|:---------------------|
+|  0 | Revenues                                               | 38,297                    | 61,880               |
+|  1 | Change in revenues year over year                      | (2)%                      | 62%                  |
+|  2 | Change in constant currency revenues year over year(¹) | 0 %                       | 57 %                 |
+|  3 | Operating income                                       | 6,383                     | 19,361               |
+|  4 | Operating margin                                       | 17 %                      | 31 %                 |
+|  5 | Other income (expense), net                            | EA 1,894                  | $ 2,624              |
+|  6 | Net income                                             | 6,959 5959                | $ 18,525             |
+|  7 | Diluted EPS                                            | $ 10.13                   | $ 27.26              |
+=== TABLE END ===

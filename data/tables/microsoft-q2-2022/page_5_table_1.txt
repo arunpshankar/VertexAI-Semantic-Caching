@@ -1,0 +1,7 @@
+|    | ('($ in millions)',)                               | ('Productivity and Business Processes',)   | ('Intelligent Cloud',)   | ('ore Personal Computing',)   |
+|---:|:---------------------------------------------------|:-------------------------------------------|:-------------------------|:------------------------------|
+|  0 | 2021 As Reported (GAAP)                            | $14,691                                    | $17,375                  | $14,086                       |
+|  1 | 2022 As Reported (GAAP)                            | $16,600                                    | $20,909                  | $14,356                       |
+|  2 | Percentage Change Y/Y (GAAP)                       | 13%                                        | 20%                      | 2%                            |
+|  3 | Constant Currency Impact                           | $(584)                                     | $(728)                   | $(373)                        |
+|  4 | Percentage Change Y/Y (non-GAAP) Constant Currency | 17%                                        | 25%                      | 5%                            |

@@ -1,0 +1,46 @@
+amazon
+AMAZON.COM ANNOUNCES FIRST QUARTER RESULTS
+SEATTLE (BUSINESS WIRE) April 28, 2022-Amazon.com, Inc. (NASDAQ: AMZN) today announced financial results
+for its first quarter ended March 31, 2022.
+•
+•
+•
+•
+•
+•
+•
+Operating cash flow decreased 41% to $39.3 billion for the trailing twelve months, compared with $67.2 billion for
+the trailing twelve months ended March 31, 2021.
+Free cash flow decreased to an outflow of $18.6 billion for the trailing twelve months, compared with an inflow of
+$26.4 billion for the trailing twelve months ended March 31, 2021.
+Free cash flow less principal repayments of finance leases and financing obligations decreased to an outflow of
+$29.3 billion for the trailing twelve months, compared with an inflow of $14.9 billion for the trailing twelve months
+ended March 31, 2021.
+Free cash flow less equipment finance leases and principal repayments of all other finance leases and financing
+obligations decreased to an outflow of $22.3 billion for the trailing twelve months, compared with an inflow of $16.8
+billion for the trailing twelve months ended March 31, 2021.
+Common shares outstanding plus shares underlying stock-based awards totaled 523 million on March 31, 2022,
+compared with 519 million one year ago.
+Net sales increased 7% to $116.4 billion in the first quarter, compared with $108.5 billion in first quarter 2021.
+Excluding the $1.8 billion unfavorable impact from year-over-year changes in foreign exchange rates throughout the
+quarter, net sales increased 9% compared with first quarter 2021.
+Operating income decreased to $3.7 billion in the first quarter, compared with $8.9 billion in first quarter 2021.
+Net loss was $3.8 billion in the first quarter, or $7.56 per diluted share, compared with net income of $8.1 billion, or
+$15.79 per diluted share, in first quarter 2021. First quarter 2022 net loss includes a pre-tax valuation loss of $7.6
+billion included in non-operating expense from our common stock investment in Rivian Automotive, Inc.
+"The pandemic and subsequent war in Ukraine have brought unusual growth and challenges," said Andy Jassy, Amazon CEO.
+"With AWS growing 34% annually over the last two years, and 37% year-over-year in the first quarter, AWS has been integral
+in helping companies weather the pandemic and move more of their workloads into the cloud. Our Consumer business has
+grown 23% annually over the past two years, with extraordinary growth in 2020 of 39% year-over-year that necessitated
+doubling the size of our fulfillment network that we'd built over Amazon's first 25 years—and doing so in just 24 months.
+Today, as we're no longer chasing physical or staffing capacity, our teams are squarely focused on improving productivity and
+cost efficiencies throughout our fulfillment network. We know how to do this and have done it before. This may take some
+time, particularly as we work through ongoing inflationary and supply chain pressures, but we see encouraging progress on a
+number of customer experience dimensions, including delivery speed performance as we're now approaching levels not seen
+since the months immediately preceding the pandemic in early 2020."
+Highlights
+Shopping
+Amazon announced Buy with Prime, a new benefit for Prime members in the U.S. that extends the convenience of
+shopping with Prime to online stores beyond Amazon.com. Prime members can shop directly from participating
+merchants' online stores using their Prime member benefits, including fast and free delivery, a seamless checkout
+experience, and free returns on eligible orders.

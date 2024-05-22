@@ -1,0 +1,7 @@
+|    | ('($ in millions)',)                    | ('Productivity and Business Processes',)   | ('Intelligent Cloud',)   | ('More Personal Computing',)   |
+|---:|:----------------------------------------|:-------------------------------------------|:-------------------------|:-------------------------------|
+|  0 | 2020 As Reported                        | $11,743                                    | $12,281                  | $10,997                        |
+|  1 | 2021 As Reported                        | $13,552                                    | $15,118                  | $13,036                        |
+|  2 | Percentage Change Y/Y                   | 15%                                        | 23%                      | 19%                            |
+|  3 | Constant Currency Impact                | $366                                       | $367                     | $239                           |
+|  4 | Percentage Change Y/Y Constant Currency | 12%                                        | 20%                      | 16%                            |

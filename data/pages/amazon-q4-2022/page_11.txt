@@ -1,0 +1,88 @@
+AMAZON.COM, INC.
+Consolidated Balance Sheets
+(in millions, except per share data)
+(unaudited)
+ASSETS
+December 31, 2021 December 31, 2022
+Current assets:
+Cash and cash equivalents
+Marketable securities
+Inventories
+Accounts receivable, net and other
+Total current assets
+Property and equipment, net
+Operating leases
+36,220
+53,888
+59,829
+16,138
+32,640
+34,405
+32,891
+42,360
+161,580
+146,791
+160,281
+186,715
+56,082
+66,123
+Goodwill
+15,371
+20,288
+Other assets
+27,235
+42,758
+Total assets
+$
+420,549 $
+462,675
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+Accounts payable
+Accrued expenses and other
+Unearned revenue
+Total current liabilities
+Long-term lease liabilities
+Long-term debt
+Other long-term liabilities
+Commitments and contingencies
+Stockholders' equity:
+78,664 $
+79,600
+51,775
+62,566
+11,827
+13,227
+142,266
+155,393
+67,651
+72,968
+48,744
+67,150
+23,643
+21,121
+Preferred stock ($0.01 par value; 500 shares authorized; no shares issued or
+outstanding)
+Common stock ($0.01 par value; 100,000 shares authorized; 10,644 and 10,757
+shares issued; 10,175 and 10,242 shares outstanding)
+106
+108
+Treasury stock, at cost
+(1,837)
+(7,837)
+Additional paid-in capital
+Accumulated other comprehensive income (loss)
+Retained earnings
+55,437
+75,066
+(1,376)
+(4,487)
+85,915
+83,193
+Total stockholders' equity
+138,245
+146,043
+Total liabilities and stockholders' equity
+$
+420,549 $
+462,675

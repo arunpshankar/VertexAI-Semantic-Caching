@@ -1,0 +1,16 @@
+|    | ('Microsoft Cloud',)                                            | ('Y/Y (GAAP) 24%',)   | ('Currency Impact (1)%',)   | ('Currency 23%',)   |
+|---:|:----------------------------------------------------------------|:----------------------|:----------------------------|:--------------------|
+|  0 | Office Commercial products and cloud services                   | 15%                   | (1)%                        | 14%                 |
+|  1 | Office 365 Commercial                                           | 18%                   | (1)%                        | 17%                 |
+|  2 | Office Consumer products and cloud services                     | 3%                    | 1%                          | 4%                  |
+|  3 | LinkedIn                                                        | 8%                    | 0%                          | 8%                  |
+|  4 | Dynamics products and cloud services                            | 22%                   | (1)%                        | 21%                 |
+|  5 | Dynamics 365                                                    | 28%                   | (2)%                        | 26%                 |
+|  6 | Server products and cloud services                              | 21%                   | 0%                          | 21%                 |
+|  7 | Azure and other cloud services                                  | 29%                   | (1)%                        | 28%                 |
+|  8 | Windows                                                         | 5%                    | 0%                          | 5%                  |
+|  9 | Windows OEM                                                     | 4%                    | 0%                          | 4%                  |
+| 10 | Windows Commercial products and cloud services                  | 8%                    | 0%                          | 8%                  |
+| 11 | Devices                                                         | (22)%                 | 0%                          | (22)%               |
+| 12 | Xbox content and services                                       | 13%                   | (1)%                        | 12%                 |
+| 13 | Search and news advertising excluding traffic acquisition costs | 10%                   | (1)%                        | 9%                  |

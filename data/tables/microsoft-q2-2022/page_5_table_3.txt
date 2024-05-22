@@ -1,0 +1,13 @@
+|    | ('',)                                          | ('Percentage Change Y/Y (GAAP)',)   |   ('Constant Currency Impact',) | ('Y/Y (non-GAAP) Constant Currency',)   |
+|---:|:-----------------------------------------------|:------------------------------------|--------------------------------:|:----------------------------------------|
+|  0 | Office Commercial products and cloud services  | 9%                                  |                               4 | % 13%                                   |
+|  1 | Office 365 Commercial                          | 15%                                 |                               4 | % 19%                                   |
+|  2 | Office Consumer products and cloud services    | 9%                                  |                               3 | % 12%                                   |
+|  3 | LinkedIn                                       | 26%                                 |                               3 | % 29%                                   |
+|  4 | Dynamics products and cloud services           | 19%                                 |                               5 | % 24%                                   |
+|  5 | Dynamics 365                                   | 31%                                 |                               5 | % 36%                                   |
+|  6 | Server products and cloud services             | 22%                                 |                               4 | % 26%                                   |
+|  7 | Azure and other cloud services                 | 40⁹                                 |                               6 | % 46%                                   |
+|  8 | Windows OEM                                    | (2)%                                |                               0 | % (2)%                                  |
+|  9 | Windows Commercial products and cloud services | 6%                                  |                               6 | % 12%                                   |
+| 10 | Xbox content and services                      | (6)%                                |                               2 | % (4)%                                  |

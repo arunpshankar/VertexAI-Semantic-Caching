@@ -1,0 +1,248 @@
+AMAZON.COM, INC.
+Supplemental Financial Information and Business Metrics
+(in millions, except employee data)
+(unaudited)
+Net Sales
+Online stores (1)
+Online stores -- Y/Y growth (decline), excluding F/X
+Physical stores (2)
+Physical stores - Y/Y growth, excluding F/X
+Third-party seller services (3)
+Third-party seller services -- Y/Y growth, excluding F/X
+Subscription services (4)
+Subscription services -- Y/Y growth, excluding F/X
+Advertising services (5)
+Advertising services -- Y/Y growth, excluding F/X
+AWS
+AWS -- Y/Y growth, excluding F/X
+Other (6)
+Other -- Y/Y growth, excluding F/X
+Stock-based Compensation Expense
+Cost of sales
+Fulfillment
+Technology and content
+Sales and marketing
+General and administrative
+Total stock-based compensation expense
+Other
+WW shipping costs
+WW shipping costs -- Y/Y growth
+Q4 2021
+Q1 2022
+Q2 2022
+Q3 2022
+Q4 2022
+Q1 2023
+Y/Y %
+Change
+$ 66,075
+$ 51,129
+1 %
+$ 50,855
+(1)%
+0%
+$ 53,489 $ 64,531
+13 %
+$ 51,096
+0%
+2%
+3 %
+N/A
+$ 4,688
+$ 4,591
+$ 4,721
+16 %
+16 %
+13%
+$ 4,694
+10 %
+$ 4,957
+$ 4,895
+7%
+6%
+7%
+N/A
+$ 30,320
+$ 25,335
+12 %
+9%
+$ 8,123
+16%
+13%
+$ 8,410 $ 8,716
+14 %
+$ 27,376
+13 %
+$ 8,903
+$ 28,666
+$ 36,339
+$ 29,820
+18%
+23 %
+24 %
+20%
+N/A
+$ 9,189
+$ 9,657
+15%
+14 %
+17 %
+17 %
+N/A
+$ 9,716 $ 7,877 $ 8,757
+$ 9,548
+$ 11,557
+$ 9,509
+21 %
+$ 17,780
+40%
+$
+710
+$
+33 %
+$ 18,441
+37 %
+661
+25%
+21 %
+30%
+23 %
+23 %
+N/A
+$ 19,739 $ 20,538 $ 21,378
+33 %
+28 %
+20 %
+$ 21,354
+16%
+16%
+N/A
+$ 1,070
+19 %
+28 %
+135 %
+$ 1,263
+168 %
+$ 1,253
+$ 1,027
+55 %
+80%
+57 %
+N/A
+$
+179 $
+146
+$
+213
+$
+190
+$
+208
+$
+165
+13%
+$ 565
+$ 498
+$ 763
+$ 727
+$ 757
+$
+603
+21%
+$ 1,903
+$ 1,645
+$ 2,814
+$ 3,036
+$ 3,126
+$ 2,574
+56 %
+$ 726
+$ 307
+EA GA
+$
+665
+$ 990
+$ 1,128
+$ 1,092
+$ 993
+49 %
+$
+$ 3,680
+296
+3,250
+$ 429
+$ 475
+$ 423
+$ 413
+40%
+$ 5,209
+$ 5,556
+$ 5,606
+$ 4,748
+46 %
+$ 23,656
+$ 19,560
+$ 19,304
+$ 19,942
+$ 24,714
+$ 19,937
+2%
+10 %
+14%
+9%
+10%
+4%
+2%
+N/A
+WW paid units -- Y/Y growth (7)
+3 %
+0%
+WW seller unit mix -- % of WW paid units (7)
+56 %
+55%
+1 %
+57 %
+11 %
+58 %
+8%
+8 %
+N/A
+59 %
+59%
+N/A
+Employees (full-time and part-time; excludes contractors & temporary personnel)
+Employees (full-time and part-time; excludes contractors & temporary personnel) -- Y/Y
+growth (decline)
+1,608,000
+1,622,000
+1,523,000
+1,544,000
+1,541,000
+1,465,000
+(10)%
+24%
+28 %
+14 %
+5 %
+(4)%
+(10)%
+N/A
+(1)
+(2)
+Includes product sales and digital media content where we record revenue gross. We leverage our retail infrastructure to offer a wide selection of consumable and durable
+goods that includes media products available in both a physical and digital format, such as books, videos, games, music, and software. These product sales include digital
+products sold on a transactional basis. Digital product subscriptions that provide unlimited viewing or usage rights are included in "Subscription services."
+Includes product sales where our customers physically select items in a store. Sales to customers who order goods online for delivery or pickup at our physical stores are
+included in "Online stores."
+Includes annual and monthly fees associated with Amazon Prime memberships, as well as digital video, audiobook, digital music, e-book, and other non-AWS subscription
+services.
+(3)
+Includes commissions and any related fulfillment and shipping fees, and other third-party seller services.
+(4)
+(5)
+(6)
+(7)
+Excludes the impact of Whole Foods Market.
+Includes sales of advertising services to sellers, vendors, publishers, authors, and others, through programs such as sponsored ads, display, and video advertising.
+Includes sales related to various other offerings, such as certain licensing and distribution of video content, shipping services, and health care services, and our co-branded
+credit card agreements.

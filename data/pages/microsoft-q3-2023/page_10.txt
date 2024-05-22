@@ -1,0 +1,32 @@
+SEGMENT REVENUE AND OPERATING INCOME
+(In millions) (Unaudited)
+Three Months Ended
+September 30,
+2023
+2022
+Revenue
+Productivity and Business Processes
+$18,592
+$16,465
+Intelligent Cloud
+24,259
+20,325
+More Personal Computing
+13,666
+13,332
+Total
+$56,517
+$50,122
+Operating Income
+Productivity and Business Processes
+$9,970
+$8,323
+Intelligent Cloud
+11,751
+8,978
+More Personal Computing
+5,174
+4,217
+Total
+$26,895
+$21,518

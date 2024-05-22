@@ -1,0 +1,164 @@
+=== START PAGE CONTENT ===
+AMAZON.COM, INC.
+Consolidated Statements of Operations
+(in millions, except per share data)
+(unaudited)
+Three Months Ended
+December 31,
+Twelve Months Ended
+December 31,
+2020
+2021
+2020
+2021
+Net product sales
+Net service sales
+Total net sales
+Operating expenses:
+Cost of sales
+Fulfillment
+$
+71,056 $
+71,416 $
+215,915 $
+241,787
+54,499
+65,996
+170,149
+228,035
+125,555
+137,412
+386,064
+469,822
+79,284
+82,835
+233,307
+272,344
+18,474
+22,445
+58,517
+75,111
+Technology and content
+12,049
+15,313
+42,740
+56,052
+Marketing
+7,403
+10,810
+22,008
+32,551
+General and administrative
+1,968
+2,525
+6,668
+8,823
+Other operating expense (income), net
+(496)
+24
+(75)
+62
+Total operating expenses
+118,682
+133,952
+363,165
+444,943
+Operating income
+6,873
+3,460
+22,899
+24,879
+Interest income
+100
+118
+555
+448
+Interest expense
+Other income (expense), net
+Total non-operating income (expense)
+(414)
+(482)
+(1,647)
+(1,809)
+1,206
+11,838
+2,371
+14,633
+892
+11,474
+1,279
+13,272
+Income before income taxes
+7,765
+14,934
+24,178
+38,151
+Provision for income taxes
+(566)
+(612)
+(2,863)
+(4,791)
+Equity-method investment activity, net of tax
+23
+16
+4
+Net income
+$
+7,222 $
+14,323 $
+21,331 $
+33,364
+Basic earnings per share
+$
+14.38 $
+28.21 $
+42.64 $
+65.96
+Diluted earnings per share
+$
+14.09 $
+27.75 $
+41.83 $
+64.81
+Weighted-average shares used in computation of earnings per
+share:
+Basic
+Diluted
+502
+508
+500
+506
+513
+516
+510
+515
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('Net product sales',)                                             | ('71,056',)   | ('$ 71,416',)   | ('$ 215,915',)   | ('$ 241,787',)   |
+|---:|:-------------------------------------------------------------------|:--------------|:----------------|:-----------------|:-----------------|
+|  0 | Net service sales                                                  | 54,499        | 65,996          | 170,149          | 228,035          |
+|  1 | Total net sales                                                    | 125,555       | 137,412         | 386,064          | 469,822          |
+|  2 | Operating expenses:                                                |               |                 |                  |                  |
+|  3 | Cost of sales                                                      | 79,284        | 82,835          | 233,307          | 272,344          |
+|  4 | Fulfillment                                                        | 18,474        | 22,445          | 58,517           | 75,111           |
+|  5 | Technology and content                                             | 12,049        | 15,313          | 42,740           | 56,052           |
+|  6 | Marketing                                                          | 7,403         | 10,810          | 22,008           | 32,551           |
+|  7 | General and administrative                                         | 1,968         | 2,525           | 6,668            | 8,823            |
+|  8 | Other operating expense (income), net                              | (496)         | 24              | (75)             | 62               |
+|  9 | Total operating expenses                                           | 118,682       | 133,952         | 363,165          | 444,943          |
+| 10 | Operating income                                                   | 6,873         | 3,460           | 22,899           | 24,879           |
+| 11 | Interest income                                                    | 100           | 118             | 555              | 448              |
+| 12 | Interest expense                                                   | (414)         | (482)           | (1,647)          | (1,809)          |
+| 13 | Other income (expense), net                                        | 1,206         | 11,838          | 2,371            | 14,633           |
+| 14 | Total non-operating income (expense)                               | 892           | 11,474          | 1,279            | 13,272           |
+| 15 | Income before income taxes                                         | 7,765         | 14,934          | 24,178           | 38,151           |
+| 16 | Provision for income taxes                                         | (566)         | (612)           | (2,863)          | (4,791)          |
+| 17 | Equity-method investment activity, net of tax                      | 23            | 1               | 16               | 4                |
+| 18 | Net income                                                         | 7,222         | $ 14,323        | $ 21,331         | $ 33,364         |
+| 19 | Basic earnings per share                                           | 14.38         | $ 28.21         | $ 42.64          | $ 65.96          |
+| 20 | Diluted earnings per share                                         | $ 14.09       | $ 27.75         | $ 41.83          | $ 64.81          |
+| 21 | Weighted-average shares used in computation of earnings per share: |               |                 |                  |                  |
+| 22 | Basic                                                              | 502           | 508             | 500              | 506              |
+| 23 | Diluted                                                            | 513           | 516             | 510              | 515              |
+=== TABLE END ===

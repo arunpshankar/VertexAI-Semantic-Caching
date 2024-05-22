@@ -1,0 +1,254 @@
+AMAZON.COM, INC.
+Supplemental Financial Information and Business Metrics
+(in millions, except employee data)
+(unaudited)
+Net Sales
+Online stores (1)
+Online stores -- Y/Y growth, excluding F/X
+Physical stores (2)
+Physical stores -- Y/Y growth, excluding F/X
+Third-party seller services (3)
+Third-party seller services -- Y/Y growth, excluding F/X
+Subscription services (4)
+Subscription services -- Y/Y growth, excluding F/X
+Advertising services (5)
+Advertising services -- Y/Y growth, excluding F/X
+AWS
+AWS Y/Y growth, excluding F/X
+Other (6)
+Other -- Y/Y growth, excluding F/X
+Stock-based Compensation Expense
+Cost of sales
+Fulfillment
+Technology and content
+Marketing
+General and administrative
+Total stock-based compensation expense
+Other
+WW shipping costs
+WW shipping costs -- Y/Y growth
+WW paid units -- Y/Y growth (7)
+WW seller unit mix -- % of WW paid units (7)
+Employees (full-time and part-time; excludes contractors & temporary personnel)
+Employees (full-time and part-time; excludes contractors & temporary personnel) -- Y/Y
+growth
+Q3 2020
+Q4 2020
+Q1 2021
+Q2 2021
+Q3 2021
+Q4 2021
+Y/Y %
+Change
+$ 48,350
+$ 66,451
+37 %
+43 %
+$ 52,901
+41 %
+$ 53,157
+$ 49,942
+$ 66,075
+(1)%
+13 %
+3 %
+1 %
+N/A
+$ 3,788
+$ 4,022 $ 3,920
+$
+4,198
+$ 4,269
+$
+4,688
+17 %
+(10)%
+(7)%
+(16)%
+10 %
+12 %
+16%
+N/A
+$ 20,436
+$ 27,327
+53 %
+54%
+$ 23,709
+60 %
+$ 25,085
+34 %
+$ 24,252
+$ 30,320
+11 %
+18%
+12%
+N/A
+$ 6,572
+32 %
+$ 7,061 $ 7,580 $ 7,917
+34 %
+34 %
+$ 4,982
+$ 7,350
+$ 6,381
+$ 8,148
+28 %
+23 %
+$ 7,451
+$
+8,123
+15 %
+16%
+N/A
+$ 7,612
+$
+9,716
+32 %
+52 %
+66%
+76%
+88 %
+52 %
+33%
+N/A
+$ 11,601
+$ 12,742
+$ 13,503
+$ 14,809
+$ 16,110
+$ 17,780
+40 %
+29%
+28%
+32 %
+37 %
+39 %
+40 %
+N/A
+$
+416 $
+602
+$
+524
+$
+463
+$
+479
+$
+710
+18 %
+18 %
+42 %
+49 %
+34 %
+15 %
+19 %
+N/A
+$
+75 $
+91
+$
+$
+316 $ 364
+$
+90 $
+342
+$
+145
+566
+$
+126
+$
+$ 1,267
+$ 1,412
+$ 1,228
+$ 1,887
+$ 1,627
+$ 446
+$ 476
+$ 456
+$ 691
+$ 657
+$ 184
+$ 219
+$ 190
+$ 302
+$ 297
+$ 2,288
+2,562
+$ 2,306
+$ 3,591
+$ 3,180
+SSSSSS
+179
+96 %
+473 $ 565
+55 %
+$ 1,903
+35 %
+726
+52 %
+307
+41 %
+$ 3,680
+44 %
+$ 15,063
+$ 21,465
+$ 17,162
+$ 17,747
+$ 18,108
+$ 23,656
+10 %
+57 %
+67 %
+57 %
+30 %
+20%
+10 %
+N/A
+46 %
+47 %
+44 %
+15 %
+8%
+3 %
+N/A
+54 %
+55 %
+55 %
+1,125,300
+1,298,000
+1,271,000
+56 %
+1,335,000
+56 %
+56%
+N/A
+1,468,000
+1,608,000
+24%
+50 %
+63 %
+51 %
+52 %
+30%
+24 %
+N/A
+(1)
+Includes product sales and digital media content where we record revenue gross. We leverage our retail infrastructure to offer a wide selection of consumable and durable
+goods that includes media products available in both a physical and digital format, such as books, videos, games, music, and software. These product sales include digital
+products sold on a transactional basis. Digital product subscriptions that provide unlimited viewing or usage rights are included in "Subscription services."
+Includes product sales where our customers physically select items in a store. Sales to customers who order goods online for delivery or pickup at our physical stores are
+included in "Online stores."
+Includes annual and monthly fees associated with Amazon Prime memberships, as well as digital video, audiobook, digital music, e-book, and other non-AWS subscription
+services.
+(2)
+(3)
+Includes commissions and any related fulfillment and shipping fees, and other third-party seller services.
+(4)
+(5)
+(6)
+(7)
+Includes sales of advertising services to sellers, vendors, publishers, authors, and others, through programs such as sponsored ads, display, and video advertising.
+Includes sales related to various other service offerings. "Other" sales excludes Advertising services sales, which are reported separately above.
+Excludes the impact of Whole Foods Market.

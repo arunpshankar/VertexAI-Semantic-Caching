@@ -1,0 +1,108 @@
+=== START PAGE CONTENT ===
+MICROSOFT CORPORATION
+Revenue:
+Product
+Service and other
+Total revenue
+INCOME STATEMENTS
+(In millions, except per share amounts) (Unaudited)
+Three Months Ended
+September 30,
+2021
+2020
+$16,631
+$15,803
+28,686
+21,351
+45,317
+37,154
+Cost of revenue:
+Product
+3,792
+3,597
+Service and other
+9,854
+7,405
+Total cost of revenue
+13,646
+11,002
+Gross margin
+31,671
+26,152
+Research and development
+5,599
+4,926
+Sales and marketing
+4,547
+4,231
+General and administrative
+1,287
+1,119
+Operating income
+20,238
+15,876
+Other income, net
+286
+248
+Income before income taxes
+20,524
+16,124
+Provision for income taxes
+19
+2,231
+Net income
+$20,505
+$13,893
+Earnings per share:
+Basic
+$2.73
+$1.84
+Diluted
+$2.71
+$1.82
+Weighted average shares outstanding:
+Basic
+7,513
+7,566
+Diluted
+7,567
+7,637
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('Net income',)                      | ('$20,505',)   | ('$13,893',)   |
+|---:|:-------------------------------------|:---------------|:---------------|
+|  0 | Earnings per share:                  |                |                |
+|  1 | Basic                                | $2.73          | $1.84          |
+|  2 | Diluted                              | $2.71          | $1.82          |
+|  3 | Weighted average shares outstanding: |                |                |
+|  4 | Basic                                | 7,513          | 7,566          |
+|  5 | Diluted                              | 7,567          | 7,637          |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('',)                                | ('2021',)   | ('2020',)   |
+|---:|:-------------------------------------|:------------|:------------|
+|  0 | Revenue:                             |             |             |
+|  1 | Product                              | $16,631     | $15,803     |
+|  2 | Service and other                    | 28,686      | 21,351      |
+|  3 | Total revenue                        | 45,317      | 37,154      |
+|  4 | Cost of revenue:                     |             |             |
+|  5 | Product                              | 3,792       | 3,597       |
+|  6 | Service and other                    | 9,854       | 7,405       |
+|  7 | Total cost of revenue                | 13,646      | 11,002      |
+|  8 | Gross margin                         | 31,671      | 26,152      |
+|  9 | Research and development             | 5,599       | 4,926       |
+| 10 | Sales and marketing                  | 4,547       | 4,231       |
+| 11 | General and administrative           | 1,287       | 1,119       |
+| 12 | Operating income                     | 20,238      | 15,876      |
+| 13 | Other income, net                    | 286         | 248         |
+| 14 | Income before income taxes           | 20,524      | 16,124      |
+| 15 | Provision for income taxes           | 19          | 2,231       |
+| 16 | Net income                           | $20,505     | $13,893     |
+| 17 | Earnings per share:                  |             |             |
+| 18 | Basic                                | $2.73       | $1.84       |
+| 19 | Diluted                              | $2.71       | $1.82       |
+| 20 | Weighted average shares outstanding: |             |             |
+| 21 | Basic                                | 7,513       | 7,566       |
+| 22 | Diluted                              | 7,567       | 7,637       |
+=== TABLE END ===

@@ -1,0 +1,26 @@
+|    | ('2022 Net product sales $ 56,455',)                               | ('2023 $ 56,981',)   |
+|---:|:-------------------------------------------------------------------|:---------------------|
+|  0 | Net service sales 59,989                                           | 70,377               |
+|  1 | Total net sales 116,444                                            | 127,358              |
+|  2 | Operating expenses:                                                |                      |
+|  3 | Cost of sales 66,499                                               | 67,791               |
+|  4 | Fulfillment 20,271                                                 | 20,905               |
+|  5 | Technology and content 14,842                                      | 20,450               |
+|  6 | Sales and marketing 8,320                                          | 10,172               |
+|  7 | General and administrative 2,594                                   | 3,043                |
+|  8 | 249 Other operating expense (income), net                          | 223                  |
+|  9 | Total operating expenses 112,775                                   | 122,584              |
+| 10 | Operating income 3,669                                             | 4,774                |
+| 11 | Interest income 108                                                | 611                  |
+| 12 | Interest expense (472)                                             | (823)                |
+| 13 | (8,570) Other income (expense), net                                | (443)                |
+| 14 | Total non-operating expense (8,934)                                | (655)                |
+| 15 | (5,265) Income (loss) before income taxes                          | 4,119                |
+| 16 | Benefit (provision) for income taxes 1,422                         | (948)                |
+| 17 | Equity-method investment activity, net of tax (1)                  | 1                    |
+| 18 | Net income (loss) $ (3,844)                                        | $ 3,172              |
+| 19 | Basic earnings per share $ (0.38)                                  | $ 0.31               |
+| 20 | Diluted earnings per share $ (0.38)                                | $ 0.31               |
+| 21 | Weighted-average shares used in computation of earnings per share: |                      |
+| 22 | Basic 10,171                                                       | 10,250               |
+| 23 | Diluted 10,171                                                     | 10,347               |

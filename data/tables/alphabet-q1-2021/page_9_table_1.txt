@@ -1,0 +1,11 @@
+|    | ('Interest income',)                                                                      | ('2020 586',)     | ('2021 $ 345',)     |
+|---:|:------------------------------------------------------------------------------------------|:------------------|:--------------------|
+|  0 | Interest expense                                                                          | (21)              | (76)                |
+|  1 | Foreign currency exchange gain (loss), net                                                | (81)              | 113                 |
+|  2 | Gain (loss) on debt securities, net                                                       | 12                | (86)                |
+|  3 | Gain (loss) on equity securities, net (¹)                                                 | (814)             | 4,837               |
+|  4 | Performance fees                                                                          | 6                 | (665)               |
+|  5 | Income (loss) and impairment from equity method investments, net                          | 74                |                     |
+|  6 | Other                                                                                     | 18                | 373                 |
+|  7 | Other income (expense), net                                                               | $ (220)           | $ 4,846             |
+|  8 | (1) Includes all gains and losses, unrealized and realized, on equity investments that we | hold. For Q1 2021 | , the net effect of |

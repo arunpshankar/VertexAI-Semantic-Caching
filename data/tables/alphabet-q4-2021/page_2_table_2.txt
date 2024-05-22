@@ -1,0 +1,13 @@
+|    | ('Google Search & other',)   | ('$ 31,903',)   | ('$ 43,301',)   |
+|---:|:-----------------------------|:----------------|:----------------|
+|  0 | YouTube ads                  | 6,885           | 8,633           |
+|  1 | Google Network               | 7,411           | 9,305           |
+|  2 | Google advertising           | 46,199          | 61,239          |
+|  3 | Google other                 | 6,674           | 8,161           |
+|  4 | Google Services total        | 52,873          | 69,400          |
+|  5 | Google Cloud                 | 3,831           | 5,541           |
+|  6 | Other Bets                   | 196             | 181             |
+|  7 | Hedging gains (losses)       | (2)             | 203             |
+|  8 | Total revenues               | 56,898          | $ 75,325        |
+|  9 | Total TAC                    | 10,466          | $ 13,427        |
+| 10 | Number of employees          | 135,301         | 156,500         |

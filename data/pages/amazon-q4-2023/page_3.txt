@@ -1,0 +1,58 @@
+•
+•
+•
+•
+•
+Market stores in the U.S. It also expanded third-party grocery delivery with additional Weis Markets supermarkets in
+the U.S. and ARCS Supermarket in Japan.
+Added three Buy with Prime shopping benefits for Prime members, including the ability for customers to view, track,
+and manage orders from participating retailers in their Amazon account; access 24/7 to live-chat support managed by
+Amazon; and access to an expanded number of return locations, as well as box and label-free returns.
+Had approximately 1 billion customer visits to Amazon.in during Amazon India's month-long Great Indian Festival
+sales event. During the event, more than 4 million customers made a purchase on Amazon.in for the first time.
+Announced that Prime Air drone deliveries will expand to Italy, the UK, and an additional location in the U.S. in late
+2024. Amazon will also integrate drone deliveries into the company's Same-Day sites, which will provide customers
+with faster delivery on a greater selection of items. Prime Air uses drones to safely deliver packages weighing up to
+five pounds in one hour or less.
+Expanded tools and resources for Amazon sellers in China, including announcing an Innovation Center dedicated to
+sellers, introducing Supply Chain by Amazon for sellers in China, and establishing five regional global selling centers,
+all with the goal to expand opportunities for sellers to help them grow their businesses.
+Increased total viewership for the second season of Thursday Night Football (TNF) on Prime Video by 24% year over
+year, and had double-digit growth (14%) for the second consecutive season in the hard-to-reach 18–34-year-old
+demographic, according to Nielsen. The November 30 Seahawks-Cowboys game attracted 15.3 million viewers,
+becoming Prime Video's most watched TNF game ever, according to Nielsen.
+Released 16 films and series from Amazon MGM Studios, including the second season of Reacher, which was the No.
+1 title on Nielsen's Top 10 Originals Streaming chart for the week it debuted and had the highest number of minutes
+viewed for any Prime Video title during a single week in 2023 according to Nielsen; second season of Invincible, the
+most-viewed animated series ever on Prime Video globally; holiday comedy Candy Cane Lane, one of the top 10
+most-watched worldwide film debuts ever on Prime Video; thriller Saltburn, which had the highest week-over-week
+audience growth of any film on Prime Video in 2023; dramedy American Fiction; and sports drama The Boys in the
+Boat. This awards season, Amazon MGM Studios earned 16 Golden Globe nominations, 68 Emmy nominations and
+nine wins, and 21 Critics Choice Award nominations for content such as American Fiction, Saltburn, Daisy Jones &
+The Six, The Marvelous Mrs. Maisel, and The Boys. For the upcoming Oscars, the studio earned five nominations for
+American Fiction, including for Best Picture.
+Grew Prime Video's international slate of content with more than 60 local Amazon Originals, including Mr. Dressup:
+The Magic of Make-Believe (Canada), which was winner of the 2023 People's Choice Award for Documentary at the
+Toronto International Film Festival; Sayen: La Ruta Seca (Chile), the action-packed sequel to the most watched Latin
+American Original movie ever on Prime Video; Operación Triunfo (Spain), Prime Video's first weekly live
+entertainment show; and 007: Road To A Million (UK), the world's first James Bond television format, which was No.
+1 on Prime Video in 27 countries worldwide on its launch weekend.
+Expanded Prime Video's global sports programming with the debut of the Amazon Original sports documentaries
+Kelce, chronicling Philadelphia Eagles captain Jason Kelce's 2022 season, and Bye Bye Barry, the story of Barry
+Sanders' decision to retire at the height of his NFL career. In live sports, Prime Video added new broadcast rights for
+NASCAR, the National Women's Soccer League, and Premier Boxing Champions in the U.S.; ICC Cricket in
+Australia; and Wimbledon tennis in Austria and Germany.
+Announced AWS European Sovereign Cloud, an independent cloud for Europe, to give public sector customers and
+those in highly regulated industries more choice to meet stringent compliance mandates in the EU and achieve the
+operational independence they require without compromising on the broadest and deepest cloud services.
+Expanded AWS's infrastructure footprint by launching the AWS Canada West (Calgary) Region, the second
+infrastructure Region in Canada. AWS is the first major cloud services provider to have an infrastructure Region in
+Western Canada. As of the end of 2023, AWS had 105 Availability Zones within 33 geographic Regions globally,
+with announced plans for 12 more Availability Zones and four more Regions.
+Announced new commitments, partnerships, and expansions to support AWS customers.
+Amgen expanded its work with AWS to create generative artificial intelligence (generative AI)-based
+solutions, using Amazon SageMaker to help discover, develop, and accelerate the manufacturing of
+medicines for patients suffering from serious illnesses. Amgen will also use AWS's global infrastructure and
+advanced services to power a new digital data and analytics platform.
+Salesforce, which runs the vast majority of its cloud computing workloads on AWS, significantly expanded
+its global partnership with AWS. For the first time, Salesforce products are now available in the AWS

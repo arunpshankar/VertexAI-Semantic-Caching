@@ -1,0 +1,136 @@
+Financial Performance Constant Currency Reconciliation
+Three Months Ended March 31,
+Diluted
+($ in millions, except per share amounts)
+2021 As Reported (GAAP)
+2021 As Adjusted (non-GAAP)
+2022 As Reported (GAAP)
+Percentage Change Y/Y (GAAP)
+Percentage Change Y/Y (non-GAAP)
+Constant Currency Impact
+Percentage Change Y/Y (non-GAAP) Constant Currency
+Segment Revenue Constant Currency Reconciliation
+($ in millions)
+2021 As Reported (GAAP)
+2022 As Reported (GAAP)
+Percentage Change Y/Y (GAAP)
+Revenue
+Operating
+Income
+Net
+Earnings
+Income
+per Share
+$41,706
+$17,048
+$15,457
+$2.03
+$41,706
+$17,048
+$14,837
+$1.95
+$49,360
+$20,364
+$16,728
+$2.22
+18%
+19%
+8%
+9%
+18%
+19%
+13%
+14%
+$(1,003)
+$(677)
+21%
+23%
+$(577)
+17%
+$(0.08)
+18%
+Three Months Ended March 31,
+Productivity and
+Business Processes
+Intelligent Cloud
+More Personal
+Computing
+$13,552
+$15,789
+$15,118
+$19,051
+$13,036
+$14,520
+17%
+26%
+11%
+$(332)
+19%
+$(418)
+29%
+$(253)
+13%
+Constant Currency Impact
+Percentage Change Y/Y (non-GAAP) Constant Currency
+Selected Product and Service Revenue Constant Currency Reconciliation
+Three Months Ended March 31, 2022
+Percentage Change
+Y/Y (non-GAAP)
+Constant Currency
+Percentage Change
+Constant
+Y/Y (GAAP)
+Currency Impact
+Office Commercial products and cloud services
+Office 365 Commercial
+Office Consumer products and cloud services
+LinkedIn
+12%
+2%
+14%
+17%
+3%
+20%
+11%
+1%
+12%
+34%
+1%
+35%
+Dynamics products and cloud services
+22%
+3%
+25%
+Dynamics 365
+35%
+3%
+38%
+Server products and cloud services
+29%
+3%
+32%
+Azure and other cloud services
+46%
+3%
+49%
+Windows OEM
+11%
+0%
+11%
+Windows Commercial products and cloud services
+14%
+5%
+19%
+Xbox content and services
+4%
+2%
+6%
+Search and news advertising excluding traffic acquisition
+23%
+2%
+25%
+costs
+Surface
+13%
+5%
+18%

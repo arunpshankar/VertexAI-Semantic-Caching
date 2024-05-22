@@ -1,0 +1,15 @@
+|    | ('',)                                                  | ('Percentage Change Y/Y (GAAP)',)   | ('Constant Currency Impact',)   | ('Y/Y Constant Currency',)   |
+|---:|:-------------------------------------------------------|:------------------------------------|:--------------------------------|:-----------------------------|
+|  0 | Office Commercial products and cloud services          | 14%                                 | (4)%                            | 10%                          |
+|  1 | Office 365 Commercial                                  | 22%                                 | (3)%                            | 19%                          |
+|  2 | Office Consumer products and cloud services            | 5%                                  | (3)%                            | 2%                           |
+|  3 | LinkedIn                                               | 25%                                 | (2)%                            | 23%                          |
+|  4 | Dynamics products and cloud services                   | 26%                                 | (4)%                            | 22%                          |
+|  5 | Dynamics 365                                           | 45%                                 | (5)%                            | 40%                          |
+|  6 | Server products and cloud services                     | 26%                                 | (3)%                            | 23%                          |
+|  7 | Azure                                                  | 50%                                 | (4)%                            | 46%                          |
+|  8 | Windows OEM                                            | 10%                                 | 0%                              | 10%                          |
+|  9 | Windows Commercial products and cloud services         | 10%                                 | (3)%                            | 7%                           |
+| 10 | Xbox content and services                              | 34%                                 | (2)%                            | 32%                          |
+| 11 | Surface                                                | 12%                                 | (5)%                            | 7%                           |
+| 12 | Search advertising excluding traffic acquisition costs | 17%                                 | (3)%                            | 14%                          |

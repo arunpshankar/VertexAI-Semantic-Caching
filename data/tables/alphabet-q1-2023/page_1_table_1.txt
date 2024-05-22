@@ -1,0 +1,10 @@
+|    | ('',)                                                  | ('Quarter Ended 2022',)   | ('March 31, 2023',)   |
+|---:|:-------------------------------------------------------|:--------------------------|:----------------------|
+|  0 | Revenues                                               | 68,011                    | $ 69,787              |
+|  1 | Change in revenues year over year                      | 23 %                      | 3 %                   |
+|  2 | Change in constant currency revenues year over year(¹) | 26 %                      | 6%                    |
+|  3 | Operating income                                       | 20,094                    | $ 17,415              |
+|  4 | Operating margin                                       | 30 %                      | 25 %                  |
+|  5 | Other income (expense), net                            | SA (1,160)                | $ 790                 |
+|  6 | Net income                                             | 16,436                    | $ 15,051              |
+|  7 | Diluted EPS                                            | 1.23                      | $ 1.17                |

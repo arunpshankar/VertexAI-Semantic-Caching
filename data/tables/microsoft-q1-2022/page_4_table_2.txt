@@ -1,0 +1,15 @@
+|    | ('',)                                                           | ('Percentage Change Y/Y (GAAP)',)   | ('Constant Currency Impact',)   | ('Y/Y (non-GAAP) Constant Currency',)   |
+|---:|:----------------------------------------------------------------|:------------------------------------|:--------------------------------|:----------------------------------------|
+|  0 | Office Commercial products and cloud services                   | 12%                                 | 2%                              | 14%                                     |
+|  1 | Office 365 Commercial                                           | 17%                                 | 3%                              | 20%                                     |
+|  2 | Office Consumer products and cloud services                     | 11%                                 | 1%                              | 12%                                     |
+|  3 | LinkedIn                                                        | 34%                                 | 1%                              | 35%                                     |
+|  4 | Dynamics products and cloud services                            | 22%                                 | 3%                              | 25%                                     |
+|  5 | Dynamics 365                                                    | 35%                                 | 3%                              | 38%                                     |
+|  6 | Server products and cloud services                              | 29%                                 | 3%                              | 32%                                     |
+|  7 | Azure and other cloud services                                  | 46%                                 | 3%                              | 49%                                     |
+|  8 | Windows OEM                                                     | 11%                                 | 0%                              | 11%                                     |
+|  9 | Windows Commercial products and cloud services                  | 14%                                 | 5%                              | 19%                                     |
+| 10 | Xbox content and services                                       | 4%                                  | 2%                              | 6%                                      |
+| 11 | Search and news advertising excluding traffic acquisition costs | 23%                                 | 2%                              | 25%                                     |
+| 12 | Surface                                                         | 13%                                 | 5%                              | 18%                                     |

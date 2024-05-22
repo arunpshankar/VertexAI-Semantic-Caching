@@ -1,0 +1,43 @@
+amazon
+AMAZON.COM ANNOUNCES THIRD QUARTER RESULTS
+SEATTLE (BUSINESS WIRE) October 28, 2021-Amazon.com, Inc. (NASDAQ: AMZN) today announced financial
+results for its third quarter ended September 30, 2021.
+•
+•
+•
+•
+Operating cash flow decreased 1% to $54.7 billion for the trailing twelve months, compared with $55.3 billion for the
+trailing twelve months ended September 30, 2020.
+Free cash flow decreased to $2.6 billion for the trailing twelve months, compared with $29.5 billion for the trailing
+twelve months ended September 30, 2020.
+Free cash flow less principal repayments of finance leases and financing obligations decreased to an outflow of
+$8.8 billion for the trailing twelve months, compared with an inflow of $18.4 billion for the trailing twelve months
+ended September 30, 2020.
+Free cash flow less equipment finance leases and principal repayments of all other finance leases and financing
+obligations decreased to an outflow of $3.9 billion for the trailing twelve months, compared with an inflow of $17.9
+billion for the trailing twelve months ended September 30, 2020.
+Common shares outstanding plus shares underlying stock-based awards totaled 523 million on September 30,
+2021, compared with 518 million one year ago.
+Net sales increased 15% to $110.8 billion in the third quarter, compared with $96.1 billion in third quarter 2020.
+Excluding the $0.5 billion favorable impact from year-over-year changes in foreign exchange rates throughout the
+quarter, net sales increased 15% compared with third quarter 2020.
+Operating income decreased to $4.9 billion in the third quarter, compared with $6.2 billion in third quarter 2020.
+Net income decreased to $3.2 billion in the third quarter, or $6.12 per diluted share, compared with $6.3 billion, or
+$12.37 per diluted share, in third quarter 2020.
+"We've always said that when confronted with the choice between optimizing for short-term profits versus what's best for
+customers over the long term, we will choose the latter—and you can see that during every phase of this pandemic,” said Andy
+Jassy, Amazon CEO. “In the first several months of COVID-19, Amazonians played an essential role to help people secure the
+requisite PPE, food, and other in-demand items needed, and we worked closely with businesses and governments to leverage
+AWS to maintain business continuity as they responded to the pandemic. Customers have appreciated this commitment, which
+is part of what's driving this past quarter's AWS growth acceleration to 39% year over year; but, it's also driven extraordinary
+investments across our businesses to satisfy customer needs—just one example is that we've nearly doubled the size of our
+fulfillment network since the pandemic began. In the fourth quarter, we expect to incur several billion dollars of additional costs
+in our Consumer business as we manage through labor supply shortages, increased wage costs, global supply chain issues, and
+increased freight and shipping costs—all while doing whatever it takes to minimize the impact on customers and selling
+partners this holiday season. It'll be expensive for us in the short term, but it's the right prioritization for our customers and
+partners."
+Highlights
+Innovating for Our Retail Customers
+Amazon kicked off the holidays early this year, announcing Black Friday-worthy deals on October 4, including
+thousands of deals from independent sellers and handmade artisans and Amazon's biggest ever selection of gift guides.
+Amazon launched new features like the Holiday Gift List to let customers easily create and share one list of gift ideas

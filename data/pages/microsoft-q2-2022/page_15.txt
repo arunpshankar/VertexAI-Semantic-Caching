@@ -1,0 +1,36 @@
+•
+Windows revenue increased $49 million or 1% primarily driven by growth in Windows
+Commercial, offset in part by a decrease in Windows OEM. Windows Commercial products and
+cloud services revenue increased 6% driven by demand for Microsoft 365. Windows OEM revenue
+decreased 2% driven by production shutdowns and a deteriorating PC market.
+Search and news advertising revenue increased $390 million or 15%. Search and news advertising
+revenue excluding traffic acquisition costs increased 18% driven by higher search volume and
+revenue per search.
+Surface revenue increased $136 million or 10% driven by commercial sales.
+Gaming revenue decreased $259 million or 7% driven by a decrease in Xbox content and
+services and Xbox hardware. Xbox content and services revenue decreased 6% driven by lower
+engagement hours and monetization in third-party and first-party content, offset in part by
+growth in Xbox Game Pass subscriptions. Xbox hardware revenue decreased 11%.
+Operating income decreased $254 million or 5%.
+Gross margin was relatively unchanged. Gross margin percentage decreased driven by increased
+usage of Windows Commercial cloud services.
+Operating expenses increased $262 million or 8% driven by investments in Windows and Search
+and news advertising.
+Revenue, gross margin, and operating income included an unfavorable foreign currency impact of 3%, 4%,
+and 5%, respectively. Operating expenses included a favorable foreign currency impact of 2%.
+OPERATING EXPENSES
+Research and development expenses increased $1.2 billion or 20% driven by investments in cloud
+engineering and LinkedIn.
+Sales and marketing expenses increased $447 million or 8% driven by Nuance, which contributed
+3 points of growth, and investments in LinkedIn. Sales and marketing included a favorable foreign
+currency impact of 3%.
+General and administrative expenses increased $227 million or 15% driven by investments in
+corporate functions, legal expenses, and Nuance, which contributed 5 points of growth, offset in
+part by lower business taxes. General and administrative included a favorable foreign currency
+impact of 2%.
+OTHER INCOME (EXPENSE), NET
+Other income (expense), net was $(47) million driven by net losses on investments, including mark-to-
+market losses on our equity portfolio.
+INCOME TAXES
+The current quarter effective tax rate was 18% compared to 15% in the prior year. The increase in our
+effective tax rate was primarily due to changes in the mix of our income before income taxes between the

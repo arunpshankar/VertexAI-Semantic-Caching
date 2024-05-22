@@ -1,0 +1,13 @@
+|    | ('2021 Google Search & other 37,926',)   | ('2022 $ 39,539',)   |
+|---:|:-----------------------------------------|:---------------------|
+|  0 | YouTube ads 7,205                        | 7,071                |
+|  1 | 7,999 Google Network                     | 7,872                |
+|  2 | 53,130 Google advertising                | 54,482               |
+|  3 | Google other 6,754                       | 6,895                |
+|  4 | Google Services total 59,884             | 61,377               |
+|  5 | Google Cloud 4,990                       | 6,868                |
+|  6 | Other Bets 182                           | 209                  |
+|  7 | Hedging gains (losses) 62                | 638                  |
+|  8 | Total revenues 65,118                    | $ 69,092             |
+|  9 | Total TAC EA 11,498                      | $ 11,826             |
+| 10 | Number of employees 150,028              | 186,779              |

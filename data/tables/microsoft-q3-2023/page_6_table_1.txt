@@ -1,0 +1,22 @@
+|    | ('',)                                | ('2023',)   | ('September 30, 2022',)   |
+|---:|:-------------------------------------|:------------|:--------------------------|
+|  0 | Revenue:                             |             |                           |
+|  1 | Product                              | $15,535     | $15,741                   |
+|  2 | Service and other                    | 40,982      | 34,381                    |
+|  3 | Total revenue                        | 56,517      | 50,122                    |
+|  4 | Cost of revenue:                     |             |                           |
+|  5 | Product                              | 3,531       | 4,302                     |
+|  6 | Service and other                    | 12,771      | 11,150                    |
+|  7 | Total cost of revenue                | 16,302      | 15,452                    |
+|  8 | Gross margin                         | 40,215      | 34,670                    |
+|  9 | Research and development             | 6,659       | 6,628                     |
+| 10 | Sales and marketing                  | 5,187       | 5,126                     |
+| 11 | General and administrative           | 1,474       | 1,398                     |
+| 12 | Operating income                     | 26,895      | 21,518                    |
+| 13 | Other income, net                    | 389         | 54                        |
+| 14 | Income before income taxes           | 27,284      | 21,572                    |
+| 15 | Provision for income taxes           | 4,993       | 4,016                     |
+| 16 | Net income                           | $22,291     | $17,556                   |
+| 17 | Earnings per share: Basic            | $3.00       | $2.35                     |
+| 18 | Diluted                              | $2.99       | $2.35                     |
+| 19 | Weighted average shares outstanding: |             |                           |

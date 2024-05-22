@@ -1,0 +1,22 @@
+|    | ('Assets',)                                                                    | ('2021',)   | ('2020',)   |
+|---:|:-------------------------------------------------------------------------------|:------------|:------------|
+|  0 | Current assets:                                                                |             |             |
+|  1 | Cash and cash equivalents                                                      | $13,702     | $13,576     |
+|  2 | Short-term investments                                                         | 111,705     | 122,951     |
+|  3 | Total cash, cash equivalents, and short-term investments                       | 125,407     | 136,527     |
+|  4 | Accounts receivable, net of allowance for doubtful accounts of $620 and $788   | 26,322      | 32,011      |
+|  5 | Inventories                                                                    | 2,245       | 1,895       |
+|  6 | Other current assets                                                           | 11,640      | 11,482      |
+|  7 | Total current assets                                                           | 165,614     | 181,915     |
+|  8 | Property and equipment, net of accumulated depreciation of $49,681 and $43,197 | 54,945      | 44,151      |
+|  9 | Operating lease right-of-use assets                                            | 10,673      | 8,753       |
+| 10 | Equity investments                                                             | 5,395       | 2,965       |
+| 11 | Goodwill                                                                       | 49,698      | 43,351      |
+| 12 | Intangible assets, net                                                         | 8,127       | 7,038       |
+| 13 | Other long-term assets                                                         | 14,427      | 13,138      |
+| 14 | Total assets                                                                   | $308,879    | $301,311    |
+| 15 | Liabilities and stockholders' equity                                           |             |             |
+| 16 | Current liabilities:                                                           |             |             |
+| 17 | Accounts payable                                                               | $13,412     | $12,530     |
+| 18 | Current portion of long-term debt                                              | 8,051       | 3,749       |
+| 19 | Accrued compensation                                                           | 8,032       | 7,874       |

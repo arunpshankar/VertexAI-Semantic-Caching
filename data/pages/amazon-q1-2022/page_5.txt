@@ -1,0 +1,54 @@
+•
+extends AWS Regions to place compute, storage, database, and other AWS services at the edge of the cloud near large
+population, industry, and information technology centers. These new Local Zones expand AWS's infrastructure
+footprint globally beyond its existing 84 Availability Zones in 26 geographic regions, enabling AWS customers to
+build applications that deliver single-digit millisecond latency performance at the edge of the cloud to hundreds of
+millions of people worldwide.
+AWS announced the general availability of Amazon Aurora Serverless v2, the next generation of the Amazon Aurora
+database that automatically scales in fine-grained increments in a fraction of a second-providing customers up to
+90% cost savings compared to provisioning for peak capacity. Amazon Aurora Serverless v2 also includes Amazon
+Aurora's capabilities for high availability, performance, and resiliency, with low latency and faster querying.
+AWS announced the general availability of AWS IoT TwinMaker, which makes it significantly faster and easier for
+developers to create digital twins of real-world systems like buildings, factories, industrial equipment, and production
+lines helping more customers build applications that improve operational efficiency and reduce downtime. Digital
+twins are virtual representations of physical systems that are regularly updated with real-world data to mimic the
+structure, state, and behavior of the objects they represent.
+AWS announced the general availability of AWS Amplify Studio, a new visual development environment for creating
+rich user interfaces that extends the benefits of AWS Amplify to make it easier for developers to create fully
+customizable web applications with minimal coding in days instead of weeks.
+Investing in Employees and Our Workplace
+•
+For the second year in a row, Amazon ranked No. 1 in the U.S. on LinkedIn's annual Top Companies list, which
+identifies the best companies for career growth based on their ability to attract and retain the best talent, including
+through promotions, opportunities for employees of all backgrounds to gain new skills, company stability, and gender
+diversity.
+For the sixth year in a row, Amazon ranked No. 2 on Fortune magazine's World's Most Admired Companies list,
+which evaluates corporate reputation based on factors such as quality of management and products, commitment to
+social responsibility, and ability to attract talent.
+Amazon achieved the Top Employer Certification by the Top Employers Institute for 2022 in France, Italy, Poland,
+and Spain in recognition of Amazon's quality work environment, professional development opportunities, and
+programs available to employees. In India, Amazon ranked No. 1 in Business Today magazine's 2022 Best Companies
+to Work list, which highlights the company's growth and learning opportunities, clarity of company goals, and
+flexibility at work.
+Amazon launched the Welcome Door program in the U.S., a new initiative to provide additional resources and support
+to its refugee and humanitarian-based immigrant employees. Through the program, eligible Amazon employees will
+have access to reimbursement for Employment Authorization Document fees, a new citizenship assistance portal, free
+legal resources, English as a Second Language proficiency programs, and mentorship. Amazon will expand the
+program globally by the end of the year.
+Amazon expanded its Career Choice program in the U.S. to include partnerships with more than 140 national and local
+universities and other schools to offer fully funded college tuition, high school completion and GED preparation
+courses, English as a Second Language programs, and college preparation courses. Career Choice is designed to help
+front-line employees grow their skills for careers at Amazon or elsewhere. This program—which is available to
+Amazon's more than 750,000 hourly employees in the U.S.—helps move the company closer to meeting its Upskilling
+2025 pledge, a $1.2 billion commitment to upskill more than 300,000 Amazon employees by 2025.
+Amazon expanded its mental health benefits to provide employees, their families, and their household members in
+more than 50 countries worldwide with a single starting point for personalized, convenient, and confidential mental
+health and daily life support. These mental health benefits enhance existing benefits, which include 24/7 access to free,
+one-on-one counseling sessions, suicide prevention resources, and customized support.
+Supporting Communities, Selling Partners, and the Economy
+Amazon teams around the world mobilized to provide humanitarian support to those affected by the war in Ukraine.
+Amazon launched two humanitarian aid hubs in Slovakia and Poland, with more than 90,000 square feet of dedicated
+logistics space to expedite relief products to Ukrainian refugees. Through the hub, Amazon has delivered more than 1
+million clothing items, first-aid products, food items, hygiene products, and medical supplies. Amazon also donated
+more than $10 million in cash to more than 150 nonprofits working on the ground, committed technological assistance
+and more than $15 million in free cloud credits to organizations addressing the humanitarian crisis, and provided free

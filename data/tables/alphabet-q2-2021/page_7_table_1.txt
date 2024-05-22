@@ -1,0 +1,5 @@
+|    | ('',)                                     | ('Quarter Ended June 30, 2021',)   |
+|---:|:------------------------------------------|:-----------------------------------|
+|  0 | Net cash provided by operating activities | 21,890                             |
+|  1 | Less: purchases of property and equipment | (5,496)                            |
+|  2 | Free cash flow                            | $ 16,394                           |

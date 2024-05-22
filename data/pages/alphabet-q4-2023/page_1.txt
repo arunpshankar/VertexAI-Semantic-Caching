@@ -1,0 +1,62 @@
+Alphabet Announces Fourth Quarter and Fiscal Year 2023 Results
+MOUNTAIN VIEW, Calif. January 30, 2024 · Alphabet Inc. (NASDAQ: GOOG, GOOGL) today announced
+financial results for the quarter and fiscal year ended December 31, 2023.
+Sundar Pichai, CEO, said: "We are pleased with the ongoing strength in Search and the growing contribution from
+YouTube and Cloud. Each of these is already benefiting from our Al investments and innovation. As we enter the
+Gemini era, the best is yet to come."
+Ruth Porat, President and Chief Investment Officer; CFO said: "We ended 2023 with very strong fourth quarter
+financial results, with Q4 consolidated revenues of $86 billion, up 13% year over year. We remain committed to our
+work to durably re-engineer our cost base as we invest to support our growth opportunities."
+Q4 2023 Financial Highlights
+The following table summarizes our consolidated financial results for the quarters and years ended December 31,
+2022 and 2023 (in millions, except for per share information and percentages).
+Quarter Ended
+December 31,
+Year Ended
+December 31,
+2022
+2023
+2022
+(unaudited)
+2023
+(unaudited)
+Revenues
+Change in revenues year over year
+Change in constant currency revenues year over year(1)
+Operating income
+$ 76,048 $ 86,310
+$ 282,836
+$ 307,394
+1 %
+7%
+13 %
+10%
+13 %
+14 %
+9%
+10%
+$ 18,160
+$ 23,697
+$
+74,842
+Operating margin
+Other income (expense), net
+24 %
+27 %
+26%
+$ 84,293
+27 %
+$ (1,013)
+$
+715
+$ (3,514)
+$ 1,424
+Net income
+Diluted EPS
+$ 13,624 $ 20,687 $ 59,972 $ 73,795
+$ 1.05 $ 1.64 $ 4.56 $
+5.80
+(1)
+Non-GAAP measure. See the table captioned "Reconciliation from GAAP revenues to non-GAAP constant currency
+revenues and GAAP percentage change in revenues to non-GAAP percentage change in constant currency revenues" for
+more details.

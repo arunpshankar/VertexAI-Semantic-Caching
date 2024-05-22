@@ -1,0 +1,54 @@
+=== START PAGE CONTENT ===
+COMPREHENSIVE INCOME STATEMENTS
+(In millions) (Unaudited)
+Net income
+Other comprehensive income (loss), net of tax:
+Net change related to derivatives
+Net change related to investments
+Translation adjustments and other
+Other comprehensive income (loss)
+Comprehensive income
+Three Months Ended
+Six Months Ended
+December 31,
+December 31,
+2022
+2021
+2022
+2021
+$16,425
+$18,765
+$33,981
+$39,270
+(32)
+0
+348
+(743)
+(25)
+(1,549)
+2
+(1,165)
+570
+(103)
+(205)
+(222)
+886
+(846)
+(1,779)
+(1,385)
+$17,311
+$17,919
+$32,202
+$37,885
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('Net income',)                                | ('2022 $16,425',)   | ('2021 $18,765',)   | ('2022 $33,981',)   | ('2021 $39,270',)   |
+|---:|:-----------------------------------------------|:--------------------|:--------------------|:--------------------|:--------------------|
+|  0 | Other comprehensive income (loss), net of tax: |                     |                     |                     |                     |
+|  1 | Net change related to derivatives              | (32)                | 0                   | (25)                | 2                   |
+|  2 | Net change related to investments              | 348                 | (743)               | (1,549)             | (1,165)             |
+|  3 | Translation adjustments and other              | 570                 | (103)               | (205)               | (222)               |
+|  4 | Other comprehensive income (loss)              | 886                 | (846)               | (1,779)             | (1,385)             |
+|  5 | Comprehensive income                           | $17,311             | $17,919             | $32,202             | $37,885             |
+=== TABLE END ===

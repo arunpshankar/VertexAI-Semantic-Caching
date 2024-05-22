@@ -1,0 +1,10 @@
+|    | ('',)                                                                               | ('',)   | ('Operating',)   | ('',)      | ('Earnings',)   |
+|---:|:------------------------------------------------------------------------------------|:--------|:-----------------|:-----------|:----------------|
+|  0 | ($ in millions, except per share amounts)                                           | Revenue | Income           | Net Income | per Share       |
+|  1 | 2020 As Reported (GAAP)                                                             | $35,021 | $12,975          | $10,752    | $1.40           |
+|  2 | 2021 As Reported (GAAP)                                                             | $41,706 | $17,048          | $15,457    | $2.03           |
+|  3 | Net income tax benefit related to India Supreme Court decision on withholding taxes |         |                  | (620)      | (0.08)          |
+|  4 | 2021 As Adjusted (non-GAAP)                                                         | $41,706 | $17,048          | $14,837    | $1.95           |
+|  5 | Percentage Change Y/Y (GAAP)                                                        | 19%     | 31%              | 44%        | 45%             |
+|  6 | Percentage Change Y/Y (non-GAAP)                                                    | 19%     | 31%              | 38%        | 39%             |
+|  7 | Percentage Change Y/Y (non-GAAP) Constant Currency                                  | 16%     | 27%              | 32%        | 34%             |

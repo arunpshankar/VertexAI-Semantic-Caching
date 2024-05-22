@@ -1,0 +1,84 @@
+AMAZON.COM, INC.
+Consolidated Statements of Operations
+(in millions, except per share data)
+(unaudited)
+Three Months Ended
+March 31,
+2021
+2022
+Net product sales
+Net service sales
+Total net sales
+Operating expenses:
+Cost of sales
+Fulfillment
+Technology and content
+$
+57,491 $ 56,455
+51,027
+59,989
+108,518
+116,444
+62,403
+66,499
+16,530
+20,271
+12,488
+14,842
+Sales and marketing
+General and administrative
+6,207
+8,320
+1,987
+2,594
+Other operating expense (income), net
+38
+249
+Total operating expenses
+Operating income
+Interest income
+99,653
+112,775
+8,865
+3,669
+105
+108
+Interest expense
+Other income (expense), net
+Total non-operating income (expense)
+Income (loss) before income taxes
+(399)
+(472)
+1,697
+(8,570)
+1,403
+(8,934)
+10,268
+(5,265)
+Benefit (provision) for income taxes
+(2,156)
+1,422
+Equity-method investment activity, net of tax
+(5)
+(1)
+Net income (loss)
+$
+8,107 $
+(3,844)
+Basic earnings per share
+$
+16.09
+$
+(7.56)
+Diluted earnings per
+share
+$
+15.79
+(7.56)
+Weighted-average shares used in computation of earnings per share:
+Basic
+Diluted
+504
+509
+513
+509

@@ -1,0 +1,39 @@
+|    | ('',)                                                                                  | ('(unaudited)',)   |
+|---:|:---------------------------------------------------------------------------------------|:-------------------|
+|  0 | Assets                                                                                 |                    |
+|  1 | Current assets:                                                                        |                    |
+|  2 | 26,465 Cash and cash equivalents                                                       | $ 23,630           |
+|  3 | Marketable securities 110,229                                                          | 112,233            |
+|  4 | Total cash, cash equivalents, and marketable securities 136,694                        | 135,863            |
+|  5 | 30,930 Accounts receivable, net                                                        | 31,967             |
+|  6 | Income taxes receivable, net 454                                                       | 884                |
+|  7 | 728 Inventory                                                                          | 907                |
+|  8 | Other current assets 5,490                                                             | 6,076              |
+|  9 | Total current assets 174,296                                                           | 175,697            |
+| 10 | Non-marketable investments 20,703                                                      | 25,532             |
+| 11 | 1,084 Deferred income taxes                                                            | 1,153              |
+| 12 | 84,749 Property and equipment, net                                                     | 91,697             |
+| 13 | Operating lease assets 12,211                                                          | 12,978             |
+| 14 | Intangible assets, net 1,445                                                           | 1,626              |
+| 15 | Goodwill 21,175                                                                        | 22,406             |
+| 16 | Other non-current assets 3,953                                                         | 4,298              |
+| 17 | 319,616 Total assets $                                                                 | $ 335,387          |
+| 18 | Liabilities and Stockholders' Equity                                                   |                    |
+| 19 | Current liabilities:                                                                   |                    |
+| 20 | EA 5,589 Accounts payable                                                              | $ 4,708            |
+| 21 | Accrued compensation and benefits 11,086                                               | 10,088             |
+| 22 | Accrued expenses and other current liabilities 28,631                                  | 28,981             |
+| 23 | Accrued revenue share 7,500                                                            | 7,438              |
+| 24 | Deferred revenue 2,543                                                                 | 2,715              |
+| 25 | Income taxes payable, net 1,485                                                        | 1,811              |
+| 26 | Total current liabilities 56,834                                                       | 55,741             |
+| 27 | Long-term debt 13,932                                                                  | 14,328             |
+| 28 | 481 Deferred revenue, non-current                                                      | 510                |
+| 29 | Income taxes payable, non-current 8,849                                                | 8,651              |
+| 30 | Deferred income taxes 3,561                                                            | 4,703              |
+| 31 | 11,146 Operating lease liabilities                                                     | 11,619             |
+| 32 | Other long-term liabilities 2,269                                                      | 2,270              |
+| 33 | Total liabilities 97,072                                                               | 97,822             |
+| 34 | Contingencies                                                                          |                    |
+| 35 | Stockholders' equity:                                                                  |                    |
+| 36 | Convertible preferred stock, $0.001 par value per share, 100,000 shares authorized; no |                    |

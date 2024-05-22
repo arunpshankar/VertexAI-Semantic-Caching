@@ -1,0 +1,7 @@
+|    | ('($ in millions)',)                               | ('Productivity and Business Processes',)   | ('Intelligent Cloud',)   | ('More Personal Computing',)   |
+|---:|:---------------------------------------------------|:-------------------------------------------|:-------------------------|:-------------------------------|
+|  0 | 2020 As Reported (GAAP)                            | $12,319                                    | $12,986                  | $11,849                        |
+|  1 | 2021 As Reported (GAAP)                            | $15,039                                    | $16,964                  | $13,314                        |
+|  2 | Percentage Change Y/Y (GAAP)                       | 22%                                        | 31%                      | 12%                            |
+|  3 | Constant Currency Impact                           | $253                                       | $216                     | $136                           |
+|  4 | Percentage Change Y/Y (non-GAAP) Constant Currency | 20%                                        | 29%                      | 11%                            |

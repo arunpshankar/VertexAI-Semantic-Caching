@@ -1,0 +1,5 @@
+|    | ('',)                                     | ('September 30, 2022',)   |
+|---:|:------------------------------------------|:--------------------------|
+|  0 | Net cash provided by operating activities | 23,353                    |
+|  1 | Less: purchases of property and equipment | (7,276)                   |
+|  2 | Free cash flow                            | $ 16,077                  |

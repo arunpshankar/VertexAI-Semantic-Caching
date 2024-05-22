@@ -1,0 +1,8 @@
+|    | ('Net income',)                                | ('$18,299',)   | ('$16,728',)   | ('$52,280',)   | ('$55,998',)   |
+|---:|:-----------------------------------------------|:---------------|:---------------|:---------------|:---------------|
+|  0 | Other comprehensive income (loss), net of tax: |                |                |                |                |
+|  1 | Net change related to derivatives              | (9)            | 6              | (34)           | 8              |
+|  2 | Net change related to investments              | 753            | (2,882)        | (796)          | (4,047)        |
+|  3 | Translation adjustments and other              | 69             | (37)           | (136)          | (259)          |
+|  4 | Other comprehensive income (loss)              | 813            | (2,913)        | (966)          | (4,298)        |
+|  5 | Comprehensive income                           | $19,112        | $13,815        | $51,314        | $51,700        |

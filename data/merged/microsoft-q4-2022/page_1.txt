@@ -1,0 +1,87 @@
+=== START PAGE CONTENT ===
+Microsoft Cloud Strength Drives Second Quarter Results
+REDMOND, Wash. - January 24, 2023 - Microsoft Corp. today announced the following results for
+the quarter ended December 31, 2022, as compared to the corresponding period of last fiscal year:
+Revenue was $52.7 billion and increased 2%
+Operating income was $20.4 billion GAAP and $21.6 billion non-GAAP, and decreased 8% and 3%,
+respectively
+Net income was $16.4 billion GAAP and $17.4 billion non-GAAP, and decreased 12% and 7%,
+respectively
+Diluted earnings per share was $2.20 GAAP and $2.32 non-GAAP, and decreased 11% and 6%,
+respectively
+"The next major wave of computing is being born, as the Microsoft Cloud turns the world's most
+advanced Al models into a new computing platform,” said Satya Nadella, chairman and chief executive
+officer of Microsoft. "We are committed to helping our customers use our platforms and tools to do more
+with less today and innovate for the future in the new era of AI."
+"We are focused on operational excellence as we continue to invest to drive growth. Microsoft Cloud
+revenue was $27.1 billion, up 22% (up 29% in constant currency) year-over-year as our commercial
+offerings continue to drive value for our customers," said Amy Hood, executive vice president and chief
+financial officer of Microsoft.
+The following table reconciles our financial results reported in accordance with generally accepted
+accounting principles (GAAP) to non-GAAP financial results. Additional information regarding our non-
+GAAP definition is provided below. All growth comparisons relate to the corresponding period in the last
+fiscal year.
+Three Months Ended December 31,
+Diluted
+($ in millions, except per share amounts)
+Revenue
+Operating
+Income
+Earnings
+Net Income
+per Share
+2021 As Reported (GAAP)
+$51,728
+$22,247
+2022 As Reported (GAAP)
+$52,747
+$20,399
+$18,765
+$16,425
+$2.48
+$2.20
+Severance, hardware-related impairment, and lease
+1,171
+946
+0.12
+consolidation costs
+2022 As Adjusted
+$52,747
+$21,570
+$17,371
+$2.32
+Percentage Change Y/Y (GAAP)
+2%
+(8)%
+(12)%
+(11)%
+Percentage Change Y/Y Constant Currency
+7%
+0%
+(4)%
+(3)%
+Percentage Change Y/Y (As Adjusted)
+2%
+(3)%
+(7)%
+(6)%
+Percentage Change Y/Y (As Adjusted) Constant Currency
+7%
+6%
+1%
+2%
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('',)                                                                 | ('',)   | ('Operating',)   | ('',)      | ('Earnings',)   |
+|---:|:----------------------------------------------------------------------|:--------|:-----------------|:-----------|:----------------|
+|  0 | ($ in millions, except per share amounts)                             | Revenue | Income           | Net Income | per Share       |
+|  1 | 2021 As Reported (GAAP)                                               | $51,728 | $22,247          | $18,765    | $2.48           |
+|  2 | 2022 As Reported (GAAP)                                               | $52,747 | $20,399          | $16,425    | $2.20           |
+|  3 | Severance, hardware-related impairment, and lease consolidation costs |         | 1,171            | 946        | 0.12            |
+|  4 | 2022 As Adjusted                                                      | $52,747 | $21,570          | $17,371    | $2.32           |
+|  5 | Percentage Change Y/Y (GAAP)                                          | 2%      | (8)%             | (12)%      | (11)%           |
+|  6 | Percentage Change Y/Y Constant Currency                               | 7% VA   | 0%               | (4)%       | (3)%            |
+|  7 | Percentage Change Y/Y (As Adjusted)                                   | AVA 2%  | (3)%             | (7)%       | (6)%            |
+|  8 | Percentage Change Y/Y (As Adjusted) Constant Currency                 | 7%      | 6%               | 1%         | 2%              |
+=== TABLE END ===

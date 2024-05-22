@@ -1,0 +1,41 @@
+=== START PAGE CONTENT ===
+Microsoft Cloud Strength Drives Fourth Quarter Results
+REDMOND, Wash. — July 26, 2022 — Microsoft Corp. today announced the following results for the
+quarter ended June 30, 2022, as compared to the corresponding period of last fiscal year:
+•
+•
+Revenue was $51.9 billion and increased 12% (up 16% in constant currency)
+Operating income was $20.5 billion and increased 8% (up 14% in constant currency)
+Net income was $16.7 billion and increased 2% (up 7% in constant currency)
+Diluted earnings per share was $2.23 and increased 3% (up 8% in constant currency)
+"We see real opportunity to help every customer in every industry use digital technology to overcome
+today's challenges and emerge stronger," said Satya Nadella, chairman and chief executive officer of
+Microsoft. "No company is better positioned than Microsoft to help organizations deliver on their digital
+imperative - so they can do more with less."
+“In a dynamic environment we saw strong demand, took share, and increased customer commitment to
+our cloud platform. Commercial bookings grew 25% and Microsoft Cloud revenue was $25 billion, up 28%
+year over year," said Amy Hood, executive vice president and chief financial officer of Microsoft. “As we
+begin a new fiscal year, we remain committed to balancing operational discipline with continued
+investments in key strategic areas to drive future growth."
+Impact of Recent Events
+In the fourth quarter of fiscal year 2022, evolving macroeconomic conditions and other unforeseen items
+had an impact on financial results beyond what was included in our forward-looking guidance provided
+on April 26, 2022.
+•
+Unfavorable foreign exchange rate movement within the quarter negatively impacted revenue
+and diluted earnings per share $(595) million and $(0.04), respectively. Additional details are
+provided in the Earnings Call Slides.
+Extended production shutdowns in China that continued through May and a deteriorating PC
+market in June contributed to a negative impact on Windows OEM revenue of over $(300) million
+Reductions in advertising spend contributed to a negative impact on LinkedIn as well as Search
+and news advertising revenue of over $(100) million
+With the ongoing war in Ukraine, we made the decision to significantly scale down our operations
+in Russia. As a result, we recorded operating expenses of $126 million related to bad debt
+expense, asset impairments, and severance.
+As part of a strategic realignment of our business groups, we recorded employee severance
+expenses of $113 million, excluding Russia
+Business Highlights
+Revenue in Productivity and Business Processes was $16.6 billion and increased 13% (up 17% in constant
+currency), with the following business highlights:
+
+=== END PAGE CONTENT ===

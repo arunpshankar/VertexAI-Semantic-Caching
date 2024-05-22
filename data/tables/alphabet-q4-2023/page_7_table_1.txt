@@ -1,0 +1,38 @@
+|    | ('Operating activities',)                                              | ('(unaudited)',)    | ('',)    | ('(unaudited)',)   |
+|---:|:-----------------------------------------------------------------------|:--------------------|:---------|:-------------------|
+|  0 | Net income                                                             | $ 13,624 $ 20,687 $ | 59,972   | $ 73,795           |
+|  1 | Adjustments:                                                           |                     |          |                    |
+|  2 | Depreciation of property and equipment                                 | 3,602 3,316         | 13,475   | 11,946             |
+|  3 | Stock-based compensation expense                                       | 5,100 5,659         | 19,362   | 22,460             |
+|  4 | Deferred income taxes                                                  | (1,924) (1,670)     | (8,081)  | (7,763)            |
+|  5 | (Gain) loss on debt and equity securities, net                         | 1,663 (471)         | 5,519    | 823                |
+|  6 | Other                                                                  | 1,260 1,665         | 3,483    | 4,330              |
+|  7 | Changes in assets and liabilities, net of effects of acquisitions:     |                     |          |                    |
+|  8 | Accounts receivable, net                                               | (4,615) (6,518)     | (2,317)  | (7,833)            |
+|  9 | Income taxes, net                                                      | 1,446 (9,869)       | 584      | 523                |
+| 10 | Other assets                                                           | (778) 740           | (5,046)  | (2,143)            |
+| 11 | Accounts payable                                                       | (28) 427            | 707      | 664                |
+| 12 | Accrued expenses and other liabilities                                 | 3,424 4,317         | 3,915    | 3,937              |
+| 13 | Accrued revenue share                                                  | 577 797             | (445)    | 482                |
+| 14 | Deferred revenue                                                       | 263 (165)           | 367      | 525                |
+| 15 | Net cash provided by operating activities                              | 23,614 18,915       | 91,495   | 101,746            |
+| 16 | Investing activities                                                   |                     |          |                    |
+| 17 | Purchases of property and equipment                                    | (11,019) (7,595)    | (31,485) | (32,251)           |
+| 18 | Purchases of marketable securities                                     | (11,621) (28,436)   | (78,874) | (77,858)           |
+| 19 | Maturities and sales of marketable securities                          | 13,735 34,030       | 97,822   | 86,672             |
+| 20 | Purchases of non-marketable securities                                 | (903) (851)         | (2,531)  | (3,027)            |
+| 21 | Maturities and sales of non-marketable securities                      | 19 204              | 150      | 947                |
+| 22 | Acquisitions, net of cash acquired, and purchases of intangible assets | (84) (29)           | (6,969)  | (495)              |
+| 23 | Other investing activities                                             | 222 (99)            | 1,589    | (1,051)            |
+| 24 | Net cash used in investing activities                                  | (6,227) (6,167)     | (20,298) | (27,063)           |
+| 25 | Financing activities                                                   |                     |          |                    |
+| 26 | Net payments related to stock-based award activities                   | (2,079) (2,680)     | (9,300)  | (9,837)            |
+| 27 | Repurchases of stock                                                   | (15,407) (16,191)   | (59,296) | (61,504)           |
+| 28 | Proceeds from issuance of debt, net of costs                           | 8,550 1,492         | 52,872   | 10,790             |
+| 29 | Repayments of debt                                                     | (8,718) (1,929)     | (54,068) | (11,550)           |
+| 30 | Proceeds from sale of interest in consolidated entities, net           | 25 0                | 35       | 8                  |
+| 31 | Net cash used in financing activities                                  | (17,629) (19,308)   | (69,757) | (72,093)           |
+| 32 | Effect of exchange rate changes on cash and cash equivalents           | 137 (94)            | (506)    | (421)              |
+| 33 | Net increase (decrease) in cash and cash equivalents                   | (105) (6,654)       | 934      | 2,169              |
+| 34 | Cash and cash equivalents at beginning of period                       | 21,984 30,702       | 20,945   | 21,879             |
+| 35 | Cash and cash equivalents at end of period                             | $ 21,879 $ 24,048 $ | 21,879   | $ 24,048           |

@@ -1,0 +1,5 @@
+|    | ('Constant currency revenues (non-GAAP)',)                    | ('A|| $',)   | ('64,441 $ 65,320',)   |
+|---:|:--------------------------------------------------------------|:-------------|:-----------------------|
+|  0 | Prior period revenues, excluding hedging effect (non-GAAP)(¹) | $            | 46,195 $ 61,887        |
+|  1 | Revenue percentage change (GAAP)                              |              | 41 % 5%                |
+|  2 | Constant currency revenue percentage change (non-GAAP)        |              | 39% 6%                 |

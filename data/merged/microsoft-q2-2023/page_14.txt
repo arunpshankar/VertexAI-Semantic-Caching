@@ -1,0 +1,32 @@
+=== START PAGE CONTENT ===
+SEGMENT INFORMATION
+Productivity and Business Processes
+Revenue increased $1.7 billion or 10%.
+Office Commercial products and cloud services revenue increased $1.2 billion or 12%. Office 365
+Commercial revenue grew 15% with seat growth of 11%, driven by small and medium business
+and frontline worker offerings, as well as growth in revenue per user. Office Commercial products
+revenue declined 20% driven by continued customer shift to cloud offerings.
+Office Consumer products and cloud services revenue increased $54 million or 3%. Microsoft 365
+Consumer subscribers grew 12% to 67.0 million.
+Dynamics products and cloud services revenue increased $236 million or 19% driven by Dynamics
+365 growth of 26%.
+LinkedIn revenue increased $197 million or 5% driven by growth in Talent Solutions, offset in part
+by a decline in Marketing Solutions.
+Operating income increased $1.8 billion or 25%.
+Gross margin increased $1.8 billion or 14% driven by growth in Office 365 Commercial. Gross
+margin percentage increased. Excluding the impact of the change in accounting estimate, gross
+margin percentage increased 1 point driven by improvement in Office 365 Commercial.
+Operating expenses decreased slightly primarily driven by declines in LinkedIn and Office
+marketing, offset in part by a charge related to the IDPC matter.
+Revenue, gross margin, and operating income included an unfavorable foreign currency impact of 2%, 2%,
+and 4%, respectively.
+Intelligent Cloud
+Revenue increased $3.2 billion or 15%.
+Server products and cloud services revenue increased $3.1 billion or 17% driven by Azure and
+other cloud services. Azure and other cloud services revenue grew 26% driven by growth in our
+consumption-based services. Server products revenue decreased 1%.
+Enterprise Services revenue increased $75 million or 4% driven by growth in Enterprise Support
+Services, offset in part by a decline in Industry Solutions (formerly Microsoft Consulting Services).
+Operating income increased $1.7 billion or 20%.
+
+=== END PAGE CONTENT ===

@@ -1,0 +1,67 @@
+=== START PAGE CONTENT ===
+•
+•
+•
+•
+Fit Review Highlights with personalized feedback from customers who wear the same size, and improved size charts
+that make it easier for customers to find relevant information in a more visually engaging way. Amazon also developed
+a Fit Insights Tool to help brands and selling partners better understand customer fit issues and incorporate feedback
+into future designs and manufacturing.
+Announced Rufus, a new generative AI-powered conversational shopping experience. Rufus is an expert shopping
+assistant trained on Amazon's product catalog and information from across the web to answer customer questions on
+shopping needs, products, and comparisons, make recommendations based on this context, and facilitate product
+discovery. Customers can simply start typing or speaking their questions into the search bar in the Amazon Shopping
+app, or choose from a set of pre-populated questions, and Amazon will provide answers via a chat dialog box to help
+customers make more informed purchase decisions. Rufus launched in beta to a small subset of customers and will
+progressively roll out to the rest of Amazon's U.S. customers in the coming weeks.
+Introduced new advertising tools to help brands connect with customers and grow their businesses, including:
+•
+•
+•
+•
+A generative AI solution to help brands produce lifestyle imagery that can improve the performance of their
+ads while also making them more engaging.
+A sponsored TV offering to enable brands that sell in Amazon's U.S. store to run streaming TV ad campaigns
+with no minimum spend on Amazon Freevee, Twitch, and third-party streaming services through Fire TV
+apps.
+More than 15 new advertising capabilities, including enhanced audience insights and advanced campaign
+planning, activation, and optimization controls that help advertisers more efficiently reach relevant audiences
+and drive meaningful business outcomes.
+Amazon Publisher Cloud, a tool built on AWS Clean Rooms' secure data collaboration environment, that
+enables publishers to analyze first-party data together with Amazon Ads insights and offer custom media buys
+for advertisers that improve campaign performance.
+Achieved a 100% success rate for Project Kuiper's Protoflight mission. The mission validated key technologies that
+underpin the satellite broadband network, allowing Project Kuiper to scale satellite production ahead of full-scale
+deployment beginning this year. Project Kuiper also announced a private connectivity service with AWS, which will
+allow customers to send data from remote locations directly to the cloud without relying on public internet, as well as a
+collaboration with Japan's leading mobile network provider, Nippon Telegraph and Telephone Corporation, and
+Asia's largest satellite operator, SKY Perfect JSAT Corporation.
+Held the 12th AWS re:Invent conference, which welcomed over 50,000 in-person attendees and more than 300,000
+virtually, where AWS announced new technologies and capabilities that help customers of all sizes take advantage of
+generative AI, improve productivity, and enhance their security posture. These include:
+•
+•
+•
+Amazon Q, the coding companion from AWS. Q is an expert on AWS-it writes code, debugs code, tests
+code, and does translations, such as moving from an old version of Java to a new one. It can also query AWS
+customers' various data repositories (e.g. intranets, wikis, and from over 40 different popular connectors to
+data stored using Salesforce, Amazon S3, ServiceNow, Slack, Atlassian, or Zendesk) to answer questions,
+summarize data, carry on a conversation, and take action. Like all AWS services, Q was designed with
+security and privacy in mind from the start, making it easier for organizations to use generative AI safely. Q is
+the most capable work assistant available and keeps getting better.
+Expanded model choice and added new capabilities for Amazon Bedrock, AWS's fully-managed service for
+leveraging existing large language models (LLMs) and customizing them with their own data—all without
+sacrificing the leading security, reliability, and operational performance that is synonymous with AWS. AWS
+is continuing to rapidly iterate on Bedrock, recently delivering capabilities including Guardrails to safeguard
+what questions applications will answer, Knowledge Bases to expand models' knowledge base with Retrieval
+Augmented Generation, Agents to complete multi-step tasks, and Fine-Tuning to keep teaching and refining
+models, all to help customers' applications be higher quality and offer better customer experiences. With
+Bedrock, AWS offers a choice of high-performing FMs from leading AI companies and added the latest new
+models from Anthropic, Cohere, Meta, Stability AI, and its own Amazon Titan family of FMs, expanding
+customers' choice of industry-leading models to support a variety of use cases. Customers want a service that
+makes this experimenting and iterating simple, and this is what Bedrock does, which is why customers are so
+excited about it.
+New capabilities in Amazon SageMaker to accelerate building, training, and deploying LLMs and other FMs.
+Amazon SageMaker HyperPod reduces time to train FMs by up to 40% by providing purpose-built
+
+=== END PAGE CONTENT ===

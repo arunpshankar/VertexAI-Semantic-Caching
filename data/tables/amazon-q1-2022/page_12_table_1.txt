@@ -1,0 +1,7 @@
+|    | ('Segment Highlights: Y/Y net sales growth (decline): North America 40 % 8% International 60 (6) 4624',)   |
+|---:|:-----------------------------------------------------------------------------------------------------------|
+|  0 | 56 AWS 32 37                                                                                               |
+|  1 | Consolidated 44 7                                                                                          |
+|  2 | Net sales mix: North America 59% 59 % International 28 25                                                  |
+|  3 | AWS 13 16                                                                                                  |
+|  4 | Consolidated 100 % 100 %                                                                                   |

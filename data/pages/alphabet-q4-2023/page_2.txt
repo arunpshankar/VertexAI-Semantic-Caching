@@ -1,0 +1,77 @@
+Q4 2023 Supplemental Information (in millions, except for number of employees; unaudited)
+Revenues, Traffic Acquisition Costs (TAC), and Number of Employees
+Quarter Ended December 31,
+2022
+2023
+Google Search & other
+42,604 $
+48,020
+YouTube ads
+7,963
+9,200
+Google Network
+8,475
+8,297
+Google advertising
+59,042
+65,517
+Google subscriptions, platforms, and devices (1)
+8,796
+10,794
+Google Services total
+67,838
+76,311
+Google Cloud
+7,315
+9,192
+Other Bets
+Hedging gains (losses)
+Total revenues
+226
+657
+669
+150
+76,048 $
+86,310
+Total TAC
+Number of employees
+(1) Formerly "Google other."
+Segment Operating Results
+Quarter Ended December 31,
+12,925 $
+13,986
+190,234
+182,502
+Operating income (loss):
+Google Services
+Google Cloud
+Other Bets
+Alphabet-level activities (1)
+2022
+2023
+20,222 $
+(186)
+26,730
+864
+(1,237)
+(863)
+(639)
+(3,034)
+(1)
+Total income from operations
+18,160 $
+23,697
+Formerly "corporate costs, unallocated." In addition to the costs included in Alphabet-level activities, hedging gains (losses)
+related to revenue were $669 million and $150 million for the three months ended December 31, 2022 and 2023,
+respectively. For the quarter ended December 31, 2023, Alphabet-level activities included charges related to the reduction
+in force and our office space optimization efforts totaling $1.2 billion and $62 million in accelerated rent and accelerated
+depreciation.
+Additional Information Relating to the Quarter Ended December 31, 2023 (unaudited)
+Reductions in Our Workforce and Office Space
+In January 2023, we announced a reduction of our workforce, and as a result we recorded employee severance and
+related charges of $2.1 billion for the twelve months ended December 31, 2023. In addition, we are taking actions
+to optimize our global office space. As a result, exit charges recorded during the three and twelve months ended
+December 31, 2023, were $1.2 billion and $1.8 billion, respectively. In addition to these exit charges, for the three
+and twelve months ended December 31, 2023, we incurred $62 million and $269 million, respectively, in
+accelerated rent and accelerated depreciation.
+2

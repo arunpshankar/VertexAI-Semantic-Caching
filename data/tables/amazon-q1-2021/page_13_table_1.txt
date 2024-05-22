@@ -1,0 +1,24 @@
+|    | ('March 2020 Net product sales $ 41,841 Net service sales 33,611 Total net sales 75,452',)   | ('31, 2021 57,491 51,027 108,518',)   |
+|---:|:---------------------------------------------------------------------------------------------|:--------------------------------------|
+|  0 | Operating expenses:                                                                          |                                       |
+|  1 | Cost of sales 44,257                                                                         | 62,403                                |
+|  2 | Fulfillment 11,531                                                                           | 16,530                                |
+|  3 | Technology and content 9,325                                                                 | 12,488                                |
+|  4 | Marketing 4,828                                                                              | 6,207                                 |
+|  5 | General and administrative 1,452                                                             | 1,987                                 |
+|  6 | Other operating expense (income), net 70                                                     | 38                                    |
+|  7 | Total operating expenses 71,463                                                              | 99,653                                |
+|  8 | Operating income 3,989                                                                       | 8,865                                 |
+|  9 | Interest income 202                                                                          | 105                                   |
+| 10 | Interest expense (402)                                                                       | (399)                                 |
+| 11 | Other income (expense), net (406)                                                            | 1,697                                 |
+| 12 | Total non-operating income (expense) (606)                                                   | 1,403                                 |
+| 13 | Income before income taxes 3,383                                                             | 10,268                                |
+| 14 | Provision for income taxes (744)                                                             | (2,156)                               |
+| 15 | Equity-method investment activity, net of tax (104)                                          | (5)                                   |
+| 16 | Net income $ 2,535                                                                           | $ 8,107                               |
+| 17 | Basic earnings per share $ 5.09                                                              | $ 16.09                               |
+| 18 | Diluted earnings per share $ 5.01                                                            | $ 15.79                               |
+| 19 | Weighted-average shares used in computation of earnings per share:                           |                                       |
+| 20 | Basic 498                                                                                    | 504                                   |
+| 21 | Diluted 506                                                                                  | 513                                   |

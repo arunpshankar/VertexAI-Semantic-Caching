@@ -1,0 +1,111 @@
+Operating activities
+Alphabet Inc.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In millions, unaudited)
+Quarter Ended March 31,
+2022
+2023
+Net income
+Adjustments:
+Depreciation and impairment of property and equipment
+Amortization and impairment of intangible assets
+Stock-based compensation expense
+Deferred income taxes
+16,436 $
+15,051
+(Gain) loss on debt and equity securities, net
+Other
+3,591
+3,060
+191
+126
+4,504
+5,284
+(2,090)
+(1,854)
+1,437
+(84)
+140
+553
+Changes in assets and liabilities, net of effects of acquisitions:
+Accounts receivable, net
+4,364
+4,454
+Income taxes, net
+3,820
+4,069
+Other assets
+(776)
+(746)
+Accounts payable
+(2,373)
+(1,105)
+Accrued expenses and other liabilities
+(3,216)
+(4,496)
+Accrued revenue share
+Deferred revenue
+Net cash provided by operating activities
+Investing activities
+Purchases of property and equipment
+(828)
+(602)
+(94)
+(201)
+25,106
+23,509
+(9,786)
+(6,289)
+Purchases of marketable securities
+(28,462)
+(14,227)
+Maturities and sales of marketable securities
+29,779
+18,327
+Purchases of non-marketable securities
+(776)
+(626)
+Maturities and sales of non-marketable securities
+12
+36
+Acquisitions, net of cash acquired, and purchases of intangible assets
+(173)
+(42)
+Other investing activities
+355
+(125)
+Net cash used in investing activities
+(9,051)
+(2,946)
+Financing activities
+Net payments related to stock-based award activities
+(2,916)
+(1,989)
+Repurchases of stock
+(13,300)
+(14,557)
+Proceeds from issuance of debt, net of costs
+Repayments of debt
+16,422
+(16,420)
+6,927
+(6,952)
+Proceeds from sale of interest in consolidated entities, net
+3
+Net cash used in financing activities
+Effect of exchange rate changes on cash and cash equivalents
+(16,214)
+100
+(16,568)
+50
+Net increase (decrease) in cash and cash equivalents
+Cash and cash equivalents at beginning of period
+Cash and cash equivalents at end of period
+(59)
+4,045
+20,945
+21,879
+$
+20,886 $
+25,924
+7

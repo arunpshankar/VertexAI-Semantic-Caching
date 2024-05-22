@@ -1,0 +1,14 @@
+|    | ('',)                  | ('Quarter Ended 2020',)   | ('September 30, 2021',)   |
+|---:|:-----------------------|:--------------------------|:--------------------------|
+|  0 | Google Search & other  | 26,338                    | $ 37,926                  |
+|  1 | YouTube ads            | 5,037                     | 7,205                     |
+|  2 | Google Network         | 5,720                     | 7,999                     |
+|  3 | Google advertising     | 37,095                    | 53,130                    |
+|  4 | Google other           | 5,478                     | 6,754                     |
+|  5 | Google Services total  | 42,573                    | 59,884                    |
+|  6 | Google Cloud           | 3,444                     | 4,990                     |
+|  7 | Other Bets             | 178                       | 182                       |
+|  8 | Hedging gains (losses) | (22)                      | 62                        |
+|  9 | Total revenues         | 46,173                    | $ 65,118                  |
+| 10 | Total TAC              | 8,166                     | $ 11,498                  |
+| 11 | Number of employees    | 132,121                   | 150,028                   |

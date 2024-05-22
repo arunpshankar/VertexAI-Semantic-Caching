@@ -1,0 +1,54 @@
+•
+•
+provider. Together, AWS and Ferrari will accelerate the pace of innovation across the entire Ferrari
+organization, including their road cars department, GT Competitions, the Ferrari Challenge, and the Scuderia
+Ferrari FORMULA 1 (F1) team.
+Sports: The National Hockey League (NHL), the premier hockey league in the world, debuted two new
+advanced analytics during the 2021 Stanley Cup Playoffs—shot analytics and save analytics. These new stats
+powered by AWS appear as on-screen graphics and data visualizations during NHL games and give fans a
+better understanding and deeper appreciation of how their favorite players and teams perform during crucial
+moments.
+AWS plans to open infrastructure Regions in the United Arab Emirates (UAE) in the first half of 2022 and Israel in the
+first half of 2023. The new Regions will enable even more developers, startups, and enterprises as well as government,
+education, and nonprofits to run their applications and serve end-users from data centers located in the UAE and Israel.
+Globally, AWS has 81 Availability Zones across 25 geographic Regions, with plans to launch 21 more Availability
+Zones and seven more AWS Regions.
+AWS and Salesforce announced a significant expansion of their global strategic partnership, making it easier for
+customers to build and launch custom applications. The expanded partnership extends the technological capabilities of
+both providers, connecting Salesforce data and workflows natively into their solutions running on AWS, and making it
+easy for Salesforce developers to integrate AWS data and workflows into Salesforce applications. Salesforce will also
+embed AWS services for voice, video, artificial intelligence, and machine learning directly in new applications for
+sales, service, and industry vertical use cases. For example, customers can activate virtual call centers and empower
+high-velocity sales teams with Amazon Connect and AWS AI/ML services, pre-integrated into both Sales Cloud and
+Service Cloud.
+AWS announced the general availability of two industry-specific services. Amazon HealthLake is a HIPAA-eligible
+service for healthcare and life sciences organizations that uses machine learning to understand and extract meaningful
+medical information from unstructured data such as clinical observations, laboratory notes, and medical images.
+Amazon FinSpace is a purpose-built analytics service that reduces the time it takes financial services organizations to
+find, prepare, and analyze financial data from months to minutes.
+AWS announced the general availability of Amazon EBS io2 Block Express volumes, delivering storage area network
+(SAN) capabilities in the cloud for the first time. EBS Block Express is a next-generation storage architecture that
+provides the highest block storage performance without the cost or hassle of having to procure, scale, and maintain
+expensive on-premises SANs. With io2 volumes running on Block Express, customers get a 4x increase in
+performance, throughput, and capacity for existing io2 volumes, making it ideal for the most I/O-intensive, mission-
+critical deployments of Oracle, SAP HANA, Microsoft SQL Server, and SAS Analytics.
+AWS announced the general availability of three new container services. AWS App Runner is a fully managed
+container application service that makes it easier and faster for customers to build, deploy, and run containerized web
+applications and APIs with just a few clicks. AWS Proton is an application delivery service that makes it easier for
+customers to provision, deploy, and monitor the microservices that form the basis of modern container and serverless
+applications. Amazon Elastic Container Service (ECS) Anywhere is a new capability for Amazon ECS that enables
+customers to easily run, scale, secure, and manage container-based applications on-premises and at edge environments
+using the same APIs, cluster management, workload scheduling, monitoring, and deployment pipelines they use with
+Amazon ECS on AWS.
+AWS announced the general availability of Amazon DevOps Guru, a fully managed operations service that uses
+machine learning to make it easier for developers to improve application availability by automatically detecting
+operational issues and recommending specific actions for remediation. Informed by years of Amazon.com and AWS
+operational excellence, Amazon DevOps Guru applies machine learning to automatically analyze data like application
+metrics, logs, events, and traces for behaviors that deviate from normal operating patterns so developers can identify
+and remediate issues long before they impact customers.
+AWS announced the general availability of Amazon Location Service, a new service that makes it easier and more
+cost-effective for customers to add location functionality to their applications, without compromising on user privacy
+or data security. With Amazon Location Service, customers can embed location functionality in their applications
+using data from location-based service providers Esri and HERE Technologies to provide maps, points of interest,
+geocoding (converting location information to a point on a map), route planning, geofencing (creating virtual
+perimeters), or asset tracking.

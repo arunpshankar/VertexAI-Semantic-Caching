@@ -1,0 +1,9 @@
+|    | ('',)                                          | ('Three 2023',)   | ('Months Ended June 30, 2022',)   | ('Twelve Months 2023',)   | ('Ended June 30, 2022',)   |
+|---:|:-----------------------------------------------|:------------------|:----------------------------------|:--------------------------|:---------------------------|
+|  0 | Net income                                     | $20,081           | $16,740                           | $72,361                   | $72,738                    |
+|  1 | Other comprehensive income (loss), net of tax: |                   |                                   |                           |                            |
+|  2 | Net change related to derivatives              | 20                | (2)                               | (14)                      | 6                          |
+|  3 | Net change related to investments              | (648)             | (1,313)                           | (1,444)                   | (5,360)                    |
+|  4 | Translation adjustments and other              | (71)              | (887)                             | (207)                     | (1,146)                    |
+|  5 | Other comprehensive loss                       | (699)             | (2,202)                           | (1,665)                   | (6,500)                    |
+|  6 | Comprehensive income                           | $19,382           | $14,538                           | $70,696                   | $66,238                    |

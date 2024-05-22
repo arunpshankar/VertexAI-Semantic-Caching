@@ -1,0 +1,33 @@
+MICROSOFT CORPORATION
+FOURTH QUARTER FINANCIAL HIGHLIGHTS
+All growth comparisons relate to the corresponding period in the last fiscal year.
+SUMMARY
+Revenue increased $8.1 billion or 21%, driven by growth across each of our segments. Intelligent Cloud
+revenue increased driven by Azure. Productivity and Business Processes revenue increased driven by
+Office 365 Commercial and LinkedIn. More Personal Computing revenue increased driven by Search
+advertising.
+Gross margin increased $6.5 billion or 25% driven by growth across each of our segments. Gross margin
+percentage increased with the change in estimated useful lives of our server and network equipment.
+Excluding this impact, gross margin percentage increased despite sales mix shift to cloud, driven by
+commercial cloud gross margin percentage improvement. Commercial cloud gross margin percentage
+increased 4 points to 70% despite revenue mix shift to Azure, driven by improvement across all cloud
+services on a prior year comparable impacted by strategic investments made to support significant
+customer engagement and usage in remote work scenarios.
+Operating income increased $5.7 billion or 42% driven by growth across each of our segments.
+Revenue, gross margin, and operating income included a favorable foreign currency impact of 4%, 5%,
+and 7%, respectively.
+SEGMENT INFORMATION
+Productivity and Business Processes
+Revenue increased $2.9 billion or 25%.
+Office Commercial products and cloud services revenue increased $1.5 billion or 20%. Office 365
+Commercial revenue grew 25% driven by seat growth, up 17% with acceleration in small and
+medium business and frontline worker offerings, and higher revenue per user. Office Commercial
+products revenue declined 8% driven by continued customer shift to cloud offerings, on a low
+prior year comparable impacted by a slowdown in transactional licensing.
+Office Consumer products and cloud services revenue increased $196 million or 18% driven by
+Microsoft 365 Consumer subscription revenue, on a low prior year comparable impacted by a
+slowdown in transactional licensing. Microsoft 365 Consumer subscribers increased 22% to 51.9
+million.
+LinkedIn revenue increased $928 million or 46% on a low prior year comparable, driven by
+advertising demand in our Marketing Solutions business, up 97%, and an improving job market in
+our Talent Solutions business.

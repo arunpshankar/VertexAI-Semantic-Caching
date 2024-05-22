@@ -1,0 +1,3 @@
+|    | ('',)                                             | ('',)            | ('',)      | ('Diluted',)       |
+|---:|:--------------------------------------------------|:-----------------|:-----------|:-------------------|
+|  0 | ($ in millions, except per share amounts) Revenue | Operating Income | Net Income | Earnings per Share |

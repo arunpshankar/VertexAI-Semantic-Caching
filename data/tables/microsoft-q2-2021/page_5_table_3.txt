@@ -1,0 +1,8 @@
+|    | ('',)                                              | ('Operating',)   | ('Net',)   | ('Diluted Earnings',)   |
+|---:|:---------------------------------------------------|:-----------------|:-----------|:------------------------|
+|  0 | ($ in millions, except per share amounts)          | Revenue Income   | Income     | per Share               |
+|  1 | 2020 As Reported                                   | $38,033 $13,407  | $11,202    | $1.46                   |
+|  2 | 2021 As Reported                                   | $46,152 $19,095  | $16,458    | $2.17                   |
+|  3 | Percentage Change Y/Y (GAAP)                       | 21% 42%          | 47%        | 49%                     |
+|  4 | Constant Currency Impact                           | $1,465 $982      | $749       | $0.10                   |
+|  5 | Percentage Change Y/Y (non-GAAP) Constant Currency | 17% 35%          | 40%        | 42%                     |

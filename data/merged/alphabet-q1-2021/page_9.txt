@@ -1,0 +1,57 @@
+=== START PAGE CONTENT ===
+Other income (expense), net
+The following table presents our other income (expense), net (in millions; unaudited):
+Interest income
+Interest expense
+Foreign currency exchange gain (loss), net
+Gain (loss) on debt securities, net
+Gain (loss) on equity securities, net (1)
+Performance fees
+Income (loss) and impairment from equity method investments, net
+Other
+Other income (expense), net
+(1)
+Quarter Ended
+March 31,
+2020
+2021
+586 $
+345
+(21)
+(76)
+(81)
+113
+12
+(86)
+(814)
+4,837
+6
+(665)
+74
+5
+18
+373
+(220) $
+4,846
+$
+Includes all gains and losses, unrealized and realized, on equity investments that we hold. For Q1 2021, the net effect of
+the gain on equity securities of $4,837 million and the performance fees of $665 million increased the provision for income
+tax, net income, and diluted EPS by $876 million, $3,296 million, and $4.83, respectively. Fluctuations in the value of our
+investments may be affected by market dynamics and other factors, such as operating and financial performance of the
+companies we invest in, and could significantly contribute to the volatility of OI&E in future periods.
+0
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('Interest income',)                                                                      | ('2020 586',)     | ('2021 $ 345',)     |
+|---:|:------------------------------------------------------------------------------------------|:------------------|:--------------------|
+|  0 | Interest expense                                                                          | (21)              | (76)                |
+|  1 | Foreign currency exchange gain (loss), net                                                | (81)              | 113                 |
+|  2 | Gain (loss) on debt securities, net                                                       | 12                | (86)                |
+|  3 | Gain (loss) on equity securities, net (¹)                                                 | (814)             | 4,837               |
+|  4 | Performance fees                                                                          | 6                 | (665)               |
+|  5 | Income (loss) and impairment from equity method investments, net                          | 74                |                     |
+|  6 | Other                                                                                     | 18                | 373                 |
+|  7 | Other income (expense), net                                                               | $ (220)           | $ 4,846             |
+|  8 | (1) Includes all gains and losses, unrealized and realized, on equity investments that we | hold. For Q1 2021 | , the net effect of |
+=== TABLE END ===

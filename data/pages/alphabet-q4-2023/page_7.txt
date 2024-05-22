@@ -1,0 +1,184 @@
+Alphabet Inc.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In millions)
+Quarter Ended December 31,
+2022
+2023
+Year Ended December 31,
+2022
+(unaudited)
+2023
+(unaudited)
+Operating activities
+Net income
+Adjustments:
+13,624 $
+20,687 $
+59,972 $
+73,795
+Depreciation of property and equipment
+3,602
+3,316
+13,475
+11,946
+Stock-based compensation expense
+5,100
+5,659
+19,362
+22,460
+Deferred income taxes
+(1,924)
+(1,670)
+(8,081)
+(7,763)
+(Gain) loss on debt and equity securities, net
+1,663
+(471)
+5,519
+823
+Other
+1,260
+1,665
+3,483
+4,330
+Changes in assets and liabilities, net of effects of
+acquisitions:
+Accounts receivable, net
+(4,615)
+(6,518)
+(2,317)
+(7,833)
+Income taxes, net
+1,446
+(9,869)
+584
+523
+Other assets
+(778)
+740
+(5,046)
+(2,143)
+Accounts payable
+(28)
+427
+707
+664
+Accrued expenses and other liabilities
+3,424
+4,317
+3,915
+3,937
+Accrued revenue share
+577
+797
+(445)
+482
+Deferred revenue
+263
+(165)
+367
+525
+Net cash provided by operating activities
+23,614
+18,915
+91,495
+101,746
+Investing activities
+Purchases of property and equipment
+(7,595)
+(11,019)
+(31,485)
+(32,251)
+Purchases of marketable securities
+(11,621)
+(28,436)
+(78,874)
+(77,858)
+Maturities and sales of marketable securities
+13,735
+34,030
+97,822
+86,672
+Purchases of non-marketable securities
+(903)
+(851)
+(2,531)
+(3,027)
+Maturities and sales of non-marketable securities
+19
+204
+150
+947
+Acquisitions, net of cash acquired, and purchases of
+intangible assets
+(84)
+(29)
+(6,969)
+(495)
+Other investing activities
+222
+(66)
+1,589
+(1,051)
+Net cash used in investing activities
+(6,227)
+(6,167)
+(20,298)
+(27,063)
+Financing activities
+Net payments related to stock-based award activities
+(2,079)
+(2,680)
+(9,300)
+(9,837)
+Repurchases of stock
+(15,407)
+(16,191)
+(59,296)
+(61,504)
+Proceeds from issuance of debt, net of costs
+8,550
+1,492
+52,872
+10,790
+Repayments of debt
+(8,718)
+(1,929)
+(54,068)
+(11,550)
+Proceeds from sale of interest in consolidated entities,
+net
+25
+Net cash used in financing activities
+(17,629)
+0
+(19,308)
+35
+(69,757)
+8
+(72,093)
+Effect of exchange rate changes on cash and cash
+equivalents
+137
+(94)
+(506)
+(421)
+Net increase (decrease) in cash and cash
+equivalents
+(105)
+(6,654)
+934
+2,169
+Cash and cash equivalents at beginning of period
+21,984
+30,702
+20,945
+21,879
+Cash and cash equivalents at end of period
+$
+21,879 $
+24,048
+$
+21,879 $
+24,048
+7

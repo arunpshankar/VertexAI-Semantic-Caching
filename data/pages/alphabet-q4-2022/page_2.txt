@@ -1,0 +1,83 @@
+Q4 2022 supplemental information (in millions, except for number of employees; unaudited)
+Revenues, Traffic Acquisition Costs (TAC) and number of employees
+Google Search & other
+YouTube ads
+Google Network
+Google advertising
+Google other
+Google Services total
+Google Cloud
+Other Bets
+Hedging gains (losses)
+Total revenues
+Total TAC
+Number of employees
+Segment Operating Results
+Quarter Ended December 31,
+2021
+2022
+43,301 $
+42,604
+8,633
+7,963
+9,305
+8,475
+61,239
+59,042
+8,161
+8,796
+69,400
+67,838
+5,541
+7,315
+181
+226
+203
+669
+$
+75,325 $
+76,048
+13,427 $
+12,925
+156,500
+190,234
+Quarter Ended December 31,
+2021
+2022
+Operating income (loss):
+Google Services
+Google Cloud
+Other Bets
+25,993 $
+21,101
+(890)
+(480)
+(1,450)
+(1,631)
+Corporate costs, unallocated
+(1,768)
+(830)
+Total income from operations
+$
+21,885 $
+18,160
+Additional Information Relating to Fiscal Year 2023 (unaudited)
+Recent Announcements
+In January 2023, we announced a reduction of our workforce of approximately 12,000 roles. We expect to incur
+employee severance and related charges of $1.9 billion to $2.3 billion, the majority of which will be recognized in the
+first quarter of 2023.
+In addition, we are taking actions to optimize our global office space. As a result we expect to incur exit costs relating
+to office space reductions of approximately $0.5 billion in the first quarter of 2023. We may incur additional charges in
+the future as we further evaluate our real estate needs.
+Change in Useful lives of our server and network equipment
+In January 2023, we completed an assessment of the useful lives of our servers and network equipment, resulting in a
+change in the estimated useful life of our servers and certain network equipment to six years, which we expect to result
+in a reduction of depreciation of approximately $3.4 billion for the full fiscal year 2023 for assets in service as of
+December 31, 2022, recorded primarily in cost of revenues and research and development (R&D) expenses.
+Segment Reporting Changes
+As Al is critical to delivering our mission of bringing our breakthrough innovations into the real world, beginning in
+January 2023, we will update our segment reporting relating to certain of Alphabet's Al activities. DeepMind, previously
+reported within Other Bets, will be reported as part of Alphabet's corporate costs, reflecting its increasing collaboration
+with Google Services, Google Cloud, and Other Bets. Prior periods will be recast to conform to the revised
+presentation.
+2

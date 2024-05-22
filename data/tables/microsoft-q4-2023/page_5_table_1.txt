@@ -1,0 +1,3 @@
+|    | ('Xbox content and services',)                                  | ('61%',)   | ('(1)%',)   | ('60%',)   |
+|---:|:----------------------------------------------------------------|:-----------|:------------|:-----------|
+|  0 | Search and news advertising excluding traffic acquisition costs | 8%         | (1)%        | 7%         |

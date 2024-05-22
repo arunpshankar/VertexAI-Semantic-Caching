@@ -1,0 +1,61 @@
+=== START PAGE CONTENT ===
+Gave Amazon customers a way to show appreciation for delivery drivers during the holiday season with the “Alexa,
+Thank My Driver” promotion. Over a two-day period, customers thanked their drivers 2 million times, with drivers
+receiving $5 per thank you at no cost to the customer.
+Supporting communities and protecting the environment
+Amazon believes that success and scale bring broad responsibility to help the planet, future generations, and communities.
+Amazon employees have passion for investing in these areas, and a sampling of the efforts from this past quarter are that
+Amazon:
+•
+•
+•
+•
+Released the company's U.S. Community Impact Report, which shows Amazon has delivered more than 33 million
+meals directly to underserved families from 2020 to 2023; donated over 88 million pounds of food from 2020 to 2023;
+provided STEM education, literacy, and career exploration courses to 6,000 schools and 560,000 students during the
+2022-2023 academic year; and provided free training in cloud computing and technology to more than 13 million
+adults in the last year.
+Provided more than 75,000 relief items to communities impacted by Hurricane Otis near Acapulco, Mexico, using
+Amazon's global logistics capabilities. AWS also supported nonprofit Help.NGO to build an emergency connectivity
+network in Mexico to allow first responders to map the impacted area, and offered cloud computing resources to
+process mapping data collected on-site to assess storm damage.
+Announced new renewable energy projects, including Amazon's first brownfield solar project, which will repurpose a
+previously polluted Maryland coal mine site into a solar farm; 11 renewable energy projects across Texas; Amazon's
+first renewable energy project in South Korea; and a 198-megawatt wind farm in India. In 2023, Amazon added 100
+new solar and wind projects.
+Announced Amazon's first U.S. fulfillment center to eliminate plastic delivery packaging and replace it with paper
+packaging that is curbside recyclable, part of a multi-year plan to convert U.S. fulfillment centers to paper packaging.
+In addition, Amazon announced that delivery packaging is now fully recyclable in Europe.
+Announced that AWS more than doubled the amount of lower-carbon concrete and steel used to build its data centers
+in 2023 compared to 2022. AWS collaborates with local suppliers to increase the availability of these materials across
+the construction industry. Emissions released during building materials' life cycle accounts for around 11% of global
+carbon emissions.
+Published the AWS Economic Impact Study, which highlights that AWS invested more than $108 billion in U.S. cloud
+infrastructure from 2011 through 2022, contributed nearly $38 billion in estimated gross domestic product to the U.S.
+economy, and supported an estimated annual average of nearly 30,000 jobs in local communities where AWS operates.
+Launched AI Ready to provide free AI skills training to 2 million people globally by 2025. The program includes eight
+free AWS-designed AI courses and a new generative AI scholarship program to help more than 50,000 high school
+and university students from underserved and underrepresented communities gain AI skills.
+Financial Guidance
+The following forward-looking statements reflect Amazon.com's expectations as of February 1, 2024, and are subject to
+substantial uncertainty. Our results are inherently unpredictable and may be materially affected by many factors, such as
+fluctuations in foreign exchange rates, changes in global economic and geopolitical conditions and customer demand and
+spending (including the impact of recessionary fears), inflation, interest rates, regional labor market constraints, world events,
+the rate of growth of the internet, online commerce, cloud services, and new and emerging technologies, and the various factors
+detailed below.
+First Quarter 2024 Guidance
+•
+Net sales are expected to be between $138.0 billion and $143.5 billion, or to grow between 8% and 13% compared
+with first quarter 2023. This guidance anticipates a favorable impact of approximately 40 basis points from foreign
+exchange rates.
+Operating income is expected to be between $8.0 billion and $12.0 billion, compared with $4.8 billion in first quarter
+2023. This guidance includes approximately $0.9 billion lower depreciation expense due to an increase in the
+estimated useful life of our servers beginning on January 1, 2024.
+This guidance assumes, among other things, that no additional business acquisitions, restructurings, or legal
+settlements are concluded.
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+| ("Supporting communities and protecting the environment Amazon believes that success and scale bring broad responsibility to help the planet, future generations, and communities. Amazon employees have passion for investing in these areas, and a sampling of the efforts from this past quarter are that Amazon: Released the company's U.S. Community Impact Report, which shows Amazon has delivered more than 33 million meals directly to underserved families from 2020 to 2023; donated over 88 million pounds of food from 2020 to 2023; provided STEM education, literacy, and career exploration courses to 6,000 schools and 560,000 students during the 2022-2023 academic year; and provided free training in cloud computing and technology to more than 13 million adults in the last year. Provided more than 75,000 relief items to communities impacted by Hurricane Otis near Acapulco, Mexico, using Amazon's global logistics capabilities. AWS also supported nonprofit Help.NGO to build an emergency connectivity network in Mexico to allow first responders to map the impacted area, and offered cloud computing resources to process mapping data collected on-site to assess storm damage. • Announced new renewable energy projects, including Amazon's first brownfield solar project, which will repurpose a previously polluted Maryland coal mine site into a solar farm; 11 renewable energy projects across Texas; Amazon's first renewable energy project in South Korea; and a 198-megawatt wind farm in India. In 2023, Amazon added 100 new solar and wind projects. • Announced Amazon's first U.S. fulfillment center to eliminate plastic delivery packaging and replace it with paper packaging that is curbside recyclable, part of a multi-year plan to convert U.S. fulfillment centers to paper packaging. In addition, Amazon announced that delivery packaging is now fully recyclable in Europe. • Announced that AWS more than doubled the amount of lower-carbon concrete and steel used to build its data centers in 2023 compared to 2022. AWS collaborates with local suppliers to increase the availability of these materials across the construction industry. Emissions released during building materials' life cycle accounts for around 11% of global carbon emissions. Published the AWS Economic Impact Study, which highlights that AWS invested more than $108 billion in U.S. cloud infrastructure from 2011 through 2022, contributed nearly $38 billion in estimated gross domestic product to the U.S. economy, and supported an estimated annual average of nearly 30,000 jobs in local communities where AWS operates. • Launched AI Ready to provide free AI skills training to 2 million people globally by 2025. The program includes eight free AWS-designed AI courses and a new generative AI scholarship program to help more than 50,000 high school and university students from underserved and underrepresented communities gain AI skills. Financial Guidance The following forward-looking statements reflect Amazon.com's expectations as of February 1, 2024, and are subject to",)   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+=== TABLE END ===

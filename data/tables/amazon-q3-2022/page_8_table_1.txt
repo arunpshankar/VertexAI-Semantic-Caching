@@ -1,0 +1,26 @@
+|    | ('September 2021 Net product sales $ 54,876',)                     | ('30, 2022 $ 59,340',)   | ('September 2021 $ 170,371',)   | ('30, 2022 $ 172,370',)   |
+|---:|:-------------------------------------------------------------------|:-------------------------|:--------------------------------|:--------------------------|
+|  0 | Net service sales 55,936                                           | 67,761                   | 162,039                         | 192,409                   |
+|  1 | Total net sales 110,812                                            | 127,101                  | 332,410                         | 364,779                   |
+|  2 | Operating expenses:                                                |                          |                                 |                           |
+|  3 | Cost of sales 62,930                                               | 70,268                   | 189,509                         | 203,191                   |
+|  4 | Fulfillment 18,498                                                 | 20,583                   | 52,666                          | 61,196                    |
+|  5 | Technology and content 14,380                                      | 19,485                   | 40,739                          | 52,399                    |
+|  6 | Sales and marketing 8,010                                          | 11,014                   | 21,741                          | 29,420                    |
+|  7 | General and administrative 2,153                                   | 3,061                    | 6,298                           | 8,558                     |
+|  8 | Other operating expense (income), net (11)                         | 165                      | 38                              | 504                       |
+|  9 | Total operating expenses 105,960                                   | 124,576                  | 310,991                         | 355,268                   |
+| 10 | Operating income 4,852                                             | 2,525                    | 21,419                          | 9,511                     |
+| 11 | Interest income 119                                                | 277                      | 330                             | 544                       |
+| 12 | Interest expense (493)                                             | (617)                    | (1,327)                         | (1,673)                   |
+| 13 | Other income (expense), net (163)                                  | 759                      | 2,795                           | (13,356)                  |
+| 14 | (537) Total non-operating income (expense)                         | 419                      | 1,798                           | (14,485)                  |
+| 15 | Income (loss) before income taxes 4,315                            | 2,944                    | 23,217                          | (4,974)                   |
+| 16 | Benefit (provision) for income taxes (1,155)                       | (69)                     | (4,179)                         | 1,990                     |
+| 17 | Equity-method investment activity, net of tax (4)                  | (3)                      | 3                               | (16)                      |
+| 18 | Net income (loss) 3,156                                            | $ 2,872                  | $ 19,041                        | $ (3,000)                 |
+| 19 | Basic earnings per share $ 0.31                                    | $ 0.28                   | $ 1.88                          | $ (0.29)                  |
+| 20 | Diluted earnings per share $ 0.31                                  | $ 0.28                   | $ 1.85                          | $ (0.29)                  |
+| 21 | Weighted-average shares used in computation of earnings per share: |                          |                                 |                           |
+| 22 | Basic 10,132                                                       | 10,191                   | 10,103                          | 10,178                    |
+| 23 | Diluted 10,309                                                     | 10,331                   | 10,287                          | 10,178                    |

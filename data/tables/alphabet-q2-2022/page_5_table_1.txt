@@ -1,0 +1,16 @@
+|    | ('Revenues Costs and expenses:',)                                 | ('61,880',)   | ('$ 69,685 $ 117,194 $ 137,696',)   | ('',)   |
+|---:|:------------------------------------------------------------------|:--------------|:------------------------------------|:--------|
+|  0 | Cost of revenues                                                  | 26,227        | 30,104 50,330 59,703                |         |
+|  1 | Research and development                                          | 7,675         | 9,841 15,160 18,960                 |         |
+|  2 | Sales and marketing                                               | 5,276         | 6,630 9,792 12,455                  |         |
+|  3 | General and administrative                                        | 3,341         | 3,657 6,114 7,031                   |         |
+|  4 | Total costs and expenses                                          | 42,519        | 50,232 81,396 98,149                |         |
+|  5 | Income from operations                                            | 19,361        | 19,453 35,798 39,547                |         |
+|  6 | Other income (expense), net                                       | 2,624         | (439) 7,470 (1,599                  | )       |
+|  7 | Income before income taxes                                        | 21,985        | 19,014 43,268 37,948                |         |
+|  8 | Provision for income taxes                                        | 3,460         | 3,012 6,813 5,510                   |         |
+|  9 | Net income                                                        | $ 18,525      | $ 16,002 $ 36,455 $ 32,438          |         |
+| 10 | Basic earnings per share of Class A, Class B, and Class C stock   | $ 1.38        | $ 1.22 SA $ 2.72 $ 2.46             |         |
+| 11 | Diluted earnings per share of Class A, Class B, and Class C stock | EA $ 1.36     | 1.21 $ 2.68 $ 2.44                  |         |
+| 12 | Number of shares used in basic earnings per share calculation     | 13,379        | 13,133 13,422 13,168                |         |
+| 13 | Number of shares used in diluted earnings per share calculation   | 13,592        | 13,239 13,617 13,295                |         |

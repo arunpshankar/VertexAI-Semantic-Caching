@@ -1,0 +1,57 @@
+The following table reconciles our financial results for the fiscal year ended June 30, 2021, reported in
+accordance with GAAP to non-GAAP financial results. All growth comparisons relate to the corresponding
+period in the last fiscal year.
+Twelve Months Ended June 30,
+Diluted
+($ in millions, except per share amounts)
+Revenue
+Operating
+Income
+Net
+Income
+Earnings
+per Share
+2020 As Reported (GAAP)
+$143,015
+$52,959
+$44,281
+$5.76
+2021 As Reported (GAAP)
+$168,088
+$69,916
+$61,271
+$8.05
+Net income tax benefit related to India Supreme Court decision
+on withholding taxes
+(620)
+(0.08)
+2021 As Adjusted (non-GAAP)
+$168,088
+$69,916
+$60,651
+$7.97
+Percentage Change Y/Y (GAAP)
+18%
+32%
+38%
+40%
+Percentage Change Y/Y (non-GAAP)
+18%
+32%
+37%
+38%
+Percentage Change Y/Y (non-GAAP) Constant Currency
+15%
+28%
+33%
+34%
+Constant Currency
+Microsoft presents constant currency information to provide a framework for assessing how our
+underlying businesses performed excluding the effect of foreign currency rate fluctuations. To present this
+information, current and comparative prior period results for entities reporting in currencies other than
+United States dollars are converted into United States dollars using the average exchange rates from the
+comparative period rather than the actual exchange rates in effect during the respective periods. All
+growth comparisons relate to the corresponding period in the last fiscal year. Microsoft has provided this
+non-GAAP financial information to aid investors in better understanding our performance. The non-GAAP
+financial measures presented in this release should not be considered as a substitute for, or superior to,
+the measures of financial performance prepared in accordance with GAAP.

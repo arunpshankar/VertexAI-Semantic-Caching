@@ -1,0 +1,30 @@
+|    | ('Net Sales',)                                                                                 | ('(unaudited) Q1 2022 Q2 2022 Q3 2022 Q4 2022',)   | ('Y/Y % Q1 2023 Q2 2023 Change',)   |
+|---:|:-----------------------------------------------------------------------------------------------|:---------------------------------------------------|:------------------------------------|
+|  0 | Online stores (1)                                                                              | $ 51,129 $ 50,855 $ 53,489 $ 64,531                | $ 51,096 $ 52,966 4%                |
+|  1 | Online stores -- Y/Y growth (decline), excluding F/X                                           | (1)% 0 % 13 % 2 %                                  | 3% 5% N/A                           |
+|  2 | Physical stores (2)                                                                            | $ 4,591 $ 4,721 $ 4,694 $ 4,957                    | $ 4,895 $ 5,024 6%                  |
+|  3 | Physical stores - Y/Y growth, excluding F/X                                                    | 16 % 13 % 10 % 6%                                  | 7% 7% N/A                           |
+|  4 | Third-party seller services (3)                                                                | $ 25,335 $ 27,376 $ 28,666 $ 36,339                | $ 29,820 $ 32,332 18 %              |
+|  5 | Third-party seller services -- Y/Y growth, excluding F/X                                       | 9% 13 % 23 % 24 %                                  | 20% 18 % N/A                        |
+|  6 | Subscription services (4)                                                                      | $ 8,410 $ 8,716 $ 8,903 $ 9,189                    | $ 9,657 $ 9,894 14%                 |
+|  7 | Subscription services -- Y/Y growth, excluding F/X                                             | 13 % 14% 14% 17%                                   | 17% 14 % N/A                        |
+|  8 | Advertising services (5)                                                                       | $ 7,877 $ 8,757 $ 9,548 $ 11,557                   | $ 9,509 $ 10,683 22%                |
+|  9 | Advertising services -- Y/Y growth, excluding F/X                                              | 25% 21 % 30 % 23 %                                 | 23 % 22 % N/A                       |
+| 10 | AWS                                                                                            | $ 18,441 $ 19,739 $ 20,538 $ 21,378                | $ 21,354 $ 22,140 12%               |
+| 11 | AWS Y/Y growth, excluding F/X                                                                  | 37 % 33 % 28% 20 %                                 | 16 % 12% N/A                        |
+| 12 | Other (6)                                                                                      | $ 661 $ 1,070 $ 1,263 $ 1,253                      | $ 1,027 $ 1,344 26 %                |
+| 13 | Other -- Y/Y growth, excluding F/X                                                             | 28 % 135 % 168 % 80 %                              | 57 % 26 % N/A                       |
+| 14 | Stock-based Compensation Expense                                                               |                                                    |                                     |
+| 15 | Cost of sales                                                                                  | $ 146 $ 213 $ 190 $ 208                            | $ 165 $ 251 18 %                    |
+| 16 | Fulfillment                                                                                    | $ 498 $ 763 $ 727 $ 757                            | $ 603 $ 932 22 %                    |
+| 17 | Technology and infrastructure                                                                  | $ 1,645 $ 2,814 $ 3,036 $ 3,126                    | $ 2,574 $ 4,043 44 %                |
+| 18 | Sales and marketing                                                                            | $ 665 $ 990 $ 1,128 $ 1,092                        | $ 993 $ 1,303 32%                   |
+| 19 | General and administrative                                                                     | $ 296 $ 429 $ 475 $ 423                            | $ 413 $ 598 39 %                    |
+| 20 | Total stock-based compensation expense                                                         | $ 3,250 $ 5,209 $ 5,556 $ 5,606                    | $ 4,748 $ 7,127 37 %                |
+| 21 | Other                                                                                          |                                                    |                                     |
+| 22 | WW shipping costs                                                                              | $ 19,560 $ 19,304 $ 19,942 $ 24,714                | $ 19,937 $ 20,418 6%                |
+| 23 | WW shipping costs -- Y/Y growth                                                                | 14 % 9% 10 % 4%                                    | 2% 6% N/A                           |
+| 24 | WW paid units -- Y/Y growth (7)                                                                | 0 % 1 % 11 % 8%                                    | 8% 9% N/A                           |
+| 25 | WW seller unit mix -- % of WW paid units (7)                                                   | 55 % 57 % 58 % 59%                                 | 59 % 60 % N/A                       |
+| 26 | Employees (full-time and part-time; excludes contractors & temporary personnel                 | ) 1,622,000 1,523,000 1,544,000 1,541,000          | 1,465,000 1,461,000 (4)%            |
+| 27 | Employees (full-time and part-time; excludes contractors & temporary personnelgrowth (decline) | ) -- Y/Y 28 % 14% 5% (4)%                          | (10)% (4)% N/A                      |

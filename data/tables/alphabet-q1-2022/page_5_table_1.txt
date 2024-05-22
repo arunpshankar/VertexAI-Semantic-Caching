@@ -1,0 +1,17 @@
+|    | ('Revenues',)                                                     | ('55,314',)   | ('$ 68,011',)   |
+|---:|:------------------------------------------------------------------|:--------------|:----------------|
+|  0 | Costs and expenses:                                               |               |                 |
+|  1 | Cost of revenues                                                  | 24,103        | 29,599          |
+|  2 | Research and development                                          | 7,485         | 9,119           |
+|  3 | Sales and marketing                                               | 4,516         | 5,825           |
+|  4 | General and administrative                                        | 2,773         | 3,374           |
+|  5 | Total costs and expenses                                          | 38,877        | 47,917          |
+|  6 | Income from operations                                            | 16,437        | 20,094          |
+|  7 | Other income (expense), net                                       | 4,846         | (1,160)         |
+|  8 | Income before income taxes                                        | 21,283        | 18,934          |
+|  9 | Provision for income taxes                                        | 3,353         | 2,498           |
+| 10 | Net income                                                        | $ 17,930      | $ 16,436        |
+| 11 | Basic earnings per share of Class A, Class B, and Class C stock   | $ 26.63 559   | $ 24.90         |
+| 12 | Diluted earnings per share of Class A, Class B, and Class C stock | $ 26.29       | $ 24.62         |
+| 13 | Number of shares used in basic earnings per share calculation     | 673,220       | 660,171         |
+| 14 | Number of shares used in diluted earnings per share calculation   | 682,071       | 667,551         |

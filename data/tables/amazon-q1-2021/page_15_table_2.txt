@@ -1,0 +1,8 @@
+|    | ('Consolidated Net sales',)                   | ('75,452',)   | ('$ 108,518',)   |
+|---:|:----------------------------------------------|:--------------|:-----------------|
+|  0 | Operating expenses                            | 71,463        | 99,653           |
+|  1 | Operating income                              | 3,989         | 8,865            |
+|  2 | Total non-operating income (expense)          | (606)         | 1,403            |
+|  3 | Provision for income taxes                    | (744)         | (2,156)          |
+|  4 | Equity-method investment activity, net of tax | (104)         | (5)              |
+|  5 | Net income                                    | 2,535         | $ 8,107          |

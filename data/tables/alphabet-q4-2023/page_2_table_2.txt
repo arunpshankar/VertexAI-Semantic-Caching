@@ -1,0 +1,7 @@
+|    | ('Operating income (loss):',)   | ('',)    | ('',)    |
+|---:|:--------------------------------|:---------|:---------|
+|  0 | Google Services                 | $ 20,222 | $ 26,730 |
+|  1 | Google Cloud                    | (186)    | 864      |
+|  2 | Other Bets                      | (1,237)  | (863)    |
+|  3 | Alphabet-level activities (¹)   | (639)    | (3,034)  |
+|  4 | Total income from operations    | $ 18,160 | $ 23,697 |

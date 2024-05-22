@@ -1,0 +1,50 @@
+=== START PAGE CONTENT ===
+SEGMENT REVENUE AND OPERATING INCOME
+(In millions) (Unaudited)
+Three Months Ended
+September 30,
+2021
+2020
+Revenue
+Productivity and Business Processes
+$15,039
+$12,319
+Intelligent Cloud
+16,964
+12,986
+More Personal Computing
+13,314
+11,849
+Total
+$45,317
+$37,154
+Operating Income
+Productivity and Business Processes
+$7,581
+$5,706
+Intelligent Cloud
+7,562
+5,422
+More Personal Computing
+5,095
+4,748
+Total
+$20,238
+$15,876
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('Revenue',)                        | ('',)   | ('',)   |
+|---:|:------------------------------------|:--------|:--------|
+|  0 | Productivity and Business Processes | $15,039 | $12,319 |
+|  1 | Intelligent Cloud                   | 16,964  | 12,986  |
+|  2 | More Personal Computing             | 13,314  | 11,849  |
+|  3 | Total                               | $45,317 | $37,154 |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('Productivity and Business Processes',)   | ('$7,581',)   | ('$5,706',)   |
+|---:|:-------------------------------------------|:--------------|:--------------|
+|  0 | Intelligent Cloud                          | 7,562         | 5,422         |
+|  1 | More Personal Computing                    | 5,095         | 4,748         |
+|  2 | Total                                      | $20,238       | $15,876       |
+=== TABLE END ===

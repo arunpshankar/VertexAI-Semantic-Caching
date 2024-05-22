@@ -1,0 +1,57 @@
+Alphabet Announces First Quarter 2023 Results
+MOUNTAIN VIEW, Calif. - April 25, 2023 - Alphabet Inc. (NASDAQ: GOOG, GOOGL) today announced financial
+results for the quarter ended March 31, 2023.
+Sundar Pichai, CEO of Alphabet and Google, said: "We are pleased with our business performance in the first
+quarter, with Search performing well and momentum in Cloud. We introduced important product updates anchored
+in deep computer science and Al. Our North Star is providing the most helpful answers for our users, and we see
+huge opportunities ahead, continuing our long track record of innovation."
+Ruth Porat, CFO of Alphabet and Google, said: "Resilience in Search and momentum in Cloud resulted in Q1
+consolidated revenues of $69.8 billion, up 3% year over year, or up 6% in constant currency. We remain committed
+to delivering long-term growth and creating capacity to invest in our most compelling growth areas by re-engineering
+our cost base."
+Q1 2023 financial highlights (unaudited)
+Our first quarter 2023 results reflect:
+i.
+$2.6 billion in charges related to reductions in our workforce and office space;
+ii.
+a $988 million reduction in depreciation expense from the change in estimated useful life of our servers and
+certain network equipment; and
+iii. a shift in the timing of our annual employee stock-based compensation awards resulting in relatively less
+stock-based compensation expense recognized in the first quarter compared to the remaining quarters of
+the year. The shift in timing itself will not affect the amount of stock-based compensation expense over the
+full fiscal year 2023.
+For further information, please refer to our blog post also filed with the SEC via Form 8-K on April 20, 2023.
+The following table summarizes our consolidated financial results for the quarters ended March 31, 2022 and 2023
+(in millions, except for per share information and percentages).
+Quarter Ended March 31,
+2022
+2023
+Revenues
+Change in revenues year over year
+Change in constant currency revenues year over year(1)
+Operating income
+Operating margin
+68,011 $
+23 %
+69,787
+3 %
+26%
+6%
+20,094 $
+17,415
+30 %
+25%
+Other income (expense), net
+SA
+(1,160) $
+790
+Net income
+Diluted EPS
+16,436 $
+1.23 $
+15,051
+1.17
+(1)
+Non-GAAP measure. See the table captioned “Reconciliation from GAAP revenues to non-GAAP constant currency
+revenues and GAAP percentage change in revenues to non-GAAP percentage change in constant currency revenues" for
+more details.

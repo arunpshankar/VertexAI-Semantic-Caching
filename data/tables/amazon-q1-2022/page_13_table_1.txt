@@ -1,0 +1,7 @@
+|    | ('Outstanding shares 509 and 509 stock, at cost',)   | ('5 5 (1,837) (4,503)',)   |
+|---:|:-----------------------------------------------------|:---------------------------|
+|  0 | paid-in capital                                      | 55,538 58,793              |
+|  1 | other comprehensive income (loss)                    | (1,376) (2,365)            |
+|  2 | earnings                                             | 85,915 82,071              |
+|  3 | Total stockholders' equity                           | 138,245 134,001            |
+|  4 | Total liabilities and stockholders' equity           | $ 420,549 $ 410,767        |

@@ -1,0 +1,9 @@
+|    | ('',)                                         | ('Percentage Change Y/Y (GAAP)',)   | ('Constant Currency Impact',)   | ('Y/Y Constant Currency',)   |
+|---:|:----------------------------------------------|:------------------------------------|:--------------------------------|:-----------------------------|
+|  0 | Microsoft Cloud revenue                       | 22%                                 | 3%                              | 25%                          |
+|  1 | Office Commercial products and cloud services | 13%                                 | 4%                              | 17%                          |
+|  2 | Office 365 Commercial                         | 14%                                 | 4%                              | 18%                          |
+|  3 | Office Consumer products and cloud services   | 1%                                  | 3%                              | 4%                           |
+|  4 | LinkedIn                                      | 8%                                  | 2%                              | 10%                          |
+|  5 | Dynamics products and cloud services          | 17%                                 | 4%                              | 21%                          |
+|  6 | Dynamics 365                                  | 25%                                 | 4%                              | 29%                          |

@@ -1,0 +1,14 @@
+|    | ('Quarter Ended September 30, 2022 2023 (recast)',)   |
+|---:|:------------------------------------------------------|
+|  0 | Revenues:                                             |
+|  1 | 61,377 $ 67,986 Google Services                       |
+|  2 | Google Cloud 6,868 8,411                              |
+|  3 | Other Bets 209 297                                    |
+|  4 | Hedging gains (losses) 638 (1)                        |
+|  5 | 76,693 Total revenues 69,092 $                        |
+|  6 | Operating income (loss):                              |
+|  7 | Google Services 18,883 $ 23,937                       |
+|  8 | Google Cloud 266 (440)                                |
+|  9 | Other Bets (1,225) (1,194)                            |
+| 10 | (83) Corporate costs, unallocated (1,666)             |
+| 11 | 21,343 Total income from operations 17,135 $          |

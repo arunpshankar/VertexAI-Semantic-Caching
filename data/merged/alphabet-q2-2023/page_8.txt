@@ -1,0 +1,74 @@
+=== START PAGE CONTENT ===
+Segment Results
+The following table presents our segment revenues and operating income (loss) (in millions; unaudited):
+Revenues:
+Google Services
+Google Cloud
+Other Bets
+Hedging gains (losses)
+Total revenues
+Operating income (loss):
+Google Services
+Google Cloud
+Other Bets
+Corporate costs, unallocated
+Total income from operations
+We report our segment results as Google Services, Google Cloud, and Other Bets:
+•
+•
+•
+Quarter Ended June 30,
+2022
+2023
+(recast)
+62,841 $
+66,285
+6,276
+8,031
+193
+285
+375
+69,685 $
+74,604
+21,621 $
+23,454
+(590)
+395
+(1,339)
+(813)
+(239)
+(1,198)
+19,453 $
+21,838
+Google Services includes products and services such as ads, Android, Chrome, hardware, Google Maps,
+Google Play, Search, and YouTube. Google Services generates revenues primarily from advertising; sales
+of apps and in-app purchases, and hardware; and fees received for subscription-based products such as
+YouTube Premium and YouTube TV.
+Google Cloud includes infrastructure and platform services, collaboration tools, and other services for
+enterprise customers. Google Cloud generates revenues from fees received for Google Cloud Platform
+services, Google Workspace communication and collaboration tools, and other enterprise services.
+Other Bets is a combination of multiple operating segments that are not individually material. Revenues
+from Other Bets are generated primarily from the sale of health technology and internet services.
+Certain costs are not allocated to our segments because they represent Alphabet-level activities. These costs
+primarily include Al-focused shared R&D activities; corporate initiatives such as our philanthropic activities;
+corporate shared costs such as certain finance, human resource, and legal costs, including certain fines and
+settlements. Charges associated with reductions in our workforce and office space announced in January 2023 are
+not allocated to our segments. Additionally, hedging gains (losses) related to revenue are not allocated to our
+segments.
+8
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('Revenues: Google Services',)   | ('62,841',)   | ('$ 66,285',)   | ('',)   |
+|---:|:---------------------------------|:--------------|:----------------|:--------|
+|  0 | Google Cloud                     | 6,276         | 8,031           |         |
+|  1 | Other Bets                       | 193           | 285             |         |
+|  2 | Hedging gains (losses)           | 375           | 3               |         |
+|  3 | Total revenues                   | 69,685        | $ 74,604        |         |
+|  4 | Operating income (loss):         |               |                 |         |
+|  5 | Google Services                  | 21,621        | $ 23,454        |         |
+|  6 | Google Cloud                     | (590)         | 395             |         |
+|  7 | Other Bets                       | (1,339)       | (813)           |         |
+|  8 | Corporate costs, unallocated     | (239)         | (1,198          | )       |
+|  9 | Total income from operations     | 19,453        | $ 21,838        |         |
+=== TABLE END ===

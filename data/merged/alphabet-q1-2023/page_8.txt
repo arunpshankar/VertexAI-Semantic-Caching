@@ -1,0 +1,129 @@
+=== START PAGE CONTENT ===
+Segment results
+The following table presents our segment revenues and operating income (loss) (in millions; unaudited):
+Revenues:
+Google Services
+Google Cloud
+Other Bets
+Hedging gains (losses)
+Total revenues
+Operating income (loss):
+Google Services
+Google Cloud
+Other Bets
+Corporate costs, unallocated
+Total income from operations
+We report our segment results as Google Services, Google Cloud, and Other Bets:
+•
+Quarter Ended March 31,
+2022
+2023
+(recast)
+61,472 $
+61,961
+5,821
+7,454
+440
+288
+278
+84
+68,011 $
+69,787
+21,973
+21,737
+(706)
+191
+(835)
+(1,225)
+(338)
+(3,288)
+20,094 $
+17,415
+Google Services includes products and services such as ads, Android, Chrome, hardware, Google Maps,
+Google Play, Search, and YouTube. Google Services generates revenues primarily from advertising; sales
+of apps and in-app purchases, and hardware; and fees received for subscription-based products such as
+YouTube Premium and YouTube TV.
+Google Cloud includes infrastructure and platform services, collaboration tools, and other services for
+enterprise customers. Google Cloud generates revenues from fees received for Google Cloud Platform
+services, Google Workspace communication and collaboration tools, and other enterprise services.
+Other Bets is a combination of multiple operating segments that are not individually material. Revenues
+from Other Bets are generated primarily from the sale of health technology and internet services.
+After the segment reporting changes discussed above, unallocated corporate costs primarily include Al-focused
+shared R&D activities; corporate initiatives such as our philanthropic activities; and corporate shared costs such as
+finance, certain human resource costs, and legal, including certain fines and settlements. In the first quarter of 2023,
+unallocated corporate costs also include charges associated with reductions in our workforce and office space.
+Additionally, hedging gains (losses) related to revenue are included in unallocated corporate costs.
+Recast Historical Segment Results
+Recast historical segment results are as follows (in millions; unaudited):
+Quarter
+Q1 2022
+Q2 2022
+Recast Historical Results
+Q3 2022 Q4 2022
+2021
+Operating income (loss):
+Google Services
+Fiscal Year
+2022
+Google Cloud
+Other Bets
+Corporate costs, unallocated (1)
+Total income from operations
+(1)
+21,973 $
+21,621 $
+(706)
+(590)
+(835)
+(1,339)
+18,883 $ 20,222
+(440)
+(186)
+(1,225) (1,237)
+$
+88,132 $ 82,699
+(2,282)
+(1,922)
+(4,051)
+(4,636)
+(338)
+(239)
+(83)
+(639)
+(3,085)
+(1,299)
+78,714 $
+74,842
+$ 20,094 $ 19,453 $ 17,135 $
+18,160 $
+Includes hedging gains (losses); in fiscal years 2021 and 2022 hedging gains of $149 million and $2.0 billion, respectively.
+8
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('Revenues:',)                                                            | ('(recast)',)   |
+|---:|:--------------------------------------------------------------------------|:----------------|
+|  0 | Google Services                                                           | 61,472 $ 61,961 |
+|  1 | Google Cloud                                                              | 5,821 7,454     |
+|  2 | Other Bets                                                                | 440 288         |
+|  3 | Hedging gains (losses)                                                    | 278 84          |
+|  4 | Total revenues                                                            | 68,011 $ 69,787 |
+|  5 | Operating income (loss):                                                  |                 |
+|  6 | Google Services                                                           | 21,973 $ 21,737 |
+|  7 | Google Cloud                                                              | 191 (706)       |
+|  8 | Other Bets                                                                | (835) (1,225    |
+|  9 | Corporate costs, unallocated                                              | (338) (3,288    |
+| 10 | Total income from operations                                              | 20,094 $ 17,415 |
+| 11 | We report our segment results as Google Services, Google Cloud, and Other | Bets:           |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('',)                                   | ('Q1 2022',)   | ('Quarter Q2 2022',)   | ('Recast Historical Q3 2022',)   | ('Results Q4 2022',)   | ('Fiscal 2021',)   | ('Year 2022',)   | ('',)   |
+|---:|:----------------------------------------|:---------------|:-----------------------|:---------------------------------|:-----------------------|:-------------------|:-----------------|:--------|
+|  0 | Operating income (loss):                |                |                        |                                  |                        |                    |                  |         |
+|  1 | Google Services                         | $ 21,973       | $ 21,621               | $ 18,883                         | $ 20,222               | $ 88,132           | $ 82,699         |         |
+|  2 | Google Cloud                            | (706)          | (590)                  | (440)                            | (186)                  | (2,282)            | (1,922           | )       |
+|  3 | Other Bets                              | (835)          | (1,339)                | (1,225)                          | (1,237)                | (4,051)            | (4,636           | )       |
+|  4 | Corporate costs, unallocated (¹)        | (338)          | (239)                  | (83)                             | (639)                  | (3,085)            | (1,299           | )       |
+|  5 | Total income from operations            | $ 20,094       | $ 19,453               | $ 17,135                         | $ 18,160               | $ 78,714           | $ 74,842         |         |
+|  6 | (1) Includes hedging gains (losses); in | fiscal years   | 2021 and 2022          | hedging gains of                 | $149 million           | and $2.0 billion,  | respectively.    |         |
+=== TABLE END ===

@@ -1,0 +1,62 @@
+=== START PAGE CONTENT ===
+Search and news advertising excluding traffic acquisition
+18%
+3%
+21%
+costs
+Surface
+10%
+5%
+15%
+About Microsoft
+Microsoft (Nasdaq "MSFT" @microsoft) enables digital transformation for the era of an intelligent cloud
+and an intelligent edge. Its mission is to empower every person and every organization on the planet to
+achieve more.
+Forward-Looking Statements
+Statements in this release that are "forward-looking statements" are based on current expectations and
+assumptions that are subject to risks and uncertainties. Actual results could differ materially because of
+factors such as:
+•
+intense competition in all of our markets that may lead to lower revenue or operating margins;
+increasing focus on cloud-based services presenting execution and competitive risks;
+significant investments in products and services that may not achieve expected returns;
+acquisitions, joint ventures, and strategic alliances that may have an adverse effect on our
+business;
+impairment of goodwill or amortizable intangible assets causing a significant charge to earnings;
+cyberattacks and security vulnerabilities that could lead to reduced revenue, increased costs,
+liability claims, or harm to our reputation or competitive position;
+disclosure and misuse of personal data that could cause liability and harm to our reputation;
+the possibility that we may not be able to protect information stored in our products and services
+from use by others;
+abuse of our advertising or social platforms that may harm our reputation or user engagement;
+the development of the internet of things presenting security, privacy, and execution risks;
+issues about the use of artificial intelligence in our offerings that may result in competitive harm,
+legal liability, or reputational harm;
+excessive outages, data losses, and disruptions of our online services if we fail to maintain an
+adequate operations infrastructure;
+•
+quality or supply problems;
+government litigation and regulatory activity relating to competition rules that may limit how we
+design and market our products;
+potential consequences under trade, anti-corruption, and other laws resulting from our global
+operations;
+laws and regulations relating to the handling of personal data that may impede the adoption of
+our services or result in increased costs, legal claims, fines, or reputational damage;
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('Statements in this release that are "forward-looking statements" are based on current expectations and assumptions that are subject to risks and uncertainties. Actual results could differ materially because of factors such as: intense competition in all of our markets that may lead to lower revenue or operating margins; • increasing focus on cloud-based services presenting execution and competitive risks; significant investments in products and services that may not achieve expected returns; acquisitions, joint ventures, and strategic alliances that may have an adverse effect on our business; • impairment of goodwill or amortizable intangible assets causing a significant charge to earnings;',)   |
+|---:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  0 | cyberattacks and security vulnerabilities that could lead to reduced revenue, increased costs, liability claims, or harm to our reputation or competitive position; • disclosure and misuse of personal data that could cause liability and harm to our reputation;                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|  1 | • the possibility that we may not be able to protect information stored in our products and services from use by others;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|  2 | • abuse of our advertising or social platforms that may harm our reputation or user engagement;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|  3 | • the development of the internet of things presenting security, privacy, and execution risks;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|  4 | issues about the use of artificial intelligence in our offerings that may result in competitive harm, legal liability, or reputational harm; excessive outages, data losses, and disruptions of our online services if we fail to maintain an adequate operations infrastructure; • quality or supply problems; government litigation and regulatory activity relating to competition rules that may limit how we design and market our products;                                                                                                                                                                                                                                                                                  |
+|  5 | potential consequences under trade, anti-corruption, and other laws resulting from our global operations;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|  6 | laws and regulations relating to the handling of personal data that may impede the adoption of our services or result in increased costs, legal claims, fines, or reputational damage;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('Search and news advertising excluding traffic acquisition costs',)   | ('18% 3% 21%',)   |
+|---:|:-----------------------------------------------------------------------|:------------------|
+|  0 | Surface                                                                | 10% 5% 15%        |
+=== TABLE END ===

@@ -1,0 +1,10 @@
+|    | ('',)                                                  | ('Quarter Ended 2020',)   | ('June 30, 2021',)   |
+|---:|:-------------------------------------------------------|:--------------------------|:---------------------|
+|  0 | Revenues                                               | 38,297                    | 61,880               |
+|  1 | Change in revenues year over year                      | (2)%                      | 62%                  |
+|  2 | Change in constant currency revenues year over year(¹) | 0 %                       | 57 %                 |
+|  3 | Operating income                                       | 6,383                     | 19,361               |
+|  4 | Operating margin                                       | 17 %                      | 31 %                 |
+|  5 | Other income (expense), net                            | EA 1,894                  | $ 2,624              |
+|  6 | Net income                                             | 6,959 5959                | $ 18,525             |
+|  7 | Diluted EPS                                            | $ 10.13                   | $ 27.26              |

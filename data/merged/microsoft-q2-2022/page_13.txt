@@ -1,0 +1,36 @@
+=== START PAGE CONTENT ===
+MICROSOFT CORPORATION
+FOURTH QUARTER FINANCIAL HIGHLIGHTS
+All growth comparisons relate to the corresponding period in the last fiscal year.
+SUMMARY
+Revenue increased $5.7 billion or 12% driven by growth in Intelligent Cloud and Productivity and Business
+Processes. Intelligent Cloud revenue increased driven by Azure and other cloud services. Productivity and
+Business Processes revenue increased driven by Office 365 Commercial and LinkedIn. More Personal
+Computing revenue increased driven by Search and news advertising.
+Cost of revenue increased $2.4 billion or 17% driven by growth in Microsoft Cloud.
+Gross margin increased $3.3 billion or 10% driven by growth in Intelligent Cloud and Productivity and
+Business Processes.
+Gross margin percentage decreased. Excluding the impact of the change in accounting estimate
+for the useful lives of our server and network equipment, gross margin percentage was relatively
+unchanged as sales mix shift to cloud was offset by improvement in cloud services.
+Microsoft Cloud gross margin percentage decreased slightly to 69%. Excluding the impact of the
+change in accounting estimate, Microsoft Cloud gross margin percentage increased 1 point
+driven by improvement across our cloud services, offset in part by sales mix shift to Azure and
+other cloud services.
+Operating expenses increased $1.8 billion or 14% driven by investments in cloud engineering, LinkedIn,
+and Nuance.
+Operating income increased $1.4 billion or 8% driven by growth in Intelligent Cloud and Productivity and
+Business Processes.
+Revenue, gross margin, and operating income included an unfavorable foreign currency impact of 4%, 5%,
+and 6%, respectively. Cost of revenue and operating expenses both included a favorable foreign currency
+impact of 2%.
+SEGMENT INFORMATION
+Productivity and Business Processes
+Revenue increased $1.9 billion or 13%.
+Office Commercial products and cloud services revenue increased $807 million or 9%. Office 365
+Commercial revenue grew 15% driven by seat growth of 14%, with continued momentum in small
+and medium business and frontline worker offerings, as well as growth in revenue per user. Office
+Commercial products revenue declined 32% driven by continued customer shift to cloud
+offerings.
+
+=== END PAGE CONTENT ===

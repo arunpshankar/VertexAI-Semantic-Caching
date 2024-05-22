@@ -1,0 +1,89 @@
+=== START PAGE CONTENT ===
+Alphabet Announces Fourth Quarter and Fiscal Year 2022 Results
+MOUNTAIN VIEW, Calif. - February 2, 2023 - Alphabet Inc. (NASDAQ: GOOG, GOOGL) today announced financial
+results for the quarter and fiscal year ended December 31, 2022.
+Sundar Pichai, CEO of Alphabet and Google, said: "Our long-term investments in deep computer science make us
+extremely well-positioned as Al reaches an inflection point, and I'm excited by the Al-driven leaps we're about to unveil
+in Search and beyond. There's also great momentum in Cloud, YouTube subscriptions, and our Pixel devices. We're
+on an important journey to re-engineer our cost structure in a durable way and to build financially sustainable, vibrant,
+growing businesses across Alphabet."
+Ruth Porat, CFO of Alphabet and Google, said: “Our Q4 consolidated revenues were $76 billion, up 1% year over year,
+or up 7% in constant currency, and $283 billion for the full year 2022, up 10%, or up 14% in constant currency. We
+have significant work underway to improve all aspects of our cost structure, in support of our investments in our
+highest growth priorities to deliver long-term, profitable growth."
+Q4 2022 financial highlights
+The following table summarizes our consolidated financial results for the quarters and years ended December 31,
+2021 and 2022 (in millions, except for per share information and percentages).
+Quarter Ended
+December 31,
+2021
+2022
+2021
+(unaudited)
+Revenues
+$
+75,325 $ 76,048 $
+257,637
+Change in revenues year over year
+32 %
+1 %
+41 %
+Year Ended
+December 31,
+2022
+(unaudited)
+$ 282,836
+10%
+Change in constant currency revenues year over year (1)
+33 %
+7%
+39 %
+14 %
+Operating income
+21,885 $
+Operating margin
+29 %
+18,160 $
+24 %
+78,714 $
+31 %
+74,842
+26 %
+Other income (expense), net
+$
+2,517 $
+(1,013) $
+12,020 $
+(3,514)
+Net income
+Diluted EPS
+(1)
+$
+20,642 $
+1.53 $
+13,624 $
+1.05 $
+76,033 $ 59,972
+5.61 $
+4.56
+Non-GAAP measure. See the table captioned "Reconciliation from GAAP revenues to non-GAAP constant currency revenues
+and GAAP percentage change in revenues to non-GAAP percentage change in constant currency revenues" for more details.
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('',)                                                  | ('(unaudited',)   | (')',)   | ('',)     | ('(unaudited)',)   |
+|---:|:-------------------------------------------------------|:------------------|:---------|:----------|:-------------------|
+|  0 | Revenues                                               | $ 75,325 $        | 76,048   | $ 257,637 | $ 282,836          |
+|  1 | Change in revenues year over year                      | 32 %              | 1 %      | 41 %      | 10%                |
+|  2 | Change in constant currency revenues year over year(¹) | 33 %              | 7%       | 39 %      | 14 %               |
+|  3 | Operating income                                       | 21,885 $          | 18,160   | $ 78,714  | $ 74,842           |
+|  4 | Operating margin                                       | 29 %              | 24 %     | 31 %      | 26 %               |
+|  5 | Other income (expense), net                            | $ 2,517 $         | (1,013)  | $ 12,020  | $ (3,514)          |
+|  6 | Net income                                             | $ 20,642 $        | 13,624   | $ 76,033  | $ 59,972           |
+|  7 | Diluted EPS                                            | 1.53 $            | 1.05     | $ 5.61    | $ 4.56             |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('Quarter Ended',)   | ('Year Ended',)   |
+|---:|:---------------------|:------------------|
+|  0 | December 31,         | December 31,      |
+=== TABLE END ===

@@ -1,0 +1,17 @@
+=== START PAGE CONTENT ===
+•
+which can help detect manufacturing and production defects (e.g., cracks, dents, incorrect color, irregular shape, etc.)
+in their products and prevent costly errors from progressing down an operational line and reaching customers.
+AWS announced the general availability of Amazon Lookout for Metrics, a new fully managed machine learning
+service that helps customers monitor the most important metrics for their business (e.g., revenue, web page views,
+active users, transaction volume, and mobile app installations) with greater speed and accuracy. The service also
+makes it easier to diagnose the root cause of anomalies like unexpected dips in revenue, high rates of abandoned
+shopping carts, spikes in payment transaction failures, increases in new user sign-ups, and more.
+AWS announced new Amazon Elastic File System (EFS) One Zone storage classes that reduce storage costs by 47%,
+compared to existing Amazon EFS storage classes, while delivering the same features and benefits. One Zone storage
+classes redundantly store data within a single Availability Zone (AZ). These are ideal for customers who want cost-
+optimized file storage for workloads and applications (e.g., content management, developer applications, etc.) that do
+not require the level of availability and durability offered by regional Amazon EFS storage classes, which redundantly
+store data across multiple geographically separated AZs.
+
+=== END PAGE CONTENT ===

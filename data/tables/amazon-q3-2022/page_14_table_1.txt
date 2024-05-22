@@ -1,0 +1,30 @@
+|    | ('Net Sales',)                                                                       | ('Q2 2021',)   | ('Y/Y % Q3 2021 Q4 2021 Q1 2022 Q2 2022 Q3 2022 Change',)   |
+|---:|:-------------------------------------------------------------------------------------|:---------------|:------------------------------------------------------------|
+|  0 | Online stores (1)                                                                    | $ 53,157       | $ 49,942 $ 66,075 $ 51,129 $ 50,855 $ 53,489 7%             |
+|  1 | Online stores -- Y/Y growth (decline), excluding F/X                                 | 13 %           | 3 % 1 % (1)% 0 % 13 % N/A                                   |
+|  2 | Physical stores (2)                                                                  | $ 4,198        | $ 4,269 $ 4,688 $ 4,591 $ 4,721 $ 4,694 10%                 |
+|  3 | Physical stores - Y/Y growth, excluding F/X                                          | 10 %           | 12 % 16 % 16 % 13 % 10 % N/A                                |
+|  4 | Third-party seller services (3)                                                      | $ 25,085       | $ 24,252 $ 30,320 $ 25,335 $ 27,376 $ 28,666 18 %           |
+|  5 | Third-party seller services -- Y/Y growth, excluding F/X                             | 34 %           | 18 % 12 % 9% 13 % 23 % N/A                                  |
+|  6 | Subscription services (4)                                                            | $ 7,917        | $ 8,148 $ 8,123 $ 8,410 $ 8,716 $ 8,903 9%                  |
+|  7 | Subscription services -- Y/Y growth, excluding F/X                                   | 28 %           | 23 % 16 % 13 % 14% 14% N/A                                  |
+|  8 | Advertising services (5)                                                             | $ 7,451        | $ 7,612 $ 9,716 $ 7,877 $ 8,757 $ 9,548 25%                 |
+|  9 | Advertising services -- Y/Y growth, excluding F/X                                    | 88 %           | 52% 33 % 25 % 21 % 30% N/A                                  |
+| 10 | AWS                                                                                  | $ 14,809       | $ 16,110 $ 17,780 $ 18,441 $ 19,739 $ 20,538 27 %           |
+| 11 | AWS Y/Y growth, excluding F/X                                                        | 37%            | 39 % 40 % 379 33 % 28% N/A                                  |
+| 12 | Other (6)                                                                            | $ 463          | $ 479 $ 710 $ 661 $ 1,070 $ 1,263 163 %                     |
+| 13 | Other -- Y/Y growth, excluding F/X                                                   | 34 %           | 15% 19 % 28 % 135 % 168 % N/A                               |
+| 14 | Stock-based Compensation Expense                                                     |                |                                                             |
+| 15 | Cost of sales                                                                        | $ 145          | SA $ 126 $ 179 $ 146 $ 213 $ 190 52% SA                     |
+| 16 | Fulfillment                                                                          | $ 566          | SA $ 473 $ 565 498 $ 763 $ 727 54%                          |
+| 17 | Technology and content                                                               | $ 1,887        | $ 1,627 $ 1,903 $ 1,645 $ 2,814 $ 3,036 87%                 |
+| 18 | Sales and marketing                                                                  | $ 691          | $ 657 $ 726 $ 665 $ 990 $ 1,128 72%                         |
+| 19 | General and administrative                                                           | $ 302          | $ 297 $ 307 $ 296 $ 429 $ 475 60 %                          |
+| 20 | Total stock-based compensation expense                                               | $ 3,591        | $ 3,180 $ 3,680 $ 3,250 $ 5,209 $ 5,556 75 %                |
+| 21 | Other                                                                                |                |                                                             |
+| 22 | WW shipping costs                                                                    | $ 17,747       | $ 18,108 $ 23,656 $ 19,560 $ 19,304 $ 19,942 10%            |
+| 23 | WW shipping costs -- Y/Y growth                                                      | 30 %           | 20 % 10 % 14% 9% 10 % N/A                                   |
+| 24 | WW paid units -- Y/Y growth (7)                                                      | 15 %           | 8% 3 % 0 % 1 % 11 % N/A                                     |
+| 25 | WW seller unit mix -- % of WW paid units (7)                                         | 56%            | 56% 56% 55 % 57 % 58% N/A                                   |
+| 26 | Employees (full-time and part-time; excludes contractors & temporary personnel       | ) 1,335,000    | 1,468,000 1,608,000 1,622,000 1,523,000 1,544,000 5 %       |
+| 27 | Employees (full-time and part-time; excludes contractors & temporary personnelgrowth | ) -- Y/Y 52 %  | 30% 24 % 28% 14 % 5 % N/A                                   |

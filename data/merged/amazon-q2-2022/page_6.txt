@@ -1,0 +1,57 @@
+=== START PAGE CONTENT ===
+possible to extend AWS's cloud computing hardware to space and will allow AWS to better support future customer
+space missions.
+AWS and Amazon Ads launched Amazon Marketing Cloud (AMC) Insights on AWS. The new solution helps
+advertisers and agencies easily use AWS services when running Amazon Ads campaigns to analyze and generate
+reporting from the Amazon Marketing Cloud API, reducing their development time from weeks to hours. With a few
+clicks, AMC users can monitor ongoing ad campaign performance across reach, frequency, geography, audience, and
+device type to better understand how to maximize ad spend.
+Investing in Employees and Our Workplace
+•
+•
+•
+In the first six months of 2022, more than 25,000 employees worldwide joined Amazon's Career Choice program-
+taking advantage of benefits such as fully funded college tuition, new industry certifications, courses to improve
+English language proficiency, and high school completion programs. Since 2012, more than 80,000 employees have
+participated in Career Choice, one of nine upskilling programs offered by Amazon as part of its $1.2 billion
+commitment to upskill more than 300,000 Amazon employees by 2025.
+More than 90 companies, including Cummins, John Deere, The Boeing Company, and United Airlines, have joined
+Amazon and the National Safety Council (NSC) in a first-of-its kind pledge to reduce musculoskeletal disorders
+(MSDS), the most common workplace injury, by 25% by 2025. The pledge is part of the five-year partnership between
+Amazon and the NSC to reduce MSDs and improve workplace safety for millions of workers worldwide.
+Amazon is testing new robotic technologies to create a safer workplace for employees and improve the customer
+experience.
+•
+•
+•
+Proteus, Amazon's first fully autonomous mobile robot, uses advanced safety, perception, and navigation
+technology developed by Amazon to move objects through the company's operation facilities. Proteus
+navigates around employees—meaning it does not need to be confined to restricted areas.
+Cardinal is a robotic workcell that uses advanced artificial intelligence (AI) and computer vision to handle
+lifting and turning of large or heavy packages and complicated packing in a confined space.
+Amazon Robotics Identification is an AI-powered scanning capability that was developed based on employee
+feedback. It uses innovative computer vision and machine learning technology to enable easier scanning of
+packages in facilities.
+Containerized Storage System is a robotic system that delivers products to employees in a more
+ergonomically friendly manner, reducing the need for employees to reach up, bend down, or climb ladders
+when retrieving items.
+Amazon was named No. 1 on LinkedIn's Top Companies in Retail, a new list that ranks the industry's 25 best U.S.
+companies to grow a career in, based on LinkedIn's data. LinkedIn highlighted Amazon's benefits, such as up to 20
+weeks of fully paid leave for new and expectant parents, weekly pay, and various apprenticeship and certification
+opportunities.
+For the fifth year in a row, Amazon was included on the Disability Equality Index's Best Places to Work for Disability
+Inclusion.
+Throughout the month of June, Amazon celebrated “Pride Out Loud” by amplifying the stories and lives of
+LGBTQIA+ employees, customers, and communities across the business. From operations to entertainment, the
+company supported more than 95 employee events around the world, sponsored local Pride celebrations in cities across
+the U.S., and donated to organizations that impact the lives of LGBTQIA+ youth.
+In celebration of Juneteenth, Amazon launched a comprehensive inclusive learning campaign for Amazon employees
+worldwide, featuring diversity, equity, and inclusion resources, programs and events, and interactive learning
+experiences, including a sit-down with Dr. Russell Wigginton, the president of the National Civil Rights Museum.
+Amazon launched its latest employee learning and development program, Day 1 Manager Onboarding, to accelerate
+new people-managers' growth and development. The personalized learning program helps managers strengthen their
+understanding of Amazon's culture, support employee career growth, and build high-performing teams through
+coursework on topics such as how to use leadership principles when making decisions and in common management
+scenarios.
+
+=== END PAGE CONTENT ===

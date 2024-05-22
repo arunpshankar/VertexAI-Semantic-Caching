@@ -1,0 +1,28 @@
+|    | ('Intangible assets, net 8,127',)                    | ('7,038',)   |
+|---:|:-----------------------------------------------------|:-------------|
+|  0 | Other long-term assets 14,427                        | 13,138       |
+|  1 | Total assets $308,879                                | $301,311     |
+|  2 | Liabilities and stockholders' equity                 |              |
+|  3 | Current liabilities:                                 |              |
+|  4 | Accounts payable $13,412                             | $12,530      |
+|  5 | Current portion of long-term debt 8,051              | 3,749        |
+|  6 | Accrued compensation 8,032                           | 7,874        |
+|  7 | Short-term income taxes 2,165                        | 2,130        |
+|  8 | Short-term unearned revenue 30,083                   | 36,000       |
+|  9 | Other current liabilities 10,450                     | 10,027       |
+| 10 | Total current liabilities 72,193                     | 72,310       |
+| 11 | Long-term debt 50,007                                | 59,578       |
+| 12 | Long-term income taxes 27,157                        | 29,432       |
+| 13 | Long-term unearned revenue 2,631                     | 3,180        |
+| 14 | Deferred income taxes 173                            | 204          |
+| 15 | Operating lease liabilities 9,272                    | 7,671        |
+| 16 | Other long-term liabilities 12,941                   | 10,632       |
+| 17 | Total liabilities 174,374                            | 183,007      |
+| 18 | Commitments and contingencies                        |              |
+| 19 | Stockholders' equity:                                |              |
+| 20 | Common stock and paid-in capital - shares authorized |              |
+| 21 | 24,000; outstanding 7,534 and 7,571 82,308           | 80,552       |
+| 22 | Retained earnings 50,735                             | 34,566       |
+| 23 | Accumulated other comprehensive income 1,462         | 3,186        |
+| 24 | Total stockholders' equity 134,505                   | 118,304      |
+| 25 | Total liabilities and stockholders' equity $308,879  | $301,311     |

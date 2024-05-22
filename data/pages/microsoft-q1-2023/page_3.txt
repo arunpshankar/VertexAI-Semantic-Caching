@@ -1,0 +1,109 @@
+United States dollars are converted into United States dollars using the average exchange rates from the
+comparative period rather than the actual exchange rates in effect during the respective periods. All
+growth comparisons relate to the corresponding period in the last fiscal year. Microsoft has provided this
+non-GAAP financial information to aid investors in better understanding our performance. The non-GAAP
+financial measures presented in this release should not be considered as a substitute for, or superior to,
+the measures of financial performance prepared in accordance with GAAP.
+Financial Performance Constant Currency Reconciliation
+($ in millions, except per share amounts)
+2022 As Reported (GAAP)
+2023 As Reported (GAAP)
+Percentage Change Y/Y (GAAP)
+Constant Currency Impact
+Percentage Change Y/Y Constant Currency
+Segment Revenue Constant Currency Reconciliation
+($ in millions)
+2022 As Reported (GAAP)
+2023 As Reported (GAAP)
+Percentage Change Y/Y (GAAP)
+Constant Currency Impact
+Percentage Change Y/Y Constant Currency
+Three Months Ended March 31,
+Diluted
+Revenue
+Operating
+Income
+Net
+Income
+Earnings
+per Share
+$49,360
+$20,364
+$16,728
+$2.22
+$52,857
+$22,352
+$18,299
+$2.45
+7%
+10%
+9%
+10%
+$(1,482)
+$(1,069)
+10%
+15%
+$(704)
+14%
+$(0.09)
+14%
+Three Months Ended March 31,
+Productivity and
+Business Processes
+Intelligent Cloud
+More Personal
+Computing
+$15,789
+$18,987
+$14,584
+$17,516
+$22,081
+$13,260
+11%
+$(587)
+15%
+16%
+(9)%
+$(591)
+19%
+$(304)
+(7)%
+We have recast certain prior period amounts to conform to the way we internally manage and monitor
+our business.
+Selected Product and Service Revenue Constant Currency Reconciliation
+Three Months Ended March 31, 2023
+Percentage Change
+Y/Y (GAAP)
+Constant
+Percentage Change
+Y/Y Constant
+Currency Impact
+Currency
+Microsoft Cloud revenue
+22%
+3%
+25%
+Office Commercial products and cloud services
+13%
+4%
+17%
+Office 365 Commercial
+14%
+4%
+18%
+Office Consumer products and cloud services
+1%
+3%
+4%
+LinkedIn
+8%
+2%
+10%
+Dynamics products and cloud services
+17%
+4%
+21%
+Dynamics 365
+25%
+4%
+29%

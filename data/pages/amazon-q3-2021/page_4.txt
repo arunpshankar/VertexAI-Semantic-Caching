@@ -1,0 +1,58 @@
+•
+Amazon announced three new expansions to the Halo family: Halo View, a health tracker with a color display for at-a-
+glance access to Halo health metrics; Halo Fitness, a service that gives members hundreds of studio-quality workout
+classes integrated with access to real-time individual health metrics as an on-display overlay; and Halo Nutrition, a
+membership experience to help build healthy eating habits.
+Amazon and Disney announced ‘Hey, Disney!', an entirely new kind of voice assistant that will work on supported
+Echo devices at home and across Disney Resort hotel rooms at Walt Disney World. By saying ‘Hey, Disney!', users
+get access to interactive Disney storytelling experiences and entertainment, as well as jokes, fun facts, and special
+surprises featuring characters from Disney, Pixar, Marvel, and Star Wars. It will even make everyday tasks more
+magical, such as setting timers and alarms, and checking the weather or time of day. ‘Hey, Disney!' is expected to be
+available for purchase in the U.S. in 2022 in the Alexa Skills Store for use on all supported Echo devices, and will be
+available complimentary for Disney Resort guests at Walt Disney World.
+Ring and Blink introduced new home security devices and services with the Ring Alarm Pro, Virtual Security Guard,
+and Blink Video Doorbell. Ring Alarm Pro is a first-of-its-kind home security system that combines protection against
+break-ins, floods, fires, and network threats with a built-in eero Wi-Fi 6 router for connectivity. Virtual Security Guard
+is a new subscription service where third-party professional monitoring companies will visually monitor outdoor Ring
+cameras. The Blink Video Doorbell can be installed wired or wire-free and has a long-lasting battery life, 1080p HD
+day-and-night video, two-way audio, chime alerts via the Blink app when the doorbell rings, and the ability to connect
+the doorbell to your existing chime.
+Amazon announced the next generation of Kindle Paperwhite with three new models. The new Kindle Paperwhite
+comes with a larger display, adjustable warm light, USB-C charging, and increased battery life. The new Signature
+Edition adds an auto-adjusting light sensor, 32GB of storage, and is the first-ever Kindle to offer wireless charging.
+The new Kindle Paperwhite Kids comes with one year of Amazon Kids+, a kid-friendly case, and a two-year worry-
+free guarantee.
+Amazon introduced its AZ2 Neural Edge processor, a machine learning inference engine capable of processing speech
+recognition on-device, while processing computer vision workloads in parallel. Featured in the Echo Show 15, AZ2
+enables the device to recognize a person enrolled in visual ID and then process their voice right on the device.
+Amazon Web Services
+•
+AWS announced significant customer momentum, with new commitments and migrations from customers across
+major industries.
+•
+•
+•
+•
+Manufacturing: NXP, a leading European designer and manufacturer of specialized semiconductors, selected
+AWS as its preferred cloud provider. NXP is migrating the vast majority of its electronic design automation
+workloads from NXP data centers to AWS. Leaders across the automotive industry, including Capgemini
+Engineering, CARIAD, and Continental, joined AWS in a special interest group supporting Arm's Scalable
+Open Architecture for Embedded Edge to bring cloud-native practices and software-defined architectures to
+the automotive industry.
+Hospitality and ecommerce: Wyndham Hotels & Resorts, Inc., the world's largest hotel franchising
+company, selected AWS to upgrade its technology infrastructure and develop and deliver new guest services
+across its 21 hotel brands—including Ramada, Travelodge, and Wyndham. VTEX, a global ecommerce
+solution provider, is working with AWS to create a new direct-to-consumer solution that gives large
+enterprises the ability to quickly and easily launch ecommerce sites and experiences to sell directly to
+consumers.
+Telecom: Boingo Wireless, a leading distributed antenna system, Wi-Fi, and private network provider,
+announced an expanded collaboration with AWS to enable airports, stadiums, and large businesses to unlock
+new 5G use cases with advanced multi-access edge computing.
+Financial services: Sun Life, an international financial services and insurance company, selected AWS as its
+long-term strategic cloud technology provider. Black Knight, a software, data, and analytics provider to the
+mortgage, real estate, and capital markets verticals, selected AWS to develop mortgage-specific AI
+applications.
+Healthcare and life sciences: Baxter International Inc., a global medical products company, is moving from
+its own data centers into AWS and has already seen benefits, including increased speed to market for new
+tools and solutions, the ability to quickly expand technology solutions to new geographies, and significant
+cost savings.

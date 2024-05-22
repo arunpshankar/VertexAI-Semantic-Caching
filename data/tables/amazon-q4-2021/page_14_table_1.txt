@@ -1,0 +1,23 @@
+|    | ("Total assets LIABILITIES AND STOCKHOLDERS' EQUITY",)    | ('321,195',)   | ('$ 420,549',)   |
+|---:|:----------------------------------------------------------|:---------------|:-----------------|
+|  0 | Current liabilities:                                      |                |                  |
+|  1 | Accounts payable                                          | 72,539         | 78,664           |
+|  2 | Accrued expenses and other                                | 44,138         | 51,775           |
+|  3 | Unearned revenue                                          | 9,708          | 11,827           |
+|  4 | Total current liabilities                                 | 126,385        | 142,266          |
+|  5 | Long-term lease liabilities                               | 52,573         | 67,651           |
+|  6 | Long-term debt                                            | 31,816         | 48,744           |
+|  7 | Other long-term liabilities                               | 17,017         | 23,643           |
+|  8 | Commitments and contingencies                             |                |                  |
+|  9 | Stockholders' equity:                                     |                |                  |
+| 10 | Preferred stock, $0.01 par value: Authorized shares - 500 |                |                  |
+| 11 | Issued and outstanding shares none                        |                |                  |
+| 12 | Common stock, $0.01 par value:                            |                |                  |
+| 13 | Authorized shares - 5,000 Issued shares - 527 and 532     |                |                  |
+| 14 | Outstanding shares-503 and 509                            | 5              | 5                |
+| 15 | Treasury stock, at cost                                   | (1,837)        | (1,837)          |
+| 16 | Additional paid-in capital                                | 42,865         | 55,538           |
+| 17 | Accumulated other comprehensive income (loss)             | (180)          | (1,376)          |
+| 18 | Retained earnings                                         | 52,551         | 85,915           |
+| 19 | Total stockholders' equity                                | 93,404         | 138,245          |
+| 20 | Total liabilities and stockholders' equity $              | 321,195        | $ 420,549        |

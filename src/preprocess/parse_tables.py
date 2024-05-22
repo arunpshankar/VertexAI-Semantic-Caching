@@ -98,8 +98,6 @@ def parse_tables(subfolder_path: str) -> None:
                 page_tables = []
 
                 for index, table in enumerate(page.tables):
-                    print(table.__dict__)
-                    print('-' * 100)
                     header_row_values = get_table_data(table.header_rows, document.text)
                     body_row_values = get_table_data(table.body_rows, document.text)
 
@@ -122,5 +120,3 @@ if __name__ == '__main__':
         logger.info(f"Processing subfolder: {subfolder}")
         subfolder_path = os.path.join('./data/parts/', subfolder)
         parse_tables(subfolder_path)
-        break
-        

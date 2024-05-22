@@ -1,0 +1,69 @@
+Microsoft Cloud Strength Fuels Third Quarter Results
+REDMOND, Wash. - April 26, 2022
+-
+- Microsoft Corp. today announced the following results for the
+quarter ended March 31, 2022, as compared to the corresponding period of last fiscal year:
+• Revenue was $49.4 billion and increased 18%
+•
+.
+Operating income was $20.4 billion and increased 19%
+Net income was $16.7 billion and increased 8% GAAP (up 13% non-GAAP)
+Diluted earnings per share was $2.22 and increased 9% GAAP (up 14% non-GAAP)
+Revenue and diluted earnings per share results include $(302) million and $(0.03) of additional impact
+from unfavorable foreign exchange rate movement within the quarter and $111 million and $(0.01) from
+Nuance, which closed on March 4, 2022, neither of which were included in the forward-looking guidance
+provided on January 25, 2022. Additional details are provided in the Earnings Call Slides.
+“Going forward, digital technology will be the key input that powers the world's economic output," said
+Satya Nadella, chairman and chief executive officer of Microsoft. "Across the tech stack, we are expanding
+our opportunity and taking share as we help customers differentiate, build resilience, and do more with
+less."
+"Continued customer commitment to our cloud platform and strong sales execution drove better than
+expected commercial bookings growth of 28% and Microsoft Cloud revenue of $23.4 billion, up 32% year
+over year," said Amy Hood, executive vice president and chief financial officer of Microsoft.
+The following table reconciles our financial results reported in accordance with generally accepted
+accounting principles (GAAP) to non-GAAP financial results. Additional information regarding our non-
+GAAP definition is provided below. All growth comparisons relate to the corresponding period in the last
+fiscal year.
+Three Months Ended March 31,
+Diluted
+($ in millions, except per share amounts)
+Revenue
+Operating
+Income
+2021 As Reported (GAAP)
+$41,706
+$17,048
+Net Income
+$15,457
+Earnings
+per Share
+$2.03
+Net income tax benefit related to India Supreme Court decision
+(620)
+(0.08)
+on withholding taxes
+2021 As Adjusted (non-GAAP)
+$41,706
+$17,048
+$14,837
+$1.95
+2022 As Reported (GAAP)
+$49,360
+$20,364
+$16,728
+$2.22
+Percentage Change Y/Y (GAAP)
+18%
+19%
+8%
+9%
+Percentage Change Y/Y (non-GAAP)
+18%
+19%
+13%
+14%
+Percentage Change Y/Y (non-GAAP) Constant Currency
+21%
+23%
+17%
+18%

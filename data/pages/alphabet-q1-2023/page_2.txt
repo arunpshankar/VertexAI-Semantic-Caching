@@ -1,0 +1,80 @@
+Q1 2023 supplemental information (in millions, except for number of employees; unaudited)
+Revenues, Traffic Acquisition Costs (TAC), and number of employees
+Google Search & other
+YouTube ads
+Google Network
+Google advertising
+Google other
+Google Services total
+Google Cloud
+Other Bets
+Hedging gains (losses)
+Total revenues
+Total TAC
+Number of employees (1)
+(1)
+Quarter Ended March 31,
+2022
+2023
+39,618 $
+40,359
+6,869
+6,693
+8,174
+7,496
+54,661
+54,548
+6,811
+7,413
+61,472
+61,961
+5,821
+7,454
+440
+288
+278
+84
+68,011 $
+69,787
+11,990 $
+11,721
+163,906
+190,711
+As of March 31, 2023, the number of employees includes almost all of the employees affected by the reduction of our
+workforce. We expect most of those affected will no longer be reflected in our headcount by the end of the second quarter
+of 2023, subject to local law and consultation requirements.
+Segment Operating Results
+Reflecting DeepMind's increasing collaboration with Google Services, Google Cloud, and Other Bets, beginning in
+the first quarter of 2023 DeepMind is reported as part of Alphabet's unallocated corporate costs instead of within
+Other Bets. Additionally, beginning in the first quarter of 2023, we updated and simplified our cost allocation
+methodologies to provide our business leaders with increased transparency for decision-making. Prior periods have
+been recast to reflect the revised presentation and are shown in Recast Historical Segment Results below.
+As announced on April 20, 2023, we are bringing together part of Google Research (the Brain Team) and DeepMind
+to significantly accelerate our progress in Al. This change does not affect first quarter reporting. The group, called
+Google DeepMind, will be reported within Alphabet's unallocated corporate costs beginning in the second quarter of
+2023.
+Operating income (loss):
+Google Services
+Google Cloud
+Other Bets
+Corporate costs, unallocated (1)
+Total income from operations
+Quarter Ended March 31,
+2022
+(recast)
+2023
+21,973 $
+21,737
+(706)
+191
+(835)
+(1,225)
+(338)
+(3,288)
+20,094 $
+17,415
+(1)
+Hedging gains (losses) related to revenue included in unallocated corporate costs were $278 million and $84 million for the
+three months ended March 31, 2022 and 2023, respectively. For the three months ended March 31, 2023, unallocated
+corporate costs include charges related to the reductions in our workforce and office space totaling $2.5 billion.
+2

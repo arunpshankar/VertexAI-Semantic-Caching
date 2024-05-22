@@ -1,0 +1,13 @@
+|    | ('',)                                                            | ('June 30, 2020',)   | ('June 30, 2021',)   | ('from Prior Year',)   | ('',)   |
+|---:|:-----------------------------------------------------------------|:---------------------|:---------------------|:-----------------------|:--------|
+|  0 | EMEA revenues                                                    | $ 11,363             | $ 19,084             | 68                     | %       |
+|  1 | EMEA constant currency revenues                                  |                      | 17,659               | 55                     | %       |
+|  2 | APAC revenues                                                    | 6,945                | 11,231               | 62                     | %       |
+|  3 | APAC constant currency revenues                                  |                      | 10,881               | 57 %                   | %       |
+|  4 | Other Americas revenues                                          | 1,839                | 3,364                | 83                     | %       |
+|  5 | Other Americas constant currency revenues United States revenues | 17,999               | 3,252 28,208         | 77 57                  | % %     |
+|  6 | Hedging gains (losses)                                           | 151                  | (7)                  |                        |         |
+|  7 | Total revenues                                                   | $ 38,297             | $ 61,880             | 62                     | %       |
+|  8 | Revenues, excluding hedging effect                               | $ 38,146             | $ 61,887             |                        |         |
+|  9 | Exchange rate effect                                             |                      | (1,887)              |                        |         |
+| 10 | Total constant currency revenues                                 |                      | $ 60,000             | 57                     | %       |

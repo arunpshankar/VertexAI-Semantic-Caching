@@ -1,0 +1,58 @@
+Segment Results
+The following table presents our segment revenues and operating income (loss) (in millions; unaudited):
+Quarter Ended September 30,
+2022
+(recast)
+2023
+Revenues:
+Google Services
+Google Cloud
+Other Bets
+Hedging gains (losses)
+Total revenues
+Operating income (loss):
+Google Services
+Google Cloud
+Other Bets
+Corporate costs, unallocated
+Total income from operations
+We report our segment results as Google Services, Google Cloud, and Other Bets:
+•
+•
+•
+61,377 $
+67,986
+6,868
+8,411
+209
+297
+638
+(1)
+69,092 $
+76,693
+18,883 $
+23,937
+(440)
+266
+(1,225)
+(1,194)
+(83)
+(1,666)
+17,135 $
+21,343
+Google Services includes products and services such as ads, Android, Chrome, hardware, Google Maps,
+Google Play, Search, and YouTube. Google Services generates revenues primarily from advertising; sales
+of apps and in-app purchases, and hardware; and fees received for subscription-based products such as
+YouTube Premium and YouTube TV.
+Google Cloud includes infrastructure and platform services, collaboration tools, and other services for
+enterprise customers. Google Cloud generates revenues from fees received for Google Cloud Platform
+services, Google Workspace communication and collaboration tools, and other enterprise services.
+Other Bets is a combination of multiple operating segments that are not individually material. Revenues
+from Other Bets are generated primarily from the sale of health technology and internet services.
+Certain costs are not allocated to our segments because they represent Alphabet-level activities. These costs
+primarily include Al-focused shared R&D activities; corporate initiatives such as our philanthropic activities;
+corporate shared costs such as certain finance, human resource, and legal costs, including certain fines and
+settlements. Charges associated with reductions in our workforce and office space announced in January 2023 are
+not allocated to our segments. Additionally, hedging gains (losses) related to revenue are not allocated to our
+segments.
+8

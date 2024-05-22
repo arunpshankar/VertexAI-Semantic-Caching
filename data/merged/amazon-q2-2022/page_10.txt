@@ -1,0 +1,357 @@
+=== START PAGE CONTENT ===
+AMAZON.COM, INC.
+Consolidated Statements of Cash Flows
+(in millions)
+(unaudited)
+Three Months Ended
+June 30,
+Six Months Ended
+June 30,
+Twelve Months Ended
+June 30,
+2021
+2022
+2021
+2022
+2021
+2022
+CASH, CASH EQUIVALENTS, AND RESTRICTED CASH, BEGINNING OF
+PERIOD
+$
+34,155 $ 36,599
+$
+42,377 $ 36,477
+$
+37,842
+$ 40,667
+OPERATING ACTIVITIES:
+Net income (loss)
+7,778
+(2,028)
+15,885
+(5,872)
+29,438
+11,607
+Adjustments to reconcile net income (loss) to net cash from operating activities:
+Depreciation and amortization of property and equipment and capitalized
+content costs, operating lease assets, and other
+8,038
+9,594
+15,546
+18,572
+29,687
+37,322
+Stock-based compensation
+3,591
+5,209
+5,897
+8,459
+10,747
+15,319
+Other operating expense (income), net
+Other expense (income), net
+Deferred income taxes
+Changes in operating assets and liabilities:
+Inventories
+Accounts receivable, net and other
+18
+122
+48
+337
+(372)
+426
+(1,258)
+6,104
+(2,714)
+14,793
+(5,092)
+3,201
+701
+(1,955)
+2,404
+(3,956)
+1,063
+(6,670)
+(209)
+(3,890)
+(513)
+(6,504)
+(4,082)
+(15,478)
+(4,462)
+(6,799)
+(6,717)
+(8,315)
+(13,294)
+(19,761)
+Accounts payable
+47
+3,699
+(8,219)
+(5,681)
+8,689
+6,140
+Accrued expenses and other
+(1,685)
+(1,412)
+(5,745)
+(7,315)
+1,071
+553
+Unearned revenue
+156
+321
+1,056
+1,657
+1,467
+2,915
+Net cash provided by (used in) operating activities
+12,715
+8,965
+16,928
+6,175
+59,322
+35,574
+INVESTING ACTIVITIES:
+Purchases of property and equipment
+(14,288)
+(15,724)
+(26,370)
+(30,675)
+(52,256)
+(65,358)
+Proceeds from property and equipment sales and incentives
+1,300
+1,626
+2,195
+2,835
+5,080
+6,297
+Acquisitions, net of cash acquired, and other
+(320)
+(259)
+(950)
+(6,600)
+(3,066)
+(7,635)
+Sales and maturities of marketable securities
+13,213
+2,608
+31,039
+25,361
+61,512
+53,706
+Purchases of marketable securities
+(21,985)
+(329)
+(36,660)
+(2,093)
+(74,929)
+(25,590)
+Net cash provided by (used in) investing activities
+(22,080)
+(12,078)
+(30,746)
+(11,172)
+(63,659)
+(38,580)
+FINANCING ACTIVITIES:
+Common stock repurchased
+(3,334)
+(6,000)
+(6,000)
+Proceeds from short-term debt, and other
+1,176
+4,865
+3,102
+18,608
+6,848
+23,462
+Repayments of short-term debt, and other
+(1,176)
+(7,610)
+(3,177)
+(13,841)
+(6,817)
+(18,417)
+Proceeds from long-term debt
+Repayments of long-term debt
+Principal repayments of finance leases
+Principal repayments of financing obligations
+Net cash provided by (used in) financing activities
+18,516
+12,824
+18,627
+12,824
+19,158
+13,200
+(41)
+(1)
+(80)
+(1)
+(1,392)
+(1,511)
+(2,804)
+(2,059)
+(6,210)
+(4,836)
+(11,435)
+(9,789)
+(28)
+(59)
+(95)
+(138)
+(116)
+(205)
+15,643
+4,626
+12,167
+6,616
+6,246
+740
+Foreign currency effect on cash, cash equivalents, and restricted cash
+Net increase (decrease) in cash, cash equivalents, and restricted cash
+234
+6,512
+(412)
+CASH, CASH EQUIVALENTS, AND RESTRICTED CASH, END OF PERIOD
+$
+40,667 $
+1,101
+37,700 $
+(59)
+(1,710)
+40,667 $
+(396)
+916
+(701)
+1,223
+2,825
+(2,967)
+37,700 $
+40,667 $
+37,700
+SUPPLEMENTAL CASH FLOW INFORMATION:
+Cash paid for interest on debt
+$
+Cash paid for operating leases
+179 $
+1,577
+349 $
+2,088
+455 $
+3,217
+628 $
+4,455
+942 $
+1,271
+5,577
+7,960
+Cash paid for interest on finance leases
+129
+95
+286
+202
+569
+437
+Cash paid for interest on financing obligations
+35
+55
+68
+113
+127
+198
+Cash paid for income taxes, net of refunds
+1,803
+3,145
+2,604
+3,598
+3,526
+4,682
+Assets acquired under operating leases
+5,578
+5,101
+9,114
+7,276
+19,576
+23,531
+Property and equipment acquired under finance leases, net of remeasurements and
+modifications
+1,642
+61
+3,709
+227
+9,976
+3,579
+Property and equipment recognized during the construction period of build-to-suit
+lease arrangements
+1,193
+986
+2,080
+2,351
+3,486
+6,117
+Property and equipment derecognized after the construction period of build-to-suit
+lease arrangements, with the associated leases recognized as operating
+99
+1,079
+99
+1,112
+99
+1,243
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('Three Months Ended',)   | ('Six Months Ended',)   | ('Twelve Months Ended',)   |
+|---:|:--------------------------|:------------------------|:---------------------------|
+|  0 | June 30,                  | June 30,                | June 30,                   |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('',)                                                                                                                                                     | ('Three Months June 2021',)   | ('Ended 30, 2022',)   | ('Six Months June 2021',)   | ('Ended 30, 2022',)   | ('Twelve Months June 2021',)   | ('Ended 30, 2022',)   |
+|---:|:----------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------|:----------------------|:----------------------------|:----------------------|:-------------------------------|:----------------------|
+|  0 | CASH, CASH EQUIVALENTS, AND RESTRICTED CASH, BEGINNING OF PERIOD                                                                                          | $ 34,155                      | $ 36,599              | $ 42,377                    | $ 36,477              | $ 37,842 $                     | 40,667                |
+|  1 | OPERATING ACTIVITIES:                                                                                                                                     |                               |                       |                             |                       |                                |                       |
+|  2 | Net income (loss)                                                                                                                                         | 7,778                         | (2,028)               | 15,885                      | (5,872)               | 29,438                         | 11,607                |
+|  3 | Adjustments to reconcile net income (loss) to net cash from operating activities:                                                                         |                               |                       |                             |                       |                                |                       |
+|  4 | Depreciation and amortization of property and equipment and capitalized content costs, operating lease assets, and other                                  | 8,038                         | 9,594                 | 15,546                      | 18,572                | 29,687                         | 37,322                |
+|  5 | Stock-based compensation                                                                                                                                  | 3,591                         | 5,209                 | 5,897                       | 8,459                 | 10,747                         | 15,319                |
+|  6 | Other operating expense (income), net                                                                                                                     | 18                            | 122                   | 48                          | 337                   | (372)                          | 426                   |
+|  7 | Other expense (income), net                                                                                                                               | (1,258)                       | 6,104                 | (2,714)                     | 14,793                | (5,092)                        | 3,201                 |
+|  8 | Deferred income taxes                                                                                                                                     | 701                           | (1,955)               | 2,404                       | (3,956)               | 1,063                          | (6,670)               |
+|  9 | Changes in operating assets and liabilities:                                                                                                              |                               |                       |                             |                       |                                |                       |
+| 10 | Inventories                                                                                                                                               | (209)                         | (3,890)               | (513)                       | (6,504)               | (4,082)                        | (15,478)              |
+| 11 | Accounts receivable, net and other                                                                                                                        | (4,462)                       | (6,799)               | (6,717)                     | (8,315)               | (13,294)                       | (19,761)              |
+| 12 | Accounts payable                                                                                                                                          | 47                            | 3,699                 | (8,219)                     | (5,681)               | 8,689                          | 6,140                 |
+| 13 | Accrued expenses and other                                                                                                                                | (1,685)                       | (1,412)               | (5,745)                     | (7,315)               | 1,071                          | 553                   |
+| 14 | Unearned revenue                                                                                                                                          | 156                           | 321                   | 1,056                       | 1,657                 | 1,467                          | 2,915                 |
+| 15 | Net cash provided by (used in) operating activities                                                                                                       | 12,715                        | 8,965                 | 16,928                      | 6,175                 | 59,322                         | 35,574                |
+| 16 | INVESTING ACTIVITIES:                                                                                                                                     |                               |                       |                             |                       |                                |                       |
+| 17 | Purchases of property and equipment                                                                                                                       | (14,288)                      | (15,724)              | (26,370)                    | (30,675)              | (52,256)                       | (65,358)              |
+| 18 | Proceeds from property and equipment sales and incentives                                                                                                 | 1,300                         | 1,626                 | 2,195                       | 2,835                 | 5,080                          | 6,297                 |
+| 19 | Acquisitions, net of cash acquired, and other                                                                                                             | (320)                         | (259)                 | (950)                       | (6,600)               | (3,066)                        | (7,635)               |
+| 20 | Sales and maturities of marketable securities                                                                                                             | 13,213                        | 2,608                 | 31,039                      | 25,361                | 61,512                         | 53,706                |
+| 21 | Purchases of marketable securities                                                                                                                        | (21,985)                      | (329)                 | (36,660)                    | (2,093)               | (74,929)                       | (25,590)              |
+| 22 | Net cash provided by (used in) investing activities                                                                                                       | (22,080)                      | (12,078)              | (30,746)                    | (11,172)              | (63,659)                       | (38,580)              |
+| 23 | FINANCING ACTIVITIES:                                                                                                                                     |                               |                       |                             |                       |                                |                       |
+| 24 | Common stock repurchased                                                                                                                                  |                               | (3,334)               |                             | (6,000)               |                                | (6,000)               |
+| 25 | Proceeds from short-term debt, and other                                                                                                                  | 1,176                         | 4,865                 | 3,102                       | 18,608                | 6,848                          | 23,462                |
+| 26 | Repayments of short-term debt, and other                                                                                                                  | (1,176)                       | (7,610)               | (3,177)                     | (13,841)              | (6,817)                        | (18,417)              |
+| 27 | Proceeds from long-term debt                                                                                                                              | 18,516                        | 12,824                | 18,627                      | 12,824                | 19,158                         | 13,200                |
+| 28 | Repayments of long-term debt                                                                                                                              | (41)                          | (1)                   | (80)                        | (1)                   | (1,392)                        | (1,511)               |
+| 29 | Principal repayments of finance leases                                                                                                                    | (2,804)                       | (2,059)               | (6,210)                     | (4,836)               | (11,435)                       | (9,789)               |
+| 30 | Principal repayments of financing obligations                                                                                                             | (28)                          | (59)                  | (95)                        | (138)                 | (116)                          | (205)                 |
+| 31 | Net cash provided by (used in) financing activities                                                                                                       | 15,643                        | 4,626                 | 12,167                      | 6,616                 | 6,246                          | 740                   |
+| 32 | Foreign currency effect on cash, cash equivalents, and restricted cash                                                                                    | 234                           | (412)                 | (59)                        | (396)                 | 916                            | (701)                 |
+| 33 | Net increase (decrease) in cash, cash equivalents, and restricted cash                                                                                    | 6,512                         | 1,101                 | (1,710)                     | 1,223                 | 2,825                          | (2,967)               |
+| 34 | CASH, CASH EQUIVALENTS, AND RESTRICTED CASH, END OF PERIOD                                                                                                | $ 40,667                      | $ 37,700              | $ 40,667                    | $ 37,700              | $ 40,667 $                     | 37,700                |
+| 35 | SUPPLEMENTAL CASH FLOW INFORMATION:                                                                                                                       |                               |                       |                             |                       |                                |                       |
+| 36 | Cash paid for interest on debt                                                                                                                            | $ 179                         | $ 349                 | $ 455                       | $ 628                 | $ 942 $                        | 1,271                 |
+| 37 | Cash paid for operating leases                                                                                                                            | 1,577                         | 2,088                 | 3,217                       | 4,455                 | 5,577                          | 7,960                 |
+| 38 | Cash paid for interest on finance leases                                                                                                                  | 129                           | 95                    | 286                         | 202                   | 569                            | 437                   |
+| 39 | Cash paid for interest on financing obligations                                                                                                           | 35                            | 55                    | 68                          | 113                   | 127                            | 198                   |
+| 40 | Cash paid for income taxes, net of refunds                                                                                                                | 1,803                         | 3,145                 | 2,604                       | 3,598                 | 3,526                          | 4,682                 |
+| 41 | Assets acquired under operating leases                                                                                                                    | 5,578                         | 5,101                 | 9,114                       | 7,276                 | 19,576                         | 23,531                |
+| 42 | Property and equipment acquired under finance leases, net of remeasurements and modifications                                                             | 1,642                         | 61                    | 3,709                       | 227                   | 9,976                          | 3,579                 |
+| 43 | Property and equipment recognized during the construction period of build-to-suit lease arrangements                                                      | S 1,193                       | 986                   | 2,080                       | 2,351                 | 3,486                          | 6,117                 |
+| 44 | Property and equipment derecognized after the construction period of build-to-suit lease arrangements, with the associated leases recognized as operating | 99 99                         | 1,079                 | 99 90                       | 1,112                 | 99                             | 1,243                 |
+=== TABLE END ===

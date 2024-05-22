@@ -1,0 +1,9 @@
+|    | ('',)                   | ('March 31, 2020 2021',)   |
+|---:|:------------------------|:---------------------------|
+|  0 | North America           |                            |
+|  1 | Net sales               | 46,127 $ 64,366            |
+|  2 | Operating expenses      | 44,815 60,916              |
+|  3 | Operating income        | $ 1,312 $ 3,450            |
+|  4 | International Net sales | $ 19,106 $ 30,649          |
+|  5 | Operating expenses      | 19,504 29,397              |
+|  6 | Operating income (loss) | $ (398) $ 1,252            |

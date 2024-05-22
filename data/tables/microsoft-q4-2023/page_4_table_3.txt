@@ -1,0 +1,15 @@
+|    | ('',)                                          | ('Percentage Change Y/Y (GAAP)',)   | ('Constant Currency Impact',)   | ('Y/Y Constant Currency',)   |
+|---:|:-----------------------------------------------|:------------------------------------|:--------------------------------|:-----------------------------|
+|  0 | Microsoft Cloud                                | 24%                                 | (2)%                            | 22%                          |
+|  1 | Office Commercial products and cloud services  | 15%                                 | (2)%                            | 13%                          |
+|  2 | Office 365 Commercial                          | 17%                                 | (1)%                            | 16%                          |
+|  3 | Office Consumer products and cloud services    | 5%                                  | (1)%                            | 4%                           |
+|  4 | LinkedIn                                       | 9%                                  | (1)%                            | 8%                           |
+|  5 | Dynamics products and cloud services           | 21%                                 | (2)%                            | 19%                          |
+|  6 | Dynamics 365                                   | 27%                                 | (3)%                            | 24%                          |
+|  7 | Server products and cloud services             | 22%                                 | (2)%                            | 20%                          |
+|  8 | Azure and other cloud services                 | 30%                                 | (2)%                            | 28%                          |
+|  9 | Windows                                        | 9%                                  | 0%                              | 9%                           |
+| 10 | Windows OEM                                    | 11%                                 | 0%                              | 11%                          |
+| 11 | Windows Commercial products and cloud services | 9%                                  | (2)%                            | 7%                           |
+| 12 | Devices                                        | (9)%                                | (1)%                            | (10)%                        |

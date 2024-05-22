@@ -1,0 +1,26 @@
+|    | ('',)                                                                 | ("YOY (using Q2'20's FX rates)",)   | ("(using Q1'21's",)   | ('QoQ FX rates)',)   |
+|---:|:----------------------------------------------------------------------|:------------------------------------|:----------------------|:---------------------|
+|  0 | EMEA revenues (GAAP)                                                  | $ 19,084                            |                       | 19,084               |
+|  1 | Exclude foreign exchange effect on Q2'21 revenues using Q2'20 rates   | (1,425)                             |                       | N/A                  |
+|  2 | Exclude foreign exchange effect on Q2'21 revenues using Q1'21 rates   | N/A                                 |                       | 79                   |
+|  3 | EMEA constant currency revenues (non-GAAP)                            | $ 17,659                            | $                     | 19,163               |
+|  4 | Prior period EMEA revenues (GAAP)                                     | $ 11,363                            | $                     | 17,031               |
+|  5 | EMEA revenue percentage change (GAAP)                                 | 68 %                                |                       | 12 %                 |
+|  6 | EMEA constant currency revenue percentage change (non-GAAP)           | 55 %                                |                       | 13 %                 |
+|  7 | APAC revenues (GAAP)                                                  | 11,231                              |                       | 11,231               |
+|  8 | Exclude foreign exchange effect on Q2'21 revenues using Q2'20 rates   | (350)                               |                       | N/A                  |
+|  9 | Exclude foreign exchange effect on Q2'21 revenues using Q1'21 rates   | N/A                                 |                       | 158                  |
+| 10 | APAC constant currency revenues (non-GAAP)                            | $ 10,881                            | $                     | 11,389               |
+| 11 | Prior period APAC revenues (GAAP)                                     | $ 6,945                             | $                     | 10,455               |
+| 12 | APAC revenue percentage change (GAAP)                                 | 62%                                 |                       | 7 %                  |
+| 13 | APAC constant currency revenue percentage change (non-GAAP)           | 57 %                                |                       | 9%                   |
+| 14 | Other Americas revenues (GAAP)                                        | 3,364                               |                       | 3,364                |
+| 15 | Exclude foreign exchange effect on Q2'21 revenues using Q2'20 rates   | (112)                               |                       | N/A                  |
+| 16 | Exclude foreign exchange effect on Q2'21 revenues using Q1'21 rates   | N/A                                 |                       | 7                    |
+| 17 | Other Americas constant currency revenues (non-GAAP)                  | $ 3,252                             | $                     | 3,371                |
+| 18 | Prior period Other Americas revenues (GAAP)                           | $ 1,839                             | $                     | 2,905                |
+| 19 | Other Americas revenue percentage change (GAAP)                       | 83 %                                |                       | 16 %                 |
+| 20 | Other Americas constant currency revenue percentage change (non-GAAP) | 77%                                 |                       | 16%                  |
+| 21 | United States revenues (GAAP)                                         | $ 28,208                            | $                     | 28,208               |
+| 22 | United States revenue percentage change (GAAP)                        | 57 %                                |                       | 13 %                 |
+| 23 | Hedging gains (losses)                                                | SA (7)                              | SA                    | (7)                  |

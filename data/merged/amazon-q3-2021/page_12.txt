@@ -1,0 +1,198 @@
+=== START PAGE CONTENT ===
+AMAZON.COM, INC.
+Segment Information
+(in millions)
+(unaudited)
+Three Months Ended
+September 30,
+Nine Months Ended
+September 30,
+2020
+2021
+2020
+2021
+North America
+Net sales
+Operating expenses
+Operating income
+$ 59,373 $ 65,557
+57,121
+$ 2,252
+International
+Net sales
+Operating expenses
+Operating income (loss)
+AWS
+Net sales
+Operating expenses
+Operating income
+Consolidated
+Net sales
+Operating expenses
+Operating income
+Total non-operating income (expense)
+Provision for income taxes
+Equity-method investment activity, net of tax
+Net income
+Segment Highlights:
+Y/Y net sales growth:
+North America
+International
+AWS
+Consolidated
+Net sales mix:
+$ 160,936
+64,677
+880
+155,232
+$ 5,704
+$ 197,473
+189,996
+$ 7,477
+$ 25,171
+$
+24,764
+407
+$ 29,145
+30,056
+(911)
+$ 66,945
+66,590
+$ 90,515
+89,812
+$ 355
+$ 703
+$ 11,601
+8,066
+$ 3,535
+$ 16,110
+11,227
+$ 4,883
+$ 32,628
+22,661
+$ 9,967
+$ 44,422
+31,183
+$ 13,239
+$ 96,145
+89,951
+6,194
+$ 110,812
+105,960
+4,852
+$ 260,509
+244,483
+16,026
+$ 332,410
+310,991
+21,419
+615
+(537)
+387
+(569)
+(1,155)
+(2,298)
+1,798
+(4,179)
+91
+(4)
+(6)
+3
+6,331
+$
+3,156
+$ 14,109
+$ 19,041
+39 %
+10 %
+37 %
+23 %
+37
+16
+31
+35
+29
+39
+30
+36
+37
+15
+35
+28
+North America
+62 %
+59 %
+62 %
+60 %
+International
+26
+26
+26
+27
+AWS
+Consolidated
+12
+15
+12
+13
+100 %
+100 %
+100 %
+100 %
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('Consolidated Net sales',)                   | ('$ 96,145 $ 110,812 $ 260,509 $ 332,410',)   |
+|---:|:----------------------------------------------|:----------------------------------------------|
+|  0 | Operating expenses                            | 89,951 105,960 244,483 310,991                |
+|  1 | Operating income                              | 6,194 4,852 16,026 21,419                     |
+|  2 | Total non-operating income (expense)          | 615 (537) 387 1,798                           |
+|  3 | Provision for income taxes                    | (569) (1,155) (4,179) (2,298)                 |
+|  4 | Equity-method investment activity, net of tax | (6) 91 (4) 3                                  |
+|  5 | Net income                                    | 6,331 $ 3,156 $ 14,109 $ 19,041               |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('Net sales',)     | ('$ 11,601 $ 16,110 $ 32,628',)   | ('$ 44,422',)   |
+|---:|:-------------------|:----------------------------------|:----------------|
+|  0 | Operating expenses | 8,066 11,227 22,661               | 31,183          |
+|  1 | Operating income   | $ 3,535 $ 4,883 $ 9,967           | $ 13,239        |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('Y/Y net sales growth: North America 39 % 10 % 37 % 23 % International 37 16 31 35 1835',)   |
+|---:|:----------------------------------------------------------------------------------------------|
+|  0 | AWS 29 39 30 36                                                                               |
+|  1 | Consolidated 37 66 15 35 28                                                                   |
+|  2 | Net sales mix:                                                                                |
+|  3 | North America 62 % 59% 62% 60 %                                                               |
+|  4 | International 26 26 26 20 27                                                                  |
+|  5 | AWS 12 15 12 13                                                                               |
+|  6 | Consolidated 100 % 100 % 100 % 100 %                                                          |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('Net sales',)     | ('$ 59,373',)   | ('$ 65,557',)   | ('$ 160,936',)   | ('$ 197,473',)   |
+|---:|:-------------------|:----------------|:----------------|:-----------------|:-----------------|
+|  0 | Operating expenses | 57,121          | 64,677          | 155,232          | 189,996          |
+|  1 | Operating income   | $ 2,252         | $ 880           | $ 5,704          | $ 7,477          |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('Net sales',)          | ('$ 25,171 $ 29,145 $ 66,945 $ 90,515',)   |
+|---:|:------------------------|:-------------------------------------------|
+|  0 | Operating expenses      | 24,764 30,056 66,590 89,812                |
+|  1 | Operating income (loss) | 407 $ (911) $ 355 $ 703                    |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('Three Months Ended September 30,',)   | ('Nine Months Ended September 30,',)   |
+|---:|:----------------------------------------|:---------------------------------------|
+|  0 | 2020 2021                               | 2020 2021                              |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('North America',)      | ('September 2020',)   | ('30, September 30, 2021 2020 2021',)   |
+|---:|:------------------------|:----------------------|:----------------------------------------|
+|  0 | Net sales               | $ 59,373              | $ 65,557 $ 160,936 $ 197,473            |
+|  1 | Operating expenses      | 57,121                | 64,677 155,232 189,996                  |
+|  2 | Operating income        | $ 2,252               | $ 880 $ 5,704 $ 7,477                   |
+|  3 | International           |                       |                                         |
+|  4 | Net sales               | $ 25,171              | $ 29,145 $ 66,945 $ 90,515              |
+|  5 | Operating expenses      | 24,764                | 30,056 66,590 89,812                    |
+|  6 | Operating income (loss) | 407                   | $ (911) $ 355 $ 703                     |
+=== TABLE END ===

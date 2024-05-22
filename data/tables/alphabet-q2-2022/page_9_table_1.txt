@@ -1,0 +1,11 @@
+|    | ('',)                                                            | ('2021',)   | ('2022',)   |
+|---:|:-----------------------------------------------------------------|:------------|:------------|
+|  0 | Interest income                                                  | 389         | $ 486       |
+|  1 | Interest expense                                                 | (76)        | (83         |
+|  2 | Foreign currency exchange gain (loss), net                       | (51)        | (260        |
+|  3 | Gain (loss) on debt securities, net                              | 111         | (790        |
+|  4 | Gain (loss) on equity securities, net(¹)                         | 2,772       | (251        |
+|  5 | Performance fees                                                 | (523)       | 318         |
+|  6 | Income (loss) and impairment from equity method investments, net | 92          | (118        |
+|  7 | Other                                                            | (90)        | 259         |
+|  8 | Other income (expense), net                                      | $ 2,624     | $ (439      |

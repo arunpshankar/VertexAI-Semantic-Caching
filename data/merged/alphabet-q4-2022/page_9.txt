@@ -1,0 +1,274 @@
+=== START PAGE CONTENT ===
+Comparison from the Quarter Ended September 30, 2022 to the Quarter Ended December 31, 2022
+Quarter Ended December 31, 2022
+% Change from Prior Period
+Quarter Ended
+September
+December
+30, 2022
+31, 2022
+Less FX
+Effect
+Constant
+Currency
+Revenues
+As
+Reported
+Less
+Hedging
+Effect
+Less FX
+Constant
+Currency
+Effect
+Revenues
+United States
+$
+33,372
+$
+36,982 $
+0
+$ 36,982
+11 %
+0 %
+11 %
+EMEA
+19,450
+21,762
+(580)
+22,342
+12%
+(3)%
+15%
+APAC
+11,494
+11,979
+(366)
+12,345
+4 %
+(3)%
+7%
+Other Americas
+4,138
+4,656
+(141)
+4,797
+13 %
+(3)%
+16%
+Revenues, excluding hedging effect
+68,454
+Hedging gains (losses)
+Total revenues (1)
+$
+638
+69,092 $
+75,379
+669
+(1,087)
+76,466
+10 %
+(2)%
+12%
+76,048
+$ 76,466
+10 %
+0 %
+(2)%
+12%
+(1)
+Total constant currency revenues of $76.5 billion for the quarter ended December 31, 2022 increased $8.0 billion compared to $68.5 billion in
+revenues, excluding hedging effect for the quarter ended September 30, 2022.
+Comparison from the Year Ended December 31, 2021 to the Year Ended December 31, 2022
+Year Ended December 31, 2022
+Year Ended December 31,
+2021
+2022
+Less FX
+Effect
+Constant
+Currency
+Revenues
+As
+Reported
+% Change from Prior Period
+Less
+Hedging
+Effect
+Less FX
+Effect
+Constant
+Currency
+Revenues
+United States
+EMEA
+$
+117,854 $
+134,814
+$
+0
+$ 134,814
+14 %
+0%
+14 %
+79,107 $
+82,062
+(8,979)
+91,041
+4%
+(11)%
+15%
+APAC
+46,123
+47,024
+(3,915)
+50,939
+2%
+(8)%
+10 %
+Other Americas
+14,404
+16,976
+(430)
+17,406
+18 %
+(3)%
+21 %
+Revenues, excluding hedging effect
+257,488
+Hedging gains (losses)
+149
+Total revenues(1)
+$
+280,876
+1,960
+257,637 $ 282,836
+(13,324)
+294,200
+9%
+(5)%
+14 %
+$ 294,200
+10%
+1 %
+(5)%
+14 %
+(1)
+Total constant currency revenues of $294.2 billion for the year ended December 31, 2022 increased $36.7 billion compared to $257.5 billion in
+revenues, excluding hedging effect for the year ended December 31, 2021.
+Total Revenues
+-
+Prior Year Comparative Periods
+Comparison from the Quarter Ended December 31, 2020 to the Quarter Ended December 31, 2021
+Quarter Ended December 31, 2021
+Quarter Ended
+December 31,
+2020
+2021
+Constant
+Less FX Currency
+Effect
+Revenues
+Revenues excluding hedging effect $
+56,900 $ 75,122 $
+(273) $ 75,395
+As
+Reported
+32 %
+% Change from Prior Period
+Less
+Hedging
+Effect
+Less FX
+Effect
+Constant
+Currency
+Revenues
+(1)%
+33 %
+Hedging gains (losses)
+203
+Total revenues
+$
+56,898 $ 75,325
+$
+75,395
+32 %
+0 %
+(1)%
+33 %
+Comparison from the Year Ended December 31, 2020 to the Year Ended December 31, 2021
+Year Ended December 31, 2021
+% Change from Prior Period
+Year Ended December 31,
+2020
+2021
+Less FX
+Effect
+Revenues excluding hedging effect $ 182,351 $ 257,488 $
+Constant
+Currency
+Revenues
+3,330 $ 254,158
+As
+Reported
+41 %
+Less
+Hedging
+Effect
+Less FX
+Effect
+Constant
+Currency
+Revenues
+2%
+39 %
+Hedging gains (losses)
+Total revenues
+176
+149
+$ 182,527
+$ 257,637
+$ 254,158
+41 %
+0%
+2%
+39 %
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('',)                             | ('Year Ended 2020',)   | ('December 31, 2021',)   | ('Less FX Effect',)   | ('Constant Currency Revenues',)   | ('% As Reported',)   | ('Change from Less Hedging Effect',)   | ('Prior Period Less FX Effect',)   | ('Constant Currency Revenues',)   |
+|---:|:----------------------------------|:-----------------------|:-------------------------|:----------------------|:----------------------------------|:---------------------|:---------------------------------------|:-----------------------------------|:----------------------------------|
+|  0 | Revenues excluding hedging effect | $ 182,351              | $ 257,488                | $ 3,330               | $ 254,158                         | 41 %                 |                                        | 2%                                 | 39%                               |
+|  1 | Hedging gains (losses)            | 176                    | 149                      |                       |                                   |                      |                                        |                                    |                                   |
+|  2 | Total revenues                    | $ 182,527              | $ 257,637                |                       | $ 254,158                         | 41 %                 | 0 %                                    | 2%                                 | 39 %                              |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('',)                              | ('Quarter September 30, 2022',)   | ('Ended December 31, 2022',)   | ('Less FX Effect',)   | ('Constant Currency Revenues',)   | ('As Reported',)   | ('Less Hedging Effect',)   | ('Less FX Effect',)   | ('Constant Currency Revenues',)   |
+|---:|:-----------------------------------|:----------------------------------|:-------------------------------|:----------------------|:----------------------------------|:-------------------|:---------------------------|:----------------------|:----------------------------------|
+|  0 | United States                      | $ 33,372                          | $ 36,982                       | $ 0                   | $ 36,982                          | 11 %               |                            | 0 %                   | 11 %                              |
+|  1 | EMEA                               | 19,450                            | 21,762                         | (580)                 | 22,342                            | 12%                |                            | (3)%                  | 15 %                              |
+|  2 | APAC                               | 11,494                            | 11,979                         | (366)                 | 12,345                            | 4 %                |                            | (3)%                  | 7 %                               |
+|  3 | Other Americas                     | 4,138                             | 4,656                          | (141)                 | 4,797                             | 13 %               |                            | (3)%                  | 16 %                              |
+|  4 | Revenues, excluding hedging effect | 68,454                            | 75,379                         | (1,087)               | 76,466                            | 10 %               |                            | (2)%                  | 12%                               |
+|  5 | Hedging gains (losses)             | 638                               | 669                            |                       |                                   |                    |                            |                       |                                   |
+|  6 | Total revenues (¹)                 | $ 69,092                          | $ 76,048                       |                       | $ 76,466                          | 10 %               | 0 %                        | (2)%                  | 12%                               |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('',)                              | ('Year Ended 2021',)   | ('December 31, 2022',)   | ('Less FX Effect',)   | ('Constant Currency Revenues',)   | ('As Reported',)   | ('Less Hedging Effect',)   | ('Less FX Effect',)   | ('Constant Currency Revenues',)   |
+|---:|:-----------------------------------|:-----------------------|:-------------------------|:----------------------|:----------------------------------|:-------------------|:---------------------------|:----------------------|:----------------------------------|
+|  0 | United States                      | $ 117,854              | $ 134,814                | $ 0                   | $ 134,814                         | 14 %               |                            | 0 %                   | 14%                               |
+|  1 | EMEA                               | 79,107                 | $ 82,062                 | (8,979)               | 91,041                            | 4 %                |                            | (11)%                 | 15 %                              |
+|  2 | APAC                               | 46,123                 | 47,024                   | (3,915)               | 50,939                            | 2%                 |                            | (8)%                  | 10 %                              |
+|  3 | Other Americas                     | 14,404                 | 16,976                   | (430)                 | 17,406                            | 18 %               |                            | (3)%                  | 21 %                              |
+|  4 | Revenues, excluding hedging effect | 257,488                | 280,876                  | (13,324)              | 294,200                           | 9%                 |                            | (5)%                  | 14%                               |
+|  5 | Hedging gains (losses)             | 149                    | 1,960                    |                       |                                   |                    |                            |                       |                                   |
+|  6 | Total revenues (¹)                 | $ 257,637              | $ 282,836                |                       | $ 294,200                         | 10 %               | 1 %                        | (5)%                  | 14 %                              |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('',)                             | ('Quarter December 2020',)   | ('Ended 31, 2021',)   | ('Less FX Effect',)   | ('Constant Currency Revenues',)   | ('% As Reported',)   | ('Change from Less Hedging Effect',)   | ('Prior Period Less FX Effect',)   | ('Constant Currency Revenues',)   |
+|---:|:----------------------------------|:-----------------------------|:----------------------|:----------------------|:----------------------------------|:---------------------|:---------------------------------------|:-----------------------------------|:----------------------------------|
+|  0 | Revenues excluding hedging effect | $ 56,900                     | $ 75,122              | $ (273)               | $ 75,395                          | 32 %                 |                                        | (1)%                               | 33 %                              |
+|  1 | Hedging gains (losses)            | (2)                          | 203                   |                       |                                   |                      |                                        |                                    |                                   |
+|  2 | Total revenues                    | $ 56,898                     | $ 75,325              |                       | $ 75,395                          | 32%                  | 0 %                                    | (1)%                               | 33 %                              |
+=== TABLE END ===

@@ -1,0 +1,167 @@
+=== START PAGE CONTENT ===
+AMAZON.COM, INC.
+Consolidated Statements of Operations
+(in millions, except per share data)
+(unaudited)
+Three Months Ended
+September 30,
+Nine Months Ended
+September 30,
+2022
+2023
+2022
+2023
+Net product sales
+Net service sales
+Total net sales
+Operating expenses:
+Cost of sales
+$
+59,340 $
+63,171 $
+172,370 $
+179,184
+67,761
+79,912
+192,409
+225,640
+127,101
+143,083
+364,779
+404,824
+70,268
+75,022
+203,191
+212,186
+Fulfillment
+20,583
+22,314
+61,196
+64,524
+Technology and infrastructure
+19,485
+21,203
+52,399
+63,584
+Sales and marketing
+11,014
+10,551
+29,420
+31,468
+General and administrative
+3,061
+2,561
+8,558
+8,806
+Other operating expense (income), net
+165
+244
+504
+613
+Total operating expenses
+124,576
+131,895
+355,268
+381,181
+Operating income
+2,525
+11,188
+9,511
+23,643
+Interest income
+277
+776
+544
+2,048
+Interest expense
+Other income (expense), net
+Total non-operating income (expense)
+(617)
+(806)
+(1,673)
+(2,469)
+759
+1,031
+(13,356)
+649
+419
+1,001
+(14,485)
+228
+Income (loss) before income taxes
+2,944
+12,189
+(4,974)
+23,871
+Benefit (provision) for income taxes
+(69)
+(2,306)
+1,990
+(4,058)
+Equity-method investment activity, net of tax
+(3)
+(4)
+(16)
+(12)
+Net income (loss)
+$
+2,872 $
+9,879
+$
+(3,000) $
+19,801
+Basic earnings per
+share
+$
+0.28 $
+0.96 $
+(0.29) $
+1.93
+Diluted earnings per share
+$
+0.28 $
+0.94
+$
+(0.29) $
+1.89
+Weighted-average shares used in computation of earnings per
+Basic
+10,191
+10,322
+10,178
+10,286
+Diluted
+10,331
+10,558
+10,178
+10,452
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('Net product sales',)                                      | ('September 2022 $ 59,340',)   | ('30, 2023 $ 63,171',)   | ('September 2022 $ 172,370',)   | ('30, 2023 $ 179,184',)   |
+|---:|:------------------------------------------------------------|:-------------------------------|:-------------------------|:--------------------------------|:--------------------------|
+|  0 | Net service sales                                           | 67,761                         | 79,912                   | 192,409                         | 225,640                   |
+|  1 | Total net sales                                             | 127,101                        | 143,083                  | 364,779                         | 404,824                   |
+|  2 | Operating expenses:                                         |                                |                          |                                 |                           |
+|  3 | Cost of sales                                               | 70,268                         | 75,022                   | 203,191                         | 212,186                   |
+|  4 | Fulfillment                                                 | 20,583                         | 22,314                   | 61,196                          | 64,524                    |
+|  5 | Technology and infrastructure                               | 19,485                         | 21,203                   | 52,399                          | 63,584                    |
+|  6 | Sales and marketing                                         | 11,014                         | 10,551                   | 29,420                          | 31,468                    |
+|  7 | General and administrative                                  | 3,061                          | 2,561                    | 8,558                           | 8,806                     |
+|  8 | Other operating expense (income), net                       | 165                            | 244                      | 504                             | 613                       |
+|  9 | Total operating expenses                                    | 124,576                        | 131,895                  | 355,268                         | 381,181                   |
+| 10 | Operating income                                            | 2,525                          | 11,188                   | 9,511                           | 23,643                    |
+| 11 | Interest income                                             | 277                            | 776                      | 544                             | 2,048                     |
+| 12 | Interest expense                                            | (617)                          | (806)                    | (1,673)                         | (2,469)                   |
+| 13 | Other income (expense), net                                 | 759                            | 1,031                    | (13,356)                        | 649                       |
+| 14 | Total non-operating income (expense)                        | 419                            | 1,001                    | (14,485)                        | 228                       |
+| 15 | Income (loss) before income taxes                           | 2,944                          | 12,189                   | (4,974)                         | 23,871                    |
+| 16 | Benefit (provision) for income taxes                        | (69)                           | (2,306)                  | 1,990                           | (4,058)                   |
+| 17 | Equity-method investment activity, net of tax               | (3)                            | (4)                      | (16)                            | (12)                      |
+| 18 | Net income (loss)                                           | 2,872                          | $ 9,879                  | $ (3,000)                       | $ 19,801                  |
+| 19 | Basic earnings per share                                    | $ 0.28                         | $ 0.96                   | $ (0.29)                        | $ 1.93                    |
+| 20 | Diluted earnings per share                                  | $ 0.28                         | $ 0.94                   | $ (0.29)                        | $ 1.89                    |
+| 21 | Weighted-average shares used in computation of earnings per |                                |                          |                                 |                           |
+| 22 | Basic                                                       | 10,191                         | 10,322                   | 10,178                          | 10,286                    |
+| 23 | Diluted                                                     | 10,331                         | 10,558                   | 10,178                          | 10,452                    |
+=== TABLE END ===

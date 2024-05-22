@@ -1,0 +1,65 @@
+=== START PAGE CONTENT ===
+Alphabet Announces First Quarter 2021 Results
+MOUNTAIN VIEW, Calif. - April 27, 2021 - Alphabet Inc. (NASDAQ: GOOG, GOOGL) today announced financial
+results for the quarter ended March 31, 2021.
+Sundar Pichai, CEO of Google and Alphabet, said: "Over the last year, people have turned to Google Search and
+many online services to stay informed, connected and entertained. We've continued our focus on delivering trusted
+services to help people around the world. Our Cloud services are helping businesses, big and small, accelerate
+their digital transformations."
+Ruth Porat, CFO of Google and Alphabet, said: "Total revenues of $55.3 billion in the first quarter reflect elevated
+consumer activity online and broad based growth in advertiser revenue. We're very pleased with the ongoing
+momentum in Google Cloud, with revenues of $4.0 billion in the quarter reflecting strength and opportunity in both
+GCP and Workspace."
+Q1 2021 financial highlights
+The following table summarizes our consolidated financial results for the quarters ended March 31, 2020 and 2021
+(in millions, except for per share information and percentages; unaudited).
+Quarter Ended March 31,
+2020
+2021
+Revenues
+$
+41,159
+$
+55,314
+Increase in revenues year over year
+13 %
+34 %
+Increase in constant currency revenues year over year (1)
+15 %
+32 %
+Operating income
+Operating margin
+Other income (expense), net
+$
+7,977
+$
+16,437
+19 %
+30 %
+(220)
+$
+4,846
+Net income
+$
+6,836 $
+17,930
+Diluted EPS
+9.87 $
+26.29
+(1)
+Non-GAAP measure. See the table captioned “"Reconciliation from GAAP revenues to non-GAAP constant currency
+revenues" for more details.
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('',)                                                     | ('Quarter Ended March 31, 2020 2021',)   |
+|---:|:----------------------------------------------------------|:-----------------------------------------|
+|  0 | Revenues                                                  | 41,159 $ 55,314                          |
+|  1 | Increase in revenues year over year                       | 13 % 34 %                                |
+|  2 | Increase in constant currency revenues year over year (¹) | 15 % 32 %                                |
+|  3 | Operating income                                          | SA 7,977 $ 16,437                        |
+|  4 | Operating margin                                          | 19 % 30 %                                |
+|  5 | Other income (expense), net                               | SA (220) 4,846                           |
+|  6 | Net income                                                | $ 6,836 17,930                           |
+|  7 | Diluted EPS                                               | $ 9.87 $ 26.29                           |
+=== TABLE END ===

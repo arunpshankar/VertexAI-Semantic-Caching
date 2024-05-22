@@ -1,0 +1,134 @@
+Alphabet Inc.
+CONSOLIDATED BALANCE SHEETS
+(In millions, except share amounts which are reflected in thousands and par value per share amounts)
+Assets
+Current assets:
+As of
+December 31,
+2020
+As of
+March 31,
+2021
+(unaudited)
+Cash and cash equivalents
+$
+26,465 $
+26,622
+Marketable securities
+110,229
+108,482
+Total cash, cash equivalents, and marketable securities
+136,694
+135,104
+Accounts receivable, net
+30,930
+28,006
+Income taxes receivable, net
+454
+493
+Inventory
+728
+888
+Other current assets
+Total current assets
+Non-marketable investments
+Deferred income taxes
+Property and equipment, net
+Operating lease assets
+Intangible assets, net
+Goodwill
+Other non-current assets
+Total assets
+Liabilities and Stockholders' Equity
+Current liabilities:
+Accounts payable
+Accrued compensation and benefits
+Accrued expenses and other current liabilities
+Accrued revenue share
+Deferred revenue
+Income taxes payable, net
+Total current liabilities
+Long-term debt
+5,490
+7,646
+174,296
+172,137
+20,703
+25,294
+1,084
+1,129
+84,749
+87,606
+12,211
+12,598
+1,445
+1,823
+21,175
+22,341
+3,953
+4,167
+$
+319,616 $
+327,095
+Deferred revenue, non-current
+Income taxes payable, non-current
+Deferred income taxes
+Operating lease liabilities
+Other long-term liabilities
+Total liabilities
+Contingencies
+5,589
+$
+4,801
+11,086
+8,375
+28,631
+30,732
+7,500
+6,962
+2,543
+2,690
+1,485
+1,893
+56,834
+55,453
+13,932
+13,887
+481
+530
+8,849
+9,278
+3,561
+4,406
+11,146
+11,382
+2,269
+2,146
+97,072
+97,082
+Stockholders' equity:
+Convertible preferred stock, $0.001 par value per share, 100,000 shares authorized; no
+shares issued and outstanding
+Class A and Class B common stock, and Class C capital stock and additional paid-in
+capital, $0.001 par value per share: 15,000,000 shares authorized (Class A 9,000,000,
+Class B 3,000,000, Class C 3,000,000); 675,222 (Class A 300,730, Class B 45,843,
+Class C 328,649) and 671,094 (Class A 300,747, Class B 45,836, Class C 324,511)
+shares issued and outstanding
+Accumulated other comprehensive income (loss)
+Retained earnings
+Total stockholders' equity
+Total liabilities and stockholders' equity
+4
+0
+0
+58,510
+633
+163,401
+59,436
+(3)
+170,580
+222,544
+230,013
+$
+319,616 $
+327,095

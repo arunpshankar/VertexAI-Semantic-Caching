@@ -1,0 +1,252 @@
+=== START PAGE CONTENT ===
+Segments
+North America Segment:
+AMAZON.COM, INC.
+Supplemental Financial Information and Business Metrics
+Net sales
+Net sales -- Y/Y growth, excluding F/X
+Net sales TTM
+Operating income (loss)
+(in millions)
+(unaudited)
+Q1 2022 Q2 2022
+Q3 2022
+Q4 2022
+Q1 2023
+Q2 2023
+Y/Y %
+Change
+$ 69,244 $ 74,430
+8%
+10%
+$ 78,843 $ 93,363
+20 %
+$ 76,881
+$ 82,546
+11 %
+14%
+11 %
+11 %
+N/A
+$284,711
+$291,591 $304,877
+$315,880
+$323,517
+$331,633
+14 %
+$
+42 $
+(147)%
+(2.3)%
+$ (1,568) $ (627) $ (412)
+61 $
+(122)% (158)%
+(0.8)% (0.5)%
+$ (240) $ 898 $ 3,211
+95 $ 76 $
+53%
+N/A
+41 $
+(7)
+N/A
+N/A
+N/A
+N/A
+(0.3)%
+1.2 %
+3.9 %
+N/A
+$ 2,253
+$ (1,521)
+$ (2,813) $ (2,847)
+$
+0.8 %
+(0.5)%
+(0.9)%
+(0.9)%
+(381) $ 3,457
+(0.1)%
+N/A
+1.0 %
+N/A
+F/X impact
+favorable (unfavorable)
+Operating income (loss) -- Y/Y growth (decline), excluding F/X
+Operating margin -- % of North America net sales
+Operating income (loss) -- TTM
+Operating margin -- TTM % of North America net sales
+International Segment:
+Net sales
+Net sales Y/Y growth (decline), excluding F/X
+Net sales TTM
+Operating loss
+F/X impact--favorable (unfavorable)
+Operating loss -- Y/Y growth (decline), excluding F/X
+Operating margin -- % of International net sales
+Operating loss -- TTM
+Operating margin -- TTM % of International net sales
+AWS Segment:
+$ (1,281) $ (1,771)
+$ (79) $ (231) $ (216)
+Net sales
+Net sales Y/Y growth, excluding F/X
+Net sales - TTM
+Operating income
+F/X impact
+favorable
+Operating income -- Y/Y growth (decline), excluding F/X
+Operating margin -- % of AWS net sales
+Operating income -- TTM
+Operating margin -- TTM % of AWS net sales
+$ 28,759
+$ 27,065
+0 %
+$ 27,720
+$ 34,463
+$ 29,123
+$ 29,697
+10 %
+(1)%
+12%
+5 %
+9%
+10 %
+N/A
+$125,897
+$122,241
+$120,816
+$ (2,466)
+$118,007
+$118,371 $121,003
+(1)%
+$ (2,228)
+$ (1,247)
+$ (895)
+(49)%
+$ (331)
+$ (174) $
+32
+N/A
+(196)% (526)%
+147 %
+(4.5)%
+(6.5)%
+(8.9)%
+17 %
+(6.5)%
+(16)%
+(4.3)%
+(48)%
+N/A
+(3.0)%
+N/A
+$ (3,457)
+$ (5,590)
+$ (7,145)
+$ (7,746)
+$ (7,712)
+$ (6,836)
+22%
+(2.7)%
+(4.6)%
+(5.9)%
+(6.6)%
+(6.5)%
+(5.6)%
+N/A
+$ 18,441 $ 19,739
+37 %
+$ 20,538
+$ 21,378
+$ 21,354
+$ 22,140
+12%
+33 %
+28 %
+20%
+16%
+12 %
+N/A
+$ 67,140
+$ 6,518
+$ 72,070
+$ 5,715
+$ 76,498
+$ 5,403
+$ 80,096
+$ 5,205
+$ 83,009
+$ 5,123
+$ 85,410
+19%
+$ 5,365
+(6)%
+$
+163
+$
+53 %
+35.3 %
+$ 20,887
+31.1 %
+335
+28%
+29.0 %
+$ 22,409 $ 22,929
+31.1 %
+$ 478
+$
+468
+$ 272
+$
+79
+N/A
+1 %
+26.3 %
+(10)%
+24.3 %
+(26)%
+24.0 %
+(8)%
+N/A
+24.2 %
+N/A
+$ 22,841
+30.0 %
+28.5 %
+$ 21,446
+$ 21,096
+(6)%
+25.8%
+24.7 %
+N/A
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('North America Segment: Net sales $ 69,244 $ 74,430 $ 78,843',)                                                                    | ('$ 93,363',)   | ('$ 76,881',)   | ('$ 82,546 11 %',)      |
+|---:|:------------------------------------------------------------------------------------------------------------------------------------|:----------------|:----------------|:------------------------|
+|  0 | Net sales - Y/Y growth, excluding F/X 8 % 10 % 20 %                                                                                 | 14 %            | 11 %            | 11 % N/A                |
+|  1 | Net sales TTM $284,711 $291,591 $304,877                                                                                            | $315,880        | $323,517        | $331,633 14 %           |
+|  2 | Operating income (loss) $ (1,568) $ (627) $ (412)                                                                                   | $ (240)         | $ 898           | $ 3,211 N/A             |
+|  3 | F/X impact--favorable (unfavorable) $ 42 $ 61 $ 95                                                                                  | $ 76            | $ 41            | $ (7) N/A               |
+|  4 | Operating income (loss) -- Y/Y growth (decline), excluding F/X (147)% (122)% (158)%                                                 | 53%             | N/A             | N/A N/A                 |
+|  5 | Operating margin -- % of North America net sales (2.3)% (0.8)% (0.5)%                                                               | (0.3)%          | 1.2 %           | 3.9 % N/A               |
+|  6 | Operating income (loss) -- TTM $ 2,253 $ (1,521) $ (2,813)                                                                          | $ (2,847)       | $ (381)         | $ 3,457 N/A             |
+|  7 | Operating margin-- TTM % of North America net sales 0.8 % (0.5)% (0.9)% International Segment: Net sales $ 28,759 $ 27,065 $ 27,720 | (0.9)% $ 34,463 | (0.1)% $ 29,123 | 1.0 % N/A $ 29,697 10 % |
+|  8 | Net salesY/Y growth (decline), excluding F/X 0% (1)% 12%                                                                            | 5%              | 9%              | 10 % N/A                |
+|  9 | Net sales TTM $125,897 $122,241 $120,816                                                                                            | $118,007        | $118,371        | $121,003 (1)%           |
+| 10 | Operating loss $ (1,281) $ (1,771) $ (2,466)                                                                                        | $ (2,228)       | $ (1,247)       | $ (895) (49)%           |
+| 11 | F/X impact--favorable (unfavorable) $ (79) $ (231) $ (216)                                                                          | $ (331)         | $ (174)         | $ 32 N/A                |
+| 12 | Operating loss Y/Y growth (decline), excluding F/X (196)% (526)% 147 %                                                              | 17 %            | (16)%           | (48)% N/A               |
+| 13 | Operating margin -- % of International net sales (4.5)% (6.5)% (8.9)%                                                               | (6.5)%          | (4.3)%          | (3.0)% N/A              |
+| 14 | Operating loss -- TTM $ (3,457) $ (5,590) $ (7,145)                                                                                 | $ (7,746)       | $ (7,712)       | $ (6,836) 22%           |
+| 15 | Operating margin -- TTM % of International net sales (2.7)% (4.6)% (5.9)%                                                           | (6.6)%          | (6.5)%          | (5.6)% N/A              |
+| 16 | AWS Segment: Net sales $ 18,441 $ 19,739 $ 20,538                                                                                   | $ 21,378        | $ 21,354        | $ 22,140 12 %           |
+| 17 | Net sales - Y/Y growth, excluding F/X 37 % 33% 28%                                                                                  | 20%             | 16 %            | 12% N/A                 |
+| 18 | Net sales - TTM $ 67,140 $ 72,070 $ 76,498                                                                                          | $ 80,096        | $ 83,009        | $ 85,410 19%            |
+| 19 | Operating income $ 6,518 $ 5,715 $ 5,403                                                                                            | $ 5,205         | $ 5,123         | $ 5,365 (6)%            |
+| 20 | F/X impact favorable $ 163 $ 335 $ 478                                                                                              | $ 468           | $ 272           | $ 79 N/A                |
+| 21 | Operating income -- Y/Y growth (decline), excluding F/X 53 % 28 % 1 %                                                               | (10)%           | (26)%           | (8)% N/A                |
+| 22 | Operating margin -- % of AWS net sales 35.3% 29.0 % 26.3 %                                                                          | 24.3 %          | 24.0 %          | 24.2 % N/A              |
+| 23 | Operating income -- TTM $ 20,887 $ 22,409 $ 22,929                                                                                  | $ 22,841        | $ 21,446        | $ 21,096 (6)%           |
+| 24 | Operating margin -- TTM % of AWS net sales 31.1 % 31.1 % 30.0 %                                                                     | 28.5 %          | 25.8 %          | 24.7 % N/A              |
+=== TABLE END ===

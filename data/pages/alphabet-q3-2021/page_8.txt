@@ -1,0 +1,127 @@
+Reconciliation from GAAP revenues to non-GAAP constant currency revenues (in millions, except
+percentages; unaudited):
+We provide non-GAAP constant currency revenues and the non-GAAP percentage change in constant currency
+revenues because they facilitate the comparison of current results to historic performance by excluding the effect of
+foreign exchange rate movements and hedging activities, which are not indicative of our core operating results.
+EMEA revenues (GAAP)
+Quarter Ended September 30, 2021
+YOY
+QoQ
+(using Q2'21's FX rates)
+19,839
+(using Q3'20's FX rates)
+19,839
+$
+Exclude foreign exchange effect on Q3'21 revenues using Q3'20 rates
+Exclude foreign exchange effect on Q3'21 revenues using Q2'21 rates
+EMEA constant currency revenues (non-GAAP)
+(490)
+N/A
+N/A
+184
+$
+19,349
+$
+20,023
+Prior period EMEA revenues (GAAP)
+$
+13,924
+$
+19,084
+EMEA revenue percentage change (GAAP)
+42 %
+4 %
+EMEA constant currency revenue percentage change (non-GAAP)
+39 %
+5%
+APAC revenues (GAAP)
+11,705
+$
+11,705
+Exclude foreign exchange effect on Q3'21 revenues using Q3'20 rates
+Exclude foreign exchange effect on Q3'21 revenues using Q2'21 rates
+APAC constant currency revenues (non-GAAP)
+(8)
+N/A
+N/A
+134
+$
+11,697 $
+11,839
+Prior period APAC revenues (GAAP)
+$
+8,458 $
+11,231
+APAC revenue percentage change (GAAP)
+38 %
+4 %
+APAC constant currency revenue percentage change (non-GAAP)
+38 %
+5 %
+Other Americas revenues (GAAP)
+3,688
+EA
+3,688
+Exclude foreign exchange effect on Q3'21 revenues using Q3'20 rates
+(117)
+N/A
+Exclude foreign exchange effect on Q3'21 revenues using Q2'21 rates
+N/A
+(54)
+Other Americas constant currency revenues (non-GAAP)
+$
+3,571
+$
+3,634
+Prior period Other Americas revenues (GAAP)
+2,371
+$
+3,364
+Other Americas revenue percentage change (GAAP)
+56 %
+10 %
+Other Americas constant currency revenue percentage change (non-GAAP)
+51 %
+8%
+United States revenues (GAAP)
+29,824
+$
+29,824
+United States revenue percentage change (GAAP)
+39 %
+6%
+Hedging gains (losses)
+Revenues (GAAP)
+Constant currency revenues (non-GAAP)
+SASS
+$
+62 $
+62
+$
+65,118
+$
+65,118
+$
+64,441
+$
+65,320
+Prior period revenues, excluding hedging effect (non-GAAP) (1)
+46,195
+61,887
+Revenue percentage change (GAAP)
+41 %
+5%
+Constant currency revenue percentage change (non-GAAP)
+39 %
+6%
+(1) Total revenues and hedging gains (losses) for the quarter ended September 30, 2020 were $46,173 million and $(22)
+million, respectively. Total revenues and hedging gains (losses) for the quarter ended June 30, 2021 were $61,880 million
+and $(7) million, respectively.
+Non-GAAP constant currency revenues and percentage change: We define non-GAAP constant currency revenues as total
+revenues excluding the effect of foreign exchange rate movements and hedging activities, and we use it to determine the
+constant currency revenue percentage change on year-on-year and quarter-on-quarter basis. Non-GAAP constant currency
+revenues are calculated by translating current quarter revenues using prior period exchange rates and excluding any hedging
+effect recognized in the current quarter. Constant currency revenue percentage change is calculated by determining the increase
+in current quarter non-GAAP constant currency revenues over prior period revenues, excluding any hedging effect recognized in
+the prior period.
+8

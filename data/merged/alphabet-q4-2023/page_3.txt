@@ -1,0 +1,101 @@
+=== START PAGE CONTENT ===
+Severance and office space exit charges are included within our consolidated statements of income as follows (in
+millions):
+Quarter Ended December 31, 2023
+Year Ended December 31, 2023
+Severance
+and Related
+Office Space
+Total
+Severance
+and Related
+Office Space
+Total
+Cost of revenues
+$
+2 $
+235 $
+237
+$
+479
+$
+481 $
+960
+Research and development
+1
+602
+603
+848
+870
+1,718
+Sales and marketing
+3
+198
+201
+497
+257
+754
+General and administrative
+1
+161
+162
+264
+237
+501
+Total charges
+$
+7 $
+1,196 $ 1,203 $
+2,088 $ 1,845 $ 3,933
+For segment reporting, the substantial majority of these charges are included within Alphabet-level activities in our
+segment results.
+Change in Useful Lives of Our Server and Network Equipment
+In January 2023, we completed an assessment of the useful lives of our servers and network equipment and
+adjusted the estimated useful life of our servers from four years to six years and the estimated useful life of certain
+network equipment from five years to six years. This change in accounting estimate was effective beginning in fiscal
+year 2023, and the effect was a reduction in depreciation expense of $983 million and $3.9 billion and an increase
+in net income of $765 million and $3.0 billion, or $0.06 and $0.24 per basic and $0.06 and $0.24 per diluted share
+for the three and twelve months ended December 31, 2023, respectively.
+Webcast and Conference Call Information
+A live audio webcast of our fourth quarter 2023 earnings release call will be available on YouTube at https://
+www.youtube.com/watch?v=b4alwdVvn4Q. The call begins today at 1:30 PM (PT) / 4:30 PM (ET). This press
+release, including the reconciliations of certain non-GAAP measures to their nearest comparable GAAP measures,
+is also available at http://abc.xyz/investor.
+We also provide announcements regarding our financial performance, including SEC filings, investor events, press
+and earnings releases, and blogs, on our investor relations website (http://abc.xyz/investor).
+We also share Google news and product updates on Google's Keyword blog at https://www.blog.google/, which may
+be of interest or material to our investors.
+Forward-Looking Statements
+This press release may contain forward-looking statements that involve risks and uncertainties. Actual results may
+differ materially from the results predicted, and reported results should not be considered as an indication of future
+performance. The potential risks and uncertainties that could cause actual results to differ from the results predicted
+include, among others, those risks and uncertainties included under the captions "Risk Factors" and "Management's
+Discussion and Analysis of Financial Condition and Results of Operations" in our Annual Report on Form 10-K for
+the year ended December 31, 2022 and our most recent Quarterly Report on Form 10-Q for the quarter ended
+September 30, 2023, which are on file with the SEC and are available on our investor relations website at http://
+abc.xyz/investor and on the SEC website at www.sec.gov. Additional information will also be set forth in our Annual
+Report on Form 10-K for the year ended December 31, 2023, and may be set forth in other reports and filings we
+make with the SEC. All information provided in this release and in the attachments is as of January 30, 2024. Undue
+reliance should not be placed on the forward-looking statements in this press release, which are based on
+information available to us on the date hereof. We undertake no duty to update this information unless required by
+law.
+About Non-GAAP Financial Measures
+To supplement our consolidated financial statements, which are prepared and presented in accordance with GAAP,
+we use the following non-GAAP financial measures: free cash flow; constant currency revenues; and percentage
+change in constant currency revenues. The presentation of this financial information is not intended to be
+considered in isolation or as a substitute for, or superior to, the financial information prepared and presented in
+accordance with GAAP.
+We use these non-GAAP financial measures for financial and operational decision-making and as a means to
+evaluate period-to-period comparisons. We believe that these non-GAAP financial measures provide meaningful
+3
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('',)                      | ('Quarter Severance and Related',)   | ('Ended December Office Space',)   | ('31, 2023 Total',)   | ('Year Severance and Related',)   | ('Ended December 31Office Space',)   | (', 2023 Total',)   |
+|---:|:---------------------------|:-------------------------------------|:-----------------------------------|:----------------------|:----------------------------------|:-------------------------------------|:--------------------|
+|  0 | Cost of revenues           | $ 2                                  | $ 235                              | $ 237                 | $ 479                             | $ 481                                | $ 960               |
+|  1 | Research and development   | 1                                    | 602                                | 603                   | 848                               | 870                                  | 1,718               |
+|  2 | Sales and marketing        | 3                                    | 198                                | 201                   | 497                               | 257                                  | 754                 |
+|  3 | General and administrative | 1                                    | 161                                | 162                   | 264                               | 237                                  | 501                 |
+|  4 | Total charges              | $ 7                                  | $ 1,196                            | $ 1,203               | $ 2,088                           | $ 1,845                              | $ 3,933             |
+=== TABLE END ===

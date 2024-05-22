@@ -1,0 +1,77 @@
+=== START PAGE CONTENT ===
+Alphabet Inc.
+CONSOLIDATED STATEMENTS OF INCOME
+(In millions, except per share amounts, unaudited)
+Revenues
+Costs and expenses:
+Cost of revenues
+Research and development
+Sales and marketing
+General and administrative
+Total costs and expenses
+Income from operations
+Other income (expense), net
+Income before income taxes
+Provision for income taxes
+Net income
+Quarter Ended March 31,
+2022
+2023
+68,011 $
+69,787
+29,599
+30,612
+9,119
+11,468
+5,825
+6,533
+3,374
+3,759
+47,917
+52,372
+20,094
+17,415
+(1,160)
+790
+18,934
+18,205
+2,498
+3,154
+$
+16,436 $
+15,051
+Basic earnings per share of Class A, Class B, and Class C stock
+Diluted earnings per share of Class A, Class B, and Class C stock
+Number of shares used in basic earnings per share calculation
+1.24 $
+1.18
+$
+1.23 $
+1.17
+13,203
+12,781
+Number of shares used in diluted earnings per share calculation
+13,351
+12,823
+6
+10
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('Revenues Costs and expenses:',)                                 | ('68,011 $',)   | ('69,787',)   |
+|---:|:------------------------------------------------------------------|:----------------|:--------------|
+|  0 | Cost of revenues                                                  | 29,599          | 30,612        |
+|  1 | Research and development                                          | 9,119           | 11,468        |
+|  2 | Sales and marketing                                               | 5,825           | 6,533         |
+|  3 | General and administrative                                        | 3,374           | 3,759         |
+|  4 | Total costs and expenses                                          | 47,917          | 52,372        |
+|  5 | Income from operations                                            | 20,094          | 17,415        |
+|  6 | Other income (expense), net                                       | (1,160)         | 790           |
+|  7 | Income before income taxes                                        | 18,934          | 18,205        |
+|  8 | Provision for income taxes                                        | 2,498           | 3,154         |
+|  9 | Net income                                                        | $ 16,436 $      | 15,051        |
+| 10 | Basic earnings per share of Class A, Class B, and Class C stock   | $ 1.24          |               |
+| 11 | Diluted earnings per share of Class A, Class B, and Class C stock | 6969 1.23 $     | 1.17          |
+| 12 | Number of shares used in basic earnings per share calculation     | 13,203          | 12,781        |
+| 13 | Number of shares used in diluted earnings per share calculation   | 13,351          | 12,823        |
+=== TABLE END ===

@@ -1,0 +1,13 @@
+|    | ('Revenues:',)               | ('2021',)   | ('2022',)   |
+|---:|:-----------------------------|:------------|:------------|
+|  0 | Google Services              | 69,400 $    | 67,838      |
+|  1 | Google Cloud                 | 5,541       | 7,315       |
+|  2 | Other Bets                   | 181         | 226         |
+|  3 | Hedging gains (losses)       | 203         | 669         |
+|  4 | Total revenues               | 75,325 $    | 76,048      |
+|  5 | Operating income (loss):     |             |             |
+|  6 | Google Services              | 25,993 $    | 21,101      |
+|  7 | Google Cloud                 | (890)       | (480)       |
+|  8 | Other Bets                   | (1,450)     | (1,631)     |
+|  9 | Corporate costs, unallocated | (1,768)     | (830)       |
+| 10 | Total income from operations | 21,885 $    | 18,160      |

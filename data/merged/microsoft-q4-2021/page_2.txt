@@ -1,0 +1,38 @@
+=== START PAGE CONTENT ===
+Surface revenue increased 8%
+Microsoft returned $10.9 billion to shareholders in the form of share repurchases and dividends in the
+second quarter of fiscal year 2022, an increase of 9% compared to the second quarter of fiscal year 2021.
+Business Outlook
+Microsoft will provide forward-looking guidance in connection with this quarterly earnings announcement
+on its earnings conference call and webcast.
+Quarterly Highlights, Product Releases, and Enhancements
+Every quarter Microsoft delivers hundreds of products, either as new releases, services, or enhancements
+to current products and services. These releases are a result of significant research and development
+investments, made over multiple years, designed to help customers be more productive and secure and
+to deliver differentiated value across the cloud and the edge.
+Here are the major product releases and other highlights for the quarter, organized by product categories,
+to help illustrate how we are accelerating innovation across our businesses while expanding our market
+opportunities.
+Environmental, Social, and Governance (ESG)
+To better execute Microsoft's mission, we focus our Environmental, Social, and Governance (ESG) efforts
+where we can have the most positive impact. To learn more about our latest initiatives and priorities,
+please visit our investor relations ESG website.
+Webcast Details
+Satya Nadella, chairman and chief executive officer, Amy Hood, executive vice president and chief financial
+officer, Alice Jolla, chief accounting officer, Keith Dolliver, deputy general counsel, and Brett Iversen,
+general manager of investor relations, will host a conference call and webcast at 2:30 p.m. Pacific time
+(5:30 p.m. Eastern time) today to discuss details of the company's performance for the quarter and certain
+forward-looking information. The session may be accessed at http://www.microsoft.com/en-us/investor.
+The webcast will be available for replay through the close of business on January 25, 2023.
+Constant Currency
+Microsoft presents constant currency information to provide a framework for assessing how our
+underlying businesses performed excluding the effect of foreign currency rate fluctuations. To present this
+information, current and comparative prior period results for entities reporting in currencies other than
+United States dollars are converted into United States dollars using the average exchange rates from the
+comparative period rather than the actual exchange rates in effect during the respective periods. All
+growth comparisons relate to the corresponding period in the last fiscal year. Microsoft has provided this
+non-GAAP financial information to aid investors in better understanding our performance. The non-GAAP
+financial measures presented in this release should not be considered as a substitute for, or superior to,
+the measures of financial performance prepared in accordance with GAAP.
+
+=== END PAGE CONTENT ===

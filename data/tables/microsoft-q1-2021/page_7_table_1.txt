@@ -1,0 +1,22 @@
+|    | ('',)                                              | ('Three Months 2021',)   | ('Ended March 31, 2020',)   | ('Nine 2021',)   | ('Months Ended March 31, 2020',)   |
+|---:|:---------------------------------------------------|:-------------------------|:----------------------------|:-----------------|:-----------------------------------|
+|  0 | Revenue:                                           |                          |                             |                  |                                    |
+|  1 | Product                                            | $16,873                  | $15,871                     | $52,136          | $49,894                            |
+|  2 | Service and other                                  | 24,833                   | 19,150                      | 69,800           | 55,088                             |
+|  3 | Total revenue                                      | 41,706                   | 35,021                      | 121,936          | 104,982                            |
+|  4 | Cost of revenue:                                   |                          |                             |                  |                                    |
+|  5 | Product Service and other                          | 4,277 8,768              | 3,376 7,599                 | 13,932 24,309    | 11,647 22,092                      |
+|  6 | Total cost of revenue                              | 13,045                   | 10,975                      | 38,241           | 33,739                             |
+|  7 | Gross margin                                       | 28,661                   | 24,046                      | 83,695           | 71,243                             |
+|  8 | Research and development                           | 5,204                    | 4,887                       | 15,029           | 14,055                             |
+|  9 | Sales and marketing                                | 5,082                    | 4,911                       | 14,260           | 14,181                             |
+| 10 | General and administrative                         | 1,327                    | 1,273                       | 3,585            | 3,455                              |
+| 11 | Operating income                                   | 17,048                   | 12,975                      | 50,821           | 39,552                             |
+| 12 | Other income (expense), net                        | 188                      | (132)                       | 876              | 62                                 |
+| 13 | Income before income taxes                         | 17,236                   | 12,843                      | 51,697           | 39,614                             |
+| 14 | Provision for income taxes                         | 1,779                    | 2,091                       | 6,884            | 6,535                              |
+| 15 | Net income                                         | $15,457                  | $10,752                     | $44,813          | $33,079                            |
+| 16 | Earnings per share:                                |                          |                             |                  |                                    |
+| 17 | Basic Diluted Weighted average shares outstanding: | $2.05 $2.03              | $1.41 $1.40                 | $5.93 $5.88      | $4.34 $4.30                        |
+| 18 | Basic                                              | 7,539                    | 7,602                       | 7,554            | 7,619                              |
+| 19 | Diluted                                            | 7,597                    | 7,675                       | 7,617            | 7,693                              |

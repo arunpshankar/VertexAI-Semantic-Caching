@@ -1,0 +1,54 @@
+•
+•
+Net income was $30.4 billion in 2023, or $2.90 per diluted share, compared with a net loss of $2.7 billion, or $0.27
+per
+diluted share, in 2022.
+2023 net income includes a pre-tax valuation gain of $0.8 billion included in non-operating income (expense)
+from the common stock investment in Rivian Automotive, Inc., compared to a pre-tax valuation loss of $12.7
+billion from the investment in 2022.
+Operating cash flow increased 82% to $84.9 billion for the trailing twelve months, compared with $46.8 billion for
+the trailing twelve months ended December 31, 2022.
+Free cash flow improved to an inflow of $36.8 billion for the trailing twelve months, compared with an outflow of
+$11.6 billion for the trailing twelve months ended December 31, 2022.
+Free cash flow less principal repayments of finance leases and financing obligations improved to an inflow of
+$32.2 billion for the trailing twelve months, compared with an outflow of $19.8 billion for the trailing twelve months
+ended December 31, 2022.
+Free cash flow less equipment finance leases and principal repayments of all other finance leases and financing
+obligations improved to an inflow of $35.5 billion for the trailing twelve months, compared with an outflow of $12.8
+billion for the trailing twelve months ended December 31, 2022.
+"This Q4 was a record-breaking Holiday shopping season and closed out a robust 2023 for Amazon," said Andy Jassy, Amazon
+CEO. "While we made meaningful revenue, operating income, and free cash flow progress, what we're most pleased with is the
+continued invention and customer experience improvements across our businesses. The regionalization of our U.S. fulfillment
+network led to our fastest-ever delivery speeds for Prime members while also lowering our cost to serve; AWS's continued
+long-term focus on customers and feature delivery, coupled with new genAI capabilities like Bedrock, Q, and Trainium have
+resonated with customers and are starting to be reflected in our overall results; our Advertising services continue to improve
+and drive positive results; our newer businesses are progressing nicely, and along with our more established businesses,
+collectively making customers' lives easier and better every day. As we enter 2024, our teams are delivering at a rapid clip, and
+we have a lot in front of us to be excited about."
+Highlights
+Obsessing over the customer experience
+Amazon obsesses over how to make customers' lives better and easier every day with new and improved products and services.
+This is true for consumers, sellers, brands, developers, enterprises, and creators. For example, Amazon:
+•
+•
+Held a record-breaking Black Friday and Cyber Monday holiday shopping event. Customers worldwide purchased
+more than 1 billion items on Amazon and saved nearly 70% more during the 11 days of deals compared to the same
+period in 2022. In the U.S., customers ordered more than 500 million items from independent sellers, most of which
+are small and medium-sized businesses, and millions of customers signed up for a Prime membership. Through the
+entire holiday season, customers purchased more items on Amazon than during any previous holiday season.
+Continued to delight customers with fast and convenient delivery. In 2023, Amazon delivered to Prime members at the
+fastest speeds ever globally, with more than 7 billion units arriving the same or next day, including more than 4 billion
+in the U.S. and more than 2 billion in Europe. Amazon now offers Same-Day Delivery in more than 110 U.S. metro
+areas and operates more than 55 dedicated Same-Day sites across the U.S. The company increased the number of items
+delivered through these sites the same day or overnight by more than 65% year-over-year in the fourth quarter and
+celebrated the delivery of its billionth package from a Same-Day site in December 2023.
+Entered a strategic partnership with Hyundai to bring innovative new experiences to customers. In 2024, Amazon will
+launch online vehicle sales in the U.S., starting with Hyundai. In addition, Hyundai selected AWS as its preferred
+cloud provider to accelerate its digital transformation, and starting in 2025, customers who purchase Hyundai's next-
+generation vehicles will have access in their vehicles to the same hands-free Alexa experience that they have at home.
+Announced that Prime members in the U.S. can now add health care from One Medical to their Prime membership for
+$9 per month (or $99 annually) and include up to five additional family members for $6 per month each, making it
+easier for Prime members to get high-quality primary care in the U.S. This represents savings of up to $100 off the
+standard One Medical membership fee for individuals and up to $133 for families.
+Expanded Amazon Fresh grocery delivery and free pickup to customers without a Prime membership in the U.S. The
+company also redesigned multiple Amazon Fresh stores in the UK and U.S. and opened several new Whole Foods

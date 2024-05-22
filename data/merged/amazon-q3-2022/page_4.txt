@@ -1,0 +1,64 @@
+=== START PAGE CONTENT ===
+Empowering employees and delivery service partners
+In addition to its focus on customers, Amazon strives to make every day better for its employees and delivery service providers.
+There is a long list of initiatives the company continues to pursue. For example, in the third quarter, the company:
+•
+•
+•
+•
+•
+Announced it is investing nearly $1 billion in pay increases for its fulfillment network employees over the next year in
+the U.S., bringing average pay to more than $19 per hour.
+Expanded Anytime Pay to provide hourly employees with instant access to up to 70% of their pay at any time during
+the month.
+Celebrated the 10-year anniversary of Career Choice, an education benefit that empowers employees to learn new
+skills for career success and has seen over 90,000 employees participate so far.
+Announced it is investing more than $450 million over the next year to help Delivery Service Partners (DSPs) support
+their teams with access to new and improved benefits, and additional rate increases. One new benefits provider, Next
+Mile, offers drivers employed by participating DSPs access to more than 1,700 academic programs with tuition
+assistance from their DSP. Participating DSPs are eligible to receive up to $5,250 per driver per year from Amazon to
+help cover the costs of tuition assistance.
+Expanded career advancement and development programs for front-line employees, such as offering the Amazon
+Intelligence Initiative to enhance technical skills and place employees in engineering roles within AWS.
+Announced plans to hire 150,000 people for open seasonal, full-time, and part-time roles across its operations network
+in the U.S. to help deliver for customers during the holidays.
+Introduced an additional, free mental wellness program for employees and their families in the U.S., the UK, and
+Brazil. Offered through Twill Therapeutics, the tools and services to improve mental health are available 24/7 and can
+be used to address in-the-moment concerns or as part of a daily mental health and well-being routine.
+Supporting communities and protecting the environment
+Amazon believes that success and scale bring broad responsibility to help the planet, future generations, and local communities
+in which the company has a significant presence. Amazon employees have passion for investing in these areas, and a small
+sampling of the many efforts from this past quarter include Amazon:
+•
+•
+Supporting people affected by Hurricane Fiona in Puerto Rico and Hurricane Ian in Florida by providing hundreds of
+thousands of essential products such as water filters and medical supplies; sending more than 320,000 bottles of water
+to residents of Jackson, Mississippi, suffering from a shortage of clean water; and donating items such as blankets and
+flashlights after the magnitude 6.8 earthquake in Sichuan Luding, China.
+Continuing to support people impacted by the war in Ukraine with product donations to refugees, financial support to
+more than 150 nonprofits on the ground in Eastern Europe, and cloud credits and technological assistance through
+AWS. As part of the support for the Ukrainian government, AWS sent Snowball devices-ruggedized compute and
+storage hardware—into Ukraine to help secure, store, and transfer over 10 petabytes (10 million gigabytes) of essential
+data to the cloud. These Snowball devices were the foundation for the effort to preserve Ukraine's data—including
+state registries, education records, and other essential databases—which are critical in rebuilding the country. Amazon
+has donated more than $45 million in assistance since the start of the war and waived the referral fee for all Ukrainian
+small and medium-sized businesses selling in Amazon's European stores. In addition, AWS launched IT Skills 4U, a
+free workforce-development initiative to provide Ukrainians around the world with access to skills training.
+Committing to hire at least 5,000 refugees in the U.S. by the end of 2024. The company is also providing support and
+resources through its Welcome Door program, which launched in April 2022 to help refugee employees navigate the
+immigration process.
+Committing $147 million to create and preserve 1,260 affordable homes across the Washington, D.C., metro area in
+partnership with minority-led organizations. This investment is the latest initiative by the Amazon Housing Equity
+Fund, a $2 billion commitment to create and preserve affordable homes in Amazon's hometown communities.
+Announcing plans to invest more than €1 billion over the next five years to further electrify and decarbonize its
+transportation network across Europe. This includes investments in electric trucks, vans, and micro mobility solutions
+like e-cargo bikes, as well as charging infrastructure.
+Announcing agreements with Plug Power to supply 10,950 tons of green hydrogen per year for Amazon's
+transportation and building operations, and with Infinium to bring clean-burning electrofuels to Amazon's middle mile
+transportation fleet starting next year.
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+| ("Brazil. Offered through Twill Therapeutics, the tools and services to improve mental health are available 24/7 and can be used to address in-the-moment concerns or as part of a daily mental health and well-being routine. Supporting communities and protecting the environment Amazon believes that success and scale bring broad responsibility to help the planet, future generations, and local communities in which the company has a significant presence. Amazon employees have passion for investing in these areas, and a small sampling of the many efforts from this past quarter include Amazon: Supporting people affected by Hurricane Fiona in Puerto Rico and Hurricane Ian in Florida by providing hundreds of thousands of essential products such as water filters and medical supplies; sending more than 320,000 bottles of water to residents of Jackson, Mississippi, suffering from a shortage of clean water; and donating items such as blankets and flashlights after the magnitude 6.8 earthquake in Sichuan Luding, China. • Continuing to support people impacted by the war in Ukraine with product donations to refugees, financial support to more than 150 nonprofits on the ground in Eastern Europe, and cloud credits and technological assistance through AWS. As part of the support for the Ukrainian government, AWS sent Snowball devices-ruggedized compute and storage hardware—into Ukraine to help secure, store, and transfer over 10 petabytes (10 million gigabytes) of essential data to the cloud. These Snowball devices were the foundation for the effort to preserve Ukraine's data—including state registries, education records, and other essential databases—which are critical in rebuilding the country. Amazon has donated more than $45 million in assistance since the start of the war and waived the referral fee for all Ukrainian small and medium-sized businesses selling in Amazon's European stores. In addition, AWS launched IT Skills 4U, a free workforce-development initiative to provide Ukrainians around the world with access to skills training. Committing to hire at least 5,000 refugees in the U.S. by the end of 2024. The company is also providing support and rces through its Welcome Door program, which launched in April 2022 to help refugee employees navigate the immigration process. resou • Committing $147 million to create and preserve 1,260 affordable homes across the Washington, D.C., metro area in partnership with minority-led organizations. This investment is the latest initiative by the Amazon Housing Equity Fund, a $2 billion commitment to create and preserve affordable homes in Amazon's hometown communities. Announcing plans to invest more than €1 billion over the next five years to further electrify and decarbonize its transportation network across Europe. This includes investments in electric trucks, vans, and micro mobility solutions like e-cargo bikes, as well as charging infrastructure. Announcing agreements with Plug Power to supply 10,950 tons of green hydrogen per year for Amazon's transportation and building operations, and with Infinium to bring clean-burning electrofuels to Amazon's middle mile transportation fleet starting next year.",)   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+=== TABLE END ===

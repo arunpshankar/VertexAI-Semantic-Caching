@@ -1,0 +1,181 @@
+=== START PAGE CONTENT ===
+Financial Performance Constant Currency Reconciliation
+Three Months Ended September 30,
+Diluted
+($ in millions, except per share amounts)
+2020 As Reported (GAAP)
+2021 As Reported (GAAP)
+2021 As Adjusted (non-GAAP)
+Percentage Change Y/Y (GAAP)
+Percentage Change Y/Y (non-GAAP)
+Constant Currency Impact
+Percentage Change Y/Y (non-GAAP) Constant Currency
+Segment Revenue Constant Currency Reconciliation
+($ in millions)
+2020 As Reported (GAAP)
+2021 As Reported (GAAP)
+Percentage Change Y/Y (GAAP)
+Revenue
+Operating
+Income
+Net
+Income
+Earnings
+per Share
+$37,154
+$15,876
+$13,893
+$1.82
+$45,317
+$20,238
+$20,505
+$2.71
+$45,317
+$20,238
+$17,214
+$2.27
+22%
+27%
+48%
+49%
+22%
+27%
+24%
+25%
+$605
+$500
+$248
+$0.03
+20%
+24%
+22%
+23%
+Productivity and
+Business Processes
+Intelligent Cloud
+$12,319
+$12,986
+Three Months Ended September 30,
+More Personal
+Computing
+$11,849
+$15,039
+$16,964
+$13,314
+22%
+31%
+12%
+$253
+$216
+$136
+20%
+29%
+11%
+Constant Currency Impact
+Percentage Change Y/Y (non-GAAP) Constant Currency
+Selected Product and Service Revenue Constant Currency Reconciliation
+Three Months Ended September 30, 2021
+Percentage Change
+Y/Y (non-GAAP)
+Constant Currency
+Percentage Change
+Constant
+Y/Y (GAAP)
+Currency Impact
+Office Commercial products and cloud services
+18%
+(2)%
+16%
+Office 365 Commercial
+Office Consumer products and cloud services
+LinkedIn
+LinkedIn Marketing Solutions
+23%
+(2)%
+21%
+10%
+(2)%
+8%
+42%
+(3)%
+39%
+61%
+(2)%
+59%
+Dynamics products and cloud services
+Dynamics 365
+31%
+(2)%
+29%
+48%
+(3)%
+45%
+Server products and cloud services
+35%
+(2)%
+33%
+Azure and other cloud services
+50%
+(2)%
+48%
+Windows OEM
+10%
+0%
+10%
+Windows Commercial products and cloud services
+12%
+(2)%
+10%
+Xbox content and services
+2%
+(2)%
+0%
+Search and news advertising excluding traffic acquisition
+40%
+(1)%
+39%
+costs
+Surface
+(17)%
+(2)%
+(19)%
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('',)                                                           | ('Percentage Change Y/Y (GAAP)',)   | ('Constant Currency Impact',)   | ('Y/Y (non-GAAP) Constant Currency',)   |
+|---:|:----------------------------------------------------------------|:------------------------------------|:--------------------------------|:----------------------------------------|
+|  0 | Office Commercial products and cloud services                   | 18%                                 | (2)%                            | 16%                                     |
+|  1 | Office 365 Commercial                                           | 23%                                 | (2)%                            | 21%                                     |
+|  2 | Office Consumer products and cloud services                     | 10%                                 | (2)%                            | 8%                                      |
+|  3 | LinkedIn                                                        | 42%                                 | (3)%                            | 39%                                     |
+|  4 | LinkedIn Marketing Solutions                                    | 61%                                 | (2)%                            | 59%                                     |
+|  5 | Dynamics products and cloud services                            | 31%                                 | (2)%                            | 29%                                     |
+|  6 | Dynamics 365                                                    | 48%                                 | (3)%                            | 45%                                     |
+|  7 | Server products and cloud services                              | 35%                                 | (2)%                            | 33%                                     |
+|  8 | Azure and other cloud services                                  | 50%                                 | (2)%                            | 48%                                     |
+|  9 | Windows OEM                                                     | 10%                                 | 0%                              | 10%                                     |
+| 10 | Windows Commercial products and cloud services                  | 12%                                 | (2)%                            | 10%                                     |
+| 11 | Xbox content and services                                       | 2%                                  | (2)%                            | 0%                                      |
+| 12 | Search and news advertising excluding traffic acquisition costs | 40%                                 | (1)%                            | 39%                                     |
+| 13 | Surface                                                         | (17)%                               | (2)%                            | (19)%                                   |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('($ in millions)',)                               | ('Productivity and Business Processes',)   | ('Intelligent Cloud',)   | ('More Personal Computing',)   |
+|---:|:---------------------------------------------------|:-------------------------------------------|:-------------------------|:-------------------------------|
+|  0 | 2020 As Reported (GAAP)                            | $12,319                                    | $12,986                  | $11,849                        |
+|  1 | 2021 As Reported (GAAP)                            | $15,039                                    | $16,964                  | $13,314                        |
+|  2 | Percentage Change Y/Y (GAAP)                       | 22%                                        | 31%                      | 12%                            |
+|  3 | Constant Currency Impact                           | $253                                       | $216                     | $136                           |
+|  4 | Percentage Change Y/Y (non-GAAP) Constant Currency | 20%                                        | 29%                      | 11%                            |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('($ in millions, except per share amounts)',)     | ('Revenue',)   | ('Operating Income',)   | ('Net Income',)   | ('Earnings per Share',)   |
+|---:|:---------------------------------------------------|:---------------|:------------------------|:------------------|:--------------------------|
+|  0 | 2020 As Reported (GAAP)                            | $37,154        | $15,876                 | $13,893           | $1.82                     |
+|  1 | 2021 As Reported (GAAP)                            | $45,317        | $20,238                 | $20,505           | $2.71                     |
+|  2 | 2021 As Adjusted (non-GAAP)                        | $45,317        | $20,238                 | $17,214           | $2.27                     |
+|  3 | Percentage Change Y/Y (GAAP)                       | 22%            | 27%                     | 48%               | 49%                       |
+|  4 | Percentage Change Y/Y (non-GAAP)                   | 22%            | 27%                     | 24%               | 25%                       |
+|  5 | Constant Currency Impact                           | $605           | $500                    | $248              | $0.03                     |
+|  6 | Percentage Change Y/Y (non-GAAP) Constant Currency | 20%            | 24%                     | 22%               | 23%                       |
+=== TABLE END ===

@@ -132,4 +132,3 @@ if __name__ == '__main__':
             file_path = os.path.join(output_dir, f"page_{page_number}.txt")
             with open(file_path, 'w') as file:
                 file.write(text)
-        break

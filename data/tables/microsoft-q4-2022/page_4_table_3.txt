@@ -1,0 +1,10 @@
+|    | ('($ in millions, except per share amounts)',)        | ('Revenue',)   | ('Operating Income',)   | ('Net Income',)   | ('Earnings per Share',)   |
+|---:|:------------------------------------------------------|:---------------|:------------------------|:------------------|:--------------------------|
+|  0 | 2021 As Reported (GAAP)                               | $51,728        | $22,247                 | $18,765           | $2.48                     |
+|  1 | 2022 As Reported (GAAP)                               | $52,747        | $20,399                 | $16,425           | $2.20                     |
+|  2 | 2022 As Adjusted                                      | $52,747        | $21,570                 | $17,371           | $2.32                     |
+|  3 | Percentage Change Y/Y (GAAP)                          | 2%             | (8)%                    | (12)%             | (11)%                     |
+|  4 | Percentage Change Y/Y (As Adjusted)                   | 2%             | (3)%                    | (7)%              | (6)%                      |
+|  5 | Constant Currency Impact                              | $(2,645)       | $(1,931)                | $(1,563)          | $(0.21)                   |
+|  6 | Percentage Change Y/Y Constant Currency               | 7%             | 0%                      | (4)%              | (3)%                      |
+|  7 | Percentage Change Y/Y (As Adjusted) Constant Currency | 7%             | 6%                      | 1%                | 2%                        |

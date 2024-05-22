@@ -1,0 +1,101 @@
+=== START PAGE CONTENT ===
+•
+Windows Commercial products and cloud services revenue increased 2% (up 3% in constant
+currency)
+Xbox content and services revenue increased 5% (up 6% in constant currency)
+Search and news advertising revenue excluding traffic acquisition costs increased 8%
+Microsoft returned $9.7 billion to shareholders in the form of share repurchases and dividends in the
+fourth quarter of fiscal year 2023.
+Fiscal Year 2023 Results
+Microsoft Corp. today announced the following results for the fiscal year ended June 30, 2023, as
+compared to the corresponding period of last fiscal year:
+.
+•
+Revenue was $211.9 billion and increased 7% (up 11% in constant currency)
+Operating income was $88.5 billion GAAP and increased 6%, and $89.7 billion non-GAAP and
+increased 8% (up 14% in constant currency)
+Net income was $72.4 billion GAAP and decreased slightly, and $73.3 billion non-GAAP and
+increased 6% (up 11% in constant currency)
+Diluted earnings per share was $9.68 GAAP and increased slightly, and $9.81 non-GAAP and
+increased 7% (up 12% in constant currency)
+GAAP results include the Q2 charge, a $1.2 billion negative impact to operating income, explained
+in the Non-GAAP Definition section below
+The following table reconciles our financial results for the fiscal year ended June 30, 2023, reported in
+accordance with generally accepted accounting principles (GAAP) to non-GAAP financial results.
+Additional information regarding our non-GAAP definition is provided below. All growth comparisons
+relate to the corresponding period in the last fiscal year.
+Twelve Months Ended June 30,
+Diluted
+($ in millions, except per share amounts)
+Revenue
+Operating
+Income
+Net
+Income
+Earnings
+per Share
+2022 As Reported (GAAP)
+$198,270
+$83,383
+$72,738
+$9.65
+Net income tax benefit related to transfer of intangible
+(3,291)
+(0.44)
+properties
+2022 As Adjusted
+$198,270
+$83,383
+$69,447
+$9.21
+2023 As Reported (GAAP)
+$211,915
+$88,523
+$72,361
+$9.68
+Severance, hardware-related impairment, and lease consolidation
+1,171
+946
+0.13
+costs
+2023 As Adjusted
+$211,915
+$89,694
+$73,307
+$9.81
+Percentage Change Y/Y (GAAP)
+7%
+6%
+(1)%
+0%
+Percentage Change Y/Y Constant Currency
+11%
+12%
+5%
+6%
+Percentage Change Y/Y (As Adjusted)
+7%
+8%
+6%
+7%
+Percentage Change Y/Y (As Adjusted) Constant Currency
+11%
+14%
+11%
+12%
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('($ in millions, except per share amounts)',)                        | ('Revenue',)   | ('Operating Income',)   | ('Net Income',)   | ('Earnings per Share',)   |
+|---:|:----------------------------------------------------------------------|:---------------|:------------------------|:------------------|:--------------------------|
+|  0 | 2022 As Reported (GAAP)                                               | $198,270       | $83,383                 | $72,738           | $9.65                     |
+|  1 | Net income tax benefit related to transfer of intangible properties   |                |                         | (3,291)           | (0.44)                    |
+|  2 | 2022 As Adjusted                                                      | $198,270       | $83,383                 | $69,447           | $9.21                     |
+|  3 | 2023 As Reported (GAAP)                                               | $211,915       | $88,523                 | $72,361           | $9.68                     |
+|  4 | Severance, hardware-related impairment, and lease consolidation costs |                | 1,171                   | 946               | 0.13                      |
+|  5 | 2023 As Adjusted                                                      | $211,915       | $89,694                 | $73,307           | $9.81                     |
+|  6 | Percentage Change Y/Y (GAAP)                                          | 7%             | 6%                      | (1)%              | 0% O                      |
+|  7 | Percentage Change Y/Y Constant Currency                               | 11%            | 12%                     | 5%                | 6%                        |
+|  8 | Percentage Change Y/Y (As Adjusted)                                   | 7%             | 8%                      | 6% 189            | NO 7%                     |
+|  9 | Percentage Change Y/Y (As Adjusted) Constant Currency                 | 11%            | 14%                     | 11%               | 12%                       |
+=== TABLE END ===

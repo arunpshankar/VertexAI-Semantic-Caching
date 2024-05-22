@@ -1,0 +1,52 @@
+=== START PAGE CONTENT ===
+Total Revenues - Prior Year Comparative Periods
+Comparison from the Quarter Ended June 30, 2021 to the Quarter Ended June 30, 2022
+Quarter Ended June 30, 2022
+% Change from Prior Period
+Quarter Ended June 30,
+2021
+2022
+Less FX
+Effect
+Constant
+Currency
+Revenues
+Revenues excluding hedging effect $
+61,887 $
+69,310 $
+(2,682) $ 71,992
+As
+Reported
+12 %
+Less
+Hedging
+Effect
+Constant
+Less FX
+Effect
+Currency
+Revenues
+(4)%
+16%
+Hedging gains (losses)
+375
+Total revenues
+$
+61,880 $
+69,685
+$
+71,992
+13 %
+1 %
+(4)%
+16 %
+11
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('Quarter Ended 2021',)                    | ('June 30, 2022',)   | ('Less FX Effect',)   | ('Constant Currency Revenues',)   | ('% As Reported',)   | ('Change from Less Hedging Effect',)   | ('Prior Period Less FX Effect',)   | ('Constant Currency Revenues',)   | ('',)   |
+|---:|:-------------------------------------------|:---------------------|:----------------------|:----------------------------------|:---------------------|:---------------------------------------|:-----------------------------------|:----------------------------------|:--------|
+|  0 | Revenues excluding hedging effect $ 61,887 | $ 69,310             | $ (2,682)             | $ 71,992                          | 12%                  |                                        | (4)%                               | 16 %                              | %       |
+|  1 | Hedging gains (losses)                     | 375                  |                       |                                   |                      |                                        |                                    |                                   |         |
+|  2 | Total revenues $ 61,880                    | $ 69,685             |                       | $ 71,992                          | 13 %                 | 1 %                                    | (4)%                               | 16 %                              |         |
+=== TABLE END ===

@@ -1,0 +1,57 @@
+Legal & Professional, Lonely Planet, Merck, Royal Philips, Showpad, Travelers, and United Airlines. New offerings
+include:
+•
+•
+•
+•
+General availability of Amazon Bedrock, a fully managed service that offers leading foundation models as a
+single application programming interface (API), along with capabilities that help customers build generative
+AI applications, simplifying development while maintaining privacy and security.
+More choice for Amazon Bedrock customers with the addition of Meta as a model provider. Amazon Bedrock
+is the first service to offer Meta's Llama 2 model as a fully managed service available through a single API.
+New model customization capability for Amazon CodeWhisperer, an AI-powered coding companion,
+allowing organizations to securely customize CodeWhisperer suggestions to include their internal code base.
+AWS Entity Resolution, an ML-powered analytics service that helps organizations improve the quality of
+their data by analyzing, matching, and linking related consumer, business, and product records stored across
+multiple applications, channels, and data stores.
+New business intelligence authoring capabilities for Amazon QuickSight, so data analysts can use natural
+language queries to ask forecast and “why” questions, receive accurate answers, and create compelling
+visualizations in seconds.
+Empowering employees and delivery service partners
+In addition to its focus on customers, Amazon strives to make every day better for its employees and delivery service partners.
+For example, the company:
+•
+•
+Announced that Amazon will hire 250,000 full-time, part-time, and seasonal employees in the U.S. this holiday
+season. Amazon also announced its largest-ever annual investment in U.S. hourly employee pay-$1.3 billion—
+bringing the new average hourly wage for customer fulfillment and delivery roles to more than $20.50 per hour. Over
+the last five years, Amazon has invested $10 billion in hourly employee wages.
+Added 14 benefits to Amazon's FamilyFlex program, which provides operations employees and their family members
+with tools to help them achieve personal and professional growth. New benefits include financial wellness resources,
+mental health offerings, and temporary schedule adjustment policies for flexibility. Amazon also extended its family-
+building and fertility benefits to support more than 1 million employees and their partners across Africa, Asia-Pacific,
+Europe, Latin America, and the Middle East.
+Announced an $840 million investment in the Delivery Service Partner (DSP) program in the U.S. to support DSPs in
+providing higher wages and more benefits to drivers, including childcare-support services and tuition reimbursement
+for coursework at accredited universities as part of the Next Mile education program, which already offers access to
+more than 2,000 academic programs and up to $5,250 in annual tuition coverage.
+Supporting communities and protecting the environment
+Amazon believes that success and scale bring broad responsibility to help the planet, future generations, and communities.
+Amazon employees have passion for investing in these areas, and a sampling of the efforts from this past quarter are that
+Amazon:
+•
+Supporting humanitarian aid efforts amid the Israel-Hamas war. Amazon is focused on ensuring that employees in the
+area are safe and have access to resources such as My HR Live Support, where employees can discuss their specific
+situations with advisers, and the Employee Assistance Program, which provides resources to support employees and
+their families. Amazon's disaster relief team has been in close contact with international humanitarian relief partners
+and is making financial contributions to these organizations. Amazon is making it easy for employees to contribute to
+them through Amazon GIVEhub, an internal tool to support volunteerism, donations, and community engagement.
+Activated Amazon's disaster relief teams to provide support in response to the Maui wildfires, Hurricane Idalia in
+Florida, and the earthquake in Morocco. Amazon mobilized its global logistics infrastructure and inventory, and
+quickly donated more than 300,000 relief items. Additionally, AWS helped set up temporary communications
+infrastructure to provide internet and phone connectivity in Maui in collaboration with the Information Technology
+Disaster Resource Center, and funded mappers to assess the earthquake-affected areas in Morocco.
+Committed to promoting the safe, secure, and transparent development of AI technology in collaboration with the
+White House, policymakers, technology organizations, and the AI community. The commitment builds on Amazon's
+approach to responsible AI development and lays the groundwork for enhancing the benefits of AI and minimizing its
+risks.

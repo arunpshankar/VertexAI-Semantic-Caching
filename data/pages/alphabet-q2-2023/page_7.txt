@@ -1,0 +1,186 @@
+Operating activities
+Alphabet Inc.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In millions, unaudited)
+Quarter Ended June 30,
+2022
+2023
+Year to Date June 30,
+2022
+2023
+Net income
+16,002 $
+18,368 $
+32,438 $
+33,419
+Adjustments:
+Depreciation and impairment of property and equipment
+3,698
+3,279
+7,289
+6,339
+Amortization and impairment of intangible assets
+201
+118
+392
+244
+Stock-based compensation expense
+Deferred income taxes
+Loss on debt and equity securities, net
+Other
+4,782
+5,774
+9,286
+11,058
+(2,147)
+(2,415)
+(4,237)
+(4,269)
+1,041
+509
+2,478
+425
+62
+97
+202
+650
+Changes in assets and liabilities, net of effects of acquisitions:
+Accounts receivable, net
+(1,969)
+(2,948)
+2,395
+1,506
+Income taxes, net(1)
+(4,073)
+4,451
+(253)
+8,520
+Other assets
+(845)
+(513)
+(1,621)
+(1,259)
+Accounts payable
+1,201
+1,119
+(1,172)
+14
+Accrued expenses and other liabilities
+1,497
+459
+(1,719)
+(4,037)
+Accrued revenue share
+(114)
+184
+(942)
+(418)
+Deferred revenue
+86
+184
+(8)
+(17)
+Net cash provided by operating activities
+19,422
+28,666
+44,528
+52,175
+Investing activities
+Purchases of property and equipment
+(6,828)
+(6,888)
+(16,614)
+(13,177)
+Purchases of marketable securities
+(21,737)
+(21,362)
+(50,199)
+(35,589)
+Maturities and sales of marketable securities
+25,595
+18,722
+55,374
+37,049
+Purchases of non-marketable securities
+(488)
+(887)
+(1,264)
+(1,513)
+Maturities and sales of non-marketable securities
+113
+145
+125
+181
+Acquisitions, net of cash acquired, and purchases of intangible
+assets
+(1,063)
+(298)
+(1,236)
+(340)
+Other investing activities
+221
+(232)
+576
+(357)
+Net cash used in investing activities
+(4,187)
+(10,800)
+(13,238)
+(13,746)
+Financing activities
+Net payments related to stock-based award activities
+(2,264)
+(2,736)
+(5,180)
+(4,725)
+Repurchases of stock
+(15,197)
+(14,969)
+(28,497)
+(29,526)
+Proceeds from issuance of debt, net of costs
+12,806
+1,123
+29,228
+8,050
+Repayments of debt
+(13,162)
+(1,255)
+(29,582)
+(8,207)
+Proceeds from sale of interest in consolidated entities, net
+0
+2
+0
+5
+Net cash used in financing activities
+(17,817)
+(17,835)
+(34,031)
+(34,403)
+Effect of exchange rate changes on cash and cash equivalents
+(368)
+(26)
+(268)
+24
+Net increase (decrease) in cash and cash equivalents
+Cash and cash equivalents at beginning of period
+(2,950)
+5
+(3,009)
+4,050
+20,886
+25,924
+20,945
+21,879
+Cash and cash equivalents at end of period
+$
+17,936 $
+25,929
+$
+17,936 $
+25,929
+(1)
+The three and six months periods ended June 30, 2023 include the effect of the IRS payment deferral relief made available
+to taxpayers headquartered in designated counties in California, The payment will be made in the fourth quarter of 2023.
+7

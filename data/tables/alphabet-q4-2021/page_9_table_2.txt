@@ -1,0 +1,11 @@
+|    | ('',)                                                            | ('2020',)   | ('2021',)   |
+|---:|:-----------------------------------------------------------------|:------------|:------------|
+|  0 | Interest income SA                                               | 386         | $ 378       |
+|  1 | Interest expense                                                 | (53)        | (117)       |
+|  2 | Foreign currency exchange gain (loss), net                       | (87)        | (163)       |
+|  3 | Gain (loss) on debt securities, net                              | 210         | (172)       |
+|  4 | Gain (loss) on equity securities, net(¹)                         | 3,052       | 2,650       |
+|  5 | Performance fees                                                 | (405)       | (228)       |
+|  6 | Income (loss) and impairment from equity method investments, net | 355         | 49          |
+|  7 | Other                                                            | (420)       | 120         |
+|  8 | Other income (expense), net $                                    | 3,038       | $ 2,517     |

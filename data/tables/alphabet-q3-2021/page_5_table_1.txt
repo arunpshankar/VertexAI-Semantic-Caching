@@ -1,0 +1,17 @@
+|    | ('Revenues',)                                                                      | ('46,173 $ 65,118 $ 125,629 $ 182,312',)   |
+|---:|:-----------------------------------------------------------------------------------|:-------------------------------------------|
+|  0 | Costs and expenses:                                                                |                                            |
+|  1 | Cost of revenues                                                                   | 21,117 27,621 58,652 77,951                |
+|  2 | Research and development                                                           | 6,856 7,694 20,551 22,854                  |
+|  3 | Sales and marketing                                                                | 4,231 5,516 12,632 15,308                  |
+|  4 | General and administrative                                                         | 2,756 3,256 8,221 9,370                    |
+|  5 | Total costs and expenses                                                           | 34,960 44,087 100,056 125,483              |
+|  6 | Income from operations                                                             | 11,213 21,031 25,573 56,829                |
+|  7 | Other income (expense), net                                                        | 2,146 2,033 3,820 9,503                    |
+|  8 | Income before income taxes                                                         | 13,359 23,064 29,393 66,332                |
+|  9 | Provision for income taxes                                                         | 2,112 4,128 4,351 10,941                   |
+| 10 | Net income                                                                         | $ 11,247 $ 18,936 $ 25,042 $ 55,391        |
+| 11 | Basic earnings per share of Class A and B common stock and Class C capital stock   | $ 16.55 $ 28.44 $ 36.69 $ 82.76            |
+| 12 | Diluted earnings per share of Class A and B common stock and Class Ċ capital stock | 16.40 $ 27.99 $ 36.38 $ 81.53              |
+| 13 | Number of shares used in basic earnings per share calculation                      | 679,449 665,758 682,561 669,312            |
+| 14 | Number of shares used in diluted earnings per share calculation                    | 685,851 676,519 688,381 679,401            |

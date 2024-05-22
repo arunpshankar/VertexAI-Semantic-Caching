@@ -1,0 +1,217 @@
+Segments
+North America Segment:
+AMAZON.COM, INC.
+Supplemental Financial Information and Business Metrics
+(in millions)
+(unaudited)
+Net sales
+Net sales -- Y/Y growth, excluding F/X
+Net sales TTM
+Operating income (loss)
+F/X impact
+favorable (unfavorable)
+Operating income (loss) -- Y/Y growth (decline), excluding F/X
+Operating margin -- % of North America net sales
+Operating income (loss) -- TTM
+Operating margin -- TTM % of North America net sales
+International Segment:
+Net sales
+Net sales Y/Y growth (decline), excluding F/X
+Net sales TTM
+Operating loss
+F/X impact--favorable (unfavorable)
+Operating loss -- Y/Y growth (decline), excluding F/X
+Operating margin -- % of International net sales
+Operating loss -- TTM
+Operating margin -- TTM % of International net sales
+AWS Segment:
+Net sales
+Net sales Y/Y growth, excluding F/X
+Net sales - TTM
+Operating income
+F/X impact
+favorable (unfavorable)
+Operating income -- Y/Y growth (decline), excluding F/X
+Operating margin -- % of AWS net sales
+Operating income -- TTM
+Operating margin -- TTM % of AWS net sales
+Q2 2022
+Q3 2022
+Q4 2022
+Q1 2023
+Q2 2023
+Q3 2023
+Y/Y %
+Change
+$ 74,430
+$ 78,843
+$ 93,363
+10 %
+20%
+14 %
+$ 76,881
+11 %
+$ 82,546 $ 87,887
+11 %
+11 %
+11 %
+N/A
+$291,591
+$304,877
+$315,880
+$323,517
+$331,633
+$340,677
+12 %
+$
+(627) $ (412) $ (240) $
+$
+61 $
+95 $
+76 $
+898
+41 $
+$ 3,211
+$ 4,307
+N/A
+(7) $ (27)
+N/A
+(122)%
+(158)%
+53 %
+(0.8)%
+(0.5)%
+(0.3)%
+N/A
+1.2 %
+N/A
+3.9 %
+N/A
+N/A
+4.9 %
+N/A
+$ (1,521)
+$ (2,813)
+$ (2,847) $
+(381) $ 3,457
+$ 8,176
+N/A
+(0.5)%
+(0.9)%
+(0.9)%
+(0.1)%
+1.0 %
+2.4 %
+N/A
+$ 27,065
+(1)%
+$ 27,720 $ 34,463
+12 %
+5 %
+$ 29,123
+$ 29,697
+9%
+10 %
+$ 32,137
+16 %
+11 %
+N/A
+$122,241
+$120,816
+$ (1,771) $ (2,466)
+$ (231) $ (216)
+$118,007
+$ (2,228)
+$ (331)
+$118,371 $121,003
+$125,420
+4%
+(526)%
+(6.5)%
+147 %
+(8.9)%
+$ (5,590) $ (7,145)
+(4.6)%
+(5.9)%
+17%
+(6.5)%
+$ (7,746)
+(6.6)%
+$ (1,247) $ (895) $ (95)
+$ (174) $ 32 $ 228
+(16)% (48)%
+(4.3)% (3.0)%
+$ (7,712) $ (6,836)
+(96)%
+N/A
+(87)%
+N/A
+(0.3)%
+N/A
+$ (4,465)
+(38)%
+(6.5)%
+(5.6)%
+(3.6)%
+N/A
+$ 19,739 $ 20,538 $ 21,378
+33 %
+28 %
+$ 21,354
+20%
+16%
+$ 22,140 $ 23,059
+12 %
+12%
+12 %
+N/A
+$ 72,070
+$ 5,715
+$ 76,498
+$ 5,403
+$ 80,096
+$ 5,205
+$ 83,009
+$ 5,123
+$ 85,410
+$ 5,365
+$ 87,931
+15 %
+$ 6,976
+29%
+$ 335
+$ 478
+$ 468
+$ 272
+$
+79
+$ (69)
+N/A
+28 %
+29.0%
+1 %
+26.3 %
+(10)%
+24.3 %
+(26)%
+24.0 %
+(8)%
+24.2 %
+30 %
+N/A
+30.3 %
+N/A
+$ 22,409
+$ 22,929
+31.1 %
+$ 22,841
+30.0 %
+$ 21,446
+$ 21,096
+$ 22,669
+(1)%
+28.5 %
+25.8%
+24.7 %
+25.8 %
+N/A

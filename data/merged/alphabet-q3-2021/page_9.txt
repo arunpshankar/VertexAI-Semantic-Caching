@@ -1,0 +1,57 @@
+=== START PAGE CONTENT ===
+Other income (expense), net
+The following table presents our other income (expense), net (in millions; unaudited):
+Quarter Ended
+September 30,
+Interest income
+Interest expense
+Foreign currency exchange gain (loss), net
+Gain (loss) on debt securities, net
+Gain (loss) on equity securities, net (1)
+Performance fees
+Income (loss) and impairment from equity method investments, net
+Other
+Other income (expense), net
+$
+2020
+2021
+460 $
+387
+(48)
+(77)
+(84)
+(139)
+116
+37
+1,899
+2,121
+(135)
+(492)
+26
+188
+(88)
+8
+2,146 $
+2,033
+(1)
+Includes all gains and losses, unrealized and realized, on equity investments. For Q3 2021, the net effect of the gain on
+equity securities of $2,121 million and the performance fees of $492 million increased the provision for income tax, net
+income, and diluted EPS by $342 million, $1,287 million, and $1.90, respectively. Fluctuations in the value of our
+investments may be affected by market dynamics and other factors and could significantly contribute to the volatility of
+OI&E in future periods.
+0
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('',)                                                            | ('2020',)   | ('2021',)   |
+|---:|:-----------------------------------------------------------------|:------------|:------------|
+|  0 | Interest income                                                  | 460         | $ 387       |
+|  1 | Interest expense                                                 | (48)        | (77)        |
+|  2 | Foreign currency exchange gain (loss), net                       | (84)        | (139)       |
+|  3 | Gain (loss) on debt securities, net                              | 116         | 37          |
+|  4 | Gain (loss) on equity securities, net (¹)                        | 1,899       | 2,121       |
+|  5 | Performance fees                                                 | (135)       | (492)       |
+|  6 | Income (loss) and impairment from equity method investments, net | 26          | 188         |
+|  7 | Other                                                            | (88)        | 8           |
+|  8 | Other income (expense), net $                                    | 2,146       | $ 2,033     |
+=== TABLE END ===

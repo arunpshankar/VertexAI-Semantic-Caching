@@ -1,0 +1,5 @@
+|    | ('',)                                     | ('Quarter Ended March 31, 2023',)   |
+|---:|:------------------------------------------|:------------------------------------|
+|  0 | Net cash provided by operating activities | $ 23,509                            |
+|  1 | Less: purchases of property and equipment | (6,289)                             |
+|  2 | Free cash flow                            | $ 17,220                            |

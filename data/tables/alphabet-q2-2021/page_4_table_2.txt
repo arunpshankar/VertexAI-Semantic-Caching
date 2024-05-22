@@ -1,0 +1,10 @@
+|    | ('shares issued and outstanding',)                                                                                                                                       | ('0 0',)          |
+|---:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------|
+|  0 | Class A and Class B common stock, and Class C capital stock and additional paid-in capital, $0.001 par value per share: 15,000,000 shares authorized (Class A 9,000,000, |                   |
+|  1 | Class B 3,000,000, Class C 3,000,000); 675,222 (Class A 300,730, Class B 45,843,                                                                                         |                   |
+|  2 | Class C 328,649) and 667,637 (Class A 301,040, Class B 45,546, Class C 321,051)                                                                                          |                   |
+|  3 | shares issued and outstanding                                                                                                                                            | 58,510 60,436     |
+|  4 | Accumulated other comprehensive income (loss)                                                                                                                            | 633 190           |
+|  5 | Retained earnings                                                                                                                                                        | 163,401 176,939   |
+|  6 | Total stockholders' equity                                                                                                                                               | 222,544 237,565   |
+|  7 | Total liabilities and stockholders' equity $                                                                                                                             | 319,616 $ 335,387 |

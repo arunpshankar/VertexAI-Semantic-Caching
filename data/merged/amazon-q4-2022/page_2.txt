@@ -1,0 +1,58 @@
+=== START PAGE CONTENT ===
+•
+•
+•
+Operating income decreased to $12.2 billion in 2022, compared with $24.9 billion in 2021.
+•
+•
+•
+North America segment operating loss was $2.8 billion, compared with operating income of $7.3 billion in
+2021.
+International segment operating loss was $7.7 billion, compared with operating loss of $0.9 billion in 2021.
+AWS segment operating income was $22.8 billion, compared with operating income of $18.5 billion in 2021.
+Net loss was $2.7 billion in 2022, or $0.27 per diluted share, compared with net income of $33.4 billion, or $3.24 per
+diluted share, in 2021.
+•
+2022 net loss includes a pre-tax valuation loss of $12.7 billion included in non-operating income (expense)
+from the common stock investment in Rivian Automotive, Inc., compared to a pre-tax valuation gain of $11.8
+billion from the investment in 2021.
+Operating cash flow increased 1% to $46.8 billion for the trailing twelve months, compared with $46.3 billion for the
+trailing twelve months ended December 31, 2021.
+Free cash flow decreased to an outflow of $11.6 billion for the trailing twelve months, compared with an outflow of
+$9.1 billion for the trailing twelve months ended December 31, 2021.
+Free cash flow less principal repayments of finance leases and financing obligations increased to an outflow of
+$19.8 billion for the trailing twelve months, compared with an outflow of $20.4 billion for the trailing twelve months
+ended December 31, 2021.
+Free cash flow less equipment finance leases and principal repayments of all other finance leases and financing
+obligations increased to an outflow of $12.8 billion for the trailing twelve months, compared with an outflow of $14.3
+billion for the trailing twelve months ended December 31, 2021.
+"Our relentless focus on providing the broadest selection, exceptional value, and fast delivery drove customer demand in our
+Stores business during the fourth quarter that exceeded our expectations—and we're appreciative of all our customers who
+turned to Amazon this past holiday season,” said Andy Jassy, Amazon CEO. “We're also encouraged by the continued progress
+we're making in reducing our cost to serve in the operations part of our Stores business. In the short term, we face an uncertain
+economy, but we remain quite optimistic about the long-term opportunities for Amazon. The vast majority of total market
+segment share in both Global Retail and IT still reside in physical stores and on-premises datacenters; and as this equation
+steadily flips, we believe our leading customer experiences in these areas along with the results of our continued hard work and
+invention to improve every day, will lead to significant growth in the coming years. When you also factor in our investments
+and innovation in several other broad customer experiences (e.g. streaming entertainment, customer-first healthcare, broadband
+satellite connectivity for more communities globally), there's additional reason to feel optimistic about what the future holds."
+Highlights
+Obsessing over the customer experience
+Amazon obsesses over how to make customers' lives better and easier every day. This is true for consumers, sellers, brands,
+developers, enterprises, and creators. For example, in the past quarter, Amazon:
+Had a record-breaking holiday season with customers purchasing nearly half a billion items from small businesses in
+the U.S. During Amazon's biggest Thanksgiving-through-Cyber-Monday holiday shopping weekend ever, customers
+around the world purchased hundreds of millions of products, and small businesses in the U.S. generated more than $1
+billion in sales over the five-day period.
+Made Same-Day Delivery even faster in major metropolitan areas in the U.S., such as Los Angeles, San Francisco,
+Phoenix, Sacramento, and Portland, Oregon, where customers can now receive hundreds of thousands of items within
+hours. Amazon's new Same-Day Delivery site in Sacramento is set to be the world's first logistics facility certified as
+Zero Carbon by the International Living Future Institute. In the EU, Same-Day Delivery is now available in Belgium.
+Attracted more than 100 million viewers worldwide to the first season of The Lord of the Rings: The Rings of Power,
+making it the most watched Amazon Original series in every region of the world, with more than 24 billion minutes
+streamed, and driving more Prime sign-ups worldwide during its launch window than any previous Prime Video
+content. Amazon Studios also announced the all-female slate of directors-Charlotte Brändström, Sanaa Hamri, and
+Louise Hooper for Season Two of The Lord of the Rings: The Rings of Power, which is currently in production in the
+UK.
+
+=== END PAGE CONTENT ===

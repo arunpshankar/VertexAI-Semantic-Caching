@@ -1,0 +1,8 @@
+|    | ('shares issued; 10,242 and 10,383 shares outstanding)',)   | ('108',)    | ('109',)   |
+|---:|:------------------------------------------------------------|:------------|:-----------|
+|  0 | Treasury stock, at cost                                     | (7,837)     | (7,837)    |
+|  1 | Additional paid-in capital                                  | 75,066      | 99,025     |
+|  2 | Accumulated other comprehensive income (loss)               | (4,487)     | (3,040)    |
+|  3 | Retained earnings                                           | 83,193      | 113,618    |
+|  4 | Total stockholders' equity                                  | 146,043     | 201,875    |
+|  5 | Total liabilities and stockholders' equity                  | $ 462,675 $ | 527,854    |

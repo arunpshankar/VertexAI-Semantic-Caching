@@ -1,0 +1,206 @@
+AMAZON.COM, INC.
+Consolidated Statements of Cash Flows
+(in millions)
+(unaudited)
+Three Months Ended
+March 31,
+Twelve Months Ended
+March 31,
+2021
+2022
+2021
+2022
+CASH, CASH EQUIVALENTS, AND RESTRICTED CASH, BEGINNING OF PERIOD
+OPERATING ACTIVITIES:
+$
+42,377
+$ 36,477
+$ 27,505 $ 34,155
+Net income (loss)
+8,107
+(3,844)
+26,903
+21,413
+Adjustments to reconcile net income (loss) to net cash from operating activities:
+Depreciation and amortization of property and equipment and capitalized content costs,
+operating lease assets, and other
+7,508
+8,978
+27,397
+35,766
+Stock-based compensation
+2,306
+3,250
+9,757
+13,701
+Other operating expense (income), net
+30
+215
+(108)
+322
+Other expense (income), net
+Deferred income taxes
+Changes in operating assets and liabilities:
+Inventories
+Accounts receivable, net and other
+(1,456)
+8,689
+(4,603)
+(4,161)
+1,703
+(2,001)
+827
+(4,014)
+(304)
+(2,614)
+(4,545)
+(11,797)
+(2,255)
+(1,516)
+(11,686) (17,424)
+Accounts payable
+(8,266)
+(9,380)
+17,258
+2,488
+Accrued expenses and other
+(4,060)
+(5,903)
+4,455
+280
+Unearned revenue
+900
+1,336
+1,558
+2,750
+Net cash provided by (used in) operating activities
+4,213
+(2,790)
+67,213
+39,324
+INVESTING ACTIVITIES:
+Purchases of property and equipment
+(12,082)
+(14,951)
+(45,427)
+(63,922)
+Proceeds from property and equipment sales and incentives
+895
+1,209
+4,624
+5,971
+Acquisitions, net of cash acquired, and other
+(630)
+(6,341)
+(2,864)
+(7,696)
+Sales and maturities of marketable securities
+17,826
+22,753
+56,437
+64,311
+Purchases of marketable securities
+(14,675)
+(1,764)
+(72,153)
+(47,246)
+Net cash provided by (used in) investing activities
+(8,666)
+906
+(59,383)
+(48,582)
+FINANCING ACTIVITIES:
+Common stock repurchased
+(2,666)
+(2,666)
+Proceeds from short-term debt, and other
+1,926
+13,743
+8,105
+19,773
+Repayments of short-term debt, and other
+(2,001)
+(6,231)
+(7,547)
+(11,983)
+Proceeds from long-term debt
+Repayments of long-term debt
+Principal repayments of finance leases
+Principal repayments of financing obligations
+Net cash provided by (used in) financing activities
+Foreign currency effect on cash, cash equivalents, and restricted cash
+Net increase (decrease) in cash, cash equivalents, and restricted cash
+CASH, CASH EQUIVALENTS, AND RESTRICTED CASH, END OF PERIOD
+SUPPLEMENTAL CASH FLOW INFORMATION:
+Cash paid for interest on debt
+111
+10,560
+18,892
+(39)
+(1,556)
+(1,551)
+(3,406)
+(2,777)
+(11,448)
+(10,534)
+(67)
+(79)
+(103)
+(174)
+(3,476)
+1,990
+(1,989)
+11,757
+(293)
+16
+809
+(55)
+(8,222)
+122
+6,650
+2,444
+$ 34,155 $
+36,599
+$
+34,155 $
+36,599
+$
+276 $
+279 $
+902 $
+1,101
+Cash paid for operating leases
+1,640
+2,367
+5,086
+7,449
+Cash paid for interest on finance leases
+157
+107
+601
+471
+Cash paid for interest on financing obligations
+33
+58
+113
+178
+Cash paid for income taxes, net of refunds
+801
+453
+2,209
+3,340
+Assets acquired under operating leases
+3,536
+2,175
+17,345
+24,008
+Property and equipment acquired under finance leases
+2,067
+166
+11,489
+5,160
+Property and equipment acquired under build-to-suit arrangements
+887
+1,332
+2,775
+6,061

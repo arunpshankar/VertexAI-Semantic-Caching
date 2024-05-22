@@ -1,0 +1,9 @@
+|    | ('Revenues',)                                             | ('2020 2021 46,173 $ 65,118',)   |
+|---:|:----------------------------------------------------------|:---------------------------------|
+|  0 | Increase in revenues year over year                       | 14 % 41 %                        |
+|  1 | Increase in constant currency revenues year over year (¹) | 15 % 39%                         |
+|  2 | Operating income                                          | SA 11,213 $ 21,031               |
+|  3 | Operating margin                                          | 24 % 32%                         |
+|  4 | Other income (expense), net                               | SA 2,146 2,033                   |
+|  5 | Net income                                                | 11,247 $ 18,936                  |
+|  6 | Diluted EPS                                               | $ 16.40 27.99                    |

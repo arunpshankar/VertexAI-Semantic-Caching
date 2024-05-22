@@ -1,0 +1,102 @@
+=== START PAGE CONTENT ===
+Q2 2023 Supplemental Information (in millions, except for number of employees; unaudited)
+Revenues, Traffic Acquisition Costs (TAC), and Number of Employees
+Google Search & other
+YouTube ads
+Google Network
+Google advertising
+Google other
+Google Services total
+Google Cloud
+Other Bets
+Hedging gains (losses)
+Total revenues
+Total TAC
+Number of employees (1)
+(1)
+Quarter Ended June 30,
+2022
+2023
+40,689 $
+42,628
+7,340
+7,665
+8,259
+7,850
+56,288
+58,143
+6,553
+8,142
+62,841
+66,285
+6,276
+8,031
+193
+285
+375
+3
+69,685 $
+74,604
+12,214
+12,537
+174,014
+181,798
+The substantial majority of the employees affected by the reduction of our workforce are no longer included in
+our headcount as of June 30, 2023. We expect most of the remaining employees affected will no longer be
+reflected in our headcount by the end of 2023, subject to local law and consultation requirements.
+Segment Operating Results
+As announced on April 20, 2023, we brought together part of Google Research (the Brain team) and DeepMind to
+significantly accelerate our progress in artificial intelligence (AI). The group, called Google DeepMind, is reported
+within Alphabet's unallocated corporate costs prospectively beginning in the second quarter of 2023. Previously, the
+Brain team was included within Google Services.
+Quarter Ended June 30,
+2022
+2023
+(recast)
+Operating income (loss):
+Google Services
+Google Cloud
+Other Bets
+21,621
+(590)
+(1,339)
+23,454
+395
+(813)
+Corporate costs, unallocated (1)
+Total income from operations
+(239)
+19,453 $
+(1,198)
+21,838
+(1)
+In addition to the Alphabet-level costs included in unallocated corporate costs, hedging gains (losses) related to revenue
+were $375 million and $3 million for the three months ended June 30, 2022 and 2023, respectively.
+2
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('',)                            | ('2022 2023 (recast)',)   |
+|---:|:---------------------------------|:--------------------------|
+|  0 | Operating income (loss):         |                           |
+|  1 | Google Services                  | 21,621 $ 23,454           |
+|  2 | Google Cloud                     | 395 (590)                 |
+|  3 | Other Bets                       | (1,339) (813)             |
+|  4 | Corporate costs, unallocated (1) | (239) (1,198)             |
+|  5 | Total income from operations     | $ 19,453 $ 21,838         |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('2022 Google Search & other 40,689',)   | ('2023 $ 42,628',)   |
+|---:|:-----------------------------------------|:---------------------|
+|  0 | YouTube ads 7,340                        | 7,665                |
+|  1 | 8,259 Google Network                     | 7,850                |
+|  2 | 56,288 Google advertising                | 58,143               |
+|  3 | Google other 6,553                       | 8,142                |
+|  4 | Google Services total 62,841             | 66,285               |
+|  5 | Google Cloud 6,276                       | 8,031                |
+|  6 | Other Bets 193                           | 285                  |
+|  7 | Hedging gains (losses) 375               |                      |
+|  8 | Total revenues 69,685                    | $ 74,604             |
+|  9 | Total TAC EA 12,214                      | $ 12,537             |
+| 10 | Number of employees (¹) 174,014          | 181,798              |
+=== TABLE END ===

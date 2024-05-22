@@ -1,0 +1,45 @@
+=== START PAGE CONTENT ===
+amazon
+AMAZON.COM ANNOUNCES THIRD QUARTER RESULTS
+SEATTLE (BUSINESS WIRE) October 27, 2022-Amazon.com, Inc. (NASDAQ: AMZN) today announced financial
+results for its third quarter ended September 30, 2022.
+•
+•
+•
+Net sales increased 15% to $127.1 billion in the third quarter, compared with $110.8 billion in third quarter 2021.
+Excluding the $5.0 billion unfavorable impact from year-over-year changes in foreign exchange rates throughout the
+quarter, net sales increased 19% compared with third quarter 2021.
+•
+•
+•
+North America segment sales increased 20% year-over-year to $78.8 billion.
+International segment sales decreased 5% year-over-year to $27.7 billion, but increased 12% excluding
+changes in foreign exchange rates.
+AWS segment sales increased 27% year-over-year to $20.5 billion, or increased 28% excluding changes in
+foreign exchange rates.
+Operating income decreased to $2.5 billion in the third quarter, compared with $4.9 billion in third quarter 2021.
+•
+•
+•
+North America segment operating loss was $0.4 billion, compared with operating income of $0.9 billion in
+third quarter 2021.
+International segment operating loss was $2.5 billion, compared with operating loss of $0.9 billion in third
+quarter 2021.
+AWS segment operating income was $5.4 billion, compared with operating income of $4.9 billion in third
+quarter 2021.
+Net income decreased to $2.9 billion in the third quarter, or $0.28 per diluted share, compared with $3.2 billion, or
+$0.31 per diluted share, in third quarter 2021.
+Third quarter 2022 net income includes a pre-tax valuation gain of $1.1 billion included in non-operating
+income from the common stock investment in Rivian Automotive, Inc.
+Operating cash flow decreased 27% to $39.7 billion for the trailing twelve months, compared with $54.7 billion for
+the trailing twelve months ended September 30, 2021.
+Free cash flow decreased to an outflow of $19.7 billion for the trailing twelve months, compared with an inflow of
+$2.6 billion for the trailing twelve months ended September 30, 2021.
+Free cash flow less principal repayments of finance leases and financing obligations decreased to an outflow of
+$28.5 billion for the trailing twelve months, compared with an outflow of $8.8 billion for the trailing twelve months
+ended September 30, 2021.
+Free cash flow less equipment finance leases and principal repayments of all other finance leases and financing
+obligations decreased to an outflow of $21.5 billion for the trailing twelve months, compared with an outflow of $3.9
+billion for the trailing twelve months ended September 30, 2021.
+
+=== END PAGE CONTENT ===

@@ -1,0 +1,88 @@
+=== START PAGE CONTENT ===
+Microsoft Cloud Strength Drives First Quarter Results
+REDMOND, Wash.
+-
+October 26, 2021 — Microsoft Corp. today announced the following results for
+the quarter ended September 30, 2021, as compared to the corresponding period of last fiscal year:
+. Revenue was $45.3 billion and increased 22%
+•
+•
+•
+.
+Operating income was $20.2 billion and increased 27%
+Net income was $20.5 billion GAAP and $17.2 billion non-GAAP, and increased 48% and 24%,
+respectively
+Diluted earnings per share was $2.71 GAAP and $2.27 non-GAAP, and increased 49% and 25%,
+respectively
+GAAP results include a $3.3 billion net income tax benefit explained in the Non-GAAP Definition
+section below
+"Digital technology is a deflationary force in an inflationary economy. Businesses - small and large - can
+improve productivity and the affordability of their products and services by building tech intensity," said
+Satya Nadella, chairman and chief executive officer of Microsoft. "The Microsoft Cloud delivers the end-
+to-end platforms and tools organizations need to navigate this time of transition and change."
+"We delivered a strong start to the fiscal year with our Microsoft Cloud generating $20.7 billion in revenue
+for the quarter, up 36% year over year," said Amy Hood, executive vice president and chief financial officer
+of Microsoft.
+The following table reconciles our financial results reported in accordance with generally accepted
+accounting principles (GAAP) to non-GAAP financial results. Additional information regarding our non-
+GAAP definition is provided below. All growth comparisons relate to the corresponding period in the last
+fiscal year.
+Three Months Ended September 30,
+Diluted
+($ in millions, except per share amounts)
+Revenue
+Operating
+Income
+Net Income
+Earnings
+per Share
+2020 As Reported (GAAP)
+$37,154
+$15,876
+$13,893
+$1.82
+2021 As Reported (GAAP)
+$45,317
+$20,238
+$20,505
+$2.71
+Net income tax benefit related to transfer of intangible
+properties
+(3,291)
+(0.44)
+2021 As Adjusted (non-GAAP)
+$45,317
+$20,238
+$17,214
+$2.27
+Percentage Change Y/Y (GAAP)
+22%
+27%
+48%
+49%
+Percentage Change Y/Y (non-GAAP)
+22%
+27%
+24%
+25%
+Percentage Change Y/Y (non-GAAP) Constant Currency
+20%
+24%
+22%
+23%
+Business Highlights
+Revenue in Productivity and Business Processes was $15.0 billion and increased 22% (up 20% in constant
+currency), with the following business highlights:
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('($ in millions, except per share amounts)',)                      | ('Revenue',)   | ('Operating Income',)   | ('Net Income',)   | ('Earnings per Share',)   |
+|---:|:--------------------------------------------------------------------|:---------------|:------------------------|:------------------|:--------------------------|
+|  0 | 2020 As Reported (GAAP)                                             | $37,154        | $15,876                 | $13,893           | $1.82                     |
+|  1 | 2021 As Reported (GAAP)                                             | $45,317        | $20,238                 | $20,505           | $2.71                     |
+|  2 | Net income tax benefit related to transfer of intangible properties |                |                         | (3,291)           | (0.44)                    |
+|  3 | 2021 As Adjusted (non-GAAP)                                         | $45,317        | $20,238                 | $17,214           | $2.27                     |
+|  4 | Percentage Change Y/Y (GAAP)                                        | 22%            | 27%                     | 48%               | 49%                       |
+|  5 | Percentage Change Y/Y (non-GAAP)                                    | 22%            | 27%                     | 24%               | 25%                       |
+|  6 | Percentage Change Y/Y (non-GAAP) Constant Currency                  | 20%            | 24%                     | 22%               | 23%                       |
+=== TABLE END ===

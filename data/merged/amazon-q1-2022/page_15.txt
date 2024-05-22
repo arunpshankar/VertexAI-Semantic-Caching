@@ -1,0 +1,263 @@
+=== START PAGE CONTENT ===
+Segments
+North America Segment:
+AMAZON.COM, INC.
+Supplemental Financial Information and Business Metrics
+(in millions)
+(unaudited)
+Net sales
+Net sales - Y/Y growth, excluding F/X
+Net sales -- TTM
+Operating income (loss)
+F/X impact
+favorable
+Operating income (loss) -- Y/Y growth (decline), excluding F/X
+Operating margin -- % of North America net sales
+Y/Y %
+Q4 2020
+Q1 2021
+Q2 2021
+Q3 2021
+Q4 2021
+Q1 2022
+Change
+$ 75,346
+40 %
+$ 64,366 $ 67,550
+39 %
+$ 65,557
+$236,282
+$254,521
+21 %
+$266,635
+$ 82,360
+10 %
+$272,819
+$ 69,244
+8%
+9%
+8%
+N/A
+$279,833
+$284,711
+12 %
+$ 2,946
+$ 3,450
+$ 3,147
+$ 880 $ (206)
+$ (1,568)
+(145)%
+$
+7
+$
+8 $
+55 %
+162 %
+3.9%
+5.4 %
+34 $
+45 %
+4.7 %
+14 $ 32 $ 42
+N/A
+(62)%
+1.3 %
+(108)%
+(0.2)%
+(147)%
+N/A
+(2.3)%
+N/A
+$ 8,651
+$ 10,789
+$ 11,795
+3.7 %
+4.2 %
+4.4 %
+$ 10,423 $ 7,271 $ 2,253
+3.8 % 2.6%
+(79)%
+0.8 %
+N/A
+Operating income -- TTM
+Operating margin -- TTM % of North America net sales
+Net sales
+International Segment:
+Net sales Y/Y growth, excluding F/X
+$ 37,467
+$ 30,649
+$ 30,721
+$ 29,145
+$ 37,272
+50%
+50 %
+26 %
+15%
+$ 28,759
+3%
+(6)%
+0%
+N/A
+Net sales -- TTM
+$104,412
+$115,955
+$124,008
+$127,982
+$127,787
+$125,897
+9%
+Operating income (loss)
+$ 363
+$ 1,252
+$
+F/X impact
+favorable (unfavorable)
+$
+232 $ 270
+$
+362
+199
+$ (911)
+$ (1,627)
+$ (1,281)
+(202)%
+$ 24
+$ (58) $ (79)
+N/A
+Operating income (loss) -- Y/Y growth (decline), excluding F/X
+Operating margin -- % of International net sales
+N/A
+1.0 %
+347 %
+4.1 %
+(53)%
+1.2 %
+(330)%
+(3.1)%
+(533)%
+(196)%
+N/A
+(4.4)%
+(4.5)%
+N/A
+Operating income (loss) -- TTM
+$
+Operating margin -- TTM % of International net sales
+717
+0.7%
+$ 2,367
+$ 2,384
+2.0 %
+$ 1,066 $
+1.9 %
+(924) $ (3,457)
+(246)%
+0.8 %
+(0.7)%
+(2.7)%
+N/A
+AWS Segment:
+Net sales
+Net sales Y/Y growth, excluding F/X
+Net sales - TTM
+Operating income
+$ 12,742
+$ 45,370
+$ 3,564
+Operating income -- TTM
+F/X impact
+favorable (unfavorable)
+Operating income -- Y/Y growth, excluding F/X
+Operating margin -- % of AWS net sales
+Operating margin -- TTM % of AWS net sales
+$
+(96) $
+41 %
+28.0 %
+$ 13,503 $ 14,809 $ 16,110 $ 17,780
+28 %
+32 %
+37 %
+39 %
+$ 48,654 $ 52,655
+$ 4,163 $ 4,193
+(171) $
+41 %
+30.8 %
+$ 18,441
+37 %
+40%
+37 %
+N/A
+$ 57,164
+$ 62,202
+$ 67,140
+38 %
+$ 4,883
+$ 5,293
+$ 6,518
+57%
+(226) $
+32 %
+28.3 %
+(58)
+$
+40 %
+30.3 %
+83
+46%
+29.8 %
+$ 163
+N/A
+53 %
+N/A
+35.3 %
+N/A
+$ 13,531
+$ 14,619
+$ 15,455
+$ 16,803
+$ 18,532
+$ 20,887
+43 %
+29.8 %
+30.0 %
+29.4 %
+29.4 %
+29.8 %
+31.1 %
+N/A
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('Net sales',)                                                 | ('$ 75,346 $ 64,366 $ 67,550 $ 65,557 $ 82,360 $ 69,244 8 %',)   |
+|---:|:---------------------------------------------------------------|:-----------------------------------------------------------------|
+|  0 | Net sales - Y/Y growth, excluding F/X                          | 40 % 39 % 21 % 10% 9% 8 % N/A                                    |
+|  1 | Net sales - TTM                                                | $236,282 $254,521 $266,635 $272,819 $279,833 $284,711 12%        |
+|  2 | Operating income (loss)                                        | $ 2,946 $ 3,450 $ 3,147 $ 880 $ (206) $ (1,568) (145)%           |
+|  3 | F/X impact favorable                                           | $ 7 $ 8 $ 34 $ 14 $ 32 $ 42 N/A                                  |
+|  4 | Operating income (loss) -- Y/Y growth (decline), excluding F/X | 55 % 162 % 45 % (62)% (108)% (147)% N/A                          |
+|  5 | Operating margin -- % of North America net sales               | 3.9 % 5.4 % 4.7 % 1.3 % (0.2)% (2.3)% N/A                        |
+|  6 | Operating income -- TTM                                        | $ 8,651 $ 10,789 $ 11,795 $ 10,423 $ 7,271 $ 2,253 (79)%         |
+|  7 | Operating margin -- TTM % of North America net sales           | 3.7 % 4.2 % 4.4% 3.8 % 2.6 % 0.8 % N/A                           |
+|  8 | International Segment:                                         |                                                                  |
+|  9 | Net sales                                                      | $ 37,467 $ 30,649 $ 30,721 $ 29,145 $ 37,272 $ 28,759 (6)%       |
+| 10 | Net sales - Y/Y growth, excluding F/X                          | 50 % 50 % 26% 15 % 3% 0 % N/A                                    |
+| 11 | Net sales TTM                                                  | $104,412 $115,955 $124,008 $127,982 $127,787 $125,897 9 %        |
+| 12 | Operating income (loss)                                        | $ 363 $ 1,252 $ 362 $ (911) $ (1,627) $ (1,281) (202)%           |
+| 13 | F/X impact favorable (unfavorable)                             | $ 232 $ 270 $ 199 $ 24 $ (58) $ (79) N/A                         |
+| 14 | Operating income (loss) -- Y/Y growth (decline), excluding F/X | N/A 347 % (53)% (330)% (533)% (196)% N/A                         |
+| 15 | Operating margin -- % of International net sales               | 1.0 % 4.1 % 1.2 % (3.1)% (4.4)% (4.5)% N/A                       |
+| 16 | Operating income (loss) -- TTM                                 | $ 717 $ 2,367 $ 2,384 $ 1,066 $ (924) $ (3,457) (246)%           |
+| 17 | Operating margin -- TTM % of International net sales           | 0.7% 2.0 % 1.9 % 0.8% (0.7)% (2.7)% N/A                          |
+| 18 | AWS Segment:                                                   |                                                                  |
+| 19 | Net sales                                                      | $ 12,742 $ 13,503 $ 14,809 $ 16,110 $ 17,780 $ 18,441 37%        |
+| 20 | Net salesY/Y growth, excluding F/X                             | 28 % 32 % 37 % 39% 40 % 37 % N/A                                 |
+| 21 | Net sales - TTM                                                | $ 45,370 $ 48,654 $ 52,655 $ 57,164 $ 62,202 $ 67,140 38 %       |
+| 22 | Operating income                                               | $ 3,564 $ 4,163 $ 4,193 $ 4,883 $ 5,293 $ 6,518 57 %             |
+| 23 | F/X impact--favorable (unfavorable)                            | $ (96) $ (171) $ (226) $ (58) $ 83 $ 163 N/A                     |
+| 24 | Operating income -- Y/Y growth, excluding F/X                  | 41 % 41 % 32 % 40 % 46% 53 % N/A                                 |
+| 25 | Operating margin -- % of AWS net sales                         | 28.0 % 30.8 % 28.3 % 30.3 % 29.8 % 35.3 % N/A                    |
+| 26 | Operating income -- TTM                                        | $ 13,531 $ 14,619 $ 15,455 $ 16,803 $ 18,532 $ 20,887 43 %       |
+| 27 | Operating margin -- TTM % of AWS net sales                     | 29.8% 30.0 % 29.4 % 29.4 % 29.8% 31.1 % N/A                      |
+=== TABLE END ===

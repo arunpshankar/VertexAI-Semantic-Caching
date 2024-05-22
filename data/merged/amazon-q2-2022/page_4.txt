@@ -1,0 +1,60 @@
+=== START PAGE CONTENT ===
+stream exclusively on the Wondery+ subscription service in 30 countries. Wondery also brought more original content
+to its global audience, including local-language translations of the investigative series Harsh Reality: The Story of
+Miriam Rivera; Business Wars in Spain and Italy; and original dating show Queen of Hearts worldwide.
+Audible signed a deal with President Barack Obama and Michelle Obama's production company, Higher Ground, to
+create a slate of Audible shows. This new partnership reflects the companies' shared mission to tell meaningful and
+entertaining stories that elevate diverse voices and experiences.
+Devices and Services
+•
+•
+•
+Automakers continue to launch Alexa integrations in new vehicle models, including the 2023 Acura Integra, 2023 GM
+Equinox, and 2022 Lucid Air. With Alexa Built-in, customers can ask Alexa to navigate, play music and audiobooks,
+share the news, check the weather, control smart home devices, pay for gas, and find parking. Customers can also
+remotely control their vehicle from home by asking Alexa to lock or unlock the car doors, check gas levels or charging
+range, and start or stop the engine. These automakers join other companies with existing integrations such as Audi,
+BMW, Chrysler, Ford, GM, Jaguar-Land Rover, Jeep, Mahindra, Rivian, and Volkswagen.
+Amazon added new features to Alexa Together, a service that helps aging family members feel more comfortable and
+confident living independently. Up to 10 caregivers can remotely support their aging loved one's Alexa devices from
+afar with the Circle of Support feature, and the Remote Assist feature allows caregivers to remotely set up Alexa
+Routines, such as locking the door and turning off the lights at a certain time of night.
+Amazon launched new features to make Alexa smarter, more proactive, and more personal. Customers can now opt in
+to receive proactive notifications from Alexa about their favorite sports team, weather updates in their area, and when
+it's time to refill their prescriptions. Additionally, Call Captioning, which shows captions on Echo Show devices
+during Alexa video calls, now supports Spanish, French, and Portuguese.
+Amazon now has over 1 million registered developers, brands, and device makers building with Alexa. The company
+continues to invent new ways for these builders to increase revenue and customer engagement, including the Alexa
+Routines Kit, which enables developers to configure and offer Alexa Routines to customers when they interact with a
+skill. For example, developers can integrate their skills into a customer's morning routine, along with other Alexa
+experiences like smart home controls and music.
+Amazon introduced the next generation of Fire 7 and Fire 7 Kids, bringing more speed, performance, and value to the
+company's most popular and affordable tablet.
+Amazon introduced new smart TVs with Fire TV built-in from Hisense and Xiaomi. With Fire TV built-in, customers
+get a content-driven viewing experience, a simple and intuitive user interface, Alexa, and hands-free TV control.
+Blink launched the first Blink Video Doorbell in France, Germany, Italy, the Netherlands, Spain, and the UK.
+Amazon Web Services
+AWS continues to be the most broadly adopted set of cloud infrastructure services and announced new commitments
+and migrations from customers across many industries and geographies.
+•
+•
+•
+Travel and hospitality: Delta Air Lines selected AWS as preferred cloud provider to accelerate its digital
+business transformation and reimagine the travel experience. Using AWS, Delta will deliver new digital
+travel services, streamline its operations, enhance customer service from the booking process to the flight
+experience, and provide cloud training to employees globally.
+Media and entertainment: Riot Games and AWS have teamed up to bring AWS's data analytics integration
+to esports broadcasts for the first time, through Riot's League of Legends, VALORANT, and League of
+Legends: Wild Rift esports leagues. AWS will also power Riot's new cloud-first remote broadcast centers,
+which will support Riot's current and future ambitions to reimagine entertainment experiences for billions of
+fans worldwide.
+Telecommunications: The UK's largest telecommunications company, BT, selected AWS as preferred cloud
+provider to transform legacy infrastructure and internal applications to a new cloud-first architecture. This
+will simplify BT's current information technology (IT) footprint, enabling it to more rapidly serve customers
+and reducing costs in IT maintenance.
+Financial services: Investment banking firm Jefferies will migrate all its IT systems to AWS, including
+internal and customer-facing applications, IT resources, and companywide data, as it looks to modernize its
+technology infrastructure, accelerate new digital services, realize operational efficiencies, and increase
+security and reliability.
+
+=== END PAGE CONTENT ===

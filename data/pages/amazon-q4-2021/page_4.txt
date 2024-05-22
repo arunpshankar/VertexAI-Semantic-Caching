@@ -1,0 +1,55 @@
+The Blippi's Treehouse series debuted exclusively on Amazon Kids+ in Canada, the UK, and the U.S., bringing one of
+the world's most popular kid's characters to Amazon's kids and family subscription service.
+Devices and Services
+•
+•
+Amazon and Stellantis announced a series of global, multi-year agreements that will introduce new connected
+experiences across a portfolio of 14 iconic brands, including Chrysler, Dodge, Fiat, Jeep, and Peugeot. As part of the
+collaboration, Amazon will deliver software for Stellantis' new digital cabin platform, STLA SmartCockpit, in
+millions of vehicles over the next decade.
+Amazon announced it has now sold more than 150 million Fire TV devices worldwide since launching the device in
+2014. Amazon introduced a new in-vehicle experience for passengers to use Alexa or on-screen touch controls to
+access more than 1 million TV episodes and movies on Fire TV in the U.S. Fire TV will also be built into BMW's new
+31-inch Theatre Screen for rear-seat passengers.
+Amazon announced a collaboration with Lockheed Martin and Cisco that will send Alexa into space as a part of
+Artemis I, the first of several NASA missions that will land the first woman and the first person of color on the Moon.
+Alexa will join the upcoming mission as a part of Callisto, a technology-demonstration payload embedded into
+NASA's Orion spacecraft.
+Amazon launched new features to make Alexa more proactive, conversational, and personal. Customers can now teach
+Alexa their preferences, such as for food and sports, that Alexa will remember when recommending recipes, local
+restaurants, and sports scores. Alexa can also start a Routine after detecting activities. For example, if Alexa detects a
+beeping washing machine or the sound of running water, Alexa can alert customers that the laundry is done or to turn
+off the faucet. Customers using the Echo Show 10 can also enable Conversation Mode for a more natural, back-and-
+forth interaction with Alexa without needing to repeat the Alexa wake word.
+Amazon launched the Amazon Smart Air Quality Monitor in Canada, France, Italy, Spain, the UK, and the U.S. This
+new air quality monitor measures the presence of indoor allergens and toxins and makes it simple for customers to
+check the air quality of their home.
+Ring launched and started shipping the Ring Alarm Glass Break Sensor, which uses artificial intelligence technology
+to monitor glass windows or doors and alert customers if their glass is broken.
+Amazon announced Amazon Sidewalk Bridge Pro by Ring, which will bring professional-grade device connectivity to
+even more places, including commercial centers, parks, universities, and wilderness areas. Alongside the
+announcement, Amazon launched two pilot programs. The first pilot, with Arizona State University, will focus on
+extending the range of connectivity for the university's on-campus internet of things devices, including sunlight
+sensors, temperature sensors, CO2 detectors, and particle counters. The second pilot is with Thingy, a technology
+company that provides information to first responders about wildfires. Thingy will work with Sidewalk Bridge Pro to
+provide connectivity for Thingy's air quality monitoring systems and share information to help combat wildfires.
+Amazon launched Ultrasound Motion Detection for customers to enable Occupancy Routines when motion is detected
+(or not detected) near their Echo device. With Ultrasound Motion Detection, the device can emit an inaudible
+ultrasound wave to detect movement and initiate a Routine. For example, with an Occupancy Routine, Alexa can turn
+off the lights when a person leaves the room or automatically play music when motion is detected near an Echo device.
+Amazon Web Services
+•
+AWS announced significant customer momentum, with new commitments and migrations from customers across
+many major industries.
+•
+In a landmark announcement for the financial services industry, Nasdaq shared its multi-year partnership to
+migrate its markets to AWS with the goal of becoming the world's first fully enabled, cloud-based exchange.
+The move includes migrating Nasdaq's matching engine, the core technology that makes the market tick.
+Technology: Meta, the parent company of Facebook, Instagram, WhatsApp, and other companies, selected
+AWS as its long-term strategic cloud provider to accelerate artificial intelligence research and development.
+Qualtrics expanded its relationship with AWS to migrate internal IT systems and customer-facing workloads
+to the cloud.
+Automotive: Stellantis selected AWS as its preferred cloud provider for vehicle platforms to accelerate new
+digital products and upskill its global workforce. Rivian selected AWS as its preferred cloud provider for its
+capabilities in analytics, compute, containers, and machine learning to accelerate the shift to electric vehicles
+and make transportation cleaner and more sustainable. Aurora selected AWS as its preferred cloud provider

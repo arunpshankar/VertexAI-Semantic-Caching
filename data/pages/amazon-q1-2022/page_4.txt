@@ -1,0 +1,57 @@
+wide range of urgent and primary care services, including COVID-19 and flu testing, vaccinations, treatment of
+illnesses and injuries, preventive care, sexual health, and prescription requests and refills.
+Amazon announced agreements with Arianespace, Blue Origin, and United Launch Alliance to provide launch
+services for Project Kuiper, Amazon's initiative to increase global broadband access using a constellation of satellites
+in low Earth orbit. Amazon secured up to 83 launches across the three contracts, providing heavy-lift capacity to
+launch the majority of Amazon's 3,236-satellite constellation. The agreements comprise the largest commercial
+procurement of launch vehicles in history and will support thousands of suppliers and highly skilled jobs across the
+global space industry.
+Amazon Web Services
+•
+•
+AWS announced significant customer momentum, with new commitments and migrations from customers across
+many major industries.
+•
+Telecommunications: T-Systems, a global service provider for information technologies and digital
+transformation, selected AWS to launch a managed service in the cloud to provide encryption and implement
+transparent residency controls for customers' data in the EU. Verizon migrated its fleet management software
+platform, Verizon Connect, to AWS to help businesses of all sizes more effectively manage their commercial
+transportation needs. Spanish telecommunications provider Telefónica expanded its strategic collaboration
+with AWS to invest in joint go-to-market activities, develop new cloud solutions, and increase AWS Cloud
+skills among the Telefónica workforce. Telefónica will use AWS to bring innovation to customers faster and
+help them better leverage the agility of the cloud by launching value-added solutions such as edge computing
+and built-for-the-cloud private 5G networks that run on AWS Outposts. Commnet Broadband, a broadband
+communications provider for tribal and rural communities in the U.S., is working with AWS to transform its
+network and bring AWS services to health care, education, tribal, government, mining, business, and carrier
+customers in the rural, southwest U.S. Etisalat UAE, a telecommunications provider based in the United
+Arab Emirates, announced a collaboration with AWS to use 5G private networks and mobile edge computing
+to build prepackaged solutions for industrial use cases including energy, manufacturing, and logistics.
+Aerospace: Boeing, a global manufacturer of airplanes and space systems, selected AWS as a strategic cloud
+provider to deliver tools to support more powerful, sustainable, and efficient aerospace design, engineering,
+and management solutions. Boeing will run high-performance computing workloads on AWS and plans to
+move many of their most important applications to AWS. Boeing will use AWS to streamline its approach to
+cloud computing as Boeing takes on ambitious engineering feats, like developing a more sustainable future of
+flight.
+Sports: German national football league Bundesliga announced new Bundesliga Match Facts powered by
+AWS to give fans deeper insights into the action on the pitch, including Set Piece Threat, which provides
+information on a team's scoring ability from plays such as free kicks and corner kicks, and Skill, which
+compares Bundesliga players to visualize the skills they bring to their teams and positions. The National
+Hockey League (NHL) and AWS announced Face-off Probability, a live in-game stat that instantly shows
+the odds of a player winning a face-off and possession of the puck. Maple Leaf Sports and Entertainment,
+the owner of some of Canada's best-known sports franchises, including the Toronto Maple Leafs, Toronto
+Raptors, Toronto Football Club, and Toronto Argonauts, selected AWS as its official cloud provider and
+official provider of artificial intelligence, machine learning, and deep learning cloud services to create and
+deliver extraordinary sports moments and enhanced fan engagement.
+Technology: Database platform MongoDB expanded its relationship with AWS, making it easier for joint
+customers to advance their cloud adoption journey. This includes integrated go-to-market activities, shared
+developer relations activities, and technology integrations to streamline the migration of on-premises
+workloads to MongoDB Atlas on AWS. Amdocs, a provider of software and services to communications and
+media companies, used AWS to implement a program enabling 12 billion secure, real-time online and offline
+business transactions per day in the cloud. Tech Mahindra, a provider of digital transformation, consulting,
+and business reengineering solutions, selected AWS to power an automation platform designed to accelerate
+the adoption and deployment of 5G networks by telecommunications carriers.
+Health care and life sciences: THREAD, a clinical trials technology and service provider, is using AWS for
+real-time access to data and insights that will enable faster, more efficient, and less-costly clinical trials that
+optimize research and advance precision medicine.
+AWS completed the launch of its first 16 Local Zones in the U.S. and announced plans for new Local Zones in 32
+metropolitan areas in 26 countries around the world. AWS Local Zones is a type of infrastructure deployment that

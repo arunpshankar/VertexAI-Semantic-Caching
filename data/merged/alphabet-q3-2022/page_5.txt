@@ -1,0 +1,119 @@
+=== START PAGE CONTENT ===
+Alphabet Inc.
+CONSOLIDATED STATEMENTS OF INCOME
+(In millions, except per share amounts, unaudited)
+Revenues
+Costs and expenses:
+Cost of revenues
+Research and development
+Sales and marketing
+General and administrative
+Total costs and expenses
+Income from operations
+Other income (expense), net
+Income before income taxes
+Provision for income taxes
+Net income
+Quarter Ended September 30,
+2021
+2022
+Year to Date September 30,
+2021
+2022
+$
+65,118 $
+69,092 $
+182,312 $
+206,788
+27,621
+31,158
+77,951
+90,861
+7,694
+10,273
+22,854
+29,233
+5,516
+6,929
+15,308
+19,384
+3,256
+3,597
+9,370
+10,628
+44,087
+51,957
+125,483
+150,106
+21,031
+17,135
+56,829
+56,682
+2,033
+(902)
+9,503
+(2,501)
+23,064
+16,233
+66,332
+54,181
+4,128
+2,323
+10,941
+7,833
+$
+18,936 $
+13,910 $
+55,391 $
+46,348
+Basic earnings per share of Class A, Class B, and
+Class C stock
+$
+1.42
+$
+1.07
+$
+4.14
+$
+3.53
+Diluted earnings per share of Class A, Class B, and
+Class C stock
+$
+1.40
+1.06 $
+4.08 $
+3.50
+Number of shares used in basic earnings per share
+calculation
+13,315
+13,018
+13,386
+13,118
+Number of shares used in diluted earnings per share
+calculation
+13,530
+13,097
+13,588
+13,229
+5
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('Revenues',)                                                 | ('2021 65,118',)   | ('2022 $ 69,092',)   | ('2021 $ 182,312',)   | ('2022 $ 206,788',)   |
+|---:|:--------------------------------------------------------------|:-------------------|:---------------------|:----------------------|:----------------------|
+|  0 | Costs and expenses:                                           |                    |                      |                       |                       |
+|  1 | Cost of revenues                                              | 27,621             | 31,158               | 77,951                | 90,861                |
+|  2 | Research and development                                      | 7,694              | 10,273               | 22,854                | 29,233                |
+|  3 | Sales and marketing                                           | 5,516              | 6,929                | 15,308                | 19,384                |
+|  4 | General and administrative                                    | 3,256              | 3,597                | 9,370                 | 10,628                |
+|  5 | Total costs and expenses                                      | 44,087             | 51,957               | 125,483               | 150,106               |
+|  6 | Income from operations                                        | 21,031             | 17,135               | 56,829                | 56,682                |
+|  7 | Other income (expense), net                                   | 2,033              | (902)                | 9,503                 | (2,501)               |
+|  8 | Income before income taxes                                    | 23,064             | 16,233               | 66,332                | 54,181                |
+|  9 | Provision for income taxes                                    | 4,128              | 2,323                | 10,941                | 7,833                 |
+| 10 | Net income                                                    | $ 18,936           | $ 13,910             | $ 55,391              | $ 46,348              |
+| 11 | Basic earnings per share of Class A, Class B, Class C stock   | and $ 1.42         | $ 1.07               | $ 4.14                | $ 3.53                |
+| 12 | Diluted earnings per share of Class A, Class B, Class C stock | and EA $ 1.40      | 1.06                 | $ 4.08                | $ 3.50                |
+| 13 | Number of shares used in basic earnings per calculation       | share 13,315       | 13,018               | 13,386                | 13,118                |
+| 14 | Number of shares used in diluted earnings per calculation     | share 13,530       | 13,097               | 13,588                | 13,229                |
+=== TABLE END ===

@@ -1,0 +1,55 @@
+=== START PAGE CONTENT ===
+COMPREHENSIVE INCOME STATEMENTS
+(In millions) (Unaudited)
+Three Months Ended
+Six Months Ended
+December 31,
+December 31,
+2023
+2022
+2023
+2022
+Net income
+Other comprehensive income (loss), net of tax:
+$21,870
+$16,425
+$44,161
+$33,981
+Net change related to derivatives
+Net change related to investments
+Translation adjustments and other
+(3)
+(32)
+18
+(25)
+1,331
+348
+1,071
+(1,549)
+660
+570
+305
+(205)
+Other comprehensive income (loss)
+Comprehensive income
+1,988
+886
+1,394
+(1,779)
+$23,858
+$17,311
+$45,555
+$32,202
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('',)                                          | ('2023',)   | ('December 31, 2022',)   | ('2023',)   | ('December 31, 2022',)   |
+|---:|:-----------------------------------------------|:------------|:-------------------------|:------------|:-------------------------|
+|  0 | Net income                                     | $21,870     | $16,425                  | $44,161     | $33,981                  |
+|  1 | Other comprehensive income (loss), net of tax: |             |                          |             |                          |
+|  2 | Net change related to derivatives              | (3)         | (32)                     | 18          | (25)                     |
+|  3 | Net change related to investments              | 1,331       | 348                      | 1,071       | (1,549)                  |
+|  4 | Translation adjustments and other              | 660         | 570                      | 305         | (205)                    |
+|  5 | Other comprehensive income (loss)              | 1,988       | 886                      | 1,394       | (1,779)                  |
+|  6 | Comprehensive income                           | $23,858     | $17,311                  | $45,555     | $32,202                  |
+=== TABLE END ===

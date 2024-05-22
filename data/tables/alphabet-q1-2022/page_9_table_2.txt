@@ -1,0 +1,14 @@
+|    | ('',)                          | ('Quarter Ended 2021',)   | ('March 31, 2022',)   |
+|---:|:-------------------------------|:--------------------------|:----------------------|
+|  0 | Revenues:                      |                           |                       |
+|  1 | Google Services                | 51,178 $                  | 61,472                |
+|  2 | Google Cloud                   | 4,047                     | 5,821                 |
+|  3 | Other Bets                     | 198                       | 440                   |
+|  4 | Hedging gains (losses)         | (109)                     | 278                   |
+|  5 | Total revenues                 | 55,314 $                  | 68,011                |
+|  6 | Operating income (loss):       |                           |                       |
+|  7 | Google Services $ EA           | 19,546 $                  | 22,920                |
+|  8 | Google Cloud                   | (974)                     | (931)                 |
+|  9 | Other Bets                     | (1,145)                   | (1,155)               |
+| 10 | Corporate costs, unallocated   | (990)                     | (740)                 |
+| 11 | Total income from operations $ | 16,437 $                  | 20,094                |

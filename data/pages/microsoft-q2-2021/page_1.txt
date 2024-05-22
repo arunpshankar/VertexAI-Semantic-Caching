@@ -1,0 +1,41 @@
+Microsoft Cloud Strength Fuels Fourth Quarter Results
+REDMOND, Wash. — July 27, 2021 — Microsoft Corp. today announced the following results for the
+quarter ended June 30, 2021, as compared to the corresponding period of last fiscal year:
+•
+•
+Revenue was $46.2 billion and increased 21%
+Operating income was $19.1 billion and increased 42%
+Net income was $16.5 billion and increased 47%
+Diluted earnings per share was $2.17 and increased 49%
+"We are innovating across the technology stack to help organizations drive new levels of tech intensity
+across their business," said Satya Nadella, chairman and chief executive officer of Microsoft. "Our results
+show that when we execute well and meet customers' needs in differentiated ways in large and growing
+markets, we generate growth, as we've seen in our commercial cloud – and in new franchises we've built,
+including gaming, security, and LinkedIn, all of which surpassed $10 billion in annual revenue over the
+past three years."
+"As we closed out the fiscal year, our sales teams and partners delivered a strong quarter with over
+20% top and bottom-line growth, highlighted by commercial bookings growth of 30% year over year,"
+said Amy Hood, executive vice president and chief financial officer of Microsoft. "Our commercial cloud
+revenue grew 36% year over year to $19.5 billion."
+Business Highlights
+Revenue in Productivity and Business Processes was $14.7 billion and increased 25% (up 21% in constant
+currency), with the following business highlights:
+•
+.
+•
+.
+Office Commercial products and cloud services revenue increased 20% (up 15% in constant
+currency) driven by Office 365 Commercial revenue growth of 25% (up 20% in constant currency)
+Office Consumer products and cloud services revenue increased 18% (up 15% in constant
+currency) and Microsoft 365 Consumer subscribers increased to 51.9 million
+LinkedIn revenue increased 46% (up 42% in constant currency) driven by Marketing Solutions
+growth of 97% (up 91% in constant currency)
+Dynamics products and cloud services revenue increased 33% (up 26% in constant currency)
+driven by Dynamics 365 revenue growth of 49% (up 42% in constant currency)
+Revenue in Intelligent Cloud was $17.4 billion and increased 30% (up 26% in constant currency), with the
+following business highlights:
+Server products and cloud services revenue increased 34% (up 29% in constant currency) driven
+by Azure revenue growth of 51% (up 45% in constant currency)
+Revenue in More Personal Computing was $14.1 billion and increased 9% (up 6% in constant currency),
+with the following business highlights:
+Windows OEM revenue decreased 3%

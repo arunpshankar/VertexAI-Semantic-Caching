@@ -1,0 +1,4 @@
+|    | ('Y/Y net sales growth: North America 29% 40% International 18 60 KE 4624 AWS 33 32',)   |
+|---:|:-----------------------------------------------------------------------------------------|
+|  0 | Consolidated 26 44 Net sales mix: North America 61% 59 % International 25 28 AWS 14 13   |
+|  1 | Consolidated 100 % 100%                                                                  |

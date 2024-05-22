@@ -1,0 +1,60 @@
+•
+•
+•
+Finished the Thursday Night Football (TNF) season with the youngest median age of any NFL broadcast package
+since 2013 and viewership up 11% from last season among hard-to-reach 18- to 34-year-olds, according to Nielsen
+Media Research. TNF featured the most streamed NFL games ever, with an average audience of 11.3 million viewers,
+according to combined data from Amazon's first-party measurement metrics and Nielsen Media Research. Prime
+Video also made history as the first streamer to place on Variety's Top 100 Primetime Telecasts of 2022, with four of
+its TNF telecasts making the list.
+Premiered several Original series and films, including Western drama The English, with Emily Blunt; family-friendly
+competition show Dr. Seuss Baking Challenge; My Policeman, starring Harry Styles; and documentary Good Night
+Oppy. Prime Video also released new seasons of existing series, including the fourth volume of Rihanna's annual
+fashion experience Savage X Fenty and the third season of Tom Clancy's Jack Ryan, starring John Krasinski.
+Wednesday, an MGM-produced series on Netflix, debuted at No. 1 on Nielsen's weekly streaming charts and earned
+Golden Globe nominations for Best Musical or Comedy Series and Best Actress in a Musical or Comedy Series (Jenna
+Ortega).
+Brought HBO back to Prime Video Channels in the U.S., after reaching an agreement with Warner Bros. Discovery.
+For $15.99 per month, customers who subscribe to HBO Max have access to approximately 15,000 hours of curated
+premium content.
+Announced new commitments and migrations from AWS customers.
+•
+•
+•
+•
+•
+•
+•
+Nasdaq completed the migration of its MRX core trading system to the cloud, delivering a 10% performance
+improvement for market participants and marking a major milestone in Nasdaq's journey to deliver the first
+cloud-based U.S. options exchange.
+NFL and AWS announced the NFL Contact Detection Challenge, which invites experts to use machine
+learning (ML) and computer vision to predict and prevent injuries.
+Yahoo Ad Tech selected AWS as its preferred cloud provider to develop tailored and immersive solutions for
+brands to better connect with their audiences.
+Stability AI selected AWS as its preferred cloud provider to build and train artificial intelligence (AI) models
+for the best performance at the lowest cost.
+Descartes Labs is going all-in on AWS to give customers timely, actionable insights to tackle challenges like
+enhancing food security and mitigating climate change.
+Brookfield Asset Management selected AWS as a preferred cloud provider to advance renewable energy use
+globally.
+Duke Energy is working with AWS on smart grid solutions to improve reliability and resiliency in
+preparation for rapid electric vehicle adoption.
+Wallbox migrated to AWS, enabling customers to return excess energy to the grid and reducing the
+company's IT costs by 70%.
+American Family Insurance named AWS as its preferred cloud provider to unlock personalized service and
+security for its 13.1 million policyholders.
+Launched AWS Regions in Spain and Switzerland as well as a second Region in India to continue expanding AWS's
+infrastructure footprint, delivering the most secure, extensive, and reliable cloud technology to millions of customers
+around the world. As of the end of 2022, AWS has 96 Availability Zones within 30 geographic Regions globally, with
+announced plans to launch 15 more Availability Zones and five more AWS Regions.
+Expanded the AWS Partner Network to help customers accelerate innovation in their organizations and speed their
+journey to the cloud. Professional services company Accenture launched a platform that helps customers drive
+business outcomes up to 50% faster on AWS. Atos, a provider of managed infrastructure services, will collaborate
+with AWS to enable customers with large-scale infrastructure outsourcing contracts to accelerate digital transformation
+and workload migrations to the cloud. Global business and technology consulting company Slalom will develop
+vertical solutions and accelerators on AWS for joint customers.
+Inventing on behalf of customers
+Amazon is driven by a passion for invention across all of its business areas. The company builds new products and services that
+customers ask for, and also invents new ones that customers didn't know they wanted but make their lives or businesses better
+in some meaningful way. For example, this past quarter, Amazon:

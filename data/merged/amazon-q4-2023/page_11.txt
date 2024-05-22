@@ -1,0 +1,72 @@
+=== START PAGE CONTENT ===
+AMAZON.COM, INC.
+Consolidated Statements of Comprehensive Income (Loss)
+(in millions)
+(unaudited)
+Three Months Ended
+December 31,
+Twelve Months Ended
+December 31,
+2022
+2023
+2022
+2023
+Net income (loss)
+Other comprehensive income (loss):
+Foreign currency translation adjustments, net of tax of
+$(36), $(59), $100, and $(55)
+Available-for-sale debt securities:
+278 $
+10,624 $
+(2,722) $ 30,425
+2,075
+1,765
+(2,586)
+1,027
+Change in net unrealized gains (losses), net of tax of
+$162, $(58), $159, and $(110)
+272
+192
+(823)
+366
+Less: reclassification adjustment for losses (gains)
+included in "Other income (expense), net," net of tax
+of $0, $0, $0, and $(15)
+281
+2
+298
+50
+Net change
+553
+194
+(525)
+416
+Other, net of tax of $0, $(1), $0, and $(1)
+4
+4
+Total other comprehensive income (loss)
+2,628
+1,963
+(3,111)
+1,447
+Comprehensive income (loss)
+$
+2,906 $
+12,587 $
+(5,833) $
+31,872
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('Net income (loss)',)                                                                                                              | ('December 2022 278',)   | ('31, December 31, 2023 2022 2023 $ 10,624 $ (2,722) $ 30,425',)   |
+|---:|:------------------------------------------------------------------------------------------------------------------------------------|:-------------------------|:-------------------------------------------------------------------|
+|  0 | Other comprehensive income (loss):                                                                                                  |                          |                                                                    |
+|  1 | Foreign currency translation adjustments, net of tax of $(36), $(59), $100, and $(55)                                               | 2,075                    | 1,765 (2,586) 1,027                                                |
+|  2 | Available-for-sale debt securities:                                                                                                 |                          |                                                                    |
+|  3 | Change in net unrealized gains (losses), net of tax of $162, $(58), $159, and $(110)                                                | 272                      | 192 (823) 366                                                      |
+|  4 | Less: reclassification adjustment for losses (gains) included in "Other income (expense), net," net of tax of $0, $0, $0, and $(15) | 281                      | 2 298 50                                                           |
+|  5 | Net change                                                                                                                          | 553                      | 194 (525) 416                                                      |
+|  6 | Other, net of tax of $0, $(1), $0, and $(1)                                                                                         |                          | 4 33733                                                            |
+|  7 | Total other comprehensive income (loss)                                                                                             | 2,628                    | 1,963 (3,111) 1,447                                                |
+|  8 | Comprehensive income (loss)                                                                                                         | $ 2,906                  | $ 12,587 $ (5,833) $ 31,872                                        |
+=== TABLE END ===

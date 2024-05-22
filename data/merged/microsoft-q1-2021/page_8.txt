@@ -1,0 +1,55 @@
+=== START PAGE CONTENT ===
+COMPREHENSIVE INCOME STATEMENTS
+(In millions) (Unaudited)
+Net income
+Other comprehensive income (loss), net of tax:
+Three Months Ended
+2021
+$15,457
+Nine Months Ended
+March 31,
+2020
+2021
+$10,752
+$44,813
+March 31,
+2020
+$33,079
+Net change related to derivatives
+Net change related to investments
+Translation adjustments and other
+18
+(36)
+30
+(42)
+(1,705)
+3,508
+(2,398)
+3,665
+(218)
+(541)
+634
+(607)
+Other comprehensive income (loss)
+(1,905)
+2,931
+(1,734)
+3,016
+Comprehensive income
+$13,552
+$13,683
+$43,079
+$36,095
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('',)                                          | ('2021',)   | ('March 31, 2020',)   | ('2021',)   | ('March 31, 2020',)   |
+|---:|:-----------------------------------------------|:------------|:----------------------|:------------|:----------------------|
+|  0 | Net income                                     | $15,457     | $10,752               | $44,813     | $33,079               |
+|  1 | Other comprehensive income (loss), net of tax: |             |                       |             |                       |
+|  2 | Net change related to derivatives              | 18          | (36)                  | 30          | (42)                  |
+|  3 | Net change related to investments              | (1,705)     | 3,508                 | (2,398)     | 3,665                 |
+|  4 | Translation adjustments and other              | (218)       | (541)                 | 634         | (607)                 |
+|  5 | Other comprehensive income (loss)              | (1,905)     | 2,931                 | (1,734)     | 3,016                 |
+|  6 | Comprehensive income                           | $13,552     | $13,683               | $43,079     | $36,095               |
+=== TABLE END ===

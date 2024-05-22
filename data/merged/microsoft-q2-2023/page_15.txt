@@ -1,0 +1,34 @@
+=== START PAGE CONTENT ===
+•
+Gross margin increased $2.3 billion or 16% driven by growth in Azure and other cloud services
+and the change in accounting estimate. Gross margin percentage increased slightly. Excluding the
+impact of the change in accounting estimate, gross margin percentage decreased 2 points driven
+by sales mix shift to Azure and other cloud services and lower Azure and other cloud services
+margin.
+Operating expenses increased $570 million or 10% primarily driven by a charge related to the
+IDPC matter.
+Revenue and operating income both included an unfavorable foreign currency impact of 2%.
+More Personal Computing
+Revenue decreased $556 million or 4%.
+Windows revenue decreased $337 million or 5% driven by a decrease in Windows OEM. Windows
+OEM revenue decreased 12% primarily driven by continued PC market weakness, offset in part by
+roughly 7 points of benefit from early back-to-school inventory builds. Windows Commercial
+products and cloud services revenue increased 2% driven by demand for Microsoft 365.
+Devices revenue decreased $339 million or 20%.
+Search and news advertising revenue increased $86 million or 3%. Search and news advertising
+revenue excluding traffic acquisition costs increased 8% driven by higher search volume, as the
+benefit from the Xandr acquisition was more than offset by the impact from third-party
+partnerships.
+Gaming revenue increased $36 million or 1% driven by growth in Xbox content and services,
+offset in part by a decline in Xbox hardware. Xbox content and services revenue increased 5%
+driven by growth in third-party content and Xbox Game Pass. Xbox hardware revenue decreased
+13% driven by lower volume of consoles sold.
+Operating income increased $186 million or 4%.
+Gross margin decreased $124 million or 2% driven by a decline in Windows, offset in part by
+growth in Gaming. Gross margin percentage increased driven by sales mix shift to higher margin
+businesses.
+Operating expenses decreased $310 million or 9% driven by declines in Devices and Windows,
+offset in part by a charge related to the IDPC matter.
+Gross margin and operating income both included an unfavorable foreign currency impact of 2%.
+
+=== END PAGE CONTENT ===

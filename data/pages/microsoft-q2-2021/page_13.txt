@@ -1,0 +1,52 @@
+SEGMENT REVENUE AND OPERATING INCOME
+(In millions) (Unaudited)
+Three Months Ended
+June 30,
+Twelve Months Ended
+June 30,
+2021
+2020
+2021
+2020
+Revenue
+Productivity and Business Processes
+$14,691
+$11,752
+$53,915
+$46,398
+Intelligent Cloud
+17,375
+13,371
+60,080
+48,366
+More Personal Computing
+14,086
+12,910
+54,093
+48,251
+Total
+$46,152
+$38,033
+$168,088
+$143,015
+Operating Income
+Productivity and Business Processes
+$6,435
+$3,972
+$24,351
+$18,724
+Intelligent Cloud
+7,787
+5,344
+26,126
+18,324
+More Personal Computing
+4,873
+4,091
+19,439
+15,911
+Total
+$19,095
+$13,407
+$69,916
+$52,959

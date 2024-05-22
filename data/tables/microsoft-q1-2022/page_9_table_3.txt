@@ -1,0 +1,15 @@
+|    | ('Accounts payable',)             | ('$16,085',)   | ('$15,163',)   |
+|---:|:----------------------------------|:---------------|:---------------|
+|  0 | Current portion of long-term debt | 1,749          | 8,072          |
+|  1 | Accrued compensation              | 9,067          | 10,057         |
+|  2 | Short-term income taxes           | 4,646          | 2,174          |
+|  3 | Short-term unearned revenue       | 34,027         | 41,525         |
+|  4 | Other current liabilities         | 11,865         | 11,666         |
+|  5 | Total current liabilities         | 77,439         | 88,657         |
+|  6 | Long-term debt                    | 48,177         | 50,074         |
+|  7 | Long-term income taxes            | 26,483         | 27,190         |
+|  8 | Long-term unearned revenue        | 2,769          | 2,616          |
+|  9 | Deferred income taxes             | 304            | 198            |
+| 10 | Operating lease liabilities       | 11,357         | 9,629          |
+| 11 | Other long-term liabilities       | 15,154         | 13,427         |
+| 12 | Total liabilities                 | 181,683        | 191,791        |

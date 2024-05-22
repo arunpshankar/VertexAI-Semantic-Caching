@@ -1,0 +1,42 @@
+=== START PAGE CONTENT ===
+COMPREHENSIVE INCOME STATEMENTS
+(In millions) (Unaudited)
+Net income
+Other comprehensive income (loss), net of tax:
+Net change related to derivatives
+Net change related to investments
+Translation adjustments and other
+Other comprehensive loss
+Comprehensive income
+Three Months Ended
+September 30,
+2021
+2020
+$20,505
+$13,893
+2
+(422)
+(201)
+(119)
+111
+(539)
+(86)
+$19,966
+$13,807
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('Net income',)                                | ('$20,505',)   | ('$13,893',)   |
+|---:|:-----------------------------------------------|:---------------|:---------------|
+|  0 | Other comprehensive income (loss), net of tax: |                |                |
+|  1 | Net change related to derivatives              | 2              | 4              |
+|  2 | Net change related to investments              | (422)          | (201)          |
+|  3 | Translation adjustments and other              | (119)          | 111            |
+|  4 | Other comprehensive loss                       | (539)          | (86)           |
+|  5 | Comprehensive income                           | $19,966        | $13,807        |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('2021',)   | ('2020',)   |
+|---:|:------------|:------------|
+|  0 | 20,505      | $13,893     |
+=== TABLE END ===

@@ -1,0 +1,51 @@
+Alphabet Announces Third Quarter 2021 Results
+MOUNTAIN VIEW, Calif. - October 26, 2021 - Alphabet Inc. (NASDAQ: GOOG, GOOGL) today announced
+financial results for the quarter ended September 30, 2021.
+Sundar Pichai, CEO of Alphabet and Google, said: "Five years ago, I laid out our vision to become an Al-first
+company. This quarter's results show how our investments there are enabling us to build more helpful products for
+people and our partners. Ongoing improvements to Search, and the new Pixel 6, are great examples. And as the
+digital transformation and shift to hybrid work continue, our Cloud services are helping organizations collaborate and
+stay secure."
+Ruth Porat, CFO of Alphabet and Google, said: “Our consistent investments to support long-term growth are
+reflected in strong financial performance, with revenues of $65.1 billion in the quarter. We continued to deliver
+across our business by providing helpful and valuable experiences for both consumers and our partners."
+Q3 2021 financial highlights
+The following table summarizes our consolidated financial results for the quarters ended September 30, 2020 and
+2021 (in millions, except for per share information and percentages; unaudited).
+Quarter Ended September 30,
+2020
+2021
+Revenues
+$
+Increase in revenues year over year
+46,173
+14 %
+$
+65,118
+41 %
+Increase in constant currency revenues year over year(1)
+15 %
+39 %
+Operating income
+$
+11,213
+$
+21,031
+Operating margin
+24 %
+32 %
+Other income (expense), net
+2,146
+$
+2,033
+Net income
+$
+11,247 $
+18,936
+Diluted EPS
+$
+16.40
+27.99
+(1)
+Non-GAAP measure. See the table captioned “Reconciliation from GAAP revenues to non-GAAP constant currency
+revenues" for more details.

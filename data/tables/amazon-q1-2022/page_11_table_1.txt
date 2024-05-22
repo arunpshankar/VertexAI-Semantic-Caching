@@ -1,0 +1,8 @@
+|    | ('2021 2022 Net income (loss) $ 8,107 $ (3,844) (374) (333) Other comprehensive income (loss): Foreign currency translation adjustments, net of tax of $13 and $(16)',)   |
+|---:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  0 | Net change in unrealized gains (losses) on available-for-sale debt securities:                                                                                            |
+|  1 | (98) (662) Unrealized gains (losses), net of tax of $30 and $1                                                                                                            |
+|  2 | Reclassification adjustment for losses (gains) included in “Other income (expense), net," net of tax of $4 and $0 (14) 6                                                  |
+|  3 | Net unrealized gains (losses) on available-for-sale debt securities (112) (656)                                                                                           |
+|  4 | Total other comprehensive income (loss) (486) (989)                                                                                                                       |
+|  5 | Comprehensive income (loss) $ 7,621 $ (4,833)                                                                                                                             |

@@ -1,0 +1,292 @@
+=== START PAGE CONTENT ===
+AMAZON.COM, INC.
+Supplemental Financial Information and Business Metrics
+(in millions, except employee data)
+(unaudited)
+Q3 2021
+Q4 2021
+Q1 2022
+Q2 2022
+Q3 2022
+Q4 2022
+Y/Y %
+Change
+Net Sales
+Online stores (1)
+Online stores -- Y/Y growth (decline), excluding F/X
+Physical stores (2)
+Physical stores -- Y/Y growth, excluding F/X
+Third-party seller services (3)
+Third-party seller services -- Y/Y growth, excluding F/X
+Subscription services (4)
+Subscription services -- Y/Y growth, excluding F/X
+$ 49,942
+$ 66,075
+3 %
+$ 51,129
+1%
+$ 50,855
+(1)%
+0%
+$ 53,489
+13 %
+$ 64,531
+(2)%
+2%
+N/A
+$ 4,269
+$ 4,688
+12%
+16%
+$ 4,591 $ 4,721 $ 4,694
+16 %
+13 %
+$ 4,957
+6%
+10%
+6%
+N/A
+$ 24,252
+$ 30,320
+$25,335
+$ 27,376
+$ 28,666
+$ 36,339
+20%
+18 %
+12 %
+9%
+13 %
+23 %
+24 %
+N/A
+$ 8,148
+$ 8,123
+23 %
+16%
+13%
+$ 8,410 $ 8,716
+14 %
+$ 8,903 $
+9,189
+13 %
+14%
+17 %
+N/A
+Advertising services (5)
+$ 7,612
+$ 9,716 $ 7,877 $ 8,757
+$ 9,548
+$ 11,557
+19 %
+Advertising services -- Y/Y growth, excluding F/X
+52 %
+33 %
+25 %
+21 %
+30 %
+23 %
+N/A
+AWS
+$ 16,110
+$ 17,780
+$ 18,441
+$ 19,739
+$ 20,538
+$ 21,378
+20 %
+AWS Y/Y growth, excluding F/X
+39 %
+40 %
+37 %
+33 %
+28 %
+20 %
+N/A
+Other (6)
+$
+479
+$
+710
+$
+661
+$ 1,070
+$ 1,263
+$
+1,253
+77%
+15 %
+19 %
+28 %
+135 %
+168 %
+80 %
+N/A
+Other -- Y/Y growth, excluding F/X
+Stock-based Compensation Expense
+Cost of sales
+Fulfillment
+Technology and content
+Sales and marketing
+General and administrative
+Total stock-based compensation expense
+Other
+WW shipping costs
+WW shipping costs -- Y/Y growth
+$
+126
+$
+179
+$
+146
+$
+213
+$
+190
+$
+208
+16 %
+$ 473
+$
+565
+$ 498
+$
+763
+$ 727 $
+757
+34 %
+$ 1,627
+1,903
+$ 1,645
+$ 2,814
+$ 3,036 $ 3,126
+64 %
+$ 657
+$ 726
+$ 665
+$ 990
+$ 1,128 $ 1,092
+51 %
+$ 297
+$ 3,180
+$ 307
+3,680
+$ 296
+$ 429
+$ 475
+$ 423
+38 %
+$ 3,250
+$ 5,209
+$ 5,556
+$ 5,606
+52 %
+$ 18,108
+$ 23,656
+$ 19,560
+$ 19,304
+$ 19,942
+$ 24,714
+4 %
+WW paid units -- Y/Y growth (7)
+WW seller unit mix -- % of WW paid units (7)
+20%
+8 %
+56 %
+10 %
+14%
+9%
+10%
+4 %
+N/A
+3 %
+56%
+0%
+1 %
+11 %
+8%
+N/A
+Employees (full-time and part-time; excludes contractors & temporary personnel)
+Employees (full-time and part-time; excludes contractors & temporary personnel) -- Y/Y
+growth (decline)
+1,468,000
+1,608,000
+55 %
+1,622,000
+57 %
+58 %
+59 %
+N/A
+1,523,000
+1,544,000
+1,541,000
+(4)%
+30%
+24 %
+28%
+14 %
+5 %
+(4)%
+N/A
+(1)
+(2)
+Includes product sales and digital media content where we record revenue gross. We leverage our retail infrastructure to offer a wide selection of consumable and durable
+goods that includes media products available in both a physical and digital format, such as books, videos, games, music, and software. These product sales include digital
+products sold on a transactional basis. Digital product subscriptions that provide unlimited viewing or usage rights are included in "Subscription services."
+Includes product sales where our customers physically select items in a store. Sales to customers who order goods online for delivery or pickup at our physical stores are
+included in "Online stores."
+Includes annual and monthly fees associated with Amazon Prime memberships, as well as digital video, audiobook, digital music, e-book, and other non-AWS subscription
+services.
+(3)
+Includes commissions and any related fulfillment and shipping fees, and other third-party seller services.
+(4)
+(5)
+(6)
+360
+Includes sales of advertising services to sellers, vendors, publishers, authors, and others, through programs such as sponsored ads, display, and video advertising.
+Includes sales related to various other offerings, such as certain licensing and distribution of video content and shipping services, and our co-branded credit card
+agreements.
+(7) Excludes the impact of Whole Foods Market.
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('(1) (2)',)   | ('Includes product sales and digital media content where we record revenue gross. We leverage our retail infrastructure to offer a wide selection of consumable and durable goods that includes media products available in both a physical and digital format, such as books, videos, games, music, and software. These product sales include digital products sold on a transactional basis. Digital product subscriptions that provide unlimited viewing or usage rights are included in "Subscription services." Includes product sales where our customers physically select items in a store. Sales to customers who order goods online for delivery or pickup at our physical stores are included in "Online stores."',)   |
+|---:|:---------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  0 | (3)            | Includes commissions and any related fulfillment and shipping fees, and other third-party seller services.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+|  1 | (4) 000        | Includes annual and monthly fees associated with Amazon Prime memberships, as well as digital video, audiobook, digital music, e-book, and other non-AWS subscription services.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|  2 | (5)            | Includes sales of advertising services to sellers, vendors, publishers, authors, and others, through programs such as sponsored ads, display, and video advertising.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|  3 | (6)            | Includes sales related to various other offerings, such as certain licensing and distribution of video content and shipping services, and our co-branded credit card agreements.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|  4 | € (7)          | Excludes the impact of Whole Foods Market.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('Net Sales',)                                                                                 | ('(unaudited) Y/Y % Q3 2021 Q4 2021 Q1 2022 Q2 2022 Q3 2022 Q4 2022 Change',)   |
+|---:|:-----------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------|
+|  0 | Online stores (1)                                                                              | $ 49,942 $ 66,075 $ 51,129 $ 50,855 $ 53,489 $ 64,531 (2)%                      |
+|  1 | Online stores -- Y/Y growth (decline), excluding F/X                                           | 3 % 1 % (1)% 0 % 13 % 2% N/A                                                    |
+|  2 | Physical stores (2)                                                                            | $ 4,269 $ 4,688 $ 4,591 $ 4,721 $ 4,694 $ 4,957 6%                              |
+|  3 | Physical stores - Y/Y growth, excluding F/X                                                    | 12 % 16 % 16 % 13 % 10 % 6% N/A                                                 |
+|  4 | Third-party seller services (3)                                                                | $ 24,252 $ 30,320 $ 25,335 $ 27,376 $ 28,666 $ 36,339 20%                       |
+|  5 | Third-party seller services -- Y/Y growth, excluding F/X                                       | 18% 12 % 9% 13 % 23 % 24% N/A                                                   |
+|  6 | Subscription services (4)                                                                      | $ 8,148 $ 8,123 $ 8,410 $ 8,716 $ 8,903 $ 9,189 13 %                            |
+|  7 | Subscription services -- Y/Y growth, excluding F/X                                             | 23 % 16 % 13 % 14% 14% 17 % N/A                                                 |
+|  8 | Advertising services (5)                                                                       | $ 7,612 $ 9,716 $ 7,877 $ 8,757 $ 9,548 $ 11,557 19 %                           |
+|  9 | Advertising services -- Y/Y growth, excluding F/X                                              | 52% 33 % 25 % 21 % 30 % 23 % N/A                                                |
+| 10 | AWS                                                                                            | $ 16,110 $ 17,780 $ 18,441 $ 19,739 $ 20,538 $ 21,378 20%                       |
+| 11 | AWS Y/Y growth, excluding F/X                                                                  | 39 % 40 % 37 % 33 28 % 20% N/A                                                  |
+| 12 | Other (6)                                                                                      | $ 479 $ 710 $ 661 $ 1,070 $ 1,263 $ 1,253 77%                                   |
+| 13 | Other -- Y/Y growth, excluding F/X                                                             | 15 % 19 % 28 % 135 % 168 % 80 % N/A                                             |
+| 14 | Stock-based Compensation Expense                                                               |                                                                                 |
+| 15 | Cost of sales                                                                                  | $ 126 $ 179 $ 146 $ 213 $ 190 $ 208 16 %                                        |
+| 16 | Fulfillment                                                                                    | $ 473 $ 565 $ 498 $ 763 $ 727 $ 757 34 %                                        |
+| 17 | Technology and content                                                                         | $ 1,627 $ 1,903 $ 1,645 $ 2,814 $ 3,036 $ 3,126 64 %                            |
+| 18 | Sales and marketing                                                                            | $ 657 $ 726 $ 665 $ 990 $ 1,128 $ 1,092 51%                                     |
+| 19 | General and administrative                                                                     | $ 297 $ 307 $ 296 $ 429 $ 475 $ 423 38 %                                        |
+| 20 | Total stock-based compensation expense                                                         | $ 3,180 $ 3,680 $ 3,250 $ 5,209 $ 5,556 $ 5,606 52%                             |
+| 21 | Other                                                                                          |                                                                                 |
+| 22 | WW shipping costs                                                                              | $ 18,108 $ 23,656 $ 19,560 $ 19,304 $ 19,942 $ 24,714 4 %                       |
+| 23 | WW shipping costs -- Y/Y growth                                                                | 20% 10 % 14 % 9 % 10 % 4% N/A                                                   |
+| 24 | WW paid units -- Y/Y growth (7)                                                                | 8 % 3 % 0 % 1 % 11 % 8% N/A                                                     |
+| 25 | WW seller unit mix -- % of WW paid units (7)                                                   | 56 % 56 % 55 % 57 % 58% 59 % N/A                                                |
+| 26 | Employees (full-time and part-time; excludes contractors & temporary personnel                 | ) 1,468,000 1,608,000 1,622,000 1,523,000 1,544,000 1,541,000 (4)%              |
+| 27 | Employees (full-time and part-time; excludes contractors & temporary personnelgrowth (decline) | ) -- Y/Y 30 % 24% 28% 14 % 5 % (4)% N/A                                         |
+=== TABLE END ===

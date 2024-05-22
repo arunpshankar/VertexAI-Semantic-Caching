@@ -1,0 +1,37 @@
+|    | ('Current assets: Cash and cash equivalents Short-term investments',)                                    | ('$17,305 63,712',)   | ('$34,704 76,558',)   |
+|---:|:---------------------------------------------------------------------------------------------------------|:----------------------|:----------------------|
+|  0 | Total cash, cash equivalents, and short-term investments                                                 | 81,017                | 111,262               |
+|  1 | Accounts receivable, net of allowance for doubtful accounts of $591 and $650                             | 42,831                | 48,688                |
+|  2 | Inventories                                                                                              | 1,615                 | 2,500                 |
+|  3 | Other current assets                                                                                     | 21,930                | 21,807                |
+|  4 | Total current assets Property and equipment, net of accumulated                                          | 147,393               | 184,257               |
+|  5 | depreciation of $72,949 and $68,251                                                                      | 112,308               | 95,641                |
+|  6 | Operating lease right-of-use assets                                                                      | 16,398                | 14,346                |
+|  7 | Equity investments                                                                                       | 13,367                | 9,879                 |
+|  8 | Goodwill                                                                                                 | 118,931               | 67,886                |
+|  9 | Intangible assets, net                                                                                   | 29,896                | 9,366                 |
+| 10 | Other long-term assets                                                                                   | 32,265                | 30,601                |
+| 11 | Total assets                                                                                             | $470,558              | $411,976              |
+| 12 | Liabilities and stockholders' equity                                                                     |                       |                       |
+| 13 | Current liabilities:                                                                                     |                       |                       |
+| 14 | Accounts payable                                                                                         | $17,695               | $18,095               |
+| 15 | Short-term debt                                                                                          | 27,041                | 0                     |
+| 16 | Current portion of long-term debt                                                                        | 2,250                 | 5,247                 |
+| 17 | Accrued compensation                                                                                     | 8,813                 | 11,009                |
+| 18 | Short-term income taxes                                                                                  | 5,787                 | 4,152                 |
+| 19 | Short-term unearned revenue                                                                              | 43,068                | 50,901                |
+| 20 | Other current liabilities                                                                                | 16,362                | 14,745                |
+| 21 | Total current liabilities                                                                                | 121,016               | 104,149               |
+| 22 | Long-term debt                                                                                           | 44,928                | 41,990                |
+| 23 | Long-term income taxes                                                                                   | 25,890                | 25,560                |
+| 24 | Long-term unearned revenue                                                                               | 2,966                 | 2,912                 |
+| 25 | Deferred income taxes                                                                                    | 2,548                 | 433                   |
+| 26 | Operating lease liabilities                                                                              | 14,155                | 12,728                |
+| 27 | Other long-term liabilities                                                                              | 20,787                | 17,981                |
+| 28 | Total liabilities                                                                                        | 232,290               | 205,753               |
+| 29 | Commitments and contingencies Stockholders' equity: Common stock and paid-in capital - shares authorized |                       |                       |
+| 30 | 24,000; outstanding 7,432 and 7,432                                                                      | 97,480                | 93,718                |
+| 31 | Retained earnings                                                                                        | 145,737               | 118,848               |
+| 32 | Accumulated other comprehensive loss                                                                     | (4,949)               | (6,343)               |
+| 33 | Total stockholders' equity                                                                               | 238,268               | 206,223               |
+| 34 | Total liabilities and stockholders' equity                                                               | $470,558              | $411,976              |

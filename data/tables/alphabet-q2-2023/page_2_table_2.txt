@@ -1,0 +1,8 @@
+|    | ('',)                            | ('2022 2023 (recast)',)   |
+|---:|:---------------------------------|:--------------------------|
+|  0 | Operating income (loss):         |                           |
+|  1 | Google Services                  | 21,621 $ 23,454           |
+|  2 | Google Cloud                     | 395 (590)                 |
+|  3 | Other Bets                       | (1,339) (813)             |
+|  4 | Corporate costs, unallocated (1) | (239) (1,198)             |
+|  5 | Total income from operations     | $ 19,453 $ 21,838         |

@@ -1,0 +1,27 @@
+MICROSOFT CORPORATION
+FOURTH QUARTER FINANCIAL HIGHLIGHTS
+All growth comparisons relate to the corresponding period in the last fiscal year.
+SUMMARY
+Revenue increased $4.3 billion or 8% driven by growth in Intelligent Cloud and Productivity and Business
+Processes, offset in part by a decline in More Personal Computing. Intelligent Cloud revenue increased
+driven by Azure and other cloud services. Productivity and Business Processes revenue increased driven by
+Office 365 Commercial. More Personal Computing revenue decreased driven by Devices and Windows,
+offset in part by Search and news advertising.
+Cost of revenue increased $366 million or 2% driven by growth in Microsoft Cloud, offset in part by a
+reduction in depreciation expense due to the change in accounting estimate for the useful lives of our
+server and network equipment and a decline in Devices.
+Gross margin increased $4.0 billion or 11% driven by growth in Intelligent Cloud and Productivity and
+Business Processes and the change in accounting estimate.
+Gross margin percentage increased. Excluding the impact of the change in accounting estimate,
+gross margin percentage increased slightly driven by improvements in Productivity and Business
+Processes and sales mix shift, offset in part by declines in Intelligent Cloud.
+Microsoft Cloud gross margin percentage increased 3 points to 72%. Excluding the impact of the
+change in accounting estimate, Microsoft Cloud gross margin percentage increased slightly
+driven by improvement in Office 365 Commercial, offset in part by lower Azure and other cloud
+services margin.
+Operating expenses increased $238 million or 2% driven by a charge related to a non-public preliminary
+draft decision provided by the Irish Data Protection Commission (the "IDPC matter").
+Operating income increased $3.7 billion or 18% driven by growth in Productivity and Business Processes
+and Intelligent Cloud and the change in accounting estimate.
+Revenue, gross margin, and operating income included an unfavorable foreign currency impact of 2%, 2%,
+and 3%, respectively.

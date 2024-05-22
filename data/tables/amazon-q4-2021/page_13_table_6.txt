@@ -1,0 +1,10 @@
+|    | ('',)                   | ('Three Months Ended Twelve Months Ended December 31, December 31,',)   |
+|---:|:------------------------|:------------------------------------------------------------------------|
+|  0 | North America           | 2020 2021 2020 2021                                                     |
+|  1 | Net sales               | $ 75,346 $ 82,360 $ 236,282 $ 279,833                                   |
+|  2 | Operating expenses      | 72,400 82,566 227,631 272,562                                           |
+|  3 | Operating income (loss) | $ 2,946 $ (206) $ 8,651 $ 7,271                                         |
+|  4 | International           |                                                                         |
+|  5 | Net sales               | $ 37,467 $ 37,272 $ 104,412 $ 127,787                                   |
+|  6 | Operating expenses      | 37,104 38,899 103,695 128,711                                           |
+|  7 | Operating income (loss) | 363 $ (1,627) $ 717 $ (924)                                             |

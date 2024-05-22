@@ -1,0 +1,63 @@
+=== START PAGE CONTENT ===
+•
+For jobseekers looking for flexible employment opportunities this holiday season, Amazon announced it is offering
+150,000 seasonal roles in the U.S., over 50,000 seasonal roles in Europe, and over 110,000 seasonal roles in India. Job
+seekers in the U.S. can receive an immediate contingent offer for seasonal roles with an average starting pay of $18 per
+hour, sign-on bonuses up to $3,000, an additional $3 per hour depending on shifts in many locations, and the
+opportunity to transition to long-term careers.
+Amazon began operations at its state-of-the-art U.S. air cargo hub in Northern Kentucky. The $1.5 billion investment
+at Cincinnati/Northern Kentucky International Airport will create more than 2,000 new Amazon jobs over the next
+several years with industry-leading pay and comprehensive benefits. The Amazon Air Hub will serve as the primary
+hub for Amazon Air's U.S. cargo network-enabling Amazon to process millions of customer packages per week.
+Amazon hosted Career Day, a global event to help current and future employees grow their careers. More than 1
+million people applied for a job at Amazon as part of the event, and over 2,000 Amazon recruiters offered 30,000
+individual career coaching sessions to participants in Canada, France, Germany, India, Italy, Japan, Spain, the UK, and
+the U.S. Recruiters provided job seekers with professional advice to start, transition, or grow their careers—whether
+they want to work at Amazon or elsewhere. As part of the event, Amazon announced plans to hire 55,000 corporate
+and tech employees globally as well as 125,000 full- and part-time operations employees in hundreds of cities and
+towns across the U.S., with comprehensive benefits like healthcare and up to 20 weeks of paid parental leave, as well
+as access to Amazon's Career Choice program.
+Forbes ranked Amazon No. 4 on its World's Best Employers 2021 list. To compile this year's list, Statista surveyed
+150,000 employees from 58 countries around the world and asked them to rate their willingness to recommend their
+employers to friends and family. The survey used feedback from Amazon employees working both across our logistics
+network and corporate offices.
+Supporting Local Communities, Small Businesses, and the Economy
+•
+•
+Amazon Future Engineer, the company's global computer science education program for students from underserved
+and historically underrepresented communities, launched “Meet an Amazonian" for students from 3,000 U.S. schools.
+Students can learn about careers in technology directly from Amazon employees and participate in virtual class chats
+and computer science-themed fulfillment center tours. The company also launched Amazon Future Engineer in India,
+where it aims to reach more than 100,000 students from 900 schools in the first year of launch. The program is now
+available in Canada, France, India, the UK, and the U.S.
+Amazon donated more than 1 million emergency supplies to communities affected by Hurricane Ida in Louisiana and
+the earthquake in Haiti. Amazon activated its Disaster Relief Hub and teamed up with humanitarian aid partners to
+quickly deliver and distribute supplies to those in need. The supplies included water, food items, shelter materials,
+medical equipment, power generators, industrial insulated food carriers, solar chargers, and water filters.
+AWS announced it is committing $40 million in credits and technical expertise over the next three years to support
+organizations around the world that are developing solutions to improve health outcomes and health equity for
+underserved or underrepresented communities. The program is focused on increasing access to health services,
+addressing social determinants of health, and leveraging data to promote equitable and inclusive systems of care.
+Amazon released its Small Business Empowerment Report, highlighting the company's investments, programs, and
+tools to help small and medium-sized businesses thrive while selling in Amazon's store. Amazon's global selling
+partners—the majority of which are small and medium-sized businesses—have created an estimated 1.8 million U.S.-
+based jobs managing, operating, and supporting their Amazon-related businesses. In the 12 months ending August 31,
+U.S. sellers sold 3.8 billion products in Amazon's store-approximately 7,400 products per minute.
+Amazon hosted Amazon Accelerate, its annual U.S. conference for selling partners, where the company announced
+new tools and capabilities to help sellers thrive. Among the announcements, Amazon unveiled Local Selling, which
+enables sellers to start or expand their multichannel offerings by providing both in-store pickup and fast delivery to
+nearby customers, and new Global Selling tools to make it easier for U.S. third-party sellers to offer their products in
+Amazon's 21 stores worldwide.
+Amazon introduced Black Business Accelerator Connect, a new yearlong mentorship and networking benefit for
+participants in the Black Business Accelerator, the company's initiative to provide Black entrepreneurs with resources,
+guidance, and support to succeed as Amazon sellers.
+Amazon and Lendistry launched Amazon Community Lending, providing U.S.-based Amazon sellers access to short-
+term loans of up to $100,000 at competitive rates to sustain and grow their businesses. Lendistry is a Community
+Development Financial Institution that serves urban and rural small businesses in socially and economically distressed
+communities.
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+| ("network and corporate offices. Supporting Local Communities, Small Businesses, and the Economy • Amazon Future Engineer, the company's global computer science education program for students from underserved and historically underrepresented communities, launched “Meet an Amazonian” for students from 3,000 U.S. schools. Students can learn about careers in technology directly from Amazon employees and participate in virtual class chats and computer science-themed fulfillment center tours. The company also launched Amazon Future Engineer in India, where it aims to reach more than 100,000 students from 900 schools in the first year of launch. The program is now available in Canada, France, India, the UK, and the U.S. Amazon donated more than 1 million emergency supplies to communities affected by Hurricane Ida in Louisiana and the earthquake in Haiti. Amazon activated its Disaster Relief Hub and teamed up with humanitarian aid partners to quickly deliver and distribute supplies to those in need. The supplies included water, food items, shelter materials, medical equipment, power generators, industrial insulated food carriers, solar chargers, and water filters. AWS announced it is committing $40 million in credits and technical expertise over the next three years to support organizations around the world that are developing solutions to improve health outcomes and health equity for underserved or underrepresented communities. The program is focused on increasing access to health services, addressing social determinants of health, and leveraging data to promote equitable and inclusive systems of care. Amazon released its Small Business Empowerment Report, highlighting the company's investments, programs, and tools to help small and medium-sized businesses thrive while selling in Amazon's store. Amazon's global selling partners—the majority of which are small and medium-sized businesses-have created an estimated 1.8 million U.S.- based jobs managing, operating, and supporting their Amazon-related businesses. In the 12 months ending August 31, U.S. sellers sold 3.8 billion products in Amazon's store-approximately 7,400 products per minute. • Amazon hosted Amazon Accelerate, its annual U.S. conference for selling partners, where the company announced new tools and capabilities to help sellers thrive. Among the announcements, Amazon unveiled Local Selling, which enables sellers to start or expand their multichannel offerings by providing both in-store pickup and fast delivery to nearby customers, and new Global Selling tools to make it easier for U.S. third-party sellers to offer their products in Amazon's 21 stores worldwide. • Amazon introduced Black Business Accelerator Connect, a new yearlong mentorship and networking benefit for participants in the Black Business Accelerator, the company's initiative to provide Black entrepreneurs with resources, guidance, and support to succeed as Amazon sellers. Amazon and Lendistry launched Amazon Community Lending, providing U.S.-based Amazon sellers access to short- term loans of up to $100,000 at competitive rates to sustain and grow their businesses. Lendistry is a Community Development Financial Institution that serves urban and rural small businesses in socially and economically distressed communities.",)   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+=== TABLE END ===

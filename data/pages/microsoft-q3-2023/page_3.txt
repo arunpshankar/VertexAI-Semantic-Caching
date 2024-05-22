@@ -1,0 +1,134 @@
+Financial Performance Constant Currency Reconciliation
+Three Months Ended September 30,
+Diluted
+($ in millions, except per share amounts)
+2022 As Reported (GAAP)
+2023 As Reported (GAAP)
+Percentage Change Y/Y (GAAP)
+Constant Currency Impact
+Percentage Change Y/Y Constant Currency
+Segment Revenue Constant Currency Reconciliation
+($ in millions)
+2022 As Reported (GAAP)
+2023 As Reported (GAAP)
+Percentage Change Y/Y (GAAP)
+Constant Currency Impact
+Percentage Change Y/Y Constant Currency
+Revenue
+Operating
+Income
+Net
+Income
+Earnings
+per Share
+$50,122
+$21,518
+$17,556
+$2.35
+$56,517
+$26,895
+$22,291
+$2.99
+13%
+25%
+27%
+27%
+$301
+$204
+$148
+$0.02
+12%
+24%
+26%
+26%
+Three Months Ended September 30,
+Productivity and
+Business Processes
+More Personal
+Intelligent Cloud
+Computing
+$16,465
+$20,325
+$13,332
+$18,592
+$24,259
+$13,666
+13%
+19%
+3%
+$79
+$156
+$66
+12%
+19%
+2%
+Selected Product and Service Revenue Constant Currency Reconciliation
+Three Months Ended September 30, 2023
+Percentage Change
+Y/Y (GAAP)
+Constant
+Percentage Change
+Y/Y Constant
+Currency Impact
+Currency
+Microsoft Cloud
+24%
+(1)%
+23%
+Office Commercial products and cloud services
+Office 365 Commercial
+Office Consumer products and cloud services
+LinkedIn
+Dynamics products and cloud services
+Dynamics 365
+Server products and cloud services
+Azure and other cloud services
+15%
+(1)%
+14%
+18%
+(1)%
+17%
+3%
+1%
+4%
+8%
+0%
+8%
+22%
+(1)%
+21%
+28%
+(2)%
+26%
+21%
+0%
+21%
+29%
+(1)%
+28%
+Windows
+5%
+0%
+5%
+Windows OEM
+4%
+0%
+4%
+Windows Commercial products and cloud services
+8%
+0%
+8%
+Devices
+(22)%
+0%
+(22)%
+Xbox content and services
+13%
+(1)%
+12%
+Search and news advertising excluding traffic acquisition
+10%
+(1)%
+9%
+costs

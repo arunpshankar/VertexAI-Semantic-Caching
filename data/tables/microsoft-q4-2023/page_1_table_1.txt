@@ -1,0 +1,10 @@
+|    | ('($ in millions, except per share amounts)',)                        | ('Revenue',)   | ('Income',)   | ('Net Income',)   | ('per Share',)   |
+|---:|:----------------------------------------------------------------------|:---------------|:--------------|:------------------|:-----------------|
+|  0 | 2022 As Reported (GAAP)                                               | $52,747        | $20,399       | $16,425           | $2.20            |
+|  1 | Severance, hardware-related impairment, and lease consolidation costs |                | 1,171         | 946               | 0.12             |
+|  2 | 2022 As Adjusted (non-GAAP)                                           | $52,747        | $21,570       | $17,371           | $2.32            |
+|  3 | 2023 As Reported (GAAP)                                               | $62,020        | $27,032       | $21,870           | $2.93            |
+|  4 | Percentage Change Y/Y (GAAP)                                          | 18%            | 33%           | 33%               | 33%              |
+|  5 | Percentage Change Y/Y Constant Currency                               | 16%            | 30%           | 30%               | 30%              |
+|  6 | Percentage Change Y/Y (non-GAAP)                                      | 18%            | 25%           | 26%               | 26%              |
+|  7 | Percentage Change Y/Y (non-GAAP) Constant Currency                    | 16%            | 23%           | 23%               | 23%              |

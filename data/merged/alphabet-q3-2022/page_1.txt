@@ -1,0 +1,61 @@
+=== START PAGE CONTENT ===
+Alphabet Announces Third Quarter 2022 Results
+MOUNTAIN VIEW, Calif. - October 25, 2022 - Alphabet Inc. (NASDAQ: GOOG, GOOGL) today announced
+financial results for the quarter ended September 30, 2022.
+Sundar Pichai, CEO of Alphabet and Google, said: "We're sharpening our focus on a clear set of product and
+business priorities. Product announcements we've made in just the past month alone have shown that very clearly,
+including significant improvements to both Search and Cloud, powered by Al, and new ways to monetize YouTube
+Shorts. We are focused on both investing responsibly for the long term and being responsive to the economic
+environment."
+Ruth Porat, CFO of Alphabet and Google, said: “Our third quarter revenues were $69.1 billion, up 6% versus last
+year or up 11% on a constant currency basis. Financial results for the third quarter reflect healthy fundamental
+growth in Search and momentum in Cloud, while affected by foreign exchange. We're working to realign resources
+to fuel our highest growth priorities."
+Q3 2022 financial highlights
+The following table summarizes our consolidated financial results for the quarters ended September 30, 2021 and
+2022 (in millions, except for per share information and percentages; unaudited).
+Quarter Ended September 30,
+Revenues
+Change in revenues year over year
+Change in constant currency revenues year over year(1)
+Operating income
+Operating margin
+Other income (expense), net
+Net income
+Diluted EPS
+2021
+2022
+65,118
+69,092
+41 %
+6%
+39 %
+11 %
+21,031
+$
+17,135
+32 %
+25 %
+SA
+2,033
+(902)
+18,936
+13,910
+$
+1.40 $
+1.06
+(1) Non-GAAP measure. See the table captioned "Reconciliation from GAAP revenues to non-GAAP constant currency
+revenues" for more details.
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('Revenues',)                                          | ('Quarter Ended 2021 65,118',)   | ('September 30, 2022 $ 69,092',)   |
+|---:|:-------------------------------------------------------|:---------------------------------|:-----------------------------------|
+|  0 | Change in revenues year over year                      | 41 %                             | 6%                                 |
+|  1 | Change in constant currency revenues year over year(¹) | 39 %                             | 11 %                               |
+|  2 | Operating income                                       | 21,031                           | $ 17,135                           |
+|  3 | Operating margin                                       | 32 %                             | 25 %                               |
+|  4 | Other income (expense), net                            | 2,033                            | (902)                              |
+|  5 | Net income                                             | 18,936                           | 13,910                             |
+|  6 | Diluted EPS                                            | 1.40                             | $ 1.06                             |
+=== TABLE END ===

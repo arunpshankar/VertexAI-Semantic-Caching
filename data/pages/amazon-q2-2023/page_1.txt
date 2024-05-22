@@ -1,0 +1,42 @@
+amazon
+AMAZON.COM ANNOUNCES SECOND QUARTER RESULTS
+SEATTLE (BUSINESS WIRE) August 3, 2023-Amazon.com, Inc. (NASDAQ: AMZN) today announced financial results
+for its second quarter ended June 30, 2023.
+•
+•
+•
+•
+Net sales increased 11% to $134.4 billion in the second quarter, compared with $121.2 billion in second quarter 2022.
+Excluding the $0.3 billion unfavorable impact from year-over-year changes in foreign exchange rates throughout the
+quarter, net sales increased 11% compared with second quarter 2022.
+•
+•
+North America segment sales increased 11% year-over-year to $82.5 billion.
+International segment sales increased 10% year-over-year to $29.7 billion.
+•
+AWS segment sales increased 12% year-over-year to $22.1 billion.
+Operating income increased to $7.7 billion in the second quarter, compared with $3.3 billion in second quarter 2022.
+•
+•
+North America segment operating income was $3.2 billion, compared with an operating loss of $0.6 billion in
+second quarter 2022.
+International segment operating loss was $0.9 billion, compared with an operating loss of $1.8 billion in
+second quarter 2022.
+AWS segment operating income was $5.4 billion, compared with operating income of $5.7 billion in second
+quarter 2022.
+Net income was $6.7 billion in the second quarter, or $0.65 per diluted share, compared with a net loss of $2.0 billion,
+or $0.20 per diluted share, in second quarter 2022.
+•
+Second quarter 2023 net income includes a pre-tax valuation gain of $0.2 billion included in non-operating
+expense from the common stock investment in Rivian Automotive, Inc., compared to a pre-tax valuation loss
+of $3.9 billion from the investment in second quarter 2022.
+Operating cash flow increased 74% to $61.8 billion for the trailing twelve months, compared with $35.6 billion for
+the trailing twelve months ended June 30, 2022.
+Free cash flow improved to an inflow of $7.9 billion for the trailing twelve months, compared with an outflow of
+$23.5 billion for the trailing twelve months ended June 30, 2022.
+Free cash flow less principal repayments of finance leases and financing obligations improved to an inflow of $1.9
+billion for the trailing twelve months, compared with an outflow of $33.5 billion for the trailing twelve months ended
+June 30, 2022.
+Free cash flow less equipment finance leases and principal repayments of all other finance leases and financing
+obligations improved to an inflow of $6.7 billion for the trailing twelve months, compared with an outflow of $26.1
+billion for the trailing twelve months ended June 30, 2022.

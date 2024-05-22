@@ -1,0 +1,56 @@
+•
+game strategy; and South Korea-based wireless telecommunications operator SK Telecom (SKT), which is making it
+easier and more cost-effective for customers to build, use, and scale computer vision applications.
+Continued to expand AWS's infrastructure footprint to support customers, announcing plans to launch the AWS Asia
+Pacific (Bangkok) Region in Thailand and opening the second Region in the Middle East, the AWS Middle East
+(UAE) Region.
+Received CrowdStrike's 2022 Ecosystem Partner of the year award for AWS. Together, CrowdStrike and AWS
+delivered end-to-end comprehensive protection that enables AWS customers to build, run, and secure applications with
+speed and confidence.
+Inventing on behalf of customers
+Amazon is driven by a passion for invention across all of its business areas. The company builds new products and services that
+customers ask for, and also invents new ones that customers didn't know they wanted but make their lives or businesses better
+in some meaningful way. For example, this past quarter, Amazon:
+•
+•
+•
+•
+Introduced a range of new Fire TV devices and entertainment experiences, including the Omni QLED Series smart TV
+with hands-free Alexa controls and new ambient features that turn the TV into an always-smart device when not
+streaming; and the all-new Fire TV Cube streaming media player with a faster processor for increased app launch
+speeds, an industry-first HDMI input port, and Wi-Fi 6E support for smoother 4K streaming.
+Introduced the next generation of Echo Dot and Echo Auto, as well as upgrades to Echo Studio. The all-new Echo Dot
+and Echo Dot with Clock feature a redesigned audio architecture, and the Echo Dot Kids now comes in Owl and
+Dragon designs. The next generation Echo Auto is designed to hear requests over music, the air conditioner, and road
+noise, and the new Echo Studio features bass extension and custom-built spatial audio processing technology.
+Launched three new Kindle devices: Kindle Scribe, the first Kindle that makes it possible for customers to both read
+and write as naturally as they do on paper but with the convenience of Kindle's glare-free Paperwhite display; the
+next-generation Kindle, Amazon's lightest and most compact Kindle yet; and the next-generation Kindle Kids.
+Expanded the Ring lineup with new security devices and features: Ring Intercom allows customers living in apartment
+buildings to use their phone to talk to and buzz in visitors; Spotlight Cam Pro and Spotlight Cam Plus use radar
+sensors to detect motion and send more precise alerts; Ring Alarm Panic Button enables customers to get help at the
+push of a button in an emergency; and a new integration of Ring Virtual Security Guard and the Amazon Astro robot
+for businesses offers expanded security options.
+Announced the Blink Wired Floodlight Camera, which features person detection for the first time in a Blink device,
+and Blink Mini Pan Tilt accessory, which extends the functionality of the popular Blink Mini with additional
+viewpoint capabilities.
+Launched a new Alexa feature called Customers ask Alexa that enables brands and selling partners to answer common
+customer questions through Alexa and better inform purchase decisions.
+Continued to collaborate with leading retailers and stadiums to equip their locations with Just Walk Out technology for
+checkout-free shopping and Amazon One for palm recognition and payment. One or both of these technologies are
+now available at Texas A&M's Kyle Field, Lumen Field in Seattle, Crypto.com Arena in Los Angeles, and a Hudson
+Nonstop at Dallas Fort Worth International Airport. Amazon also continued to roll out Amazon One at Whole Foods
+Market stores with the technology now available at over 65 stores in California.
+Announced the general availability of new AWS EC2 machine learning training instances (Trn1), which make it
+possible to build more accurate machine learning models and reduce training times. AWS-designed Trainium chips are
+purpose-built for high-performance machine learning training in the cloud. With Trainium-powered Trn1 instances,
+AWS customers can save up to 50% on deep learning training costs over equivalent GPU-based instances.
+Announced the general availability of AWS IoT FleetWise, which makes it easier to collect, transform, and transfer
+vehicle data to the cloud in near real time. Automakers, suppliers, fleet operators, and technology solution vendors can
+use the data to analyze vehicle fleet health and more quickly identify potential recalls or safety issues, make in-vehicle
+infotainment systems smarter, and improve advanced technologies like autonomous driving and advanced driver-
+assistance systems with analytics and machine learning.
+Announced a new alliance and investment with Harvard University to advance fundamental research and innovation in
+quantum networking, which will explore applications to combat privacy and security threats. AWS also announced the
+AWS Generation Q Fund at the Harvard Quantum Initiative to train the next-generation of quantum scientists and
+engineers.

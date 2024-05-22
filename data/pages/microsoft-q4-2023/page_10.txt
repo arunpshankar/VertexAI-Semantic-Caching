@@ -1,0 +1,187 @@
+Operations
+Net income
+Adjustments to reconcile net income to
+net cash from operations:
+CASH FLOWS STATEMENTS
+(In millions) (Unaudited)
+Three Months Ended
+Six Months Ended
+December 31,
+December 31,
+2023
+2022
+2023
+2022
+$21,870
+$16,425
+$44,161
+$33,981
+Depreciation, amortization, and other
+5,959
+3,648
+9,880
+6,438
+Stock-based compensation expense
+2,828
+2,538
+5,335
+4,730
+Net recognized losses on investments and derivatives
+198
+214
+Deferred income taxes
+(1,702)
+(1,305)
+212
+(2,270)
+192
+(2,496)
+Changes in operating assets and liabilities:
+Accounts receivable
+(2,951)
+(3,164)
+8,083
+8,565
+Inventories
+1,474
+1,305
+969
+762
+Other current assets
+725
+(392)
+(71)
+(724)
+Other long-term assets
+Accounts payable
+Unearned revenue
+Income taxes
+(1,427)
+(65)
+(3,440)
+(731)
+(2,521)
+(2,058)
+(1,307)
+(3,625)
+(5,538)
+(5,186)
+(9,664)
+(8,508)
+(1,554)
+(2,863)
+(129)
+(2,453)
+Other current liabilities
+1,518
+1,819
+(2,588)
+(2,205)
+Other long-term liabilities
+(26)
+257
+265
+445
+Net cash from operations
+18,853
+11,173
+49,436
+34,371
+Financing
+Proceeds from issuance (repayments) of debt, maturities of
+90 days or less, net
+(8,490)
+0
+10,202
+Proceeds from issuance of debt
+10,773
+0
+17,846
+0
+Repayments of debt
+(2,916)
+(750)
+(4,416)
+(1,750)
+Common stock issued
+Common stock repurchased
+Common stock cash dividends paid
+Other, net
+Net cash from (used in) financing
+261
+243
+946
+(4,000)
+(5,459)
+(8,831)
+818
+(11,032)
+(5,574)
+(5,066)
+(10,625)
+(9,687)
+(201)
+(317)
+(508)
+(581)
+(10,147)
+(11,349)
+4,614
+(22,232)
+Investing
+Additions to property and equipment
+(9,735)
+(6,274)
+(19,652)
+(12,557)
+Acquisition of companies, net of cash acquired, and purchases
+of intangible and other assets
+(65,029)
+(679)
+(66,215)
+(1,028)
+Purchases of investments
+(4,258)
+(11,599)
+(12,718)
+(16,612)
+Maturities of investments
+4,150
+6,928
+19,868
+13,590
+Sales of investments
+1,600
+4,775
+6,930
+7,486
+Other, net
+1,347
+(301)
+365
+(1,161)
+Net cash used in investing
+(71,925)
+(7,150)
+(71,422)
+(10,282)
+Effect of foreign exchange rates on cash and cash equivalents
+72
+88
+Net change in cash and cash equivalents
+(63,147)
+(7,238)
+(27)
+(17,399)
+(142)
+1,715
+Cash and cash equivalents, beginning of period
+80,452
+22,884
+34,704
+13,931
+Cash and cash equivalents, end of period
+$17,305
+$15,646
+$17,305
+$15,646

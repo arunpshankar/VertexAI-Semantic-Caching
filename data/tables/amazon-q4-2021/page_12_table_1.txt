@@ -1,0 +1,10 @@
+|    | ('Net income',)                                                                                                            | ('$ 7,222 $ 14,323 $ 21,331 $ 33,364',)   |
+|---:|:---------------------------------------------------------------------------------------------------------------------------|:------------------------------------------|
+|  0 | Other comprehensive income (loss):                                                                                         |                                           |
+|  1 | Foreign currency translation adjustments, net of tax of $(34), $12, $(36) and $47                                          | 820 (67) 561 (819)                        |
+|  2 | Net change in unrealized gains (losses) on available-for- sale debt securities:                                            |                                           |
+|  3 | Unrealized gains (losses), net of tax of $(12), $41, $(83) and $72                                                         | 34 (234) 273 (343)                        |
+|  4 | Reclassification adjustment for losses (gains) included in "Other income (expense), net,” net of tax of $3, $0, $8 and $13 | (5) (28) (34)                             |
+|  5 | Net unrealized gains (losses) on available-for- sale debt securities                                                       | 29 (234) 245 (377)                        |
+|  6 | Total other comprehensive income (loss)                                                                                    | 849 (301) 806 (1,196)                     |
+|  7 | Comprehensive income                                                                                                       | $ 8,071 $ 14,022 $ 22,137 $ 32,168        |

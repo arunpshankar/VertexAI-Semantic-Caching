@@ -1,0 +1,12 @@
+|    | ('Cash and cash equivalents 42,122 Marketable securities 42,274',)   | ('$ 40,380 49,514',)   |
+|---:|:---------------------------------------------------------------------|:-----------------------|
+|  0 | Inventories 23,795                                                   | 24,119                 |
+|  1 | Accounts receivable, net and other 24,542                            | 26,835                 |
+|  2 | Total current assets 132,733                                         | 140,848                |
+|  3 | Property and equipment, net 113,114                                  | 133,502                |
+|  4 | Operating leases 37,553                                              | 43,346                 |
+|  5 | Goodwill 15,017                                                      | 15,350                 |
+|  6 | Other assets 22,778                                                  | 27,273                 |
+|  7 | Total assets $ 321,195                                               | $ 360,319              |
+|  8 | LIABILITIES AND STOCKHOLDERS' EQ TY                                  |                        |
+|  9 | Current liabilities:                                                 |                        |

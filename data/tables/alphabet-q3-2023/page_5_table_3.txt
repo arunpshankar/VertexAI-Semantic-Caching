@@ -1,0 +1,3 @@
+|    | ("Total stockholders' equity 256,144 273,202",)                |
+|---:|:---------------------------------------------------------------|
+|  0 | Total liabilities and stockholders' equity $ 365,264 $ 396,711 |

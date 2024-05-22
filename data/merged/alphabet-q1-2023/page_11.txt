@@ -1,0 +1,58 @@
+=== START PAGE CONTENT ===
+Total Revenues - Prior Year Comparative Periods
+Comparison from the Quarter Ended March 31, 2021 to the Quarter Ended March 31, 2022
+Quarter Ended March 31, 2022
+% Change from Prior Period
+Quarter Ended March 31,
+2021
+2022
+Less FX
+Effect
+Constant
+Currency
+Revenues
+As
+Reported
+Less
+Hedging
+Effect
+Constant
+Less FX
+Effect
+Currency
+Revenues
+Revenues excluding hedging effect $
+Hedging gains (losses)
+55,423 $
+(109)
+67,733 $
+(1,991) $ 69,724
+22%
+(4)%
+26%
+278
+Total revenues
+$
+55,314 $
+68,011
+$
+69,724
+23 %
+1 %
+(4)%
+26 %
+11
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('Quarter Ended 2021 Revenues excluding hedging effect $ 55,423',)   | ('March 31, 2022 $ 67,733',)   | ('Less FX Effect $ (1,991)',)   | ('Constant Currency Revenues $ 69,724',)   | ('% As Reported 22%',)   | ('Change from Less Hedging Effect',)   | ('Prior Period Less FX Effect (4)%',)   | ('Constant Currency Revenues 26%',)   |
+|---:|:---------------------------------------------------------------------|:-------------------------------|:--------------------------------|:-------------------------------------------|:-------------------------|:---------------------------------------|:----------------------------------------|:--------------------------------------|
+|  0 | Hedging gains (losses) (109)                                         | 278                            |                                 |                                            |                          |                                        |                                         |                                       |
+|  1 | Total revenues $ 55,314                                              | $ 68,011                       |                                 | $ 69,724                                   | 23 %                     | 1 %                                    | (4)%                                    | 26%                                   |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('Revenues excluding hedging effect',)   | ('$ 55,423',)   | ('$ 67,733',)   | ('$ (',)   |
+|---:|:-----------------------------------------|:----------------|:----------------|:-----------|
+|  0 | Hedging gains (losses)                   | (109)           | 278             |            |
+|  1 | Total revenues                           | $ 55,314        | $ 68,011        |            |
+=== TABLE END ===

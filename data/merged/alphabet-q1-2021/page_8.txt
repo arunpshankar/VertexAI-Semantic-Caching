@@ -1,0 +1,160 @@
+=== START PAGE CONTENT ===
+Reconciliation from GAAP revenues to non-GAAP constant currency revenues (in millions, except
+percentages; unaudited):
+We provide non-GAAP constant currency revenues and the non-GAAP percentage change in constant currency
+revenues because they facilitate the comparison of current results to historic performance by excluding the effect of
+foreign exchange rate movements and hedging activities, which are not indicative of our core operating results.
+Quarter Ended March 31, 2021
+YOY
+QoQ
+EMEA revenues (GAAP)
+(using Q1'20's FX rates)
+17,031
+(using Q4'20's FX rates)
+17,031
+Exclude foreign exchange effect on Q1'21 revenues using Q1'20 rates
+Exclude foreign exchange effect on Q1'21 revenues using Q4'20 rates
+EMEA constant currency revenues (non-GAAP)
+(929)
+N/A
+N/A
+(550)
+$
+16,102
+16,481
+Prior period EMEA revenues (GAAP)
+$
+12,845
+17,238
+EMEA revenue percentage change (GAAP)
+33 %
+(1)%
+EMEA constant currency revenue percentage change (non-GAAP)
+25%
+(4)%
+APAC revenues (GAAP)
+10,455
+10,455
+Exclude foreign exchange effect on Q1'21 revenues using Q1'20 rates
+Exclude foreign exchange effect on Q1'21 revenues using Q4'20 rates
+APAC constant currency revenues (non-GAAP)
+(363)
+N/A
+N/A
+(155)
+$
+10,092
+10,300
+Prior period APAC revenues (GAAP)
+APAC revenue percentage change (GAAP)
+7,238
+$
+9,909
+44 %
+6%
+APAC constant currency revenue percentage change (non-GAAP)
+39 %
+4 %
+Other Americas revenues (GAAP)
+2,905
+2,905
+Exclude foreign exchange effect on Q1'21 revenues using Q1'20 rates
+Exclude foreign exchange effect on Q1'21 revenues using Q4'20 rates
+191
+N/A
+N/A
+(77)
+Other Americas constant currency revenues (non-GAAP)
+$
+3,096
+$
+2,828
+Prior period Other Americas revenues (GAAP)
+$
+2,157
+$
+3,050
+Other Americas revenue percentage change (GAAP)
+35 %
+(5)%
+Other Americas constant currency revenue percentage change (non-GAAP)
+44 %
+(7)%
+United States revenues (GAAP)
+25,032
+25,032
+United States revenue percentage change (GAAP)
+33 %
+(6)%
+Hedging gains (losses)
+Revenues (GAAP)
+Constant currency revenues (non-GAAP)
+Prior period revenues, excluding hedging effect (non-GAAP)(1)
+$
+(109)
+(109)
+$
+55,314
+55,314
+$
+54,322
+$
+54,641
+$
+41,110
+$
+56,900
+Revenue percentage change (GAAP)
+Constant currency revenue percentage change (non-GAAP)
+(1)
+34 %
+(3)%
+32 %
+(4)%
+Total revenues and hedging gains (losses) for the quarter ended March 31, 2020 were $41,159 million and $49 million,
+respectively. Total revenues and hedging gains (losses) for the quarter ended December 31, 2020 were $56,898 million and
+$(2) million, respectively.
+Non-GAAP constant currency revenues and percentage change: We define non-GAAP constant currency revenues as total
+revenues excluding the effect of foreign exchange rate movements and hedging activities, and we use it to determine the
+constant currency revenue percentage change on year-on-year and quarter-on-quarter basis. Non-GAAP constant currency
+revenues are calculated by translating current quarter revenues using prior period exchange rates and excluding any hedging
+effect recognized in the current quarter. Constant currency revenue percentage change is calculated by determining the increase
+in current quarter non-GAAP constant currency revenues over prior period revenues, excluding any hedging effect recognized in
+the prior period.
+8
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('',)                                                                                                                                                   | ("YOY (using Q1'20's FX rates) QoQ (using Q4'20's FX rates)",)                            |
+|---:|:--------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------|
+|  0 | EMEA revenues (GAAP)                                                                                                                                    | $ 17,031 $ 17,031                                                                         |
+|  1 | Exclude foreign exchange effect on Q1'21 revenues using Q1'20 rates                                                                                     | (929) N/A                                                                                 |
+|  2 | Exclude foreign exchange effect on Q1'21 revenues using Q4'20 rates                                                                                     | N/A (550)                                                                                 |
+|  3 | EMEA constant currency revenues (non-GAAP)                                                                                                              | $ 16,102 $ 16,481                                                                         |
+|  4 | Prior period EMEA revenues (GAAP)                                                                                                                       | $ 12,845 $ 17,238                                                                         |
+|  5 | EMEA revenue percentage change (GAAP)                                                                                                                   | 33 % (1)%                                                                                 |
+|  6 | EMEA constant currency revenue percentage change (non-GAAP)                                                                                             | (4)% 25 %                                                                                 |
+|  7 | APAC revenues (GAAP)                                                                                                                                    | $ 10,455 $ 10,455                                                                         |
+|  8 | Exclude foreign exchange effect on Q1'21 revenues using Q1'20 rates                                                                                     | (363) N/A                                                                                 |
+|  9 | Exclude foreign exchange effect on Q1'21 revenues using Q4'20 rates                                                                                     | N/A (155)                                                                                 |
+| 10 | APAC constant currency revenues (non-GAAP)                                                                                                              | $ 10,092 $ 10,300                                                                         |
+| 11 | Prior period APAC revenues (GAAP)                                                                                                                       | $ 7,238 $ 9,909                                                                           |
+| 12 | APAC revenue percentage change (GAAP)                                                                                                                   | 44 % 6%                                                                                   |
+| 13 | APAC constant currency revenue percentage change (non-GAAP)                                                                                             | 39 % 4 %                                                                                  |
+| 14 | Other Americas revenues (GAAP)                                                                                                                          | 2,905 $ 2,905                                                                             |
+| 15 | Exclude foreign exchange effect on Q1'21 revenues using Q1'20 rates                                                                                     | 191 N/A                                                                                   |
+| 16 | Exclude foreign exchange effect on Q1'21 revenues using Q4'20 rates                                                                                     | N/A (77)                                                                                  |
+| 17 | Other Americas constant currency revenues (non-GAAP)                                                                                                    | $ 3,096 $ 2,828 SASA                                                                      |
+| 18 | Prior period Other Americas revenues (GAAP)                                                                                                             | $ 2,157 $ 3,050                                                                           |
+| 19 | Other Americas revenue percentage change (GAAP                                                                                                          | 35 % (5)%                                                                                 |
+| 20 | Other Americas constant currency revenue percentage change (non-GAAP)                                                                                   | 44 % (7)%                                                                                 |
+| 21 | United States revenues (GAAP)                                                                                                                           | GA $ 25,032 GA $ 25,032                                                                   |
+| 22 | United States revenue percentage change (GAAP)                                                                                                          | 33 % (6)%                                                                                 |
+| 23 | Hedging gains (losses)                                                                                                                                  | $ (109) $ (109) SASA SASA                                                                 |
+| 24 | Revenues (GAAP)                                                                                                                                         | SASA 55,314 $ 55,314                                                                      |
+| 25 | Constant currency revenues (non-GAAP)                                                                                                                   | $ 54,322 $ 54,641                                                                         |
+| 26 | Prior period revenues, excluding hedging effect (non-GAAP)(¹)                                                                                           | 41,110 $ 56,900                                                                           |
+| 27 | Revenue percentage change (GAAP)                                                                                                                        | 34 % (3)%                                                                                 |
+| 28 | Constant currency revenue percentage change (non-GAAP)                                                                                                  | (4)% 32%                                                                                  |
+| 29 | (1) Total revenues and hedging gains (losses) for the quarter ended March respectively. Total revenues and hedging gains (losses) for the quarter ended | 31, 2020 were $41,159 million and $49 million, December 31, 2020 were $56,898 million and |
+=== TABLE END ===

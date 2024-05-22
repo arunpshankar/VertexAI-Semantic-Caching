@@ -1,0 +1,11 @@
+|    | ('',)                                                                 | ('',)   | ('Operating',)   | ('',)      | ('Earnings',)   |
+|---:|:----------------------------------------------------------------------|:--------|:-----------------|:-----------|:----------------|
+|  0 | ($ in millions, except per share amounts)                             | Revenue | Income           | Net Income | per Share       |
+|  1 | 2021 As Reported (GAAP)                                               | $51,728 | $22,247          | $18,765    | $2.48           |
+|  2 | 2022 As Reported (GAAP)                                               | $52,747 | $20,399          | $16,425    | $2.20           |
+|  3 | Severance, hardware-related impairment, and lease consolidation costs |         | 1,171            | 946        | 0.12            |
+|  4 | 2022 As Adjusted                                                      | $52,747 | $21,570          | $17,371    | $2.32           |
+|  5 | Percentage Change Y/Y (GAAP)                                          | 2%      | (8)%             | (12)%      | (11)%           |
+|  6 | Percentage Change Y/Y Constant Currency                               | 7% VA   | 0%               | (4)%       | (3)%            |
+|  7 | Percentage Change Y/Y (As Adjusted)                                   | AVA 2%  | (3)%             | (7)%       | (6)%            |
+|  8 | Percentage Change Y/Y (As Adjusted) Constant Currency                 | 7%      | 6%               | 1%         | 2%              |

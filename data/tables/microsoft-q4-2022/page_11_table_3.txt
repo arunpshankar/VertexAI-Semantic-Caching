@@ -1,0 +1,9 @@
+|    | ('Additions to property and equipment',)            | ('(6,274)',)   | ('(5,865)',)   | ('(12,557)',)   | ('(11,675)',)   |
+|---:|:----------------------------------------------------|:---------------|:---------------|:----------------|:----------------|
+|  0 | Acquisition of companies, net of cash acquired, and |                |                |                 |                 |
+|  1 | purchases of intangible and other assets            | (679)          | (850)          | (1,028)         | (2,056)         |
+|  2 | Purchases of investments                            | (11,599)       | (2,505)        | (16,612)        | (12,814)        |
+|  3 | Maturities of investments                           | 6,928          | 5,253          | 13,590          | 14,115          |
+|  4 | Sales of investments                                | 4,775          | 2,895          | 7,486           | 8,525           |
+|  5 | Other, net                                          | (301)          | (89)           | (1,161)         | (506)           |
+|  6 | Net cash used in investing                          | (7,150)        | (1,161)        | (10,282)        | (4,411)         |

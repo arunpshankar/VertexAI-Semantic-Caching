@@ -1,0 +1,139 @@
+=== START PAGE CONTENT ===
+MICROSOFT CORPORATION
+Revenue:
+INCOME STATEMENTS
+(In millions, except per share amounts) (Unaudited)
+Three Months Ended
+December 31,
+Six Months Ended
+December 31,
+2023
+2022
+2023
+2022
+Product
+$18,941
+$16,517
+$34,476
+$32,258
+Service and other
+43,079
+36,230
+84,061
+70,611
+Total revenue
+62,020
+52,747
+118,537
+102,869
+Cost of revenue:
+Product
+5,964
+5,690
+9,495
+9,992
+Service and other
+13,659
+11,798
+26,430
+22,948
+Total cost of revenue
+19,623
+17,488
+35,925
+32,940
+Gross margin
+42,397
+35,259
+82,612
+69,929
+Research and development
+7,142
+6,844
+13,801
+13,472
+Sales and marketing
+6,246
+5,679
+11,433
+10,805
+General and administrative
+1,977
+2,337
+3,451
+3,735
+Operating income
+27,032
+20,399
+53,927
+41,917
+Other expense, net
+(506)
+(60)
+(117)
+(6)
+Income before income taxes
+26,526
+20,339
+53,810
+41,911
+Provision for income taxes
+4,656
+3,914
+9,649
+7,930
+Net income
+$21,870
+$16,425
+$44,161
+$33,981
+Earnings per share:
+Basic
+$2.94
+$2.20
+$5.94
+$4.56
+Diluted
+$2.93
+$2.20
+$5.92
+$4.54
+Weighted average shares outstanding:
+Basic
+7,432
+7,451
+7,431
+7,454
+Diluted
+7,468
+7,473
+7,465
+7,479
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('',)                                | ('2023',)    | ('December 31, 2022',)   | ('2023',)    | ('December 31, 2022',)   |
+|---:|:-------------------------------------|:-------------|:-------------------------|:-------------|:-------------------------|
+|  0 | Revenue:                             |              |                          |              |                          |
+|  1 | Product                              | $18,941      | $16,517                  | $34,476      | $32,258                  |
+|  2 | Service and other                    | 43,079       | 36,230                   | 84,061       | 70,611                   |
+|  3 | Total revenue                        | 62,020       | 52,747                   | 118,537      | 102,869                  |
+|  4 | Cost of revenue:                     |              |                          |              |                          |
+|  5 | Product Service and other            | 5,964 13,659 | 5,690 11,798             | 9,495 26,430 | 9,992 22,948             |
+|  6 | Total cost of revenue                | 19,623       | 17,488                   | 35,925       | 32,940                   |
+|  7 | Gross margin                         | 42,397       | 35,259                   | 82,612       | 69,929                   |
+|  8 | Research and development             | 7,142        | 6,844                    | 13,801       | 13,472                   |
+|  9 | Sales and marketing                  | 6,246        | 5,679                    | 11,433       | 10,805                   |
+| 10 | General and administrative           | 1,977        | 2,337                    | 3,451        | 3,735                    |
+| 11 | Operating income                     | 27,032       | 20,399                   | 53,927       | 41,917                   |
+| 12 | Other expense, net                   | (506)        | (60)                     | (117)        | (6)                      |
+| 13 | Income before income taxes           | 26,526       | 20,339                   | 53,810       | 41,911                   |
+| 14 | Provision for income taxes           | 4,656        | 3,914                    | 9,649        | 7,930                    |
+| 15 | Net income                           | $21,870      | $16,425                  | $44,161      | $33,981                  |
+| 16 | Earnings per share:                  |              |                          |              |                          |
+| 17 | Basic                                | $2.94        | $2.20                    | $5.94        | $4.56                    |
+| 18 | Diluted                              | $2.93        | $2.20                    | $5.92        | $4.54                    |
+| 19 | Weighted average shares outstanding: |              |                          |              |                          |
+| 20 | Basic                                | 7,432        | 7,451                    | 7,431        | 7,454                    |
+| 21 | Diluted                              | 7,468        | 7,473                    | 7,465        | 7,479                    |
+=== TABLE END ===

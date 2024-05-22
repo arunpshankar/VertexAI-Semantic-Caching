@@ -1,0 +1,144 @@
+=== START PAGE CONTENT ===
+Comparison from the Quarter Ended September 30, 2021 to the Quarter Ended September 30, 2022
+% Change
+from Prior
+Year
+Quarter Ended
+2021
+September 30, September 30,
+2022
+EMEA revenues
+$
+19,839 $
+19,450
+(2)%
+EMEA constant currency revenues
+22,093
+11 %
+APAC revenues
+11,705
+11,494
+(2)%
+APAC constant currency revenues
+12,604
+8%
+Other Americas revenues
+3,688
+4,138
+12%
+Other Americas constant currency revenues
+4,303
+17 %
+United States revenues
+29,824
+33,372
+12 %
+Hedging gains (losses)
+62
+638
+Total revenues
+$
+65,118 $
+69,092
+6%
+Revenues, excluding hedging effect
+65,056 $
+68,454
+Exchange rate effect
+3,918
+Total constant currency revenues
+$
+72,372
+11 %
+Comparison from the Quarter Ended June 30, 2022 to the Quarter Ended September 30, 2022
+Quarter Ended
+June 30, 2022
+$
+September 30,
+2022
+% Change
+from Prior
+Quarter
+20,533 $
+19,450
+20,390
+EMEA revenues
+(5)%
+EMEA constant currency revenues
+(1)%
+APAC revenues
+11,710
+11,494
+(2)%
+APAC constant currency revenues
+11,949
+2%
+Other Americas revenues
+4,340
+4,138
+(5)%
+Other Americas constant currency revenues
+4,290
+(1)%
+United States revenues
+32,727
+33,372
+2%
+Hedging gains (losses)
+Total revenues
+Revenues, excluding hedging effect
+Exchange rate effect
+Total constant currency revenues
+375
+638
+69,685 $
+69,092
+(1)%
+69,310 $
+68,454
+1,547
+$
+70,001
+1 %
+Non-GAAP constant currency revenues and percentage change: We define non-GAAP constant currency revenues as total
+revenues excluding the effect of foreign exchange rate movements and hedging activities, and we use it to determine the
+constant currency revenue percentage change on year-on-year and quarter-on-quarter basis. Non-GAAP constant currency
+revenues are calculated by translating current quarter revenues using prior period exchange rates and excluding any hedging
+effect recognized in the current quarter. Constant currency revenue percentage change is calculated by determining the increase
+in current quarter non-GAAP constant currency revenues over prior period revenues, excluding any hedging effect recognized in
+the prior period.
+8
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('',)                                     | ('June 30, 2022',)   | ('September 30, 2022',)   | ('% Change from Prior Quarter',)   |
+|---:|:------------------------------------------|:---------------------|:--------------------------|:-----------------------------------|
+|  0 | EMEA revenues                             | $ 20,533             | $ 19,450                  | (5)%                               |
+|  1 | EMEA constant currency revenues           |                      | 20,390                    | (1)%                               |
+|  2 | APAC revenues                             | 11,710               | 11,494                    | (2)%                               |
+|  3 | APAC constant currency revenues           |                      | 11,949                    | 2%                                 |
+|  4 | Other Americas revenues                   | 4,340                | 4,138                     | (5)%                               |
+|  5 | Other Americas constant currency revenues |                      | 4,290                     | (1)%                               |
+|  6 | United States revenues                    | 32,727               | 33,372                    | 2%                                 |
+|  7 | Hedging gains (losses)                    | 375                  | 638                       |                                    |
+|  8 | Total revenues                            | $ 69,685             | $ 69,092                  | (1)%                               |
+|  9 | Revenues, excluding hedging effect        | 69,310               | $ 68,454                  |                                    |
+| 10 | Exchange rate effect                      |                      | 1,547                     |                                    |
+| 11 | Total constant currency revenues          |                      | $ 70,001                  | 1 %                                |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('',)                                     | ('September 30, 2021',)   | ('September 30, 2022',)   | ('% Change from Prior Year',)   |
+|---:|:------------------------------------------|:--------------------------|:--------------------------|:--------------------------------|
+|  0 | EMEA revenues                             | $ 19,839                  | $ 19,450                  | (2)%                            |
+|  1 | EMEA constant currency revenues           |                           | 22,093                    | 11 %                            |
+|  2 | APAC revenues                             | 11,705                    | 11,494                    | (2)%                            |
+|  3 | APAC constant currency revenues           |                           | 12,604                    | 8%                              |
+|  4 | Other Americas revenues                   | 3,688                     | 4,138                     | 12 %                            |
+|  5 | Other Americas constant currency revenues |                           | 4,303                     | 17 %                            |
+|  6 | United States revenues                    | 29,824                    | 33,372                    | 12%                             |
+|  7 | Hedging gains (losses)                    | 62                        | 638                       |                                 |
+|  8 | Total revenues                            | $ 65,118 SAS              | $ 69,092                  | 6%                              |
+|  9 | Revenues, excluding hedging effect        | $ 65,056                  | $ 68,454                  |                                 |
+| 10 | Exchange rate effect                      |                           | 3,918                     |                                 |
+| 11 | Total constant currency revenues          |                           | $ 72,372                  | 11 %                            |
+=== TABLE END ===

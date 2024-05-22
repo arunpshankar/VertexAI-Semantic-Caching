@@ -1,0 +1,175 @@
+Reconciliation from GAAP Revenues to Non-GAAP Constant Currency Revenues and GAAP Percentage
+Change in Revenues to Non-GAAP Percentage Change in Constant Currency Revenues (in millions, except
+percentages; unaudited):
+We provide non-GAAP constant currency revenues ("constant currency revenues”) and non-GAAP percentage change
+in constant currency revenues (“percentage change in constant currency revenues”), because they facilitate the
+comparison of current results to historic performance by excluding the effect of foreign exchange rate movements ("FX
+Effect") as well as hedging activities, which are recognized at the consolidated level, as they are not indicative of our
+core operating results.
+Non-GAAP constant currency revenues is defined as revenues excluding the effect of foreign exchange rate
+movements and hedging activities and is calculated by translating current period revenues using prior period exchange
+rates and excluding any hedging effect recognized in the current period. We calculate the percentage change in
+constant currency revenues by comparing constant currency revenues to the prior year comparable period revenues,
+excluding any hedging effect recognized in the prior period.
+Revenues by Geography
+Comparison from the Quarter Ended September 30, 2022 to the Quarter Ended September 30, 2023
+Quarter Ended September 30, 2023
+% Change from Prior Period
+Quarter Ended
+September 30,
+2022
+2023
+Less FX
+Effect
+Constant
+Currency
+Revenues
+As
+Reported
+Less
+Hedging
+Effect
+Less FX
+Constant
+Currency
+Effect
+Revenues
+United States
+$
+33,372 $ 36,354
+$
+0
+$ 36,354
+9%
+0%
+9%
+EMEA
+19,450
+22,661
+803
+21,858
+17 %
+5 %
+12 %
+APAC
+11,494
+13,126
+(270)
+13,396
+14 %
+(3)%
+17 %
+Other Americas
+4,138
+4,553
+(106)
+4,659
+10 %
+(3)%
+13 %
+Revenues, excluding hedging effect
+68,454
+76,694
+427
+76,267
+12 %
+1 %
+11 %
+Hedging gains (losses)
+638
+Total revenues (1)
+$
+69,092 $
+(1)
+76,693
+$
+76,267
+11 %
+(1)%
+1 %
+11 %
+(1)
+Total constant currency revenues of $76.3 billion for the quarter ended September 30, 2023 increased $7.8 billion compared to $68.5 billion in
+revenues, excluding hedging effect for the quarter ended September 30, 2022.
+Comparison from the Quarter Ended June 30, 2023 to the Quarter Ended September 30, 2023
+Quarter Ended September 30, 2023
+% Change from Prior Period
+Quarter Ended
+June 30,
+2023
+United States
+EMEA
+$
+35,073 $
+22,289
+September
+30, 2023
+36,354 $
+22,661
+Less FX
+Effect
+Constant
+Currency
+Revenues
+As
+Reported
+Less
+Hedging
+Effect
+Less FX
+Effect
+Constant
+Currency
+Revenues
+0
+$ 36,354
+4 %
+0 %
+4 %
+46
+22,615
+2%
+1 %
+1 %
+APAC
+12,728
+13,126
+(219)
+13,345
+3 %
+(2)%
+5%
+Other Americas
+4,511
+Revenues, excluding hedging effect
+74,601
+4,553
+76,694
+59
+4,494
+1 %
+1 %
+0%
+(114)
+76,808
+3 %
+0 %
+3%
+Hedging gains (losses)
+3
+Total revenues (1)
+$
+74,604 $
+(1)
+76,693
+$
+76,808
+3 %
+0 %
+0 %
+3%
+(1)
+Total constant currency revenues of $76.8 billion for the quarter ended September 30, 2023 increased $2.2 billion compared to $74.6 billion in
+revenues, excluding hedging effect for the quarter ended June 30, 2023.
+10
+10

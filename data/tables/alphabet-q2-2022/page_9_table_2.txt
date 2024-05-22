@@ -1,0 +1,13 @@
+|    | ('Revenues:',)               | ('',)    | ('',)    |
+|---:|:-----------------------------|:---------|:---------|
+|  0 | Google Services              | 57,067   | $ 62,841 |
+|  1 | Google Cloud                 | 4,628    | 6,276    |
+|  2 | Other Bets                   | 192      | 193      |
+|  3 | Hedging gains (losses)       | (7)      | 375      |
+|  4 | Total revenues               | 61,880   | $ 69,685 |
+|  5 | Operating income (loss):     |          |          |
+|  6 | Google Services              | $ 22,343 | $ 22,770 |
+|  7 | Google Cloud                 | (591)    | (858)    |
+|  8 | Other Bets                   | (1,398)  | (1,686)  |
+|  9 | Corporate costs, unallocated | (993)    | (773)    |
+| 10 | Total income from operations | $ 19,361 | $ 19,453 |

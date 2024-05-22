@@ -1,0 +1,8 @@
+|    | ('2022 2023 North America Net sales $ 69,244 76,881',)   |
+|---:|:---------------------------------------------------------|
+|  0 | Operating expenses 70,812 75,983                         |
+|  1 | Operating income (loss) $ (1,568) $ 898                  |
+|  2 | International                                            |
+|  3 | Net sales $ 28,759 $ 29,123                              |
+|  4 | Operating expenses 30,040 30,370                         |
+|  5 | Operating loss $ (1,281) $ (1,247)                       |

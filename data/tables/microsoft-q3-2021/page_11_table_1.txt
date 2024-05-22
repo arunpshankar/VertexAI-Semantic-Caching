@@ -1,0 +1,40 @@
+|    | ('2021',)                                                          | ('2020',)   |
+|---:|:-------------------------------------------------------------------|:------------|
+|  0 | Operations                                                         |             |
+|  1 | Net income $20,505                                                 | $13,893     |
+|  2 | Adjustments to reconcile net income to net cash from operations:   |             |
+|  3 | 3,212 Depreciation, amortization, and other                        | 2,645       |
+|  4 | 1,702 Stock-based compensation expense                             | 1,456       |
+|  5 | Net recognized gains on investments and derivatives (364)          | (128)       |
+|  6 | Deferred income taxes (5,970)                                      | (11)        |
+|  7 | Changes in operating assets and liabilities:                       |             |
+|  8 | Accounts receivable 10,486                                         | 8,843       |
+|  9 | Inventories (777)                                                  | (808)       |
+| 10 | Other current assets 940                                           | (54)        |
+| 11 | Other long-term assets (598)                                       | (62)        |
+| 12 | Accounts payable (471)                                             | 315         |
+| 13 | Unearned revenue (2,885)                                           | (3,064)     |
+| 14 | 2,653 Income taxes                                                 | (983)       |
+| 15 | (4,143) Other current liabilities                                  | (2,951)     |
+| 16 | 250 Other long-term liabilities                                    | 244         |
+| 17 | 24,540 Net cash from operations                                    | 19,335      |
+| 18 | Financing                                                          |             |
+| 19 | Repayments of debt (4,826)                                         |             |
+| 20 | Common stock issued 612                                            | 545         |
+| 21 | (7,684) Common stock repurchased                                   | (6,743)     |
+| 22 | (4,206) Common stock cash dividends paid                           | (3,856)     |
+| 23 | (172) Other, net                                                   | (235)       |
+| 24 | (16,276) Net cash used in financing                                | (10,289)    |
+| 25 | Investing                                                          |             |
+| 26 | Additions to property and equipment (5,810)                        | (4,907)     |
+| 27 | Acquisition of companies, net of cash acquired,                    |             |
+| 28 | and purchases of intangible and other assets (1,206)               | (481)       |
+| 29 | Purchases of investments (10,309)                                  | (14,580)    |
+| 30 | 8,862 Maturities of investments                                    | 14,266      |
+| 31 | Sales of investments 5,630                                         | 2,414       |
+| 32 | Other, net (417)                                                   | (2,083)     |
+| 33 | (3,250) Net cash used in investing                                 | (5,371)     |
+| 34 | (73) Effect of foreign exchange rates on cash and cash equivalents | (46)        |
+| 35 | Net change in cash and cash equivalents 4,941                      | 3,629       |
+| 36 | Cash and cash equivalents, beginning of period 14,224              | 13,576      |
+| 37 | Cash and cash equivalents, end of period $19,165                   | $17,205     |

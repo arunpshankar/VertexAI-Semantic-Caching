@@ -1,0 +1,57 @@
+•
+•
+•
+•
+infrastructure for distributed training at scale. Amazon SageMaker Inference reduces FM deployment costs by
+50% on average and latency by 20% on average by optimizing the use of accelerators.
+The next generation of AWS chips optimized for the cloud, which deliver advancements in price performance
+with each successive generation. AWS Graviton4 chips provide up to 30% better compute performance, 50%
+more cores, and 75% more memory bandwidth than current generation AWS Graviton3 processors for a
+broad range of customer workloads running in Amazon EC2.
+AWS Trainium2 chips, which are designed to deliver up to four times faster ML training for generative AI
+applications and three times more memory capacity compared to first generation AWS Trainium chips.
+An expanded collaboration between AWS and NVIDIA to deliver the most advanced infrastructure, software,
+and services to power customers' generative AI innovations. AWS will be the first cloud provider to bring
+NVIDIA GH200 Grace Hopper Superchips with multi-node NVLink technology to the cloud. NVIDIA and
+AWS are also collaborating on Project Ceiba to design the world's fastest GPU-powered AI supercomputer,
+hosted by AWS for NVIDIA's own research and development team.
+The general availability of Amazon EC2 Capacity Blocks for ML, a first-of-its-kind consumption model that
+enables customers to reserve the amount of GPU capacity they need for short durations to run their ML
+workloads, eliminating the need to hold onto GPUs when not in use.
+The general availability of Amazon S3 Express One Zone, a high-performance, single-zone Amazon S3
+storage class and the lowest latency cloud object storage available, delivering single-digit millisecond data
+access for customers' most latency-sensitive applications, such as ML training and inference, and media
+content creation.
+Four integrations that enable customers to make data access and analysis faster, without building and
+managing complex extract, transform, and load (ETL) data pipelines. Amazon Aurora PostgreSQL, Amazon
+DynamoDB, and Amazon Relational Database Service (Amazon RDS) for MySQL zero-ETL integrations
+with Amazon Redshift enable customers to analyze data from multiple sources without building and
+maintaining custom data pipelines. Amazon DynamoDB zero-ETL integration with Amazon OpenSearch
+Service enables full-text and vector search on operational data in near real time.
+Amazon Aurora Limitless Database, Amazon ElastiCache Serverless, and AI-driven scaling and
+optimizations for Amazon Redshift Serverless, which make it faster and easier for customers to scale their
+data infrastructure to support their most demanding use cases. These innovations build on AWS's serverless
+technologies to help customers manage data at any scale and simplify their operations, so they can focus on
+innovating for their end users without spending time and effort provisioning, managing, and scaling their data
+infrastructure.
+Generative AI capabilities in Amazon Connect, AWS's cloud contact center that enables organizations to
+boost productivity, save costs, and improve customer service experiences, such as Amazon Q in Connect to
+assist agents with real-time responses and recommended actions to help improve customer satisfaction, and
+Amazon Connect Contact Lens to add AI-generated summaries from customer conversations.
+Empowering employees and delivery service partners
+In addition to its focus on customers, Amazon strives to make every day better for its employees and delivery service partners.
+For example, the company:
+•
+Launched Sequoia, a new robotics system that allows Amazon to identify and store inventory up to 75% faster and,
+when integrated with other technologies, will reduce order process time by up to 25%. Sequoia supports employee
+safety by collecting inventory into totes and bringing the totes to newly designed ergonomic workstations. From there,
+employees can lift the totes using their power zone-mid-thigh to mid-chest-reducing how often they have to reach
+or squat down to pick customer orders.
+Introduced Automated Vehicle Inspection (AVI), an AI-powered technology that performs a full-vehicle inspection in
+seconds. The system runs on AWS and can spot anomalies in Amazon delivery vans—from tire deformities and
+undercarriage wear to bent or warped body pieces-before they become on-road problems. AVI is available in
+Canada, Germany, the UK, and the U.S.
+Announced a £170 million investment in UK hourly employees—increasing the minimum starting pay by £1 per hour
+and bringing the minimum starting hourly wage for frontline operations employees in the UK to between £12.30 and
+£13.00 by April 2024. The increase means Amazon's minimum starting pay in the UK will have increased 20% over
+two years, and 50% since 2018.

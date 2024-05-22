@@ -1,0 +1,95 @@
+=== START PAGE CONTENT ===
+amazon
+AMAZON.COM ANNOUNCES FOURTH QUARTER RESULTS
+SEATTLE-(BUSINESS WIRE) February 1, 2024-Amazon.com, Inc. (NASDAQ: AMZN) today announced financial results
+for its fourth quarter ended December 31, 2023.
+Fourth Quarter 2023
+Net sales increased 14% to $170.0 billion in the fourth quarter, compared with $149.2 billion in fourth quarter 2022.
+Excluding the $1.3 billion favorable impact from year-over-year changes in foreign exchange rates throughout the
+quarter, net sales increased 13% compared with fourth quarter 2022.
+•
+North America segment sales increased 13% year-over-year to $105.5 billion.
+•
+•
+•
+International segment sales increased 17% year-over-year to $40.2 billion, or increased 13% excluding
+changes in foreign exchange rates.
+AWS segment sales increased 13% year-over-year to $24.2 billion.
+Operating income increased to $13.2 billion in the fourth quarter, compared with $2.7 billion in fourth quarter 2022.
+•
+•
+North America segment operating income was $6.5 billion, compared with an operating loss of $0.2 billion in
+fourth quarter 2022.
+International segment operating loss was $0.4 billion, compared with an operating loss of $2.2 billion in
+fourth quarter 2022.
+AWS segment operating income was $7.2 billion, compared with operating income of $5.2 billion in fourth
+quarter 2022.
+Net income increased to $10.6 billion in the fourth quarter, or $1.00 per diluted share, compared with $0.3 billion, or
+$0.03 per diluted share, in fourth quarter 2022.
+•
+Full Year 2023
+Fourth quarter 2023 net income includes a pre-tax valuation loss of $0.1 billion included in non-operating
+income (expense) from the common stock investment in Rivian Automotive, Inc., compared to a pre-tax
+valuation loss of $2.3 billion from the investment in fourth quarter 2022.
+Net sales increased 12% to $574.8 billion in 2023, compared with $514.0 billion in 2022. Excluding the $0.1 billion
+unfavorable impact from year-over-year changes in foreign exchange rates throughout the year, net sales increased
+12% compared with 2022.
+•
+North America segment sales increased 12% year-over-year to $352.8 billion.
+•
+International segment sales increased 11% year-over-year to $131.2 billion.
+AWS segment sales increased 13% year-over-year to $90.8 billion.
+Operating income increased to $36.9 billion in 2023, compared with $12.2 billion in 2022.
+•
+•
+•
+North America segment operating income was $14.9 billion, compared with an operating loss of $2.8 billion
+in 2022.
+International segment operating loss was $2.7 billion, compared with an operating loss of $7.7 billion in
+2022.
+AWS segment operating income was $24.6 billion, compared with operating income of $22.8 billion in 2022.
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('',)                                                                                            | ('Q3 2022',)   | ('Q4 2022',)   | ('Q1 2023 Q2 2023',)   | ('Q3 2023 Q4 2023',)   | ('Y/Y % Change',)   |
+|---:|:-------------------------------------------------------------------------------------------------|:---------------|:---------------|:-----------------------|:-----------------------|:--------------------|
+|  0 | Net Sales                                                                                        |                |                |                        |                        |                     |
+|  1 | Online stores (1)                                                                                | $ 53,489       | $ 64,531       | $ 51,096 $ 52,966      | $ 57,267 $ 70,543      | 9%                  |
+|  2 | Online stores -- Y/Y growth, excluding F/X                                                       | 13 %           | 2%             | 3 % 5 %                | 6% 8%                  | N/A                 |
+|  3 | Physical stores (2)                                                                              | $ 4,694        | $ 4,957        | $ 4,895 $ 5,024        | $ 4,959 $ 5,152        | 4%                  |
+|  4 | Physical stores - Y/Y growth, excluding F/X                                                      | 10 %           | 6%             | 7% 7%                  | 6% 4 %                 | N/A                 |
+|  5 | Third-party seller services (3)                                                                  | $ 28,666       | $36,339        | $ 29,820 $ 32,332      | $ 34,342 $ 43,559      | 20 %                |
+|  6 | Third-party seller services -- Y/Y growth, excluding F/X                                         | 23 %           | 24 %           | 20 % 18 %              | 18 % 19 %              | N/A                 |
+|  7 | Advertising services (4)                                                                         | $ 9,548        | $ 11,557       | $ 9,509 $ 10,683       | $ 12,060 $ 14,654      | 27 %                |
+|  8 | Advertising services -- Y/Y growth, excluding F/X                                                | 30 %           | 23 %           | 23 % 22 %              | 25 % 26%               | N/A                 |
+|  9 | Subscription services (5)                                                                        | $ 8,903        | $ 9,189        | $ 9,657 $ 9,894        | $ 10,170 $ 10,488      | 14 %                |
+| 10 | Subscription services -- Y/Y growth, excluding F/X                                               | 14 %           | 17 %           | 17% 14 %               | 13 % 13 %              | N/A                 |
+| 11 | AWS                                                                                              | $ 20,538       | $ 21,378       | $ 21,354 $ 22,140      | $ 23,059 $ 24,204      | 13 %                |
+| 12 | AWS Y/Y growth, excluding F/X                                                                    | 28 %           | 20%            | 16 % 12%               | 12 % 13 %              | N/A                 |
+| 13 | Other (6)                                                                                        | $ 1,263        | $ 1,253        | $ 1,027 $ 1,344        | $ 1,226 $ 1,361        | 9 %                 |
+| 14 | Other -- Y/Y growth (decline), excluding F/X                                                     | 168 %          | 80 %           | 57 % 26 %              | (3)% 8 %               | N/A                 |
+| 15 | Stock-based Compensation Expense                                                                 |                |                |                        |                        |                     |
+| 16 | Cost of sales                                                                                    | $ 190          | $ 208          | $ 165 $ 251            | $ 193 $ 227            | 9%                  |
+| 17 | Fulfillment                                                                                      | $ 727          | $ 757          | $ 603 $ 932            | $ 732 $ 823            | 9 %                 |
+| 18 | Technology and infrastructure                                                                    | $ 3,036        | $ 3,126        | $ 2,574 $ 4,043        | $ 3,284 $ 3,533        | 13 %                |
+| 19 | Sales and marketing                                                                              | $ 1,128        | $ 1,092        | $ 993 $ 1,303          | $ 1,111 $ 1,216        | 11 %                |
+| 20 | General and administrative                                                                       | $ 475          | $ 423          | $ 413 $ 598            | $ 509 $ 520            | 23 %                |
+| 21 | Total stock-based compensation expense                                                           | $ 5,556        | $ 5,606        | $ 4,748 $ 7,127        | $ 5,829 $ 6,319        | 13 %                |
+| 22 | Other                                                                                            |                |                |                        |                        |                     |
+| 23 | WW shipping costs                                                                                | $ 19,942       | $ 24,714       | $ 19,937 $ 20,418      | $ 21,799 $ 27,326      | 11 %                |
+| 24 | WW shipping costs -- Y/Y growth                                                                  | 10 %           | 4%             | 2% 6%                  | 9% 11 %                | N/A                 |
+| 25 | WW paid units -- Y/Y growth (7)                                                                  | 11 %           | 8%             | 8 % 9%                 | 9% 12%                 | N/A                 |
+| 26 | WW seller unit mix -- % of WW paid units (7)                                                     | 58%            | 59 %           | 59 % 60 %              | 60 % 61 %              | N/A                 |
+| 27 | Employees (full-time and part-time; excludes contractors & temporary personnel)                  | 1,544,000      | 1,541,000      | 1,465,000 1,461,000    | 1,500,000 1,525,000    | (1)%                |
+| 28 | Employees (full-time and part-time; excludes contractors & temporary personnel) growth (decline) | -- Y/Y 5 %     | 4)%            | 4%                     | % 1)%                  | N/A                 |
+| 29 | growth                                                                                           |                | (              | (10)% ()               | (3)(                   |                     |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('(1) (2) Includes product sales and digital media content where we record revenue gross. We leverage our retail infrastructure to offer a wide selection of consumable and durable goods that includes media products available in both a physical and digital format, such as books, videos, games, music, and software. These product sales include digital products sold on a transactional basis. Digital media content subscriptions that provide unlimited viewing or usage rights are included in "Subscription services." Includes product sales where our customers physically select items in a store. Sales to customers who order goods online for delivery or pickup at our physical stores are included in "Online stores."',)   |
+|---:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  0 | (3) Includes commissions and any related fulfillment and shipping fees, and other third-party seller services.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|  1 | (4) ODO Includes sales of advertising services to sellers, vendors, publishers, authors, and others, through programs such as sponsored ads, display, and video advertising.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|  2 | (5) Includes annual and monthly fees associated with Amazon Prime memberships, as well as digital video, audiobook, digital music, e-book, and other non-AWS subscription services.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|  3 | Includes sales related to various other offerings, such as certain licensing and distribution of video content, health care services, and shipping services, and our co-branded credit card agreements. (6)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|  4 | Excludes the impact of Whole Foods Market. (7)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+=== TABLE END ===

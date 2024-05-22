@@ -1,0 +1,17 @@
+|    | ('Revenues',)                                                                      | ('(unaudited) 38,297 $ 61,880',)   | ('$ 79,456',)   | ('(unaudited) $ 117,194',)   |
+|---:|:-----------------------------------------------------------------------------------|:-----------------------------------|:----------------|:-----------------------------|
+|  0 | Costs and expenses:                                                                |                                    |                 |                              |
+|  1 | Cost of revenues                                                                   | 18,553 26,227                      | 37,535          | 50,330                       |
+|  2 | Research and development                                                           | 6,875 7,675                        | 13,695          | 15,160                       |
+|  3 | Sales and marketing                                                                | 3,901 5,276                        | 8,401           | 9,792                        |
+|  4 | General and administrative                                                         | 2,585 3,341                        | 5,465           | 6,114                        |
+|  5 | Total costs and expenses                                                           | 31,914 42,519                      | 65,096          | 81,396                       |
+|  6 | Income from operations                                                             | 6,383 19,361                       | 14,360          | 35,798                       |
+|  7 | Other income (expense), net                                                        | 1,894 2,624                        | 1,674           | 7,470                        |
+|  8 | Income before income taxes                                                         | 8,277 21,985                       | 16,034          | 43,268                       |
+|  9 | Provision for income taxes                                                         | 1,318 3,460                        | 2,239           | 6,813                        |
+| 10 | Net income                                                                         | $ 6,959 $ 18,525                   | $ 13,795        | $ 36,455                     |
+| 11 | Basic earnings per share of Class A and B common stock and Class C capital stock   | $ 10.21 $ 27.69                    | $ 20.16         | $ 54.32                      |
+| 12 | Diluted earnings per share of Class A and B common stock and Class Ċ capital stock | $ 10.13 $ 27.26                    | $ 20.00         | $ 53.54                      |
+| 13 | Number of shares used in basic earnings per share calculation                      | 681,768 668,958                    | 684,117         | 671,089                      |
+| 14 | Number of shares used in diluted earnings per share calculation                    | 687,024 679,612                    | 689,646         | 680,842                      |

@@ -1,0 +1,17 @@
+|    | ('Revenues',)                                                                      | ('(unaudited) 41,159 $',)   | ('55,314',)   |
+|---:|:-----------------------------------------------------------------------------------|:----------------------------|:--------------|
+|  0 | Costs and expenses:                                                                |                             |               |
+|  1 | Cost of revenues                                                                   | 18,982                      | 24,103        |
+|  2 | Research and development                                                           | 6,820                       | 7,485         |
+|  3 | Sales and marketing                                                                | 4,500                       | 4,516         |
+|  4 | General and administrative                                                         | 2,880                       | 2,773         |
+|  5 | Total costs and expenses                                                           | 33,182                      | 38,877        |
+|  6 | Income from operations                                                             | 7,977                       | 16,437        |
+|  7 | Other income (expense), net                                                        | (220)                       | 4,846         |
+|  8 | Income before income taxes                                                         | 7,757                       | 21,283        |
+|  9 | Provision for income taxes                                                         | 921                         | 3,353         |
+| 10 | Net income                                                                         | $ 6,836 $                   | 17,930        |
+| 11 | Basic earnings per share of Class A and B common stock and Class C capital stock   | 9.96 $                      | 26.63         |
+| 12 | Diluted earnings per share of Class A and B common stock and Class C capital stock | $ es 9.87 $                 | 26.29         |
+| 13 | Number of shares used in basic earnings per share calculation                      | 686,465                     | 673,220       |
+| 14 | Number of shares used in diluted earnings per share calculation                    | 692,267                     | 682,071       |

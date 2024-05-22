@@ -1,0 +1,142 @@
+=== START PAGE CONTENT ===
+North America
+Net sales
+Operating expenses
+Operating income
+International
+Net sales
+Operating expenses
+Operating income (loss)
+AWS
+Net sales
+Operating expenses
+Operating income
+Consolidated
+Net sales
+Operating expenses
+Operating income
+Total non-operating income (expense)
+Provision for income taxes
+Equity-method investment activity, net of tax
+Net income
+Segment Highlights:
+Y/Y net sales growth:
+North America
+International
+AWS
+Consolidated
+Net sales mix:
+North America
+International
+AWS
+Consolidated
+AMAZON.COM, INC.
+Segment Information
+(in millions)
+(unaudited)
+Three Months Ended
+March 31,
+2020
+2021
+46,127 $
+64,366
+44,815
+60,916
+$
+1,312 $
+3,450
+$
+19,106 $
+30,649
+19,504
+29,397
+(398)
+$
+1,252
+$
+10,219 $
+13,503
+7,144
+9,340
+3,075
+$
+4,163
+$ 75,452
+$ 108,518
+71,463
+99,653
+3,989
+8,865
+(606)
+1,403
+(744)
+(2,156)
+(104)
+(5)
+$
+2,535
+$
+8,107
+29%
+40%
+18
+60
+33
+32
+26
+44
+61 %
+59 %
+25
+28
+14
+13
+100 %
+100%
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('',)                   | ('March 31, 2020 2021',)   |
+|---:|:------------------------|:---------------------------|
+|  0 | North America           |                            |
+|  1 | Net sales               | 46,127 $ 64,366            |
+|  2 | Operating expenses      | 44,815 60,916              |
+|  3 | Operating income        | $ 1,312 $ 3,450            |
+|  4 | International Net sales | $ 19,106 $ 30,649          |
+|  5 | Operating expenses      | 19,504 29,397              |
+|  6 | Operating income (loss) | $ (398) $ 1,252            |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('Net sales',)     | ('46,127 $ 64,366',)   |
+|---:|:-------------------|:-----------------------|
+|  0 | Operating expenses | 44,815 60,916          |
+|  1 | Operating income   | $ 1,312 $ 3,450        |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('Net sales',)          | ('$ 19,106 $',)   | ('30,649',)   |
+|---:|:------------------------|:------------------|:--------------|
+|  0 | Operating expenses      | 19,504            | 29,397        |
+|  1 | Operating income (loss) | $ (398) $         | 1,252         |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('Y/Y net sales growth: North America 29% 40% International 18 60 KE 4624 AWS 33 32',)   |
+|---:|:-----------------------------------------------------------------------------------------|
+|  0 | Consolidated 26 44 Net sales mix: North America 61% 59 % International 25 28 AWS 14 13   |
+|  1 | Consolidated 100 % 100%                                                                  |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('Consolidated Net sales',)                   | ('75,452',)   | ('$ 108,518',)   |
+|---:|:----------------------------------------------|:--------------|:-----------------|
+|  0 | Operating expenses                            | 71,463        | 99,653           |
+|  1 | Operating income                              | 3,989         | 8,865            |
+|  2 | Total non-operating income (expense)          | (606)         | 1,403            |
+|  3 | Provision for income taxes                    | (744)         | (2,156)          |
+|  4 | Equity-method investment activity, net of tax | (104)         | (5)              |
+|  5 | Net income                                    | 2,535         | $ 8,107          |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('Net sales',)     | ('10,219 $ 13,503',)   |
+|---:|:-------------------|:-----------------------|
+|  0 | Operating expenses | 7,144 9,340            |
+|  1 | Operating income   | $ 3,075 4,163          |
+=== TABLE END ===

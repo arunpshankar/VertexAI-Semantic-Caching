@@ -1,0 +1,67 @@
+=== START PAGE CONTENT ===
+Alphabet Announces Second Quarter 2023 Results
+Announces Plans for Chief Financial Officer Transition and Appointment of President and Chief
+Investment Officer
+MOUNTAIN VIEW, Calif. - July 25, 2023 - Alphabet Inc. (NASDAQ: GOOG, GOOGL) today announced financial
+results for the quarter ended June 30, 2023.
+Sundar Pichai, CEO of Alphabet and Google, said: “There's exciting momentum across our products and the
+company, which drove strong results this quarter. Our continued leadership in Al and our excellence in engineering
+and innovation are driving the next evolution of Search, and improving all our services. With fifteen products that
+each serve half a billion people, and six that serve over two billion each, we have so many opportunities to deliver
+on our mission."
+Ruth Porat, CFO of Alphabet and Google, said: “Our financial results reflect continued resilience in Search, with an
+acceleration of revenue growth in both Search and YouTube, as well as momentum in Cloud. We continue investing
+for growth, while prioritizing our efforts to durably reengineer our cost base company-wide and create capacity to
+deliver sustainable value for the long term."
+Q2 2023 Financial Highlights (unaudited)
+The following table summarizes our consolidated financial results for the quarters ended June 30, 2022 and 2023
+(in millions, except for per share information and percentages).
+Revenues
+Change in revenues year over year
+Change in constant currency revenues year over year(1)
+Operating income
+Operating margin
+Other income (expense), net
+Net income
+Diluted EPS
+SA
+Quarter Ended June 30,
+2022
+2023
+69,685
+$
+74,604
+13 %
+7 %
+16 %
+9%
+19,453
+21,838
+28 %
+29%
+(439)
+SA
+65
+99
+16,002
+$
+18,368
+1.21
+1.44
+(1)
+Non-GAAP measure. See the table captioned "Reconciliation from GAAP revenues to non-GAAP constant currency
+revenues and GAAP percentage change in revenues to non-GAAP percentage change in constant currency revenues" for
+more details.
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('Revenues',)                                          | ('2022 69 69,685',)   | ('$',)   | ('2023 74,604',)   |
+|---:|:-------------------------------------------------------|:----------------------|:---------|:-------------------|
+|  0 | Change in revenues year over year                      | 13 %                  |          | 7 %                |
+|  1 | Change in constant currency revenues year over year(¹) | 16 %                  |          | 9%                 |
+|  2 | Operating income                                       | GA 19,453             | $        | 21,838             |
+|  3 | Operating margin                                       | 28 %                  |          | 29%                |
+|  4 | Other income (expense), net                            | (439)                 |          | 65                 |
+|  5 | Net income                                             | 16,002                |          | 18,368             |
+|  6 | Diluted EPS                                            | $ 1.21                | $        | 1.44               |
+=== TABLE END ===

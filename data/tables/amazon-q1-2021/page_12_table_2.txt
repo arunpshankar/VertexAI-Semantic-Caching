@@ -1,0 +1,9 @@
+|    | ('Cash paid for interest on debt',)                              | ('$ 290',)   | ('$ 276',)   | ('$ 879',)   | ('$ 902',)   |
+|---:|:-----------------------------------------------------------------|:-------------|:-------------|:-------------|:-------------|
+|  0 | Cash paid for operating leases                                   | 1,029        | 1,640        | 3,680        | 5,086        |
+|  1 | Cash paid for interest on finance leases                         | 168          | 157          | 650          | 601          |
+|  2 | Cash paid for interest on financing obligations                  | 22           | 33           | 59           | 113          |
+|  3 | Cash paid for income taxes, net of refunds                       | 305          | 801          | 1,017        | 2,209        |
+|  4 | Assets acquired under operating leases                           | 2,408        | 3,536        | 9,403        | 17,345       |
+|  5 | Property and equipment acquired under finance leases             | 2,166        | 2,067        | 13,262       | 11,489       |
+|  6 | Property and equipment acquired under build-to-suit arrangements | 379          | 887          | 1,304        | 2,775        |

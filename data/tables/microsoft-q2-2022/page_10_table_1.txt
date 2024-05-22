@@ -1,0 +1,6 @@
+|    | ('24,000; outstanding 7,464 and 7,519',)      | ('86,939',)   | ('83,111',)   |
+|---:|:----------------------------------------------|:--------------|:--------------|
+|  0 | Retained earnings                             | 84,281        | 57,055        |
+|  1 | Accumulated other comprehensive income (loss) | (4,678)       | 1,822         |
+|  2 | Total stockholders' equity                    | 166,542       | 141,988       |
+|  3 | Total liabilities and stockholders' equity    | $364,840      | $333,779      |

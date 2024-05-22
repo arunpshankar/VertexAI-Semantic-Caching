@@ -1,0 +1,8 @@
+|    | ('Net income',)                                | ('2022 $16,425',)   | ('2021 $18,765',)   | ('2022 $33,981',)   | ('2021 $39,270',)   |
+|---:|:-----------------------------------------------|:--------------------|:--------------------|:--------------------|:--------------------|
+|  0 | Other comprehensive income (loss), net of tax: |                     |                     |                     |                     |
+|  1 | Net change related to derivatives              | (32)                | 0                   | (25)                | 2                   |
+|  2 | Net change related to investments              | 348                 | (743)               | (1,549)             | (1,165)             |
+|  3 | Translation adjustments and other              | 570                 | (103)               | (205)               | (222)               |
+|  4 | Other comprehensive income (loss)              | 886                 | (846)               | (1,779)             | (1,385)             |
+|  5 | Comprehensive income                           | $17,311             | $17,919             | $32,202             | $37,885             |

@@ -1,0 +1,37 @@
+=== START PAGE CONTENT ===
+recognition. Windows OEM revenue decreased 3% with continued PC demand impacted by
+supply chain constraints, on a strong prior year comparable in OEM non-Pro. Windows OEM Pro
+revenue decreased 2% and Windows OEM non-Pro revenue decreased 4%.
+Search advertising revenue increased $737 million or 46%. Search advertising revenue excluding
+traffic acquisition costs increased 53% driven by higher revenue per search, on a low prior year
+comparable.
+Gaming revenue increased $357 million or 11% driven by growth in Xbox hardware, offset in part
+by a decline in Xbox content and services. Xbox hardware revenue increased 172% driven by
+higher price and volume of consoles sold due to the Xbox Series X|S launches. Xbox content and
+services revenue decreased $128 million or 4% driven by a decline in third-party titles on a strong
+prior year comparable that benefitted from stay-at-home scenarios, offset in part by growth in
+Xbox Game Pass subscriptions and first-party titles.
+Surface revenue decreased $348 million or 20% driven by supply chain constraints, on a strong
+prior year comparable.
+Operating income increased $782 million or 19%.
+•
+Gross margin increased $591 million or 8% driven by growth in Search advertising and Windows.
+Gross margin percentage decreased slightly driven by sales mix shift to Gaming hardware.
+Operating expenses decreased $191 million or 6% driven by prior year charges associated with
+the closing of our Microsoft Store physical locations, offset in part by investments in Gaming.
+Revenue, gross margin, and operating income included a favorable foreign currency impact of 3%, 4%,
+and 6%, respectively.
+EXPENSES
+•
+Cost of revenue increased $1.7 billion or 13% driven by growth in commercial cloud and Gaming,
+offset in part by a reduction in depreciation expense due to the change in estimated useful lives
+of our server and network equipment.
+Research and development expenses increased $473 million or 9% driven by investments in cloud
+engineering and Gaming.
+Sales and marketing expenses increased $440 million or 8% driven by investments in commercial
+sales and advertising, offset in part by a reduction in bad debt expense. Sales and marketing
+included an unfavorable foreign currency impact of 3%.
+General and administrative expenses decreased $134 million or 8% driven by prior year charges
+associated with the closing of our Microsoft Store physical locations, offset in part by an increase
+
+=== END PAGE CONTENT ===

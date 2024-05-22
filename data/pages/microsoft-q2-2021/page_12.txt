@@ -1,0 +1,182 @@
+CASH FLOWS STATEMENTS
+(In millions) (Unaudited)
+Three Months Ended
+Twelve Months Ended
+2021
+June 30,
+2020
+2021
+June 30,
+2020
+Operations
+Net income
+$16,458
+$11,202
+$61,271
+$44,281
+Adjustments to reconcile net income to net cash from
+operations:
+Depreciation, amortization, and other
+3,344
+3,504
+11,686
+12,796
+Stock-based compensation expense
+1,571
+1,349
+6,118
+5,289
+Net recognized gains on investments and derivatives
+(416)
+(79)
+(1,249)
+(219)
+Deferred income taxes
+(34)
+447
+(150)
+11
+Changes in operating assets and liabilities:
+Accounts receivable
+(11,606)
+(9,355)
+(6,481)
+(2,577)
+Inventories
+(388)
+(251)
+(737)
+168
+Other current assets
+(2,086)
+(2,151)
+(932)
+(2,330)
+Other long-term assets
+Accounts payable
+(1,013)
+(311)
+(3,459)
+(1,037)
+1,617
+3,026
+2,798
+3,018
+Unearned revenue
+11,397
+8,776
+4,633
+2,212
+Income taxes
+(32)
+(589)
+(2,309)
+(3,631)
+Other current liabilities
+3,755
+2,482
+4,149
+1,346
+Other long-term liabilities
+143
+623
+1,402
+1,348
+Net cash from operations
+22,710
+18,673
+76,740
+60,675
+Financing
+Cash premium on debt exchange
+0
+(3,417)
+(1,754)
+(3,417)
+Repayments of debt
+0
+0
+(3,750)
+(5,518)
+Common stock issued
+450
+340
+1,693
+1,343
+Common stock repurchased
+(7,177)
+(5,791)
+(27,385)
+(22,968)
+Common stock cash dividends paid
+(4,214)
+(3,865)
+(16,521)
+(15,137)
+Other, net
+(430)
+471
+Net cash used in financing
+(11,371)
+(12,262)
+(769)
+(48,486)
+(334)
+(46,031)
+Investing
+Additions to property and equipment
+(6,452)
+(4,744)
+(20,622)
+(15,441)
+Acquisition of companies, net of cash acquired,
+and purchases of intangible and other assets
+(501)
+(1,650)
+(8,909)
+(2,521)
+Purchases of investments
+(14,877)
+(18,879)
+(62,924)
+(77,190)
+Maturities of investments
+7,246
+18,890
+51,792
+66,449
+Sales of investments
+3,297
+3,162
+14,008
+17,721
+Other, net
+434
+(1,241)
+(922)
+(1,241)
+Net cash used in investing
+(10,853)
+(4,462)
+(27,577)
+(12,223)
+Effect of foreign exchange rates on cash and cash equivalents
+36
+(83)
+(29)
+(201)
+Net change in cash and cash equivalents
+522
+1,866
+648
+2,220
+Cash and cash equivalents, beginning of period
+13,702
+Cash and cash equivalents, end of period
+$14,224
+11,710
+$13,576
+13,576
+11,356
+$14,224
+$13,576

@@ -1,0 +1,8 @@
+|    | ('Net sales',)                                | ('$ 127,101 $ 143,083 $ 364,779 $ 404,824',)   |
+|---:|:----------------------------------------------|:-----------------------------------------------|
+|  0 | Operating expenses                            | 124,576 131,895 355,268 381,181                |
+|  1 | Operating income                              | 2,525 11,188 9,511 23,643                      |
+|  2 | Total non-operating income (expense)          | 419 1,001 (14,485) 228                         |
+|  3 | Benefit (provision) for income taxes          | (69) 1,990 (4,058) (2,306)                     |
+|  4 | Equity-method investment activity, net of tax | (4) (3) (16) (12)                              |
+|  5 | Net income (loss)                             | $ 2,872 $ 9,879 $ (3,000) $ 19,801             |

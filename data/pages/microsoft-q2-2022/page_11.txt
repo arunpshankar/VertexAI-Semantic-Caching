@@ -1,0 +1,182 @@
+CASH FLOWS STATEMENTS
+(In millions) (Unaudited)
+Three Months Ended
+Twelve Months Ended
+2022
+June 30,
+2021
+June 30,
+2022
+2021
+Operations
+Net income
+$16,740
+$16,458
+$72,738
+$61,271
+Adjustments to reconcile net income to net cash from
+operations:
+Depreciation, amortization, and other
+3,979
+3,344
+14,460
+11,686
+Stock-based compensation expense
+1,997
+1,571
+7,502
+6,118
+Net recognized losses (gains) on investments and derivatives
+157
+(416)
+(409)
+(1,249)
+Deferred income taxes
+283
+(34)
+(5,702)
+(150)
+Changes in operating assets and liabilities:
+Accounts receivable
+(12,634)
+(11,606)
+(6,834)
+(6,481)
+Inventories
+Other current assets
+Other long-term assets
+Accounts payable
+(461)
+(388)
+(1,123)
+(737)
+(2,570)
+(2,086)
+(709)
+(932)
+(575)
+(1,013)
+(2,805)
+(3,459)
+2,659
+1,617
+2,943
+2,798
+Unearned revenue
+12,546
+11,397
+5,109
+4,633
+Income taxes
+(991)
+(32)
+696
+(2,309)
+Other current liabilities
+3,455
+3,755
+2,344
+4,149
+Other long-term liabilities
+44
+143
+825
+1,402
+Net cash from operations
+24,629
+22,710
+89,035
+76,740
+Financing
+Cash premium on debt exchange
+0
+0
+0
+(1,754)
+Repayments of debt
+0
+0
+(9,023)
+(3,750)
+Common stock issued
+461
+450
+1,841
+1,693
+Common stock repurchased
+Common stock cash dividends paid
+Other, net
+Net cash used in financing
+(8,757)
+(7,177)
+(32,696)
+(27,385)
+(4,632)
+(4,214)
+(18,135)
+(16,521)
+(341)
+(430)
+(863)
+(769)
+(13,269)
+(11,371)
+(58,876)
+(48,486)
+Investing
+Additions to property and equipment
+(6,871)
+(6,452)
+(23,886)
+(20,622)
+Acquisition of companies, net of cash acquired,
+and purchases of intangible and other assets
+(1,263)
+(501)
+(22,038)
+(8,909)
+Purchases of investments
+(4,919)
+(14,877)
+(26,456)
+(62,924)
+Maturities of investments
+1,237
+7,246
+16,451
+51,792
+Sales of investments
+3,225
+3,297
+28,443
+14,008
+Other, net
+(1,138)
+434
+(2,825)
+(922)
+Net cash used in investing
+(9,729)
+(10,853)
+(30,311)
+(27,577)
+Effect of foreign exchange rates on cash and cash equivalents
+(198)
+36
+(141)
+(29)
+Net change in cash and cash equivalents
+1,433
+522
+(293)
+648
+Cash and cash equivalents, beginning of period
+12,498
+Cash and cash equivalents, end of period
+$13,931
+13,702
+$14,224
+14,224
+$13,931
+13,576
+$14,224

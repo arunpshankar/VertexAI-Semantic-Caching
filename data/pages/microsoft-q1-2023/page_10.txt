@@ -1,0 +1,178 @@
+Operations
+Net income
+Adjustments to reconcile net income to
+net cash from operations:
+CASH FLOWS STATEMENTS
+(In millions) (Unaudited)
+Three Months Ended
+Nine Months Ended
+2023
+March 31,
+2022
+March 31,
+2023
+2022
+$18,299
+$16,728
+$52,280
+$55,998
+Depreciation, amortization, and other
+3,549
+3,773
+9,987
+10,481
+Stock-based compensation expense
+2,465
+1,906
+7,195
+5,505
+Net recognized losses (gains) on investments and
+derivatives
+(40)
+105
+152
+(566)
+Deferred income taxes
+(1,675)
+(198)
+(4,171)
+(5,985)
+Changes in operating assets and liabilities:
+Accounts receivable
+(1,408)
+857
+7,157
+5,800
+Inventories
+Other current assets
+Other long-term assets
+Accounts payable
+Unearned revenue
+Income taxes
+Other current liabilities
+Other long-term liabilities
+Net cash from operations
+Financing
+Repayments of debt
+Common stock issued
+Common stock repurchased
+Common stock cash dividends paid
+Other, net
+Net cash used in financing
+106
+(279)
+868
+(662)
+1,152
+91
+428
+1,861
+(554)
+(724)
+(1,285)
+(2,230)
+(407)
+520
+(4,032)
+284
+(181)
+(209)
+(8,689)
+(7,437)
+1,414
+1,091
+(1,039)
+1,715
+1,287
+(490)
+1,687
+(1,111)
+6
+438
+451
+781
+24,441
+25,386
+58,812
+64,406
+0
+(4,197)
+(1,750)
+(9,023)
+536
+477
+1,354
+1,380
+(5,509)
+(8,822)
+(16,541)
+(23,939)
+(5,059)
+(4,645)
+(14,746)
+(13,503)
+(258)
+(158)
+(839)
+(522)
+(10,290)
+(17,345)
+(32,522)
+(45,607)
+Investing
+Additions to property and equipment
+(6,607)
+(5,340)
+(19,164)
+(17,015)
+Acquisition of companies, net of cash acquired, and purchases
+of intangible and other assets
+(301)
+(18,719)
+(1,329)
+(20,775)
+Purchases of investments
+(9,063)
+(8,723)
+(25,675)
+(21,537)
+Maturities of investments
+13,154
+1,099
+26,744
+15,214
+Sales of investments
+1,239
+16,693
+8,725
+25,218
+Other, net
+(1,686)
+(1,181)
+(2,847)
+(1,687)
+Net cash used in investing
+(3,264)
+(16,171)
+(13,546)
+(20,582)
+Effect of foreign exchange rates on cash and cash equivalents
+29
+24
+(113)
+57
+Net change in cash and cash equivalents
+10,916
+(8,106)
+12,631
+(1,726)
+Cash and cash equivalents, beginning of period
+15,646
+20,604
+13,931
+14,224
+Cash and cash equivalents, end of period
+$26,562
+$12,498
+$26,562
+$12,498

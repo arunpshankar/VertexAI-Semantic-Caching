@@ -1,0 +1,9 @@
+|    | ('Revenues',)                                          | ('2022 69 69,685',)   | ('$',)   | ('2023 74,604',)   |
+|---:|:-------------------------------------------------------|:----------------------|:---------|:-------------------|
+|  0 | Change in revenues year over year                      | 13 %                  |          | 7 %                |
+|  1 | Change in constant currency revenues year over year(¹) | 16 %                  |          | 9%                 |
+|  2 | Operating income                                       | GA 19,453             | $        | 21,838             |
+|  3 | Operating margin                                       | 28 %                  |          | 29%                |
+|  4 | Other income (expense), net                            | (439)                 |          | 65                 |
+|  5 | Net income                                             | 16,002                |          | 18,368             |
+|  6 | Diluted EPS                                            | $ 1.21                | $        | 1.44               |

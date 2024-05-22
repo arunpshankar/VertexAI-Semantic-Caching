@@ -1,0 +1,153 @@
+=== START PAGE CONTENT ===
+AMAZON.COM, INC.
+Consolidated Balance Sheets
+(in millions, except per share data)
+(unaudited)
+ASSETS
+December 31, 2021
+March 31, 2022
+Current assets:
+Cash and cash equivalents
+Marketable securities
+Inventories
+Accounts receivable, net and other
+Total current assets
+Property and equipment, net
+Operating leases
+36,220
+36,393
+59,829
+29,992
+32,640
+34,987
+32,891
+32,504
+161,580
+133,876
+160,281
+168,468
+56,082
+56,161
+Goodwill
+15,371
+20,229
+Other assets
+27,235
+32,033
+Total assets
+$
+420,549 $
+410,767
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+Accounts payable
+Accrued expenses and other
+Unearned revenue
+Total current liabilities
+Long-term lease liabilities
+Long-term debt
+Other long-term liabilities
+Commitments and contingencies
+Stockholders' equity:
+78,664 $
+68,547
+51,775
+58,141
+11,827
+12,820
+142,266
+139,508
+67,651
+65,731
+48,744
+47,556
+23,643
+23,971
+Preferred stock, $0.01 par value:
+Authorized shares - 500
+Issued and outstanding shares ― none
+Common stock, $0.01 par value:
+Authorized shares - 5,000
+Issued shares
+—
+532 and 533
+Outstanding shares - 509 and 509
+5
+Treasury stock, at cost
+(1,837)
+(4,503)
+Additional paid-in capital
+Accumulated other comprehensive income (loss)
+Retained earnings
+55,538
+58,793
+(1,376)
+(2,365)
+85,915
+82,071
+Total stockholders' equity
+138,245
+134,001
+Total liabilities and stockholders' equity
+$
+420,549 $
+410,767
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('Accounts payable 78,664 $ 68,547',)     |
+|---:|:------------------------------------------|
+|  0 | Accrued expenses and other 51,775 58,141  |
+|  1 | Unearned revenue 11,827 12,820            |
+|  2 | Total current liabilities 142,266 139,508 |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('Outstanding shares 509 and 509 stock, at cost',)   | ('5 5 (1,837) (4,503)',)   |
+|---:|:-----------------------------------------------------|:---------------------------|
+|  0 | paid-in capital                                      | 55,538 58,793              |
+|  1 | other comprehensive income (loss)                    | (1,376) (2,365)            |
+|  2 | earnings                                             | 85,915 82,071              |
+|  3 | Total stockholders' equity                           | 138,245 134,001            |
+|  4 | Total liabilities and stockholders' equity           | $ 420,549 $ 410,767        |
+=== TABLE END ===
+=== TABLE START ===
+|    | ('Cash and cash equivalents',)       | ('36,220',)   | ('$ 36,393',)   |
+|---:|:-------------------------------------|:--------------|:----------------|
+|  0 | Marketable securities                | 59,829        | 29,992          |
+|  1 | Inventories                          | 32,640        | 34,987          |
+|  2 | Accounts receivable, net and other   | 32,891        | 32,504          |
+|  3 | Total current assets                 | 161,580       | 133,876         |
+|  4 | Property and equipment, net          | 160,281       | 168,468         |
+|  5 | Operating leases                     | 56,082        | 56,161          |
+|  6 | Goodwill                             | 15,371        | 20,229          |
+|  7 | Other assets                         | 27,235        | 32,033          |
+|  8 | Total assets                         | 420,549       | $ 410,767       |
+|  9 | LIABILITIES AND STOCKHOLDERS' EQUITY |               |                 |
+| 10 | Current liabilities:                 |               |                 |
+=== TABLE END ===
+=== TABLE START ===
+|    | ("Total assets LIABILITIES AND STOCKHOLDERS' EQUITY",)   | ('420,549',)   | ('$ 410,767',)   |
+|---:|:---------------------------------------------------------|:---------------|:-----------------|
+|  0 | Current liabilities:                                     |                |                  |
+|  1 | Accounts payable                                         | 78,664         | $ 68,547         |
+|  2 | Accrued expenses and other                               | 51,775         | 58,141           |
+|  3 | Unearned revenue                                         | 11,827         | 12,820           |
+|  4 | Total current liabilities                                | 142,266        | 139,508          |
+|  5 | Long-term lease liabilities                              | 67,651         | 65,731           |
+|  6 | Long-term debt                                           | 48,744         | 47,556           |
+|  7 | Other long-term liabilities                              | 23,643         | 23,971           |
+|  8 | Commitments and contingencies                            |                |                  |
+|  9 | Stockholders' equity:                                    |                |                  |
+| 10 | Preferred stock, $0.01 par value: Authorized shares 500  |                |                  |
+| 11 | - none Issued and outstanding shares                     |                |                  |
+| 12 | Common stock, $0.01 par value:                           |                |                  |
+| 13 | Authorized shares - 5,000                                |                |                  |
+| 14 | Issued shares 532 and 533                                |                |                  |
+| 15 | Outstanding shares 509 and 509                           | 5              | 5                |
+| 16 | Treasury stock, at cost                                  | (1,837)        | (4,503)          |
+| 17 | Additional paid-in capital                               | 55,538         | 58,793           |
+| 18 | Accumulated other comprehensive income (loss)            | (1,376)        | (2,365)          |
+| 19 | Retained earnings                                        | 85,915         | 82,071           |
+| 20 | Total stockholders' equity                               | 138,245        | 134,001          |
+| 21 | Total liabilities and stockholders' equity               | $ 420,549      | $ 410,767        |
+=== TABLE END ===

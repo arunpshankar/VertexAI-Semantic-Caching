@@ -1,0 +1,18 @@
+|    | ('',)                                                               | ('2022',)   | ('2023',)   | ('2022',)   | ('2023',)   |
+|---:|:--------------------------------------------------------------------|:------------|:------------|:------------|:------------|
+|  0 | Revenues $                                                          | 69,092      | $ 76,693    | $ 206,788   | $ 221,084   |
+|  1 | Costs and expenses:                                                 |             |             |             |             |
+|  2 | Cost of revenues                                                    | 31,158      | 33,229      | 90,861      | 95,757      |
+|  3 | Research and development                                            | 10,273      | 11,258      | 29,233      | 33,314      |
+|  4 | Sales and marketing                                                 | 6,929       | 6,884       | 19,384      | 20,198      |
+|  5 | General and administrative                                          | 3,597       | 3,979       | 10,628      | 11,219      |
+|  6 | Total costs and expenses                                            | 51,957      | 55,350      | 150,106     | 160,488     |
+|  7 | Income from operations                                              | 17,135      | 21,343      | 56,682      | 60,596      |
+|  8 | Other income (expense), net                                         | (902)       | (146)       | (2,501)     | 709         |
+|  9 | Income before income taxes                                          | 16,233      | 21,197      | 54,181      | 61,305      |
+| 10 | Provision for income taxes                                          | 2,323       | 1,508       | 7,833       | 8,197       |
+| 11 | Net income $                                                        | 13,910      | $ 19,689    | $ 46,348    | $ 53,108    |
+| 12 | Basic earnings per share of Class A, Class B, and Class C stock $   | 1.07        | $ 1.56      | $ 3.53      | SA $ 4.19   |
+| 13 | Diluted earnings per share of Class A, Class B, and Class C stock $ | 1.06        | $ 1.55      | $ 3.50      | $ SA 4.16   |
+| 14 | Number of shares used in basic earnings per share calculation       | 13,018      | 12,581      | 13,118      | 12,677      |
+| 15 | Number of shares used in diluted earnings per share calculation     | 13,097      | 12,696      | 13,229      | 12,761      |

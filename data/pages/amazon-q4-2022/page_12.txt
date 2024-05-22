@@ -1,0 +1,281 @@
+Cash Flows and Shares
+AMAZON.COM, INC.
+Supplemental Financial Information and Business Metrics
+(in millions, except per share data)
+(unaudited)
+Q3 2021
+Q4 2021
+Q1 2022
+Q2 2022
+Q3 2022
+Q4 2022
+Y/Y %
+Change
+Operating cash flow -- trailing twelve months (TTM)
+$
+54,671 $
+Operating cash flow -- TTM Y/Y growth (decline)
+(1)%
+46,327 $
+(30)%
+39,324
+(41)%
+$
+35,574
+$
+39,665 $
+46,752
+1 %
+(40)%
+(27)%
+1 %
+N/A
+Purchases of property and equipment, net of proceeds from sales and
+incentives
+TTM
+$
+52,119
+$
+55,396 $
+57,951 $
+59,061
+Principal repayments of finance leases -- TTM
+$
+11,271 $
+Principal repayments of financing obligations -- TTM
+$
+Equipment acquired under finance leases -- TTM (1)
+$
+5,738
+124 $
+$
+Principal repayments of all other finance leases -- TTM (2)
+$
+582 $
+Free cash flow -- TTM (3)
+$
+2,552
+11,163 $
+162 $
+4,422 $
+687 $
+$ (9,069) $ (18,627) $
+10,534
+$
+9,789
+174
+$
+2,764
+$
+1,621
+$
+$
+205 $
+$
+59,351 $
+58,321
+5 %
+8,561 $
+7,941
+(29)%
+233 $
+248
+53%
+868
+$
+299
+(93)%
+714 $
+751 $
+SASA
+706 $
+670
+(3)%
+(23,487) $ (19,686) $ (11,569)
+28%
+Free cash flow less principal repayments of finance leases and
+financing obligations -- TTM (4)
+$
+(8,843)
+$ (20,394) $ (29,335) $ (33,481) $ (28,480) $ (19,758)
+(3)%
+Free cash flow less equipment finance leases and principal repayments
+of all other finance leases and financing obligations -- TTM (5)
+Common shares and stock-based awards outstanding
+$
+(3,892) $ (14,340) $ (22,279) $ (26,064) $ (21,493) $ (12,786)
+(11)%
+10,451
+10,455
+10,454
+10,551
+10,597
+10,627
+2 %
+Common shares outstanding
+10,139
+10,175
+10,171
+10,183
+10,198
+10,242
+1 %
+Stock-based awards outstanding
+311
+280
+283
+368
+399
+384
+37 %
+Stock-based awards outstanding -- % of common shares outstanding
+3.1 %
+2.8%
+2.8 %
+3.6 %
+3.9 %
+3.8 %
+N/A
+Results of Operations
+Worldwide (WW) net sales
+$ 110,812
+$ 137,412 $ 116,444
+WW net sales - Y/Y growth, excluding F/X
+15 %
+10%
+9%
+$ 121,234
+10 %
+$ 127,101 $ 149,204
+9%
+19%
+12%
+N/A
+WW net sales -- TTM
+$ 457,965
+WW net sales -- TTM Y/Y growth, excluding F/X
+21 %
+Operating income
+$
+$
+$ 469,822 $ 477,748 $ 485,902
+30 %
+4,852 $ 3,460
+$ 502,191 $ 513,983
+9%
+14%
+F/X impact
+favorable (unfavorable)
+$
+(20) $
+57 $
+3,669 $
+126 $
+11 %
+3,317
+12%
+13%
+N/A
+$
+165 $
+2,525
+2,737
+(21)%
+357 $
+213
+N/A
+Operating income -- Y/Y decline, excluding F/X
+(21)%
+(50)%
+(60)%
+(59)%
+(55)%
+(27)%
+N/A
+Operating margin -- % of WW net sales
+4.4 %
+2.5 %
+3.2 %
+2.7%
+2.0 %
+1.8 %
+N/A
+Operating income -- TTM
+$
+28,292
+$
+24,879 $
+19,683 $
+15,298 $
+12,971
+$
+12,248
+(51)%
+Operating income -- TTM Y/Y growth (decline), excluding F/X
+41 %
+8%
+Operating margin -- TTM % of WW net sales
+6.2%
+5.3 %
+(30)%
+4.1 %
+(49)%
+(57)%
+(54)%
+N/A
+3.1 %
+2.6 %
+2.4 %
+N/A
+Net income (loss)
+$
+3,156
+$
+Net income (loss) per diluted share
+$
+0.31
+Net income (loss) -- TTM
+$
+Net income (loss) per diluted share -- TTM
+$
+$
+26,263 $
+2.56 $
+14,323 $
+1.39 $
+33,364 $
+3.24
+$
+(3,844) $
+(0.38) $
+21,413 $
+2.08 $
+(2,028) $
+2,872 $
+278
+(98)%
+(0.20) $
+11,607 $
+1.13 $
+0.28 $
+11,323 $ (2,722)
+1.10 $ (0.27)
+0.03
+(98)%
+(108)%
+(108)%
+(1)
+(2)
+(3)
+(4)
+(5)
+For the twelve months ended December 31, 2021 and 2022, this amount relates to equipment included in "Property and equipment acquired under finance leases, net of
+remeasurements and modifications" of $7,061 million and $675 million.
+For the twelve months ended December 31, 2021 and 2022, this amount relates to property included in "Principal repayments of finance leases" of $11,163 million and
+$7,941 million.
+Free cash flow is cash flow from operations reduced by "Purchases of property and equipment, net of proceeds from sales and incentives."
+Free cash flow less principal repayments of finance leases and financing obligations is free cash flow reduced by "Principal repayments of finance leases” and “Principal
+repayments of financing obligations."
+Free cash flow less equipment finance leases and principal repayments of all other finance leases and financing obligations is free cash flow reduced by equipment acquired
+under finance leases, which is included in "Property and equipment acquired under finance leases, net of remeasurements and modifications," principal repayments of all
+other finance lease liabilities, which is included in "Principal repayments of finance leases,” and “Principal repayments of financing obligations."

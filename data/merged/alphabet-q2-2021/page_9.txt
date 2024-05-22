@@ -1,0 +1,60 @@
+=== START PAGE CONTENT ===
+Other income (expense), net
+The following table presents our other income (expense), net (in millions; unaudited):
+Interest income
+Interest expense
+Foreign currency exchange gain (loss), net
+Gain (loss) on debt securities, net
+Gain (loss) on equity securities, net (1)
+Performance fees
+Income (loss) and impairment from equity method investments, net
+Other
+Other income (expense), net
+(1)
+Quarter Ended
+June 30,
+2020
+2021
+433 $
+389
+(13)
+(76)
+(92)
+(51)
+387
+111
+1,455
+2,772
+(75)
+(523)
+(54)
+92
+(147)
+(90)
+1,894 $
+2,624
+$
+Includes all gains and losses, unrealized and realized, on equity investments. For Q2 2021, the net effect of the gain on
+equity securities of $2,772 million and the performance fees of $523 million increased the provision for income tax, net
+income, and diluted EPS by $472 million, $1,777 million, and $2.61, respectively. Fluctuations in the value of our
+investments may be affected by market dynamics and other factors and could significantly contribute to the volatility of
+OI&E in future periods.
+0
+
+=== END PAGE CONTENT ===
+=== TABLE START ===
+|    | ('Interest income',)                                             | ('2020 433',)   | ('2021 $ 389',)   |
+|---:|:-----------------------------------------------------------------|:----------------|:------------------|
+|  0 | Interest expense                                                 | (13)            | (76)              |
+|  1 | Foreign currency exchange gain (loss), net                       | (92)            | (51)              |
+|  2 | Gain (loss) on debt securities, net                              | 387             | 111               |
+|  3 | Gain (loss) on equity securities, net(¹)                         | 1,455           | 2,772             |
+|  4 | Performance fees                                                 | (75)            | (523)             |
+|  5 | Income (loss) and impairment from equity method investments, net | (54)            | 92                |
+|  6 | Other                                                            | (147)           | (90)              |
+|  7 | Other income (expense), net $                                    | 1,894           | $ 2,624           |
+=== TABLE END ===
+=== TABLE START ===
+| ('Quarter Ended June 30,',)   |
+|-------------------------------|
+=== TABLE END ===
