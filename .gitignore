@@ -10,6 +10,10 @@ __pycache__/
 .vai-semantic-cache
 .vai-semantic-cache/
 
+# DS Store
+.DS_Store
+.DS_Store/
+
 # credentials
 credentials
 credentials/
