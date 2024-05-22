@@ -36,6 +36,7 @@ class Config:
         self.ACCESS_TOKEN = self._set_access_token()
         self.TEXT_GEN_MODEL_NAME = self.__config['text_gen_model_name']
         self.TEXT_EMBED_MODEL_NAME = self.__config['text_embed_model_name']
+        self.DOCAI_PROCESSOR_NAME = self.__config['docai_processor_name']
 
     @staticmethod
     def _load_config(config_path: str) -> Dict[str, Any]:

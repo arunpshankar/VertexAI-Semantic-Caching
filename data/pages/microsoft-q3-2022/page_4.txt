@@ -1,0 +1,138 @@
+Financial Performance Constant Currency Reconciliation
+Three Months Ended September 30,
+Diluted
+($ in millions, except per share amounts)
+2021 As Reported (GAAP)
+2021 As Adjusted
+2022 As Reported (GAAP)
+Percentage Change Y/Y (GAAP)
+Percentage Change Y/Y (As Adjusted)
+Constant Currency Impact
+Percentage Change Y/Y Constant Currency
+Percentage Change Y/Y (As Adjusted) Constant Currency
+Segment Revenue Constant Currency Reconciliation
+($ in millions)
+2021 As Reported (GAAP)
+2022 As Reported (GAAP)
+Percentage Change Y/Y (GAAP)
+Constant Currency Impact
+Percentage Change Y/Y Constant Currency
+Revenue
+Operating
+Income
+Net
+Earnings
+Income
+per Share
+$45,317
+$20,238
+$20,505
+$2.71
+$45,317
+$20,238
+$17,214
+$2.27
+$50,122
+$21,518
+$17,556
+$2.35
+11%
+6%
+(14)%
+(13)%
+11%
+6%
+2%
+4%
+$(2,296)
+$(1,662)
+16%
+15%
+$(1,363)
+(8)%
+$(0.18)
+(7)%
+16%
+15%
+10%
+11%
+Productivity and
+Business Processes
+Three Months Ended September 30,
+Intelligent Cloud
+More Personal
+Computing
+$15,039
+$16,465
+$16,912
+$13,366
+$20,325
+$13,332
+9%
+$(856)
+15%
+20%
+0%
+$(996)
+26%
+$(444)
+3%
+We have recast certain prior period amounts to conform to the way we internally manage and monitor
+our business.
+Selected Product and Service Revenue Constant Currency Reconciliation
+Three Months Ended September 30, 2022
+Percentage Change
+Y/Y (GAAP)
+Constant
+Percentage Change
+Y/Y Constant
+Currency Impact
+Currency
+Microsoft Cloud revenue
+24%
+7%
+31%
+Office Commercial products and cloud services
+7%
+6%
+13%
+Office 365 Commercial
+11%
+6%
+17%
+Office Consumer products and cloud services
+7%
+4%
+11%
+LinkedIn
+17%
+4%
+21%
+Dynamics products and cloud services
+15%
+7%
+22%
+Dynamics 365
+24%
+8%
+32%
+Server products and cloud services
+22%
+6%
+28%
+Azure and other cloud services
+35%
+7%
+42%
+Windows OEM
+(15)%
+0%
+(15)%
+Windows Commercial products and cloud services
+8%
+7%
+15%
+Xbox content and services
+(3)%
+4%
+1%

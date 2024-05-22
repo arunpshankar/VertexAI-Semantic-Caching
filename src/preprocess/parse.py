@@ -22,12 +22,10 @@ def split_pdf(input_path: str, output_dir: str, max_pages_per_document: int = 15
     reader = PdfReader(input_path)
     n = len(reader.pages)
     
-
     _, file_name = input_file_path.rsplit('/', 1)
     file_name = file_name.replace('.pdf', '')
     output_path = f'{output_dir}/{file_name}/'
     os.makedirs(output_path, exist_ok=True)
-    
 
     for i in range(0, n, max_pages_per_document):
         writer = PdfWriter()
@@ -119,7 +117,6 @@ if __name__ == '__main__':
     for input_file_path in input_file_paths:
         split_pdf(input_file_path, './data/parts/')
 
-    
     # Iterate over each subfolder and then each PDF file in the subfolder
     logger.info('Parse pages')
     for subfolder in os.listdir('./data/parts/'):
