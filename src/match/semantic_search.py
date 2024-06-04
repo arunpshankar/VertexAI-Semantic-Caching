@@ -7,11 +7,11 @@ from typing import List
 import jsonlines
 
 
-NUM_NEIGHBOURS = 5
-MODEL_NAME = 'textembedding-gecko'
+NUM_NEIGHBOURS = 3 # Retrieve the top matching page
+
 FILE_PATH = './data/data.jsonl'
 DEPLOYED_INDEX_ID = 'earnings_report'
-INDEX_ENDPOINT_ID = '1726642273933852672'
+INDEX_ENDPOINT_ID = '1487511689032105984'
 
 
 def read_jsonl(file_path: str) -> Dict[str, dict]:
@@ -39,7 +39,7 @@ def get_query_embedding(query: str) -> List[float]:
     Returns:
         List[float]: The query embeddings.
     """
-    model = TextEmbeddingModel.from_pretrained(MODEL_NAME)
+    model = TextEmbeddingModel.from_pretrained(config.TEXT_EMBED_MODEL_NAME)
     return model.get_embeddings([query])[0].values
 
 
@@ -50,7 +50,7 @@ def find_neighbors(query_embedding: List[float], data_dict: Dict[str, dict]):
         query_embedding (List[float]): The query embeddings.
         data_dict (Dict[str, dict]): Dictionary containing data items.
     """
-    index_endpoint_name = f'projects/{config.PROJECT_ID}/locations/{config.LOCATION}/indexEndpoints/{INDEX_ENDPOINT_ID}'
+    index_endpoint_name = f'projects/{config.PROJECT_ID}/locations/{config.REGION}/indexEndpoints/{INDEX_ENDPOINT_ID}'
     my_index_endpoint = aiplatform.MatchingEngineIndexEndpoint(index_endpoint_name=index_endpoint_name)
 
     response = my_index_endpoint.find_neighbors(deployed_index_id=DEPLOYED_INDEX_ID, 
@@ -61,13 +61,13 @@ def find_neighbors(query_embedding: List[float], data_dict: Dict[str, dict]):
         logger.info(f"Match ID: {match.id}, Distance: {match.distance}")
         item = data_dict[match.id]
         logger.info(f"Document: {item['doc_name']}, Page: {item['page_number']}")
-        logger.info(item['page_content'])
+        #logger.info(item['page_content'])
         logger.info('-' * 30)
 
 
 def main():
     data_dict = read_jsonl(FILE_PATH)
-    query = "How many additional stocks did the Board of Directors of Alphabet authorize to repurchase in Q1 of 2021?"
+    query = "How many Microsoft 365 Consumer subscribers were there as of Q2 2021?"
     query_embedding = get_query_embedding(query)
     find_neighbors(query_embedding, data_dict)
 

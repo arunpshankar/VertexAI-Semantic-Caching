@@ -11,8 +11,7 @@ import os
 
 
 # Initialize the model
-MODEL_NAME = 'textembedding-gecko'
-model = TextEmbeddingModel.from_pretrained(MODEL_NAME)
+model = TextEmbeddingModel.from_pretrained(config.TEXT_EMBED_MODEL_NAME)
 
 
 def get_directory_details(base_dir: str) -> Generator[Tuple[str, str, str, str], None, None]:
@@ -24,6 +23,7 @@ def get_directory_details(base_dir: str) -> Generator[Tuple[str, str, str, str],
         for file in files:
             file_path = os.path.join(root, file)
             yield base_dir, os.path.relpath(root, base_dir), file, file_path
+
 
 def read_file(file_path: str) -> str:
     """
@@ -40,7 +40,7 @@ def read_file(file_path: str) -> str:
 
 def encode_and_save(data: List[Dict[str, str]], output_path: str) -> None:
     """
-    Encodes text data using the model and saves as JSONL.
+    Encodes text data using the embedding model and saves as JSONL.
     """
     logger.info(f"Encoding data and saving to {output_path}")
     with jsonlines.open(output_path, mode='w') as writer:
@@ -50,12 +50,14 @@ def encode_and_save(data: List[Dict[str, str]], output_path: str) -> None:
                 new_item = {}
                 new_item['id'] = id_
                 embedding = model.get_embeddings([page_content])[0].values
+                print(len(embedding))
                 new_item['embedding'] = [str(val) for val in embedding]
                 writer.write(new_item)
             except Exception as e:
                 logger.error(f"Error processing item {item}: {e}")
 
     logger.info("Data encoding and saving completed")
+
 
 if __name__ == '__main__':
     data = []

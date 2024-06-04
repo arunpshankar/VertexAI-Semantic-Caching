@@ -1,4 +1,5 @@
 annotated-types==0.7.0
+attrs==23.2.0
 cachetools==5.3.3
 certifi==2024.2.2
 charset-normalizer==3.3.2
@@ -18,6 +19,7 @@ grpc-google-iam-v1==0.13.0
 grpcio==1.64.0
 grpcio-status==1.62.2
 idna==3.7
+jsonlines==4.0.0
 numpy==1.26.4
 packaging==24.0
 pandas==2.2.2
@@ -36,6 +38,7 @@ rsa==4.9
 shapely==2.0.4
 six==1.16.0
 tabulate==0.9.0
+tqdm==4.66.4
 typing_extensions==4.11.0
 tzdata==2024.1
 urllib3==2.2.1

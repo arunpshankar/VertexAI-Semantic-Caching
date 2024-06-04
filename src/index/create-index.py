@@ -1,14 +1,12 @@
 from google.api_core.exceptions import Conflict
 from src.config.logging import logger
 from src.config.setup import config
-
 from google.cloud import aiplatform
 from google.cloud import storage
 
 
 # https://cloud.google.com/vertex-ai/docs/vector-search/quickstart
 # https://medium.com/analytics-vidhya/scann-faster-vector-similarity-search-69af769ad474
-
 
 
 def create_bucket(bucket_name: str, location: str, project_id: str) -> None:
@@ -32,7 +30,7 @@ def create_bucket(bucket_name: str, location: str, project_id: str) -> None:
 
 def create_index(bucket_name: str) -> None:
     """
-    Create an index using Google AI Platform's Matching Engine.
+    Create an index using Vertex AI Vector Search.
 
     Args:
     bucket_name (str): Name of the bucket where embeddings are stored.
@@ -76,16 +74,14 @@ def upload_file_to_bucket(bucket_name: str, source_file_name: str, destination_b
 
 
 if __name__ == "__main__":
-
-    bucket_name = "rag-patterns"
-
     # Create a bucket
-    create_bucket(bucket_name, config.LOCATION, config.PROJECT_ID)
+    bucket = config.BUCKET
+    create_bucket(bucket, config.REGION, config.PROJECT_ID)
 
     # Upload a file to the bucket
     source_file = './data/embeddings.json' 
     destination_blob_name = 'embeddings/embeddings.json' 
-    upload_file_to_bucket(bucket_name, source_file, destination_blob_name)
+    upload_file_to_bucket(bucket, source_file, destination_blob_name)
 
     # Create an index
-    create_index(bucket_name)
+    create_index(bucket)
