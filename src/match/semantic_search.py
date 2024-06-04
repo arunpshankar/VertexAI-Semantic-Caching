@@ -3,30 +3,12 @@ from google.cloud.aiplatform import MatchingEngineIndexEndpoint
 from vertexai.preview.language_models import TextEmbeddingModel
 from src.config.logging import logger
 from src.config.setup import config
-from typing import Dict
 from typing import List
-import jsonlines
 
 
 NUM_NEIGHBOURS = 3 # Retrieve the top matching pages
 DEPLOYED_INDEX_NAME = 'earnings_report_2024_06_04_13_27_05'
 INDEX_ENDPOINT_ID = '4519278663182581760'
-
-
-def read_jsonl(file_path: str) -> Dict[str, dict]:
-    """Reads a JSONL file and returns a dictionary with 'id' as the key.
-
-    Args:
-        file_path (str): Path to the JSONL file.
-
-    Returns:
-        Dict[str, dict]: A dictionary of the data.
-    """
-    data_dict = {}
-    with jsonlines.open(file_path) as reader:
-        for obj in reader:
-            data_dict[obj['id']] = {k: v for k, v in obj.items() if k != 'id'}
-    return data_dict
 
 
 def get_query_embedding(query: str) -> List[float]:
@@ -43,7 +25,8 @@ def get_query_embedding(query: str) -> List[float]:
 
 
 def find_neighbors(query_embedding: List[float]):
-    """Finds neighbors for the given query embedding and logs results.
+    """
+    Finds neighbors for the given query embedding and logs results.
 
     Args:
         query_embedding (List[float]): The query embeddings.
@@ -65,11 +48,7 @@ def find_neighbors(query_embedding: List[float]):
         logger.info('-' * 30)
 
 
-def main():
+if __name__ == "__main__":
     query = "How many Microsoft 365 Consumer subscribers were there as of Q2 2021?"
     query_embedding = get_query_embedding(query)
     find_neighbors(query_embedding)
-
-
-if __name__ == "__main__":
-    main()
