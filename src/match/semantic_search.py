@@ -9,8 +9,6 @@ import jsonlines
 
 
 NUM_NEIGHBOURS = 3 # Retrieve the top matching pages
-
-# FILE_PATH = './data/data.jsonl'
 DEPLOYED_INDEX_NAME = 'earnings_report_2024_06_04_13_27_05'
 INDEX_ENDPOINT_ID = '4519278663182581760'
 
@@ -44,7 +42,7 @@ def get_query_embedding(query: str) -> List[float]:
     return model.get_embeddings([query])[0].values
 
 
-def find_neighbors(query_embedding: List[float], data_dict: Dict[str, dict]):
+def find_neighbors(query_embedding: List[float]):
     """Finds neighbors for the given query embedding and logs results.
 
     Args:
@@ -68,10 +66,9 @@ def find_neighbors(query_embedding: List[float], data_dict: Dict[str, dict]):
 
 
 def main():
-    #data_dict = read_jsonl(FILE_PATH)
     query = "How many Microsoft 365 Consumer subscribers were there as of Q2 2021?"
     query_embedding = get_query_embedding(query)
-    find_neighbors(query_embedding, None)
+    find_neighbors(query_embedding)
 
 
 if __name__ == "__main__":

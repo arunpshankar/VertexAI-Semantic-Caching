@@ -49,9 +49,6 @@ def encode_and_save(data: List[Dict[str, str]], output_path: str) -> None:
                 id_, doc_name, page_number, page_content = item.values()
                 new_item = {}
                 new_item['id'] = id_
-                #new_item['doc_name'] = doc_name
-                #new_item['page_number'] = page_number
-                #new_item['page_content'] = page_content
                 embedding = model.get_embeddings([page_content])[0].values
                 new_item['embedding'] = [str(val) for val in embedding]
                 new_item['restricts'] = [{'namespace': 'doc_name', 'allow': [doc_name]}, {'namespace': 'page_number', 'allow': [page_number]}, {'namespace': 'page_content', 'allow': [page_content]}]
@@ -67,15 +64,14 @@ if __name__ == '__main__':
     base_dir = './data/merged'
 
     id_ = 1
-    with jsonlines.open('./data/data.jsonl', mode='w') as writer:
-        for base_dir, doc_name, _, page_path in get_directory_details(base_dir):
-            content = read_file(page_path)
-            if content:
-                page_number = os.path.basename(page_path).split('.')[0].split('_')[-1]
-                item = {'id': str(id_), 'doc_name': doc_name, 'page_number': page_number, 'page_content': content}
-                data.append(item)
-                writer.write(item)
-                id_ += 1
+    
+    for base_dir, doc_name, _, page_path in get_directory_details(base_dir):
+        content = read_file(page_path)
+        if content:
+            page_number = os.path.basename(page_path).split('.')[0].split('_')[-1]
+            item = {'id': str(id_), 'doc_name': doc_name, 'page_number': page_number, 'page_content': content}
+            data.append(item)
+            id_ += 1
 
     output_path = './data/embeddings.json'
     encode_and_save(data, output_path)
