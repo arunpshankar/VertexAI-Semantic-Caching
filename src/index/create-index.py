@@ -3,10 +3,26 @@ from src.config.logging import logger
 from src.config.setup import config
 from google.cloud import aiplatform
 from google.cloud import storage
+from datetime import datetime
 
 
 # https://cloud.google.com/vertex-ai/docs/vector-search/quickstart
 # https://medium.com/analytics-vidhya/scann-faster-vector-similarity-search-69af769ad474
+
+
+def get_timestamp() -> str:
+    """
+    Fetches current date and time (up to seconds). 
+
+    Returns:
+        str: Timestamp string in the format 'YYYY_MM_DD_HH_MM_SS'.
+    """
+    try:
+        now = datetime.now()
+        timestamp_str = now.strftime("%Y_%m_%d_%H_%M_%S")
+        return timestamp_str
+    except Exception as e:  # Broad exception handling (refine for specific errors)
+        logger.error(f"An error occurred while generating the timestamp: {e}")
 
 
 def create_bucket(bucket_name: str, location: str, project_id: str) -> None:
@@ -35,7 +51,8 @@ def create_index(bucket_name: str) -> None:
     Args:
     bucket_name (str): Name of the bucket where embeddings are stored.
     """
-    DISPLAY_NAME = "earnings_report"
+    timestamp = get_timestamp()
+    DISPLAY_NAME = f'earnings_report_{timestamp}'
     DESCRIPTION = "Index of vector embeddings for streamlined analysis of FAANG companies' earnings reports."
 
     BUCKET_URI = f'gs://{bucket_name}'

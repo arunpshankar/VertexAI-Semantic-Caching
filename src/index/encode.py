@@ -46,12 +46,15 @@ def encode_and_save(data: List[Dict[str, str]], output_path: str) -> None:
     with jsonlines.open(output_path, mode='w') as writer:
         for item in tqdm(data):
             try:
-                id_, _, _, page_content = item.values()
+                id_, doc_name, page_number, page_content = item.values()
                 new_item = {}
                 new_item['id'] = id_
+                #new_item['doc_name'] = doc_name
+                #new_item['page_number'] = page_number
+                #new_item['page_content'] = page_content
                 embedding = model.get_embeddings([page_content])[0].values
-                print(len(embedding))
                 new_item['embedding'] = [str(val) for val in embedding]
+                new_item['restricts'] = [{'namespace': 'doc_name', 'allow': [doc_name]}, {'namespace': 'page_number', 'allow': [page_number]}, {'namespace': 'page_content', 'allow': [page_content]}]
                 writer.write(new_item)
             except Exception as e:
                 logger.error(f"Error processing item {item}: {e}")

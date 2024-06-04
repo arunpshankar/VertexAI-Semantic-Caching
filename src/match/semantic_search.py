@@ -1,17 +1,18 @@
+from google.cloud.aiplatform.matching_engine.matching_engine_index_endpoint import Namespace
+from google.cloud.aiplatform import MatchingEngineIndexEndpoint
 from vertexai.preview.language_models import TextEmbeddingModel
 from src.config.logging import logger
 from src.config.setup import config
-from google.cloud import aiplatform
 from typing import Dict
 from typing import List
 import jsonlines
 
 
-NUM_NEIGHBOURS = 3 # Retrieve the top matching page
+NUM_NEIGHBOURS = 3 # Retrieve the top matching pages
 
-FILE_PATH = './data/data.jsonl'
-DEPLOYED_INDEX_ID = 'earnings_report'
-INDEX_ENDPOINT_ID = '1487511689032105984'
+# FILE_PATH = './data/data.jsonl'
+DEPLOYED_INDEX_NAME = 'earnings_report_2024_06_04_13_27_05'
+INDEX_ENDPOINT_ID = '4519278663182581760'
 
 
 def read_jsonl(file_path: str) -> Dict[str, dict]:
@@ -51,25 +52,26 @@ def find_neighbors(query_embedding: List[float], data_dict: Dict[str, dict]):
         data_dict (Dict[str, dict]): Dictionary containing data items.
     """
     index_endpoint_name = f'projects/{config.PROJECT_ID}/locations/{config.REGION}/indexEndpoints/{INDEX_ENDPOINT_ID}'
-    my_index_endpoint = aiplatform.MatchingEngineIndexEndpoint(index_endpoint_name=index_endpoint_name)
+    my_index_endpoint = MatchingEngineIndexEndpoint(index_endpoint_name=index_endpoint_name)
 
-    response = my_index_endpoint.find_neighbors(deployed_index_id=DEPLOYED_INDEX_ID, 
+    response = my_index_endpoint.find_neighbors(deployed_index_id=DEPLOYED_INDEX_NAME, 
                                                 queries=[query_embedding], 
-                                                num_neighbors=NUM_NEIGHBOURS)
+                                                num_neighbors=NUM_NEIGHBOURS, 
+                                                return_full_datapoint=True)
+                                                # filter=[Namespace("doc_name", ['microsoft-q2-2022']), Namespace('page_number', ['1'])])
 
     for match in response[0]:
         logger.info(f"Match ID: {match.id}, Distance: {match.distance}")
-        item = data_dict[match.id]
-        logger.info(f"Document: {item['doc_name']}, Page: {item['page_number']}")
-        #logger.info(item['page_content'])
+        for namespace in match.restricts:
+            print(f'{namespace.name} >> {namespace.allow_tokens[0]}')
         logger.info('-' * 30)
 
 
 def main():
-    data_dict = read_jsonl(FILE_PATH)
+    #data_dict = read_jsonl(FILE_PATH)
     query = "How many Microsoft 365 Consumer subscribers were there as of Q2 2021?"
     query_embedding = get_query_embedding(query)
-    find_neighbors(query_embedding, data_dict)
+    find_neighbors(query_embedding, None)
 
 
 if __name__ == "__main__":
