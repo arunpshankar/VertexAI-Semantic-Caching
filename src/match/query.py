@@ -1,4 +1,3 @@
-from google.cloud.aiplatform.matching_engine.matching_engine_index_endpoint import Namespace
 from google.cloud.aiplatform import MatchingEngineIndexEndpoint
 from vertexai.preview.language_models import TextEmbeddingModel
 from src.config.logging import logger
