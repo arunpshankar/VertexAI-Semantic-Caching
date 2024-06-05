@@ -22,9 +22,9 @@ def encode_and_save(questions: List[str], output_path: str) -> None:
                 id_ = generate_md5_hash(question)
                 embedding = model.get_embeddings([question])[0].values
                 new_item = {
-                    'id': id_,
-                    'embedding': [str(val) for val in embedding],
-                    'restricts': [{'namespace': 'question', 'allow': [question]}]
+                    'datapoint_id': id_,
+                    'feature_vector': [val for val in embedding],
+                    'restricts': [{'namespace': 'question', 'allow_list': [question]}]
                 }
                 writer.write(new_item)
             except Exception as e:

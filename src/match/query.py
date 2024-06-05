@@ -48,6 +48,6 @@ def find_neighbors(query_embedding: List[float]):
 
 
 if __name__ == "__main__":
-    query = "How many Microsoft 365 subscribers were there as of Q2 2023?"
+    query = "As of Q2 2023, what was the subscriber count for Microsoft 365?"
     query_embedding = get_query_embedding(query)
     find_neighbors(query_embedding)

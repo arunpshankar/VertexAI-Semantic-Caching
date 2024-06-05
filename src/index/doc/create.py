@@ -1,47 +1,9 @@
-from google.api_core.exceptions import Conflict
+from src.index.utils import get_timestamp
+from src.index.utils import create_bucket
 from src.config.logging import logger
 from src.config.setup import config
 from google.cloud import aiplatform
 from google.cloud import storage
-from datetime import datetime
-
-
-# https://cloud.google.com/vertex-ai/docs/vector-search/quickstart
-# https://medium.com/analytics-vidhya/scann-faster-vector-similarity-search-69af769ad474
-
-
-def get_timestamp() -> str:
-    """
-    Fetches current date and time (up to seconds). 
-
-    Returns:
-        str: Timestamp string in the format 'YYYY_MM_DD_HH_MM_SS'.
-    """
-    try:
-        now = datetime.now()
-        timestamp_str = now.strftime("%Y_%m_%d_%H_%M_%S")
-        return timestamp_str
-    except Exception as e:  # Broad exception handling (refine for specific errors)
-        logger.error(f"An error occurred while generating the timestamp: {e}")
-
-
-def create_bucket(bucket_name: str, location: str, project_id: str) -> None:
-    """
-    Create a new bucket in Google Cloud Storage (GCS). If the bucket already exists,
-    a message is logged stating that the bucket exists.
-
-    Args:
-    bucket_name (str): Name of the bucket to create.
-    location (str): Location where the bucket will be created.
-    project_id (str): Google Cloud project ID.
-    """
-    try:
-        storage_client = storage.Client(project=project_id)
-        bucket = storage_client.bucket(bucket_name)
-        bucket.create(location=location)
-        logger.info(f"Created bucket {bucket_name} in {location}")
-    except Conflict:
-        logger.info(f"Bucket {bucket_name} already exists. Proceeding with the existing bucket.")
 
 
 def create_index(bucket_name: str) -> None:
@@ -60,7 +22,7 @@ def create_index(bucket_name: str) -> None:
 
     # Hyperparameters
     DIMENSIONS = 768  # Maps to Text-Gecko model's output dimensions 
-    APPROXIMATE_NEIGHBORS_COUNT = 10 
+    APPROXIMATE_NEIGHBORS_COUNT = 5 
     DISTANCE_MEASURE_TYPE = 'COSINE_DISTANCE' 
 
     aiplatform.MatchingEngineIndex.create_tree_ah_index(
