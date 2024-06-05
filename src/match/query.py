@@ -40,11 +40,15 @@ def find_neighbors(query_embedding: List[float]):
                                                 return_full_datapoint=True)
 
     
-    print(response)
+    for match in response[0]:
+        logger.info(f"Match ID: {match.id}, Distance: {round(1 - match.distance, 4)}")
+        for namespace in match.restricts:
+            print(f'{namespace.name} >> {namespace.allow_tokens[0]}')
+        logger.info('-' * 30)
     
 
 
 if __name__ == "__main__":
-    query = "How many Microsoft 365 subscribers were there as of Q2 2021?"
+    query = "How many Microsoft 365 subscribers were there as of Q2 2023?"
     query_embedding = get_query_embedding(query)
     find_neighbors(query_embedding)
