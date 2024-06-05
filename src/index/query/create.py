@@ -6,10 +6,6 @@ from google.cloud import storage
 from datetime import datetime
 
 
-# https://cloud.google.com/vertex-ai/docs/vector-search/quickstart
-# https://medium.com/analytics-vidhya/scann-faster-vector-similarity-search-69af769ad474
-
-
 def get_timestamp() -> str:
     """
     Fetches current date and time (up to seconds). 
