@@ -6,9 +6,9 @@ from src.config.setup import config
 from typing import List
 
 
-NUM_NEIGHBOURS = 10  # Retrieve the top matching queries
-DEPLOYED_INDEX_NAME = 'queries_2024_06_05_08_19_49'
-INDEX_ENDPOINT_ID = '1233902735015804928'
+NUM_NEIGHBOURS = 3  # Retrieve the top matching queries
+DEPLOYED_INDEX_NAME = 'queries_2024_06_05_09_48_30'
+INDEX_ENDPOINT_ID = '9216533074530009088'
 
 
 def get_query_embedding(query: str) -> List[float]:

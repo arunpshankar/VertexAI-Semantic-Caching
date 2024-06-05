@@ -58,7 +58,7 @@ def create_index(bucket_name: str) -> None:
     DIMENSIONS = 768  # Maps to Text-Gecko model's output dimensions 
     APPROXIMATE_NEIGHBORS_COUNT = 5
     DISTANCE_MEASURE_TYPE = 'COSINE_DISTANCE' 
-    UPDATE_METHOD = 'stream_update'
+    UPDATE_METHOD = 'STREAM_UPDATE'
 
     aiplatform.MatchingEngineIndex.create_tree_ah_index(
             display_name=DISPLAY_NAME,

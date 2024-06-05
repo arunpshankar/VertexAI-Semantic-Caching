@@ -69,7 +69,7 @@ def deploy_index(endpoint: aiplatform.MatchingEngineIndexEndpoint, index_resourc
 
 if __name__ == '__main__':
     indexes = list_indexes()
-    index_display_name = 'queries_2024_06_05_09_35_33'
+    index_display_name = 'queries_2024_06_05_09_48_30'
     index_resource_name = match(index_display_name, indexes)
 
     if index_resource_name:
