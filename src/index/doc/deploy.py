@@ -6,6 +6,8 @@ from src.index.utils import match
 from src.config.setup import *
 
 
+INDEX_DISPLAY_NAME = 'earnings_report_2024_06_05_16_50_19'
+
 def run():
     """
     Deploys a search index for earnings reports to an API endpoint.
@@ -17,7 +19,6 @@ def run():
     indexes = list_indexes()
 
     # Define the index to match
-    INDEX_DISPLAY_NAME = 'earnings_report_2024_06_05_16_50_19'
     index_resource_name = match(INDEX_DISPLAY_NAME, indexes)
 
     # Log the outcome of the index search
