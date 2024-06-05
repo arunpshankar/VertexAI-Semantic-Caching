@@ -30,7 +30,6 @@ def find_neighbors(query_embedding: List[float]):
 
     Args:
         query_embedding (List[float]): The query embeddings.
-        data_dict (Dict[str, dict]): Dictionary containing data items.
     """
     index_endpoint_name = f'projects/{config.PROJECT_ID}/locations/{config.REGION}/indexEndpoints/{INDEX_ENDPOINT_ID}'
     my_index_endpoint = MatchingEngineIndexEndpoint(index_endpoint_name=index_endpoint_name)

@@ -48,16 +48,17 @@ def create_index(bucket_name: str) -> None:
     bucket_name (str): Name of the bucket where embeddings are stored.
     """
     timestamp = get_timestamp()
-    DISPLAY_NAME = f'earnings_report_{timestamp}'
-    DESCRIPTION = "Index of vector embeddings for streamlined analysis of FAANG companies' earnings reports."
+    DISPLAY_NAME = f'queries_{timestamp}'
+    DESCRIPTION = "Index of query embeddings for streamlined analysis of FAANG companies' earnings reports."
 
     BUCKET_URI = f'gs://{bucket_name}'
-    EMBEDDINGS_REMOTE_URI = f'{BUCKET_URI}/embeddings'
+    EMBEDDINGS_REMOTE_URI = f'{BUCKET_URI}/query_embeddings'
 
     # Hyperparameters
     DIMENSIONS = 768  # Maps to Text-Gecko model's output dimensions 
-    APPROXIMATE_NEIGHBORS_COUNT = 10 
+    APPROXIMATE_NEIGHBORS_COUNT = 5
     DISTANCE_MEASURE_TYPE = 'COSINE_DISTANCE' 
+    UPDATE_METHOD = 'stream_update'
 
     aiplatform.MatchingEngineIndex.create_tree_ah_index(
             display_name=DISPLAY_NAME,
@@ -65,7 +66,8 @@ def create_index(bucket_name: str) -> None:
             contents_delta_uri=EMBEDDINGS_REMOTE_URI,
             dimensions=DIMENSIONS,
             approximate_neighbors_count=APPROXIMATE_NEIGHBORS_COUNT,
-            distance_measure_type=DISTANCE_MEASURE_TYPE
+            distance_measure_type=DISTANCE_MEASURE_TYPE,
+            index_update_method=UPDATE_METHOD  # IMPORTANT 
             )
 
 
@@ -92,8 +94,8 @@ if __name__ == "__main__":
     create_bucket(bucket, config.REGION, config.PROJECT_ID)
 
     # Upload a file to the bucket
-    source_file = './data/embeddings.json' 
-    destination_blob_name = 'embeddings/embeddings.json' 
+    source_file = './data/query_embeddings.json' 
+    destination_blob_name = 'query_embeddings/query_embeddings.json' 
     upload_file_to_bucket(bucket, source_file, destination_blob_name)
 
     # Create an index

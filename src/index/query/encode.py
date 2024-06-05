@@ -39,5 +39,5 @@ if __name__ == '__main__':
 
     questions = df['question'].tolist()
 
-    output_path = './data/question_embeddings.json'
+    output_path = './data/query_embeddings.json'
     encode_and_save(questions, output_path)
