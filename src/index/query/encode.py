@@ -1,9 +1,9 @@
-import pandas as pd
 from vertexai.language_models import TextEmbeddingModel
 from src.cache.utils import generate_md5_hash
 from src.config.logging import logger
 from src.config.setup import config
-from typing import List, Dict
+from typing import List
+import pandas as pd
 import jsonlines
 
 
