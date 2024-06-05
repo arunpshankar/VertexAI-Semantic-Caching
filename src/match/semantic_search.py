@@ -6,7 +6,7 @@ from src.config.setup import config
 from typing import List
 
 
-NUM_NEIGHBOURS = 3 # Retrieve the top matching pages
+NUM_NEIGHBOURS = 3  # Retrieve the top matching pages
 DEPLOYED_INDEX_NAME = 'earnings_report_2024_06_04_13_27_05'
 INDEX_ENDPOINT_ID = '4519278663182581760'
 

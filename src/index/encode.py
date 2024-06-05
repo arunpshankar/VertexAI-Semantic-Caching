@@ -38,6 +38,7 @@ def read_file(file_path: str) -> str:
         logger.error(f"Error reading file {file_path}: {e}")
         return ""
 
+
 def encode_and_save(data: List[Dict[str, str]], output_path: str) -> None:
     """
     Encodes text data using the embedding model and saves as JSONL.
