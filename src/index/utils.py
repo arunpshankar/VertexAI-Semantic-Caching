@@ -41,6 +41,23 @@ def create_bucket(bucket_name: str, location: str, project_id: str) -> None:
         logger.info(f"Bucket {bucket_name} already exists. Proceeding with the existing bucket.")
 
 
+def upload_file_to_bucket(bucket_name: str, source_file_name: str, destination_blob_name: str) -> None:
+    """
+    Uploads a file to the bucket.
+
+    Args:
+    bucket_name (str): Name of the bucket.
+    source_file_name (str): Local path to the file.
+    destination_blob_name (str): Destination path name for the file in the bucket.
+    """
+    storage_client = storage.Client()
+    bucket = storage_client.bucket(bucket_name)
+    blob = bucket.blob(destination_blob_name)
+
+    blob.upload_from_filename(source_file_name)
+    logger.info(f"File {source_file_name} uploaded to {destination_blob_name}.")
+
+    
 def list_indexes() -> List[MatchingEngineIndex]:
     """
     List all AI Platform indexes for a specified Google Cloud project and location.
