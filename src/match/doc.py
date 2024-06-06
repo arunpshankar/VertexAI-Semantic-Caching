@@ -1,47 +1,15 @@
 from google.cloud.aiplatform.matching_engine.matching_engine_index_endpoint import Namespace
-from google.cloud.aiplatform import MatchingEngineIndexEndpoint
-from vertexai.preview.language_models import TextEmbeddingModel
+from src.match.utils import get_query_embedding
+from src.match.utils import find_neighbors
 from src.config.logging import logger
-from src.config.setup import config
 from typing import List
 from typing import Dict
 from typing import Any 
 
 
 NUM_NEIGHBOURS = 3  # Retrieve top relevant matching pages
-DEPLOYED_INDEX_NAME = 'earnings_report_2024_06_06_07_11_43'
-INDEX_ENDPOINT_ID = '2462259533381107712'
-
-def get_query_embedding(query: str) -> List[float]:
-    """Generates embeddings for a given query.
-
-    Args:
-        query (str): The query string.
-
-    Returns:
-        List[float]: The query embeddings.
-    """
-    model = TextEmbeddingModel.from_pretrained(config.TEXT_EMBED_MODEL_NAME)
-    return model.get_embeddings([query])[0].values
-
-
-def find_neighbors(query_embedding: List[float]):
-    """
-    Finds neighbors for the given query embedding and logs results.
-
-    Args:
-        query_embedding (List[float]): The query embeddings.
-    """
-    index_endpoint_name = f'projects/{config.PROJECT_ID}/locations/{config.REGION}/indexEndpoints/{INDEX_ENDPOINT_ID}'
-    my_index_endpoint = MatchingEngineIndexEndpoint(index_endpoint_name=index_endpoint_name)
-
-    response = my_index_endpoint.find_neighbors(deployed_index_id=DEPLOYED_INDEX_NAME, 
-                                                queries=[query_embedding], 
-                                                num_neighbors=NUM_NEIGHBOURS, 
-                                                return_full_datapoint=True)
-                                                # filter=[Namespace("doc_name", ['microsoft-q2-2022']), Namespace('page_number', ['1'])])
-    return response
-
+DEPLOYED_INDEX_NAME = 'earnings_report_2024_06_06_09_32_39'
+INDEX_ENDPOINT_ID = '7073945551808495616'
 
 def extract_page_content(api_response: List[Dict[str, Any]]) -> List[str]:
     """
@@ -57,6 +25,7 @@ def extract_page_content(api_response: List[Dict[str, Any]]) -> List[str]:
     List[str]: A list of strings, each representing the page content extracted from the API response.
     """
     page_contents = []
+
     try:
         for match in api_response[0]:  # Access the first (and possibly only) list of matches
             for restrict in match.restricts:
@@ -64,17 +33,18 @@ def extract_page_content(api_response: List[Dict[str, Any]]) -> List[str]:
                     # Assuming that the desired content is always the first token in 'allow_tokens'
                     page_contents.append(restrict.allow_tokens[0])
     except IndexError as e:
-        logger.error("Error accessing elements in the API response: Index out of range", exc_info=True)
+        logger.error(f"Error accessing elements in the API response: Index out of range - {e}")
     except KeyError as e:
-        logger.error("Key error in accessing API response data; possibly malformed response", exc_info=True)
+        logger.error(f"Key error in accessing API safety response data; possibly malformed response - {e}")
     except Exception as e:
-        logger.error("An unexpected error occurred", exc_info=True)
+        logger.error(f"An unexpected error occurred - {e}")
+
     return page_contents
 
 if __name__ == "__main__":
     query = "How many Microsoft 365 Consumer subscribers were there as of Q2 2021?"
     query_embedding = get_query_embedding(query)
-    response = find_neighbors(query_embedding)
+    response = find_neighbors(query_embedding, DEPLOYED_INDEX_NAME, INDEX_ENDPOINT_ID, NUM_NEIGHBOURS)
     pages = extract_page_content(response)
     for page in pages:
         print(page[:100])

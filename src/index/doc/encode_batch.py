@@ -52,7 +52,7 @@ def encode_and_save(data: List[Dict[str, str]], output_path: str) -> None:
                 doc['id'] = id_
                 embedding = model.get_embeddings([page_content])[0].values
                 doc['embedding'] = [val for val in embedding]
-                doc['restricts'] = [{'namespace': 'doc_name', 'allow_list': [doc_name]}, {'namespace': 'page_number', 'allow': [page_number]}, {'namespace': 'page_content', 'allow': [page_content]}]
+                doc['restricts'] = [{'namespace': 'doc_name', 'allow': [doc_name]}, {'namespace': 'page_number', 'allow': [page_number]}, {'namespace': 'page_content', 'allow': [page_content]}]
                 writer.write(doc)
             except Exception as e:
                 logger.error(f"Error processing item: {e}")

@@ -42,6 +42,7 @@ def create_index(bucket_name: str) -> None:
     except Exception as e:
         logger.error("Failed to create the index: %s", e)
 
+
 if __name__ == "__main__":
     bucket = config.BUCKET
     region = config.REGION

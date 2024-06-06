@@ -6,7 +6,7 @@ from src.index.utils import match
 from src.config.setup import *
 
 
-INDEX_DISPLAY_NAME = 'earnings_report_2024_06_05_16_50_19'
+INDEX_DISPLAY_NAME = 'queries_2024_06_06_09_34_29'
 INDEX_ENDPOINT_DISPLAY_NAME = f'{INDEX_DISPLAY_NAME}_index_endpoint'
 INDEX_ENDPOINT_DESCRIPTION = "Endpoint for query embeddings index of FAANG companies' earnings reports."
 
@@ -21,7 +21,6 @@ def run():
     indexes = list_indexes()
 
     # Define the index to match
-    INDEX_DISPLAY_NAME = 'earnings_report_2024_06_05_16_50_19'
     index_resource_name = match(INDEX_DISPLAY_NAME, indexes)
 
     # Log the outcome of the index search

@@ -6,7 +6,7 @@ from src.index.utils import match
 from src.config.setup import *
 
 
-INDEX_DISPLAY_NAME = 'earnings_report_2024_06_06_07_11_43'
+INDEX_DISPLAY_NAME = 'earnings_report_2024_06_06_09_32_39'
 INDEX_ENDPOINT_DISPLAY_NAME = f'{INDEX_DISPLAY_NAME}_index_endpoint'
 INDEX_ENDPOINT_DESCRIPTION = "Endpoint for page embeddings index of FAANG companies' earnings reports."
 
