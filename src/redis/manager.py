@@ -3,11 +3,6 @@ from redis import StrictRedis, RedisError
 from src.config.logging import logger
 
 
-# Redis configuration
-REDIS_HOST = 'localhost'
-REDIS_PORT = 6379
-REDIS_PASSWORD = ''
-
 class RedisConnection:
     """Singleton class for Redis connection."""
     _instance = None
