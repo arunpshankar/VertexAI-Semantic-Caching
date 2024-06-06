@@ -65,6 +65,7 @@ if __name__ == '__main__':
     # Example usage
     question = "What is the capital of France?"
     answer = "Paris"
+    
     write_question_and_answer(question, answer)
     question_hash = generate_md5_hash(question)
     retrieved_answer = read_answer(question_hash)
