@@ -1,51 +1,46 @@
-from vertexai.language_models import TextGenerationModel
 from src.config.logging import logger
-from src.config.setup import config
-
-# Constants
-MODEL_NAME = 'text-unicorn@001'
-MAX_OUTPUT_TOKENS = 1024
-QUERY = "What is the greatest movie ever made?"
+from src.generate.llm import LLM
+from typing import Optional
 
 
-def parse_query_response(response):
+class QuestionVariantGenerator:
     """
-    Parses the response string into a list of query variations.
-
-    Parameters:
-    response (str): The response string containing query variations separated by a pipe (|).
-
-    Returns:
-    list: A list of query variations.
+    A class to generate semantic variants of search questions using an LLM model.
     """
-    # Splitting the response string by pipe and trimming any leading/trailing whitespace from each element
-    query_variations = [variation.strip() for variation in response.split('|')]
-    return query_variations
+    
+    def __init__(self):
+        """
+        Initialize the QuestionVariantGenerator with an instance of LLM.
+        """
+        self.llm = LLM()
 
+    def generate_variant(self, question: str) -> Optional[str]:
+        """
+        Generate a semantic variant of a given search question.
 
-def generate_query_variations(query):
-    """
-    Generates variations of a given search query using a pretrained language model.
+        Parameters:
+        question (str): The original search question.
 
-    Parameters:
-    query (str): The original search query.
+        Returns:
+        Optional[str]: A semantic variant of the provided question or None if an error occurs.
+        """
+        prompt = f"""
+        Given a user's question targeting specific PDF files, create a semantic variant of the original question.
+        Use the provided question below to generate the variant. Return only the variant without any formatting or explanation.
+        Question: {question}
+        """
+        try:
+            return self.llm.predict(task=prompt, query=question)
+        except Exception as e:
+            logger.error(f"Error when generating variant: {e}", exc_info=True)
+            return None
 
-    Returns:
-    str: A string containing variations of the query separated by a pipe (|).
-    """
-    try:
-        prompt = f"Given a user's search query targeting specific PDF files, create three variations of the original query. Use the provided query below to generate the variants.\n\nQuery:\n{query}\n\nReturn the expanded queries as a string, separated by a pipe (|), without linebreaks."
-        model = TextGenerationModel.from_pretrained(MODEL_NAME)
-        response = model.predict(prompt, max_output_tokens=MAX_OUTPUT_TOKENS)
-        return response.text
-    except Exception as e:
-        logger.error(f"Error in generate_query_variations: {e}")
-        raise
 
 if __name__ == '__main__':
+    generator = QuestionVariantGenerator()
     query = 'How many additional stocks did the Board of Directors of Alphabet authorize to repurchase in Q1 of 2021?'
-    response = generate_query_variations(query)
-    query_variations = parse_query_response(response)
-
-    for variation in query_variations:
-        logger.info(variation)
+    response = generator.generate_variant(query)
+    if response:
+        logger.info(f"Generated Variant: {response}")
+    else:
+        logger.error("Failed to generate a variant.")

@@ -3,7 +3,6 @@ from src.generate.llm import LLM
 
 llm = LLM()
 
-
 def generate_answer(question: str, context: str) -> str:
     """
     Generate an answer to a given question based on the provided context leveraging LLM.
