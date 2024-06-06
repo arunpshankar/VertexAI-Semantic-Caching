@@ -31,7 +31,7 @@ def retrieve_top_match(api_response: List[Dict[str, Any]]) :
     return top_match
 
 if __name__ == "__main__":
-    query = "Microsoft 365?"
+    query = "How many Microsoft 365 Consumer subscribers were there as of Q2 2021?"
     query_embedding = get_query_embedding(query)
     response = find_neighbors(query_embedding, DEPLOYED_INDEX_NAME, INDEX_ENDPOINT_ID, NUM_NEIGHBOURS)
     top_match = retrieve_top_match(response)

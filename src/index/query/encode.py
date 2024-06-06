@@ -25,9 +25,9 @@ def get_embeddings(question: str) -> Optional[Dict[str, Any]]:
         id_ = generate_md5_hash(question)
         embedding = model.get_embeddings([question])[0].values
         embedding_dict = {
-            'id': id_,
-            'embedding': [val for val in embedding],
-            'restricts': [{'namespace': 'question', 'allow': [question]}]
+            'datapoint_id': id_,
+            'feature_vector': [val for val in embedding],
+            'restricts': [{'namespace': 'question', 'allow_list': [question]}]
         }
         return embedding_dict
     except Exception as e:
