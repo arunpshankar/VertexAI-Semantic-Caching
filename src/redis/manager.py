@@ -12,13 +12,13 @@ class RedisConnection:
     """Singleton class for Redis connection."""
     _instance = None
 
-    def __new__(cls):
+    def __new__(cls, host='localhost', port=6379, password='', decode_responses=True):
         """Create only one instance of the Redis connection."""
         if cls._instance is None:
             cls._instance = super(RedisConnection, cls).__new__(cls)
             try:
                 cls._instance.connection = StrictRedis(
-                    host=REDIS_HOST, port=REDIS_PORT, password=REDIS_PASSWORD, decode_responses=True)
+                    host=host, port=port, password=password, decode_responses=decode_responses)
                 logger.info("Redis connection successfully established.")
             except RedisError as e:
                 logger.error(f"Failed to establish Redis connection: {e}")
