@@ -11,7 +11,7 @@ NUM_NEIGHBOURS = 3  # Retrieve top relevant matching pages
 DEPLOYED_INDEX_NAME = 'earnings_report_2024_06_06_09_32_39'
 INDEX_ENDPOINT_ID = '7073945551808495616'
 
-def extract_page_content(api_response: List[Dict[str, Any]]) -> List[str]:
+def retrieve_top_matches(api_response: List[Dict[str, Any]]) -> List[str]:
     """
     Extracts page contents from an API response.
 
@@ -45,6 +45,6 @@ if __name__ == "__main__":
     query = "How many Microsoft 365 Consumer subscribers were there as of Q2 2021?"
     query_embedding = get_query_embedding(query)
     response = find_neighbors(query_embedding, DEPLOYED_INDEX_NAME, INDEX_ENDPOINT_ID, NUM_NEIGHBOURS)
-    pages = extract_page_content(response)
+    pages = retrieve_top_matches(response)
     for page in pages:
         print(page[:100])

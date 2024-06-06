@@ -26,7 +26,9 @@ class RedisConnection:
 
 
 def write_question_and_answer(question: str, answer: str):
-    """Store question and its answer in Redis using a hash of the question as the key."""
+    """
+    Store question and its answer in Redis using a hash of the question as the key.
+    """
     try:
         redis = RedisConnection().get_connection()
         question_hash = generate_md5_hash(question)
@@ -44,10 +46,13 @@ def write_question_and_answer(question: str, answer: str):
         logger.error(f"Error in writing question and answer to Redis: {e}")
 
 
-def read_answer(question_hash: str) -> str:
-    """Retrieve the answer from Redis using the question hash."""
+def read_answer(question: str) -> str:
+    """
+    Retrieve the answer from Redis using the question hash.
+    """
     try:
         redis = RedisConnection().get_connection()
+        question_hash = generate_md5_hash(question)
         answer_key = f"answer:{question_hash}"
         if redis is not None:
             answer = redis.get(answer_key)
@@ -69,5 +74,6 @@ if __name__ == '__main__':
     write_question_and_answer(question, answer)
     question_hash = generate_md5_hash(question)
     retrieved_answer = read_answer(question_hash)
+
     assert retrieved_answer == answer, 'Error in Redis question-answer retrieval'
     logger.info('All tests passed successfully.')
