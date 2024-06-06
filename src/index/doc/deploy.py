@@ -6,13 +6,13 @@ from src.index.utils import match
 from src.config.setup import *
 
 
-INDEX_DISPLAY_NAME = 'earnings_report_2024_06_05_16_50_19'
+INDEX_DISPLAY_NAME = 'earnings_report_2024_06_06_07_11_43'
 INDEX_ENDPOINT_DISPLAY_NAME = f'{INDEX_DISPLAY_NAME}_index_endpoint'
-INDEX_ENDPOINT_DESCRIPTION = "Endpoint for vector embeddings index of FAANG companies' earnings reports."
+INDEX_ENDPOINT_DESCRIPTION = "Endpoint for page embeddings index of FAANG companies' earnings reports."
 
 def run():
     """
-    Deploys a search index for earnings reports to an API endpoint.
+    Deploys a search index for page emebeddings of earnings reports to an API endpoint.
 
     This script lists available indexes, matches a specific index based on its display name,
     and then creates and deploys an endpoint for that index if it exists.

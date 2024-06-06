@@ -55,7 +55,7 @@ def encode_and_save(data: List[Dict[str, str]], output_path: str) -> None:
                 doc['restricts'] = [{'namespace': 'doc_name', 'allow_list': [doc_name]}, {'namespace': 'page_number', 'allow': [page_number]}, {'namespace': 'page_content', 'allow': [page_content]}]
                 writer.write(doc)
             except Exception as e:
-                logger.error(f"Error processing item {item}: {e}")
+                logger.error(f"Error processing item: {e}")
 
     logger.info("Data encoding and saving completed")
 

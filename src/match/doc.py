@@ -10,7 +10,6 @@ NUM_NEIGHBOURS = 3  # Retrieve the top matching pages
 DEPLOYED_INDEX_NAME = 'earnings_report_2024_06_04_13_27_05'
 INDEX_ENDPOINT_ID = '4519278663182581760'
 
-
 def get_query_embedding(query: str) -> List[float]:
     """Generates embeddings for a given query.
 
@@ -39,6 +38,7 @@ def find_neighbors(query_embedding: List[float]):
                                                 num_neighbors=NUM_NEIGHBOURS, 
                                                 return_full_datapoint=True)
                                                 # filter=[Namespace("doc_name", ['microsoft-q2-2022']), Namespace('page_number', ['1'])])
+    return response
 
     for match in response[0]:
         logger.info(f"Match ID: {match.id}, Distance: {match.distance}")

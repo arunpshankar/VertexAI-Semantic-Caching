@@ -8,11 +8,11 @@ from src.config.setup import *
 
 INDEX_DISPLAY_NAME = 'earnings_report_2024_06_05_16_50_19'
 INDEX_ENDPOINT_DISPLAY_NAME = f'{INDEX_DISPLAY_NAME}_index_endpoint'
-INDEX_ENDPOINT_DESCRIPTION = "Endpoint for vector embeddings index of FAANG companies' earnings reports."
+INDEX_ENDPOINT_DESCRIPTION = "Endpoint for query embeddings index of FAANG companies' earnings reports."
 
 def run():
     """
-    Deploys a search index for earnings reports to an API endpoint.
+    Deploys a search index for query embeddings to an API endpoint.
 
     This script lists available indexes, matches a specific index based on its display name,
     and then creates and deploys an endpoint for that index if it exists.
@@ -32,7 +32,6 @@ def run():
         return  # Exit if no index is found
 
     # Define and create an endpoint for the index
-    
     endpoint = create_endpoint(INDEX_ENDPOINT_DISPLAY_NAME, INDEX_ENDPOINT_DESCRIPTION)
 
     # Deploy the index to the created endpoint
