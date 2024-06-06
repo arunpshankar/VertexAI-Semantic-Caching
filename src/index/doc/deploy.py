@@ -7,6 +7,8 @@ from src.config.setup import *
 
 
 INDEX_DISPLAY_NAME = 'earnings_report_2024_06_05_16_50_19'
+INDEX_ENDPOINT_DISPLAY_NAME = f'{INDEX_DISPLAY_NAME}_index_endpoint'
+INDEX_ENDPOINT_DESCRIPTION = "Endpoint for vector embeddings index of FAANG companies' earnings reports."
 
 def run():
     """
@@ -29,8 +31,6 @@ def run():
         return  # Exit if no index is found
 
     # Define and create an endpoint for the index
-    INDEX_ENDPOINT_DISPLAY_NAME = f'{INDEX_DISPLAY_NAME}_index_endpoint'
-    INDEX_ENDPOINT_DESCRIPTION = "Endpoint for vector embeddings index of FAANG companies' earnings reports."
     endpoint = create_endpoint(INDEX_ENDPOINT_DISPLAY_NAME, INDEX_ENDPOINT_DESCRIPTION)
 
     # Deploy the index to the created endpoint
