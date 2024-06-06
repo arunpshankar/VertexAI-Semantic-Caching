@@ -23,7 +23,7 @@ def encode_and_save(questions: List[str], output_path: str) -> None:
                 embedding = model.get_embeddings([question])[0].values
                 new_item = {
                     'id': id_,
-                    'feature_vector': [val for val in embedding],
+                    'embedding': [val for val in embedding],
                     'restricts': [{'namespace': 'question', 'allow': [question]}]
                 }
                 writer.write(new_item)

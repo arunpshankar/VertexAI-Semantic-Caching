@@ -6,7 +6,8 @@ from typing import List
 
 
 def get_query_embedding(query: str) -> List[float]:
-    """Generates embeddings for a given query.
+    """
+    Generates embeddings for a given query.
 
     Args:
         query (str): The query string.
