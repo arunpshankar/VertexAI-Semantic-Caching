@@ -18,6 +18,8 @@ def generate_answer(question: str, context: str) -> str:
     Based on the following context, provide a clear and concise answer to the question below:
     Context: {context}
     Question: {question}
+
+    Return only the answer without any formatting or extra explanation.
     """
     return llm.predict(task=prompt, query=question)
 
