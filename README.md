@@ -78,3 +78,5 @@ Let's set up your local development environment and configure dependencies.
    - Generate a Service Account Key from the Google Cloud Console, then move the downloaded JSON file to the `credentials` directory, renaming it to `key.json`.
 
 
+
+<img src="./img/pre-process.png" alt="Document Processing with DocumentAI " width="50%" height="auto">
