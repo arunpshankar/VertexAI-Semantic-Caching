@@ -90,6 +90,8 @@ def pipeline(question: str) -> Dict[str, Optional[str]]:
         }
 
 if __name__ == '__main__':
-    question = "How many Microsoft 365 Consumer subscribers were there as of Q2 2021?"
+    question = "What was Alphabets's operating income (in billions) at the end of March 2021, and how did it compare to the same period of the previous year?"
+    result = pipeline(question)
+    question = "What was Alphabets's operating income (in billions) at the end of March 2021, and how did it compare to the same period of the previous year?"
     result = pipeline(question)
     print(result)
