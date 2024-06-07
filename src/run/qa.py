@@ -53,6 +53,7 @@ def pipeline(question: str) -> Dict[str, Optional[str]]:
                     "answer": answer,
                     "execution_time": (time.time() - start_time) * 1000  # in milliseconds
                 }
+                    add(question, answer)
                 else:
                     answer = doc_match(question)
                     return {
@@ -101,22 +102,34 @@ def pipeline(question: str) -> Dict[str, Optional[str]]:
         }
 
 if __name__ == '__main__':
+    # TEST 1: Test exact match - user question and relevant correct answer is already available in Redis Memorystore. 
+    # Warmup query - to compensate for LLM load times.
     question = "What was Google's operating income (in billions) at the end of March 2021, and how did it compare to the same period of the previous year?"
-    result = pipeline(question)
-    print(result)
+    answer = pipeline(question)
+    print(answer)
     print('-' * 100)
 
+    # Test run 1 
     question = "What was Google's operating income (in billions) at the end of March 2021, and how did it compare to the same period of the previous year?"
-    result = pipeline(question)
-    print(result)
+    answer = pipeline(question)
+    print(answer)
     print('-' * 100)
 
+    # TEST 2: Test semantic query match - user question is semantically similar to an already asked question stored in Vertex AI Vector Store.
+    # Note: The match meets confidence threshold.  
     question = "What was Google's operating income (in billions) at the end of March 2021, and how did it compare to the same period of the previous year?"
     variant = generator.generate_variant(question)
     logger.info(f'Query variant => {variant}')
-    result = pipeline(variant)
-    print(result)
+    answer = pipeline(variant)
+    print(answer)
     print('-' * 100)
 
-    result = pipeline(variant)
-    print(result)
+    # TEST 3: Test exact match after upsert 
+    answer = pipeline(variant)
+    print(answer)
+
+    # TEST 4: Test semantic query match that failed to meet the confidence threshold 
+    question = "How did Alphabet's adjustment in the estimated useful lives of servers and network equipment affect its financial results for the fourth quarter of 2023?"
+    answer = pipeline(question)
+    print(answer)
+
