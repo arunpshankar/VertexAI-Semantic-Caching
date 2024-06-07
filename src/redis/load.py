@@ -20,10 +20,10 @@ def write_qa_pairs() -> NoReturn:
 
     try:
         # Read the CSV file
-        df = pd.read_csv('./data/eval_ground_truth.csv')
+        df = pd.read_csv('./data/eval/ground_truth.csv')
         
         # Iterate through the DataFrame rows and write each question-answer pair to Redis
-        for index, row in df.iterrows():
+        for _, row in df.iterrows():
             question = row['question']
             answer = row['answer']
             write_question_and_answer(question, answer)
@@ -33,10 +33,16 @@ def write_qa_pairs() -> NoReturn:
         logger.error(f"Error while writing to Redis: {e}")
         raise RuntimeError(f"Failed to write data to Redis: {e}")
 
+
+def test():
+    """
+    Tests retrieval of a specific question-answer pair from Redis.
+    """
+    question = "What initiative did Amazon launch to support Black business owners and entrepreneurs in Q2 of 2021?"
+    answer = read_answer(question)
+    print(answer)
+
+
 if __name__ == "__main__":
-    write_qa_pairs()
-    
-    # Test retrieval from Redis
-    test_question = "What initiative did Amazon launch to support Black business owners and entrepreneurs in Q2 of 2021?"
-    test_answer = read_answer(test_question)
-    print("Test retrieval:", test_answer.decode('utf-8') if test_answer else "No answer found")
+    # write_qa_pairs()
+    test()
