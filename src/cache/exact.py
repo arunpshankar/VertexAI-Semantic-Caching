@@ -9,7 +9,7 @@ from typing import Any
 import time
 
 
-def match(question: str) -> Optional[Dict[str, Any]]:
+def match(question: str) -> str:
     """
     Retrieve the answer to a given question from the cache, with performance metrics.
 
@@ -31,7 +31,8 @@ def match(question: str) -> Optional[Dict[str, Any]]:
         return None
     else:
         retrieval_time = (time.time() - start_time) * 1000  # Calculate retrieval time in milliseconds
-        return {'answer': answer, 'retrieval_time_ms': retrieval_time}
+        logger.info(f'Redis retrieval time = {retrieval_time} ms')
+        return answer
     
 
 def add(question: str, answer: str) -> Optional[bool]:
