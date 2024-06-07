@@ -90,6 +90,6 @@ def pipeline(question: str) -> Dict[str, Optional[str]]:
         }
 
 if __name__ == '__main__':
-    question = "berlin"
+    question = "arr google 2024"
     result = pipeline(question)
     print(result)
