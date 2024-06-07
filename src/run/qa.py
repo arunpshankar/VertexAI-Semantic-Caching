@@ -39,15 +39,15 @@ def pipeline(question: str) -> Dict[str, Optional[str]]:
     try:
         answer = match(question)
         if not answer:  # No exact match found
-            query_variant = query_match(question)
-            if query_variant:
-                confidence = query_variant['confidence']
-                variant = query_variant['query']
+            closest_match = query_match(question)
+            if closest_match:
+                confidence = closest_match['confidence']
+                query = closest_match['query']
                 if meets_threshold(confidence):
-                    answer = match(variant)
+                    answer = match(query)
                     return {
                     "question": question,
-                    "query_variant": variant,  # semantic match variant with high confidence meeting threshold 
+                    "closest_question": query,  # semantic match with confidence meeting our threshold 
                     "match_type": "SEMANTIC",
                     "confidence": confidence,
                     "answer": answer,
@@ -58,7 +58,7 @@ def pipeline(question: str) -> Dict[str, Optional[str]]:
                     answer = doc_match(question)
                     return {
                     "question": question,
-                    "query_variant": "NA",  # semantic match low confidence ignored 
+                    "closest_question": "NA",  # semantic match low confidence ignored 
                     "match_type": "NATIVE",
                     "confidence": "NA",
                     "answer": answer,
@@ -71,7 +71,7 @@ def pipeline(question: str) -> Dict[str, Optional[str]]:
                 answer = doc_match(question)
                 return {
                     "question": question,
-                    "query_variant": "NA",  # no variant found
+                    "closest_question": "NA",  # no variant found
                     "match_type": "NATIVE",
                     "confidence": "NA",
                     "answer": answer,
@@ -84,7 +84,7 @@ def pipeline(question: str) -> Dict[str, Optional[str]]:
             # Exact match found
             return {
                 "question": question,
-                "query_variant": "NA",  # not applicable
+                "closest_question": "NA",  # not applicable
                 "match_type": "EXACT",
                 "confidence": "NA",
                 "answer": answer,
@@ -94,7 +94,7 @@ def pipeline(question: str) -> Dict[str, Optional[str]]:
         logger.error(f"An error occurred in processing the question: {question}. Error: {str(e)}")
         return {
             "question": question,
-            "query_variant": "ERROR",
+            "closest_question": "ERROR",
             "match_type": "ERROR",
             "confidence": "NA",
             "answer": "ERROR",
