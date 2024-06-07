@@ -41,7 +41,7 @@ def pipeline(question: str) -> Dict[str, Optional[str]]:
                     answer = match(variant)
                     return {
                     "question": question,
-                    "query_variant": variant,  # semantic match variant
+                    "query_variant": variant,  # semantic match variant with high confidence meeting threshold 
                     "match_type": "SEMANTIC",
                     "confidence": confidence,
                     "answer": answer,
@@ -51,7 +51,7 @@ def pipeline(question: str) -> Dict[str, Optional[str]]:
                     answer = doc_match(question)
                     return {
                     "question": question,
-                    "query_variant": "NA",  # semantic match variant
+                    "query_variant": "NA",  # semantic match low confidence ignored 
                     "match_type": "NATIVE",
                     "confidence": "NA",
                     "answer": answer,
@@ -90,6 +90,6 @@ def pipeline(question: str) -> Dict[str, Optional[str]]:
         }
 
 if __name__ == '__main__':
-    question = "arr google 2024"
+    question = "How many Microsoft 365 Consumer subscribers were there as of Q2 2021?"
     result = pipeline(question)
     print(result)
