@@ -84,11 +84,11 @@ Let's set up your local development environment and configure dependencies.
 
 
 <div align="center">
-<img src="./img/index-creation-1.png" alt="Index Creation 1" width="100%" height="auto">
+<img src="./img/index-creation-1.png" alt="Index Creation 1" width="75%" height="auto">
 </div>
 
 <div align="center">
-<img src="./img/index-creation-2.png" alt="Index Creation 2 " width="100%" height="auto">
+<img src="./img/index-creation-2.png" alt="Index Creation 2 " width="75%" height="auto">
 </div>
 
 
@@ -98,9 +98,9 @@ Let's set up your local development environment and configure dependencies.
 
 
 <div align="center">
-<img src="./img/exact-match.png" alt="Exact Match" width="50%" height="auto">
+<img src="./img/exact-match.png" alt="Exact Match" width="75%" height="auto">
 </div>
 
 <div align="center">
-<img src="./img/semantic-match.png" alt="Semantic Match" width="50%" height="auto">
+<img src="./img/semantic-match.png" alt="Semantic Match" width="100%" height="auto">
 </div>
