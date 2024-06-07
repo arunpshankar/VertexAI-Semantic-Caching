@@ -90,8 +90,10 @@ def pipeline(question: str) -> Dict[str, Optional[str]]:
         }
 
 if __name__ == '__main__':
-    question = "What was Alphabets's operating income (in billions) at the end of March 2021, and how did it compare to the same period of the previous year?"
+    question = "What was Google's operating income (in billions) at the end of March 2021, and how did it compare to the same period of the previous year?"
     result = pipeline(question)
-    question = "What was Alphabets's operating income (in billions) at the end of March 2021, and how did it compare to the same period of the previous year?"
+    print(result)
+    print('-' * 100)
+    question = "What was Google's operating income (in billions) at the end of March 2021, and how did it compare to the same period of the previous year?"
     result = pipeline(question)
     print(result)
