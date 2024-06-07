@@ -1,10 +1,16 @@
-from src.cache.semantic import query_match, doc_match
+from src.generate.expand import QuestionVariantGenerator
+from src.cache.semantic import stream_update
+from src.cache.semantic import query_match
+from src.cache.semantic import doc_match
 from src.config.logging import logger
 from src.cache.exact import match
+from src.cache.exact import add
 from typing import Optional 
 from typing import Dict
 import time
 
+
+generator = QuestionVariantGenerator()
 
 def meets_threshold(confidence: float) -> bool:
     """
@@ -57,6 +63,8 @@ def pipeline(question: str) -> Dict[str, Optional[str]]:
                     "answer": answer,
                     "execution_time": (time.time() - start_time) * 1000  # in milliseconds
                 }
+                    stream_update(question)
+                    add(question, answer)
                 
             else:
                 answer = doc_match(question)
@@ -68,6 +76,9 @@ def pipeline(question: str) -> Dict[str, Optional[str]]:
                     "answer": answer,
                     "execution_time": (time.time() - start_time) * 1000  # execution time in milliseconds
                 }
+                stream_update(question)
+                add(question, answer)
+
         else:
             # Exact match found
             return {
@@ -94,6 +105,18 @@ if __name__ == '__main__':
     result = pipeline(question)
     print(result)
     print('-' * 100)
+
     question = "What was Google's operating income (in billions) at the end of March 2021, and how did it compare to the same period of the previous year?"
     result = pipeline(question)
+    print(result)
+    print('-' * 100)
+
+    question = "What was Google's operating income (in billions) at the end of March 2021, and how did it compare to the same period of the previous year?"
+    variant = generator.generate_variant(question)
+    logger.info(f'Query variant => {variant}')
+    result = pipeline(variant)
+    print(result)
+    print('-' * 100)
+
+    result = pipeline(variant)
     print(result)

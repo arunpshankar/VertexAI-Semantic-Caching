@@ -39,8 +39,8 @@ class QuestionVariantGenerator:
 if __name__ == '__main__':
     generator = QuestionVariantGenerator()
     query = 'How many additional stocks did the Board of Directors of Alphabet authorize to repurchase in Q1 of 2021?'
-    response = generator.generate_variant(query)
-    if response:
-        logger.info(f"Generated Variant: {response}")
+    variant = generator.generate_variant(query)
+    if variant:
+        logger.info(f"Generated Variant: {variant}")
     else:
         logger.error("Failed to generate a variant.")
