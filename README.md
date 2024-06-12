@@ -7,6 +7,10 @@ This codebase aligns with a Medium article, "[Implementing Semantic Caching: A S
 For detailed instructions and more insight, please refer to the article.
 
 
+<div align="center">
+<img src="./img/cache.jpeg" alt="Semantic Caching" width="100%" height="auto">
+</div>
+
 ## Prerequisites 📋
 
 Before getting started, ensure you have the following:
