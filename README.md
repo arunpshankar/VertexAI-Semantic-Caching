@@ -1,6 +1,10 @@
 # A Guide to Semantic Caching: Optimizing GenAI Workflows on GCP
 
-Repository dedicated to enhancing data retrieval and processing efficiencies in Google Cloud's Vertex AI by implementing a semantic caching layer with MemoryStore, Vertex AI Vector Search, and Gemini, focusing on GenAI applications.
+This repository focuses on enhancing data retrieval and processing efficiencies in generative AI applications. It achieves this by implementing a semantic caching layer utilizing MemoryStore, Vertex AI Vector Search, and Gemini, primarily on the Google Cloud Platform stack.
+
+This codebase aligns with a Medium article, "[Implementing Semantic Caching: A Step-by-Step Guide to Faster, Cost-Effective GenAI Workflows](https://medium.com/google-cloud/implementing-semantic-caching-a-step-by-step-guide-to-faster-cost-effective-genai-workflows-ef85d8e72883)." This article provides a comprehensive guide on setting up the necessary architecture for semantic caching in a document question-answering RAG pipeline.
+
+For detailed instructions and more insight, please refer to the article.
 
 
 ## Prerequisites 📋
