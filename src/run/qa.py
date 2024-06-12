@@ -42,6 +42,8 @@ def handle_semantic_match(question: str, closest_match: Dict[str, any], start_ti
         query = closest_match['query']
         answer = match(query)
         if answer:
+            stream_update(question)
+            add(question, answer)
             return {
                 "question": question,
                 "closest_question": query,
