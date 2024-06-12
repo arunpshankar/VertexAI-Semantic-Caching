@@ -41,16 +41,17 @@ def handle_semantic_match(question: str, closest_match: Dict[str, any], start_ti
     if meets_threshold(confidence):
         query = closest_match['query']
         answer = match(query)
-        if answer is not None:
-            add(question, answer)
-        return {
-            "question": question,
-            "closest_question": query,
-            "match_type": "SEMANTIC",
-            "confidence": confidence,
-            "answer": answer,
-            "execution_time": (time.time() - start_time) * 1000
-        }
+        if answer:
+            return {
+                "question": question,
+                "closest_question": query,
+                "match_type": "SEMANTIC",
+                "confidence": confidence,
+                "answer": answer,
+                "execution_time": (time.time() - start_time) * 1000
+            }
+        else:
+            logger.error(f'Closest matching query: {query} does not have a mapping key value pair in the standard cache!')
     else:
         return handle_native_search(question, start_time)
 
