@@ -78,28 +78,7 @@ Let's set up your local development environment and configure dependencies.
    - Generate a Service Account Key from the Google Cloud Console, then move the downloaded JSON file to the `credentials` directory, renaming it to `key.json`.
 
 
-<div align="center">
-<img src="./img/pre-process.png" alt="Document Processing with DocumentAI" width="50%" height="auto">
-</div>
-
-
-<div align="center">
-<img src="./img/index-creation-1.png" alt="Index Creation 1" width="75%" height="auto">
-</div>
-
-<div align="center">
-<img src="./img/index-creation-2.png" alt="Index Creation 2 " width="75%" height="auto">
-</div>
-
-
-<div align="center">
-<img src="./img/index-creation-3.png" alt="Index Creation 3" width="50%" height="auto">
-</div>
-
-
-<div align="center">
-<img src="./img/exact-match.png" alt="Exact Match" width="75%" height="auto">
-</div>
+## Architecture
 
 <div align="center">
 <img src="./img/semantic-match.png" alt="Semantic Match" width="100%" height="auto">

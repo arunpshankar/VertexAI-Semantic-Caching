@@ -175,7 +175,7 @@ if __name__ == '__main__':
 
     # TEST 4: Test semantic query match that failed to meet the confidence threshold 
     print('TEST 4')
-    question = "How did Alphabet's adjustment in the estimated useful lives of servers and network equipment affect its financial results for the fourth quarter of 2023?"
+    question = "What is the total amount of investment announced by Amazon, for the Delivery Service Partner (DSP) program in Q3 of 2023?"
     answer = pipeline(question)
     print(answer)
     print('-' * 100)
